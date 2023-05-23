@@ -13,3 +13,8 @@ for x in range(len(data['questions'])):
 for x in range(len(questions)):
     print(questions[x], answer[x])
 
+promptss = ["answer this latin", "latin am i right?"]
+
+for x in range(len(questions)):
+    for prompts in promptss:
+        print(prompts + " " + questions[x] + " " +  answer[x])
