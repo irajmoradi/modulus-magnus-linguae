@@ -17,4 +17,8 @@ promptss = ["answer this latin", "latin am i right?"]
 
 for x in range(len(questions)):
     for prompts in promptss:
-        print(prompts + " " + questions[x] + " " +  answer[x])
+        string = (prompts + " " + questions[x] + " " + "[ANSWER] ") 
+        newstring = 'argmax "' + string + '" from "openai/text-ada-001"'
+        finalname = str(x) + prompts + ".lmql"
+        f = open(finalname, "w")
+        f.write(newstring)
