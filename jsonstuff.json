@@ -2,35 +2,35 @@
     "questions": [
         {
             "answer": "world",
-            "text": "Hello ~."
+            "question": "Hello ~."
         },
         {
             "answer": "us",
-            "text": "Nilus fluvi~ est."
+            "question": "Nilus fluvi~ est."
         },
         {
             "answer": "i sunt",
-            "text": "Nilus et Rhenus fluvi~ ~."
+            "question": "Nilus et Rhenus fluvi~ ~."
         },
         {
             "answer": "a est",
-            "text": "Creta insul~ ~."
+            "question": "Creta insul~ ~."
         },
         {
             "answer": "e",
-            "text": "Creta et Rhodus insula~ sunt."
+            "question": "Creta et Rhodus insula~ sunt."
         },
         {
             "answer": "um",
-            "text": "Brundisium oppid~ est."
+            "question": "Brundisium oppid~ est."
         },
         {
             "answer": "a sunt",
-            "text": "Brundisium et Tusculum oppid~ ~."
+            "question": "Brundisium et Tusculum oppid~ ~."
         },
         {
             "answer": "a a",
-            "text": "Creta insul~ Grace~ est."
+            "question": "Creta insul~ Grace~ est."
         }
     ]
 }
