@@ -10,7 +10,7 @@ allquestions = []
 questions = []
 allanswers = []
 answer  = []
-for file_name in ["jsona.json", "jsonb.json", "jsonc.json"]
+for file_name in ["jsona.json", "jsonb.json", "jsonc.json"]:
     with open(file_name, 'r') as f:
         data = json.load(f)
     questions = []
@@ -29,7 +29,7 @@ outerdict["stuff"] = []
 
 z = 0
 index = ["Quiz A", "Quiz B", "Quiz C"]
-for parts in len(range(3)):
+for parts in range(3):
     letter = index[z]
     z += 1
     for x in range(len(allquestions[parts])):
