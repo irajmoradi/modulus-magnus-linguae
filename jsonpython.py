@@ -2,54 +2,98 @@ import json
 
 #nested for loops
 
-with open('prompts.json', 'r') as f:
-    data = json.load(f)
-promptss = data
-#print(data)
-allquestions = []
-questions = []
-allanswers = []
-answer  = []
-for file_name in ["jsona.json", "jsonb.json", "jsonc.json"]:
-    with open(file_name, 'r') as f:
-        data = json.load(f)
+
+#Give this using argparse
+#promptfilepath = 
+#questionfilepath =
+#outputfolder = 
+#model = 
+#have model be string
+#load prompt and json info from the filenames and store them in the following variables
+#jsondata = 
+#prompt = 
+
+
+def getquestions(jsondata):
+    """
+    Returns a list of questions and a list of answers from json data in the format of {"questions":[{"answer": "something", "question": "hi?"}, ... ]})
+    >>> getquestions({"questions":[{"answer": "red", "question": "Firetruck?"}, {"answer": "blue", "question": "ocean"} ]})
+    (['Firetruck?', 'ocean'], ['red', 'blue'])
+    """
     questions = []
-    answer = []
-    for x in range(len(data['questions'])):
-        questions.append(data['questions'][x]["question"])
-        answer.append(data['questions'][x]["answer"])
-    allanswers.append(answer)
-    allquestions.append(questions)
-print(allquestions)
+    answers = []
+    for x in range(len(jsondata["questions"])):
+        questions.append(jsondata['questions'][x]["question"])
+        answers.append(jsondata['questions'][x]["answer"])
+    return questions, answers
+    #promptss = ["answer this lat:in", "latin am i right?"]
 
-#promptss = ["answer this latin", "latin am i right?"]
-outerdict = {}
-outerdict["stuff"] = []
+def constructprompts(questions, prompt):
+    """
+    Returns list of strings each question with the given prompt strategy
+    >>> constructprompts(["firetruck?", "Ocean?"], "What color?")
+    ['What color? firetruck?', 'What color? Ocean?']
+    """
+    retlist = []
+    for question in questions:
+        retstring = prompt + " " + question
+        retlist.append(retstring)
+    return retlist
 
+def constructcodes(questprompts, model):
+    """
+    returns list of strings of lmql code asking the questtions + prompts to a given model
+    
+    Parameters:
+    questprompts (list of strs): What is being asked of LLM
+    model (str): the model being used in lmql
 
-z = 0
-index = ["Quiz A", "Quiz B", "Quiz C"]
-for parts in range(3):
-    letter = index[z]
-    z += 1
-    for x in range(len(allquestions[parts])):
+    Returns:
+    list of strs: list of code to be passed into lmql
+    >>> constructcodes(['What color? firetruck?', 'What color? Ocean?'], "openai/text-ada-001")
+    ['argmax "What color? firetruck? [ANSWER]" from "openai/text-ada-001"', 'argmax "What color? Ocean? [ANSWER]" from "openai/text-ada-001"']
+    """
+    codes = []
+    for questprompt in questprompts:
+        code = 'argmax "' + questprompt + ' [ANSWER]" from "openai/text-ada-001"'
+        codes.append(code)
+    return codes
+
+def constructdictionary(codes, answers):
+    """
+    Returns dictionary where a code is paired with the answer for the question in the code
+
+    Parameters:
+    codes (list): list of code for lmql
+    answers (list): list of answers
+    
+    Returns:
+    dict: dictionary based on template in github repo
+
+    >>> constructdictionary(["code1", "code2"], ["answer1", "answer2"])
+    {'codes': [{'code': 'code1', 'answer': 'answer1'}, {'code': 'code2', 'answer': 'answer2'}]}
+    """
+    outerdict = {}
+    outerdict["codes"] = []
+    for index in range(len(codes)):
         innerdict = {}
-        innerdict["question"] = allquestions[parts][x]
-        innerdict["answer"] = allanswers[parts][x]
-        innerdict["prompt"] = []
-        innerdict["code"] = []
-        for prompts in promptss[letter]:
-            stringg = (prompts + " " + allquestions[parts][x]) 
-            string = (prompts + " " + allquestions[parts][x] + " " + "[ANSWER] ") 
-            newstring = 'argmax"' + string + '" from "openai/text-ada-001"'
-        #create json file for code
-            innerdict["prompt"].append(stringg)
-            innerdict["question"] = allquestions[parts][x]
-            innerdict["code"].append(newstring)
-        #finalname = str(x) + prompts + ".txt"
-        #f = open(finalname, "w")
-        #f.write(newstring)
-        outerdict["stuff"].append(innerdict)  
-with open("sample.json", "w") as outfile:
-    json.dump(outerdict, outfile)
+        innerdict["code"] = codes[index]
+        innerdict["answer"] = answers[index]
+        outerdict["codes"].append(innerdict)
+    return outerdict
+
+
+try:
+    os.makedirs(args.output_folder)
+except FileExistsError:
+    pass
+
+questions, answers = getquestions(jsondata)
+questprompts = constructprompts(questions, prompt)
+codes = constructcodes(questprompts, model)
+dictionary = constructdictionary(codes, answers)
+output_path_base = os.path.join(args.output_folder,os.path.basename(arg.questionsfilepath))
+output_path = output_path_base + prompt
+with open(outputpath, "w") as outfile:
+    json.dump(dictionary, outfile)
     
