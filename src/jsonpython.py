@@ -15,7 +15,6 @@ question_input_path = args.question_input_path
 prompt_input_path = args.prompt_input_path
 output_folder = args.output_folder
 model = str(args.model)
-print("model=", model)
 
 
 
@@ -26,8 +25,6 @@ with open(question_input_path, 'r') as f:
 with open(prompt_input_path, 'r') as f:
     prompt = f.read()
 
-print("prompt=", prompt)
-print("jsondata=", jsondata)
 #Give this using argparse
 #promptfilepath = 
 #questionfilepath =
@@ -118,11 +115,8 @@ except FileExistsError:
 
 questions, answers = getquestions(jsondata)
 questprompts = constructprompts(questions, prompt)
-print("questprompts=", questprompts)
 codes = constructcodes(questprompts, model)
-print("codes=", codes)
 dictionary = constructdictionary(codes, answers)
-print("dictionary=", dictionary)
 output_path_base = os.path.join(args.output_folder,os.path.basename(args.question_input_path))
 output_path = output_path_base[:-5] +  '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
 with open(output_path, "w") as outfile:
