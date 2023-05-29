@@ -124,7 +124,7 @@ print("codes=", codes)
 dictionary = constructdictionary(codes, answers)
 print("dictionary=", dictionary)
 output_path_base = os.path.join(args.output_folder,os.path.basename(args.question_input_path))
-output_path = output_path_base +  str(args.prompt_input_path).split('/')[-2] + os.path.basename(args.prompt_input_path)[:-3] + "json"
+output_path = output_path_base[:-5] +  '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
 with open(output_path, "w") as outfile:
     json.dump(dictionary, outfile)
     
