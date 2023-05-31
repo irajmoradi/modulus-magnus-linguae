@@ -4,28 +4,6 @@ import json
 import os
 import argparse
 #nested for loops
-
-parser = argparse.ArgumentParser()
-parser.add_argument('--question_input_path',required=True)
-parser.add_argument('--prompt_input_path',required=True)
-parser.add_argument('--output_folder', default = 'lmql_code_outputs')
-parser.add_argument('--model', default = 'openai/text-ada-001')
-args = parser.parse_args()
-question_input_path = args.question_input_path
-prompt_input_path = args.prompt_input_path
-output_folder = args.output_folder
-model = str(args.model)
-
-
-
-
-with open(question_input_path, 'r') as f:
-    jsondata = json.load(f)
-
-with open(prompt_input_path, 'r') as f:
-    prompt = f.read()
-
-#Give this using argparse
 #promptfilepath = 
 #questionfilepath =
 #outputfolder = 
@@ -36,25 +14,41 @@ with open(prompt_input_path, 'r') as f:
 #prompt = 
 
 
+def findquestions(pensum, jsondata):
+    for keyval in jsondata['exercises']:
+        if pensum  == keyval["name"]:
+            return keyval["questions"]
+            
+            
 
-
-def getquestions(jsondata):
+def getquestions(questionslist):
     """
     Returns a list of questions and a list of answers from json data in the format of {"questions":[{"answer": "something", "question": "hi?"}, ... ]})
+    Parameters:
+    jsondata (dictionary)
+
+    Returns:
+    Questions, answers (lists)
     >>> getquestions({"questions":[{"answer": "red", "question": "Firetruck?"}, {"answer": "blue", "question": "ocean"} ]})
     (['Firetruck?', 'ocean'], ['red', 'blue'])
     """
     questions = []
     answers = []
-    for x in range(len(jsondata["questions"])):
-        questions.append(jsondata['questions'][x]["question"])
-        answers.append(jsondata['questions'][x]["answer"])
+    for x in range(len(questionslist)):
+        questions.append(questionslist[x]["q"])
+        answers.append(' '.join(questionslist[x]["a"]))
     return questions, answers
     #promptss = ["answer this lat:in", "latin am i right?"]
 
 def constructprompts(questions, prompt):
     """
     Returns list of strings each question with the given prompt strategy
+    Parameters:
+    questions (list): the questions being asked
+    prompt (str): the template for the prompts to be sent to lmql
+
+    Returns:
+    retlist (list): list of questions + prompts for lmql
     >>> constructprompts(["firetruck?", "Ocean?"], "What color?")
     ['What color? firetruck?', 'What color? Ocean?']
     """
@@ -76,7 +70,7 @@ def constructcodes(questprompts, model):
     Returns:
     list of strs: list of code to be passed into lmql
     >>> constructcodes(['What color? firetruck?', 'What color? Ocean?'], "openai/text-ada-001")
-    ['argmax "What color? firetruck? [ANSWER]" from "openai/text-ada-001"', 'argmax "What color? Ocean? [ANSWER]" from "openai/text-ada-001"']
+    ["argmax 'What color? firetruck? [ANSWER]' from 'openai/text-ada-001'", "argmax 'What color? Ocean? [ANSWER]' from 'openai/text-ada-001'"]
     """
     codes = []
     for questprompt in questprompts:
@@ -107,18 +101,37 @@ def constructdictionary(codes, answers):
         outerdict["codes"].append(innerdict)
     return outerdict
 
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--question_input_path',required=True)
+    parser.add_argument('--prompt_input_path',required=True)
+    parser.add_argument('--output_folder', default = 'lmql_code_outputs')
+    parser.add_argument('--model', default = 'openai/text-ada-001')
+    parser.add_argument('--pensum',required=True)
+    args = parser.parse_args()
+    question_input_path = args.question_input_path
+    prompt_input_path = args.prompt_input_path
+    output_folder = args.output_folder
+    model = str(args.model)
+    pensum = str(args.pensum)
+    with open(question_input_path, 'r') as f:
+        jsondata = json.load(f)
 
-try:
-    os.makedirs(args.output_folder)
-except FileExistsError:
-    pass
-
-questions, answers = getquestions(jsondata)
-questprompts = constructprompts(questions, prompt)
-codes = constructcodes(questprompts, model)
-dictionary = constructdictionary(codes, answers)
-output_path_base = os.path.join(args.output_folder,os.path.basename(args.question_input_path))
-output_path = output_path_base[:-5] +  '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
-with open(output_path, "w") as outfile:
-    json.dump(dictionary, outfile)
+    with open(prompt_input_path, 'r') as f:
+        prompt = f.read()
+    try:
+        os.makedirs(args.output_folder)
+    except FileExistsError:
+        pass
+    questionslist = findquestions(pensum, jsondata)
+    questions, answers = getquestions(questionslist)
+    questprompts = constructprompts(questions, prompt)
+    codes = constructcodes(questprompts, model)
+    dictionary = constructdictionary(codes, answers)
+    output_path_base = os.path.join(args.output_folder, ("capitvlvm_" + str(jsondata["id"]+1)))
+    output_path = output_path_base + '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
+    with open(output_path, "w") as outfile:
+        json.dump(dictionary, outfile)
     
+if __name__ == "__main__":
+    main() 
