@@ -3,6 +3,7 @@
 import json
 import os
 import argparse
+import codecs
 #nested for loops
 #promptfilepath = 
 #questionfilepath =
@@ -35,7 +36,9 @@ def getquestions(questionslist):
     questions = []
     answers = []
     for x in range(len(questionslist)):
-        questions.append(questionslist[x]["q"])
+        queststr = questionslist[x]["q"].encode('utf-8')
+        queststr.replace("#", "~")
+        questions.append(queststr)
         answers.append(' '.join(questionslist[x]["a"]))
     return questions, answers
     #promptss = ["answer this lat:in", "latin am i right?"]
@@ -59,7 +62,7 @@ def constructprompts(questions, prompt):
         retlist.append(new_string)
     return retlist
 
-def constructcodes(questprompts, model):
+def constructcodes(questprompts, model, answers):
     """
     returns list of strings of lmql code asking the questtions + prompts to a given model
     
@@ -73,8 +76,15 @@ def constructcodes(questprompts, model):
     ["argmax 'What color? firetruck? [ANSWER]' from 'openai/text-ada-001'", "argmax 'What color? Ocean? [ANSWER]' from 'openai/text-ada-001'"]
     """
     codes = []
+    answerstring = "[ '" + answers[0] + "',"
+    for a in range(1, len(answers) - 1):
+        answerstring = answerstring + " '" + answers[a] + "',"
+    answerstring = answerstring + " '" + answers[-1] + "']"
+    answerstringprint = answerstring.replace("'", "")
+
+
     for questprompt in questprompts:
-        code = "argmax '" + questprompt + " [ANSWER]' from '" + model + "'" 
+        code = "argmax '" + questprompt + " Choose from this set of possible answers" + answerstringprint + " [ANSWER]' from '" + model + "' where ANSWER in " + answerstring  
         codes.append(code)
     return codes
 
@@ -126,7 +136,7 @@ def main():
     questionslist = findquestions(pensum, jsondata)
     questions, answers = getquestions(questionslist)
     questprompts = constructprompts(questions, prompt)
-    codes = constructcodes(questprompts, model)
+    codes = constructcodes(questprompts, model, answers)
     dictionary = constructdictionary(codes, answers)
     output_path_base = os.path.join(args.output_folder, ("capitvlvm_" + str(jsondata["id"]+1)))
     output_path = output_path_base + '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
