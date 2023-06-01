@@ -1,3 +1,4 @@
+
 #!/bin/bash
 directories_set1=(
   "PENSVM A" 
@@ -16,7 +17,7 @@ for((i=0; i<3; i++)); do
     echo "${question}"
     prompt="${directories_set2[$i]}"
     output="${outputset[$i]}"
-    for file1 in "task2update/chapterinfo/"CH*; do
+    for file1 in "task2/chapterinfo/"CH*; do
         echo "${question}"
         echo "${prompt}"
         echo "${file1}"

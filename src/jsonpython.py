@@ -36,7 +36,7 @@ def getquestions(questionslist):
     questions = []
     answers = []
     for x in range(len(questionslist)):
-        queststr = questionslist[x]["q"].encode('utf-8')
+        queststr = questionslist[x]["q"]
         queststr.replace("#", "~")
         questions.append(queststr)
         answers.append(' '.join(questionslist[x]["a"]))
