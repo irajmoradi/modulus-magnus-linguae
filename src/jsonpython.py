@@ -15,10 +15,10 @@ import codecs
 #prompt = 
 
 
-def findquestions(pensum, jsondata):
-    for keyval in jsondata['exercises']:
-        if pensum  == keyval["name"]:
-            return keyval["questions"]
+#def findquestions(pensum, jsondata):
+#    for keyval in jsondata['exercises']:
+#        if pensum  == keyval["name"]:
+#            return keyval["questions"]
             
             
 
@@ -37,7 +37,9 @@ def getquestions(questionslist):
     answers = []
     for x in range(len(questionslist)):
         queststr = questionslist[x]["q"]
+        print("queststr=", queststr)
         queststr.replace("#", "~")
+        print("queststrreplaced=", queststr)
         questions.append(queststr)
         answers.append(' '.join(questionslist[x]["a"]))
     return questions, answers
