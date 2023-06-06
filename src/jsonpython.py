@@ -37,9 +37,7 @@ def getquestions(questionslist):
     answers = []
     for x in range(len(questionslist)):
         queststr = questionslist[x]["q"]
-        print("queststr=", queststr)
-        queststr.replace("#", "~")
-        print("queststrreplaced=", queststr)
+        queststr = queststr.replace("#", "~")
         questions.append(queststr)
         answers.append(' '.join(questionslist[x]["a"]))
     return questions, answers
@@ -59,12 +57,12 @@ def constructprompts(questions, prompt):
     """
     retlist = []
     for question in questions:
-        retstring = prompt + " " + question
+        retstring = prompt + " " + question.replace("'", "\\'")
         new_string = ''.join(retstring.split('\n'))
         retlist.append(new_string)
     return retlist
 
-def constructcodes(questprompts, model, answers):
+def constructcodes(questprompts, model, answers, multichoice):
     """
     returns list of strings of lmql code asking the questtions + prompts to a given model
     
@@ -86,7 +84,10 @@ def constructcodes(questprompts, model, answers):
 
 
     for questprompt in questprompts:
-        code = "argmax '" + questprompt + " Choose from this set of possible answers" + answerstringprint + " [ANSWER]' from '" + model + "' where ANSWER in " + answerstring  
+        if multichoice == "Y":
+            code = "argmax '" + questprompt + " Choose from this set of possible answers " + answerstringprint + " [ANSWER]' from '" + model + "' where ANSWER in " + answerstring  
+        else:
+            code = "argmax '" + questprompt +  " [ANSWER]' from '" + model  
         codes.append(code)
     return codes
 
@@ -119,13 +120,18 @@ def main():
     parser.add_argument('--prompt_input_path',required=True)
     parser.add_argument('--output_folder', default = 'lmql_code_outputs')
     parser.add_argument('--model', default = 'openai/text-ada-001')
-    parser.add_argument('--pensum',required=True)
+    parser.add_argument('--multichoice', default = 'Y')
+
     args = parser.parse_args()
     question_input_path = args.question_input_path
     prompt_input_path = args.prompt_input_path
     output_folder = args.output_folder
     model = str(args.model)
-    pensum = str(args.pensum)
+    multichoice = args.multichoice
+    if multichoice == "Y":
+        mc = ".mc"
+    else:
+        mc = ""
     with open(question_input_path, 'r') as f:
         jsondata = json.load(f)
 
@@ -135,13 +141,12 @@ def main():
         os.makedirs(args.output_folder)
     except FileExistsError:
         pass
-    questionslist = findquestions(pensum, jsondata)
-    questions, answers = getquestions(questionslist)
+    questions, answers = getquestions(jsondata)
     questprompts = constructprompts(questions, prompt)
-    codes = constructcodes(questprompts, model, answers)
+    codes = constructcodes(questprompts, model, answers, multichoice)
     dictionary = constructdictionary(codes, answers)
-    output_path_base = os.path.join(args.output_folder, ("capitvlvm_" + str(jsondata["id"]+1)))
-    output_path = output_path_base + '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] + ".json"
+    output_path_base = os.path.join(args.output_folder, os.path.basename(args.question_input_path).replace(" ", "_"))
+    output_path = output_path_base[:-5] + '.' + os.path.basename(args.prompt_input_path)[:-4]+ '.' + model.split('/')[-1] +  mc + ".json"
     with open(output_path, "w") as outfile:
         json.dump(dictionary, outfile)
     
