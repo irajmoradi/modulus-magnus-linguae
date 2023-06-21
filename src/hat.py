@@ -41,6 +41,7 @@ def getquestions(questionslist):
     for x in range(len(questionslist)):
         queststr = questionslist[x]["q"]
         queststr = queststr.lstrip('0123456789. ')
+
         queststr = queststr.replace("#", "~")
         questions.append(queststr)
         if type(questionslist[x]["a"]) == list:
@@ -70,50 +71,41 @@ def shotexclusion(shot, exclusion, questions, answers):
 
 def constructprompts(questions, prompt, examplequest, exampleanswer, multichoice, answers):
     """
-    This function prepares the list of prompts to be passed to a model. If multiple choice is enabled, each question 
-    (both main and example questions) is prepended with the possible answers (answer key). Otherwise, the questions 
-    are passed as is, with the 'prompt' prepended.
-
+    Returns list of strings each question with the given prompt strategy
     Parameters:
-    questions (list): The main questions being asked
-    prompt (str): A prefix string to be prepended before each question
-    examplequest (list): List of example questions 
-    exampleanswer (list): List of example answers corresponding to example questions
-    multichoice (str): "Y" if multiple choice is enabled, else "N"
-    answers (list): The possible answers for the main questions
-    
+    questions (list): the questions being asked
+    prompt (str): the template for the prompts to be sent to lmql
+
     Returns:
-    retlist (list): List of prompts to be passed to the model.
+    retlist (list): list of questions + prompts for lmql
+    >>> constructprompts(["Firetruck color?", "Ocean color?"], "What is the", ["Sky color?"], ["blue"])
+    ['What is the Question: Sky color? Answer: blue  Question: Firetruck color?', 'What is the Question: Sky color? Answer: blue  Question: Ocean color?']
     """
-    retlist = []  # Final list of prompts to return
+    retlist = [] 
+    # Add quotes around each answer individually.
 
-    # Prepare the answer key for example questions
-    example_answerstring = ", ".join(f"'{answer}'" for answer in exampleanswer)
-    example_answerstring = "[" + example_answerstring + "]"
-
+    answerstring = ", ".join(f"'{answer}'" for answer in answers)
+    # Surround entire string with brackets for the "where ANSWER in" clause.
+    answerstring = "[" + answerstring + "]"
     examplestring = ""
-    # If there are example questions, prepend them with their answer key
     if len(examplequest) > 0:
         for x in range(len(examplequest)):
-            examplestring += f"ANSWER KEY:{example_answerstring.replace("'", "")} Q: {examplequest[x]} + A: {exampleanswer[x]}"
-
-    # If multichoice is enabled, prepend each main question with the answer key
+            examplestring = examplestring + "Q: " + examplequest[x] + " A: " + exampleanswer[x] + " "
     if multichoice == "Y":
         for question in questions:
-            answerstring = ", ".join(f"'{answer}'" for answer in answers)
-            answerstring = "[" + answerstring + "]"
-            newstring = f"{examplestring}ANSWER KEY:{answerstring.replace("'", "")} Q: {question.replace("'", "\\'")}"
-            newstring = ''.join(newstring.split('\n'))
-            retlist.append(newstring)
+            newstring = "ANSWER KEY:"  + answerstring.replace("'", "") 
+            print(newstring)
+            newstring = newstring + " " + examplestring
+            retstring = newstring +   "Q: " + question.replace("'", "\\'")
+            new_string = ''.join(retstring.split('\n'))
+            print("new_string=", new_string)
+            retlist.append(new_string)
     else:
-        # Otherwise, just prepend the 'prompt' before each main question
         for question in questions:
-            retstring = f"{prompt.replace('<example>', examplestring)} Question: {question.replace("'", "\\'")}"
+            retstring = prompt.replace('<example>', examplestring) + " " + "Question: " + question.replace("'", "\\'")
             new_string = ''.join(retstring.split('\n'))
             retlist.append(new_string)
-
     return retlist
-
 
 def constructcodes(questprompts, model, answers, multichoice, lmqlfixanswers):
     """
