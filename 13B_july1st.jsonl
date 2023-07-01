@@ -1,0 +1,519 @@
+{"instruction": "", "input": "", "output": "# IMPERIVM ROMANVM"}
+{"instruction": "", "input": "", "output": "R\u014dma in Itali\u0101 est."}
+{"instruction": "", "input": "", "output": "Italia in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Graeci\u0101 in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Italia et Graeci\u0101 in Eur\u014dp\u0101 sunt."}
+{"instruction": "", "input": "", "output": "Hisp\u0101nia quoque in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Hisp\u0101nia et Italia et Graeci\u0101 in Eur\u014dp\u0101 sunt."}
+{"instruction": "", "input": "", "output": "Aegyptus in Eur\u014dp\u0101 n\u014dn est, Aegyptus in A\u0304fric\u0101 est."}
+{"instruction": "", "input": "", "output": "Galli\u0101 n\u014dn in A\u0304fric\u0101 est, Galli\u0101 est in Eur\u014dp\u0101."}
+{"instruction": "", "input": "", "output": "Syria n\u014dn est in Eur\u014dp\u0101, sed in Asi\u0101."}
+{"instruction": "", "input": "", "output": "Arabia quoque in Asi\u0101 est."}
+{"instruction": "", "input": "", "output": "Syria et Arabia in Asi\u0101 sunt."}
+{"instruction": "", "input": "", "output": "Germ\u0101nia n\u014dn in Asi\u0101, sed Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Britannia quoque in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Germ\u0101nia et Britannia sunt in Eur\u014dp\u0101."}
+{"instruction": "", "input": "", "output": "Estne Galli\u0101 in Eur\u014dp\u0101?"}
+{"instruction": "", "input": "", "output": "Galli\u0101 in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Estne R\u014dma in Galli\u0101?"}
+{"instruction": "", "input": "", "output": "R\u014dma in Galli\u0101 n\u014dn est."}
+{"instruction": "", "input": "", "output": "Ubi est R\u014dma?"}
+{"instruction": "", "input": "", "output": "R\u014dma est in Itali\u0101."}
+{"instruction": "", "input": "", "output": "Ubi est Italia?"}
+{"instruction": "", "input": "", "output": "Italia in Eur\u014dp\u0101 est."}
+{"instruction": "", "input": "", "output": "Ubi sunt Galli\u0101 et Hisp\u0101nia?"}
+{"instruction": "", "input": "", "output": "Galli\u0101 et Hisp\u0101nia in Eur\u014dp\u0101 sunt."}
+{"instruction": "", "input": "", "output": "Estne N\u012blus in Eur\u014dp\u0101?"}
+{"instruction": "", "input": "", "output": "N\u012blus in Eur\u014dp\u0101 n\u014dn est."}
+{"instruction": "", "input": "", "output": "Ubi est N\u012blus?"}
+{"instruction": "", "input": "", "output": "N\u012blus in A\u0304fric\u0101 est."}
+{"instruction": "", "input": "", "output": "Rh\u0113nus ubi est?"}
+{"instruction": "", "input": "", "output": "Rh\u0113nus est in Germ\u0101ni\u0101."}
+{"instruction": "", "input": "", "output": "N\u012blus fluvius est."}
+{"instruction": "", "input": "", "output": "Rh\u0113nus fluvius est."}
+{"instruction": "", "input": "", "output": "N\u012blus et Rh\u0113nus fluvi\u012b sunt."}
+{"instruction": "", "input": "", "output": "D\u0101nuvius quoque fluvius est."}
+{"instruction": "", "input": "", "output": "Rh\u0113nus et D\u0101nuvius sunt fluvi\u012b in Germ\u0101ni\u0101."}
+{"instruction": "", "input": "", "output": "Tiberis fluvius in Itali\u0101 est."}
+{"instruction": "", "input": "", "output": "N\u012blus fluvius magnus est."}
+{"instruction": "", "input": "", "output": "Tiberis n\u014dn est fluvius magnus, Tiberius fluvius parvus est."}
+{"instruction": "", "input": "", "output": "Rh\u0113nus n\u014dn est fluvius parvus, sed fluvius magnus."}
+{"instruction": "", "input": "", "output": "N\u012blus et Rh\u0113nus n\u014dn fluvi\u012b parv\u012b, sed fluvi\u012b magn\u012b sunt."}
+{"instruction": "", "input": "", "output": "D\u0101nuvius quoque fluvius magnus est."}
+{"instruction": "", "input": "", "output": "Corsica \u012bnsula est."}
+{"instruction": "", "input": "", "output": "Corsica et Sardinia et Sicilia \u012bnsulae sunt."}
+{"instruction": "", "input": "", "output": "Britannia quoque \u012bnsula est."}
+{"instruction": "", "input": "", "output": "Italia \u012bnsula n\u014dn est."}
+{"instruction": "", "input": "", "output": "Sicilia \u012bnsula magna est."}
+{"instruction": "", "input": "", "output": "Melita est \u012bnsula parva."}
+{"instruction": "", "input": "", "output": "Britannia n\u014dn \u012bnsula parva, sed \u012bnsula magna est."}
+{"instruction": "", "input": "", "output": "Sicilia et Sardinia n\u014dn \u012bnsula parvae, sed \u012bnsulae magnae sunt."}
+{"instruction": "", "input": "", "output": "Brundisium oppidum est."}
+{"instruction": "", "input": "", "output": "Brundisium et T\u016bsculuma oppida sunt."}
+{"instruction": "", "input": "", "output": "Sparta quoque oppidum est."}
+{"instruction": "", "input": "", "output": "Brundisium est oppidum magnum."}
+{"instruction": "", "input": "", "output": "T\u016bsculuma oppidum parvum est."}
+{"instruction": "", "input": "", "output": "Delph\u012b quoque oppidum parvum est."}
+{"instruction": "", "input": "", "output": "T\u016bsculuma et Delph\u012b n\u014dn oppida magna, sed oppida parva sunt."}
+{"instruction": "", "input": "", "output": "Ubi est Sparta?"}
+{"instruction": "", "input": "", "output": "Sparta est in Graeci\u0101."}
+{"instruction": "", "input": "", "output": "Sparta est oppidum Gracum."}
+{"instruction": "", "input": "", "output": "Sparta et Delph\u012b oppida Graeca sunt."}
+{"instruction": "", "input": "", "output": "T\u016bsculuma n\u014dn oppidum Graecum, sed oppidum R\u014dmanum est."}
+{"instruction": "", "input": "", "output": "T\u016bsculuma et Brundisium sunt oppida R\u014dm\u0101na."}
+{"instruction": "", "input": "", "output": "Sardinia \u012bnsula R\u014dm\u0101na est."}
+{"instruction": "", "input": "", "output": "Cr\u0113ta, Rhodus, Naxus, Samos, Chios, Lesbos, L\u0113mnos, Euboea sunt \u012bnsulae Graecae."}
+{"instruction": "", "input": "", "output": "In Graeci\u0101 multae \u012bnsulae sunt."}
+{"instruction": "", "input": "", "output": "In Itali\u0101 et in Graeci\u0101 sunt multa oppida."}
+{"instruction": "", "input": "", "output": "In Galli\u0101 et in Germ\u0101ni\u0101 mult\u012b sunt fluvi\u012b."}
+{"instruction": "", "input": "", "output": "Suntne mult\u012b fluvi\u012b et multa oppida in Arabi\u0101?"}
+{"instruction": "", "input": "", "output": "In Arabi\u0101 n\u014dn mult\u012b, sed pauc\u012b fluvi\u012b sunt et pauca oppida."}
+{"instruction": "", "input": "", "output": "Num Cr\u0113ta oppidum est?"}
+{"instruction": "", "input": "", "output": "Cr\u0113ta oppidum n\u014dn est!"}
+{"instruction": "", "input": "", "output": "Quid est Cr\u0113ta?"}
+{"instruction": "", "input": "", "output": "Cr\u0113ta \u012bnsula est."}
+{"instruction": "", "input": "", "output": "Num Sparta \u012bnsula est?"}
+{"instruction": "", "input": "", "output": "Sparta n\u014dn est \u012bnsula!"}
+{"instruction": "", "input": "", "output": "Quid est Sparta?"}
+{"instruction": "", "input": "", "output": "Sparta oppidum est."}
+{"instruction": "", "input": "", "output": "Rh\u0113nus quid est?"}
+{"instruction": "", "input": "", "output": "Rh\u0113nus est magnus fluvius."}
+{"instruction": "", "input": "", "output": "Num oceanus Atlanticus parvus est?"}
+{"instruction": "", "input": "", "output": "N\u014dn parvus, sed magnus est oceanus."}
+{"instruction": "", "input": "", "output": "Ubi est imperium R\u014dm\u0101num?"}
+{"instruction": "", "input": "", "output": "Imperium R\u014dm\u0101num est in Eur\u014dp\u0101, in Asi\u0101, in A\u0304fric\u0101."}
+{"instruction": "", "input": "", "output": "Hisp\u0101nia et Syria et Aegyptus pr\u014dvinciae R\u014dm\u0101nae sunt."}
+{"instruction": "", "input": "", "output": "Germ\u0101nia n\u014dn est pr\u014dvincia R\u014dm\u0101na: Germ\u0101nia in imperi\u014d R\u014dmano n\u014dn est."}
+{"instruction": "", "input": "", "output": "Sed Galli\u0101 et Britannia sunt pr\u014dvinciae R\u014dm\u0101nae."}
+{"instruction": "", "input": "", "output": "In imperi\u014d R\u014dmano multae sunt pr\u014dvinciae."}
+{"instruction": "", "input": "", "output": "Magnum est imperium R\u014dmanum!"}
+{"instruction": "", "input": "", "output": "# LITTERAE ET NVMERI"}
+{"instruction": "", "input": "", "output": "I et II numer\u012b sunt."}
+{"instruction": "", "input": "", "output": "III quoque numerus est."}
+{"instruction": "", "input": "", "output": "I, II, III numer\u012b R\u014dm\u0101n\u012b sunt."}
+{"instruction": "", "input": "", "output": "I et II sunt parv\u012b numer\u012b."}
+{"instruction": "", "input": "", "output": "_CIC magnus numerus est."}
+{"instruction": "", "input": "", "output": "A et B litterae sunt."}
+{"instruction": "", "input": "", "output": "C quoque littera est."}
+{"instruction": "", "input": "", "output": "A, B, C sunt tr\u0113s litterae."}
+{"instruction": "", "input": "", "output": "A est littera prima (I), B littera secunda (II), C littera tertia (III)."}
+{"instruction": "", "input": "", "output": "_Gamma littera Graeca est."}
+{"instruction": "", "input": "", "output": "C est littera Lat\u012bna."}
+{"instruction": "", "input": "", "output": "C et D litterae Lat\u012bnae sunt."}
+{"instruction": "", "input": "", "output": "_Gamma et _Delta sunt litterae Graecae."}
+{"instruction": "", "input": "", "output": "*Fluvius* et *oppidum* voc\u0101bula Lat\u012bna sunt."}
+{"instruction": "", "input": "", "output": "*Ubi* quoque voc\u0101bulum Lat\u012bnum est."}
+{"instruction": "", "input": "", "output": "In voc\u0101bul\u014d *ubi* sunt tr\u0113s litterae."}
+{"instruction": "", "input": "", "output": "In capitul\u014d primo mille voc\u0101bula sunt."}
+{"instruction": "", "input": "", "output": "In voc\u0101bul\u014d *insula* sex litterae et tr\u0113s syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*."}
+{"instruction": "", "input": "", "output": "In voc\u0101bul\u014d *n\u014dn* sunt tr\u0113s litterae et una syllaba."}
+{"instruction": "", "input": "", "output": "Quid est III?"}
+{"instruction": "", "input": "", "output": "III numerus R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "_Gamma quid est?"}
+{"instruction": "", "input": "", "output": "_Gamma littera Graeca est."}
+{"instruction": "", "input": "", "output": "Num C littera Graeca est?"}
+{"instruction": "", "input": "", "output": "N\u014dn littera Graeca, sed littera Lat\u012bna est C."}
+{"instruction": "", "input": "", "output": "Estne B littera prima?"}
+{"instruction": "", "input": "", "output": "B n\u014dn littera prima, sed secunda est."}
+{"instruction": "", "input": "", "output": "Quid est *n\u014dn*?"}
+{"instruction": "", "input": "", "output": "*N\u014dn* est voc\u0101bulum Lat\u012bnum."}
+{"instruction": "", "input": "", "output": "*N\u014dn*, *sed*, *magnus*, *numerus* voc\u0101bula Lat\u012bna sunt."}
+{"instruction": "", "input": "", "output": "*Voc\u0101bulum* quoque voc\u0101bulum Lat\u012bnum est!"}
+{"instruction": "", "input": "", "output": "# FAMILIA ROMANA"}
+{"instruction": "", "input": "", "output": "I\u016blius vir R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "Aemilia f\u0113mina R\u014dm\u0101na est."}
+{"instruction": "", "input": "", "output": "M\u0101rcus est puer R\u014dm\u0101nus."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus quoque puer R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "I\u016blia est puella R\u014dm\u0101na."}
+{"instruction": "", "input": "", "output": "M\u0101rcus et Qu\u012bntus n\u014dn vir\u012b, sed puer\u012b sunt."}
+{"instruction": "", "input": "", "output": "vir\u012b sunt I\u016blius et M\u0113dus et D\u0101vus."}
+{"instruction": "", "input": "", "output": "Aemilia et D\u0113lia et Syra sunt f\u0113minae."}
+{"instruction": "", "input": "", "output": "Estne f\u0113mina I\u016blia?"}
+{"instruction": "", "input": "", "output": "N\u014dn f\u0113mina, sed parva puella est I\u016blia."}
+{"instruction": "", "input": "", "output": "I\u016blius, Aemelia, M\u0101rcus, Qu\u012bntus, I\u016blia, Syra, D\u0101vus, D\u0113lia M\u0113dusque sunt famili\u0101 R\u014dm\u0101na."}
+{"instruction": "", "input": "", "output": "I\u016blius pater est."}
+{"instruction": "", "input": "", "output": "Aemelia est m\u0101ter."}
+{"instruction": "", "input": "", "output": "I\u016blius pater M\u0101rc\u012b et Qu\u012bnt\u012b est."}
+{"instruction": "", "input": "", "output": "I\u016blius pater I\u016bliae quoque quoque est."}
+{"instruction": "", "input": "", "output": "Aemilia est m\u0101ter M\u0101rc\u012b et Qu\u012bnt\u012b et I\u016bliae."}
+{"instruction": "", "input": "", "output": "M\u0101rcus f\u012blius I\u016bli\u012b est."}
+{"instruction": "", "input": "", "output": "M\u0101rcus f\u012blius Aemilieae est."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus quoque f\u012blius I\u016bli\u012b et Aemiliae est."}
+{"instruction": "", "input": "", "output": "I\u016blia est filia I\u016bli\u012b et Aemiliae."}
+{"instruction": "", "input": "", "output": "Quis est M\u0101rcus?"}
+{"instruction": "", "input": "", "output": "M\u0101rcus puer R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "Quis pater M\u0101rc\u012b est?"}
+{"instruction": "", "input": "", "output": "I\u016blius pater M\u0101rc\u012b est."}
+{"instruction": "", "input": "", "output": "Quae est m\u0101ter M\u0101rc\u012b?"}
+{"instruction": "", "input": "", "output": "M\u0101ter M\u0101rc\u012b est Aemilia."}
+{"instruction": "", "input": "", "output": "Quae est I\u016blia?"}
+{"instruction": "", "input": "", "output": "I\u016blia est puella R\u014dm\u0101na."}
+{"instruction": "", "input": "", "output": "Quae m\u0101ter I\u016bliae est?"}
+{"instruction": "", "input": "", "output": "Aemilia m\u0101ter I\u016bliae est."}
+{"instruction": "", "input": "", "output": "Pater I\u016bliae est I\u016blius."}
+{"instruction": "", "input": "", "output": "I\u016blia filia I\u016bli\u012b est."}
+{"instruction": "", "input": "", "output": "Qui sunt f\u012bli\u012b I\u016bli\u012b?"}
+{"instruction": "", "input": "", "output": "F\u012bli\u012b I\u016bli\u012b sunt M\u0101rcus et Qu\u012bntus."}
+{"instruction": "", "input": "", "output": "M\u0101rcus, Qu\u012bntus, I\u016bliaque sunt tr\u0113s l\u012bber\u012b."}
+{"instruction": "", "input": "", "output": "l\u012bber\u012b sunt f\u012bli\u012b filiaeque."}
+{"instruction": "", "input": "", "output": "M\u0101rcus et Qu\u012bntus et I\u016blia eunt l\u012bber\u012b I\u016bli\u012b et Aemiliae."}
+{"instruction": "", "input": "", "output": "In famili\u0101 I\u016bli\u012b sunt tr\u0113s l\u012bber\u012b: duo f\u012bli\u012b et \u016bna filia."}
+{"instruction": "", "input": "", "output": "Estne M\u0113dus f\u012blius I\u016bli\u012b?"}
+{"instruction": "", "input": "", "output": "M\u0113dus f\u012blius I\u016bli\u012b n\u014dn est,"}
+{"instruction": "", "input": "", "output": "M\u0113dus est servus I\u016bli\u012b."}
+{"instruction": "", "input": "", "output": "I\u016blius dominus Medi est."}
+{"instruction": "", "input": "", "output": "I\u016blius dominus serv\u012b est."}
+{"instruction": "", "input": "", "output": "D\u0101vus quoque servus est."}
+{"instruction": "", "input": "", "output": "M\u0113dus et D\u0101vus duo serv\u012b sunt."}
+{"instruction": "", "input": "", "output": "I\u016blius est dominus Medi et D\u0101v\u012b."}
+{"instruction": "", "input": "", "output": "I\u016blius dominus serv\u014drum est et pater l\u012bber\u014drum."}
+{"instruction": "", "input": "", "output": "Estne D\u0113lia filia Aemiliae?"}
+{"instruction": "", "input": "", "output": "D\u0113lia n\u014dn est filia Aemiliae, D\u0113lia ancilla Aemiliae est."}
+{"instruction": "", "input": "", "output": "Syra quoque ancilla est."}
+{"instruction": "", "input": "", "output": "D\u0113lia et Syra duae ancillae sunt."}
+{"instruction": "", "input": "", "output": "Aemilia domina ancillarum est."}
+{"instruction": "", "input": "", "output": "Cuius servus est D\u0101vus?"}
+{"instruction": "", "input": "", "output": "D\u0101vus servus I\u016bli\u012b est."}
+{"instruction": "", "input": "", "output": "Cuius ancilla est Syra?"}
+{"instruction": "", "input": "", "output": "Syra est ancilla Aemiliae."}
+{"instruction": "", "input": "", "output": "Quot l\u012bber\u012b sunt in famili\u0101?"}
+{"instruction": "", "input": "", "output": "In famili\u0101 I\u016bli\u012b sunt tr\u0113s libert."}
+{"instruction": "", "input": "", "output": "Quot f\u012bli\u012b et quot filiae?"}
+{"instruction": "", "input": "", "output": "Duo f\u012bli\u012b et \u016bna filia."}
+{"instruction": "", "input": "", "output": "Quot serv\u012b sunt in famili\u0101?"}
+{"instruction": "", "input": "", "output": "In famili\u0101 sunt centum serv\u012b."}
+{"instruction": "", "input": "", "output": "In famili\u0101 I\u016bli\u012b sunt mul\u012b serv\u012b, pauci l\u012bber\u012b."}
+{"instruction": "", "input": "", "output": "I\u016blius est dominus multorum serv\u014drum."}
+{"instruction": "", "input": "", "output": "'Duo' et 'tr\u0113s' numer\u012b sunt."}
+{"instruction": "", "input": "", "output": "'Centum' quoque numerus est."}
+{"instruction": "", "input": "", "output": "Numerus serv\u014drum est centum."}
+{"instruction": "", "input": "", "output": "Numerus l\u012bber\u014drum est tr\u0113s."}
+{"instruction": "", "input": "", "output": "Centum est magnus numerus."}
+{"instruction": "", "input": "", "output": "Tr\u0113s parvus numerus est."}
+{"instruction": "", "input": "", "output": "Numerus serv\u014drum est magnus."}
+{"instruction": "", "input": "", "output": "Numerus l\u012bber\u014drum parvus est."}
+{"instruction": "", "input": "", "output": "In famili\u0101 I\u016bli\u012b magnus numerus serv\u014drum, parvus numerus l\u012bber\u014drum est."}
+{"instruction": "", "input": "", "output": "M\u0113dus servus Graecus est."}
+{"instruction": "", "input": "", "output": "D\u0113lia est ancilla Graeca."}
+{"instruction": "", "input": "", "output": "In famili\u0101 I\u016bli\u012b sunt mul\u012b serv\u012b Graec\u012b multaeque ancilae Graecae."}
+{"instruction": "", "input": "", "output": "Estne Aemilia f\u0113mina Graeca?"}
+{"instruction": "", "input": "", "output": "Aemilia n\u014dn est f\u0113mina Graeca, sed R\u014dm\u0101na."}
+{"instruction": "", "input": "", "output": "I\u016blius n\u014dn vir Graecus, sed R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "Sparta oppidum Graeca est."}
+{"instruction": "", "input": "", "output": "Sparta, Delph\u012b T\u016bsculumque tria oppida sunt: duo oppida Graeca et unum oppidum R\u014dm\u0101num."}
+{"instruction": "", "input": "", "output": "In Graec\u012ba et in Itali\u0101 magnus numerus oppid\u014drum est."}
+{"instruction": "", "input": "", "output": "In Galli\u0101 est magnus numerus fluviorum."}
+{"instruction": "", "input": "", "output": "Fluvi\u012b Galli\u0101e magni sunt."}
+{"instruction": "", "input": "", "output": "Magnine sunt fluvi\u012b A\u0304fricae?"}
+{"instruction": "", "input": "", "output": "In A\u0304fric\u0101 \u016bnus fluvius magnus est: N\u012blus; c\u0113ter\u012b fluvi\u012b A\u0304fricae parv\u012b sunt."}
+{"instruction": "", "input": "", "output": "Suntne magnae \u012bnsulae Graecae?"}
+{"instruction": "", "input": "", "output": "Cr\u0113ta et Euboea duae insulae magnae sunt; c\u0113terae \u012bnsulae Graecae sunt parvae."}
+{"instruction": "", "input": "", "output": "Quis est Corn\u0113lius?"}
+{"instruction": "", "input": "", "output": "Corn\u0113lius dominus R\u014dm\u0101nus est."}
+{"instruction": "", "input": "", "output": "I\u016blius et Corn\u0113lius duo domin\u012b R\u014dm\u0101ni sunt."}
+{"instruction": "", "input": "", "output": "M\u0113dus n\u014dn est servus Cornelii."}
+{"instruction": "", "input": "", "output": "M\u0113dus servus I\u016bli\u012b est."}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Cuius servus est M\u0113dus?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"M\u0113dus servus meus est.\""}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Estne D\u0101vus servus tuus?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"D\u0101vus quoque servus meus est."}
+{"instruction": "", "input": "", "output": "Serv\u012b me\u012b sunt M\u0113dus et D\u0101vus et c\u0113teri\u012b mult\u012b...\""}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Estne D\u0113lia ancilla tua?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"D\u0113lia est ancilla mea, et Syra quoque ancilla mea est."}
+{"instruction": "", "input": "", "output": "Ancillae meae sunt D\u0113lia et Syra et c\u0113terae multae."}
+{"instruction": "", "input": "", "output": "famili\u0101 mea magnus est.\""}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Quot serv\u012b sunt in famili\u0101 tu\u0101?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"In famili\u0101 me\u0101 sunt centum serv\u012b.\""}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Quid?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Numerus serv\u014drum me\u014drum est centum.\""}
+{"instruction": "", "input": "", "output": "Corn\u0113lius: \"Centum serv\u012b!"}
+{"instruction": "", "input": "", "output": "Magnus est numerus serv\u014drum tu\u014drum!\""}
+{"instruction": "", "input": "", "output": "# LIBER TVVS LATINVS"}
+{"instruction": "", "input": "", "output": "Ecce duo libr\u012b Lat\u012bn\u012b: liber antiquus et liber novus."}
+{"instruction": "", "input": "", "output": "LINGVA LATINA est primus liber tuus Latinus."}
+{"instruction": "", "input": "", "output": "Titulus libr\u012b tu\u012b est 'LINGUA LATINA'."}
+{"instruction": "", "input": "", "output": "Liber tuus non antiquus, sed novus est."}
+{"instruction": "", "input": "", "output": "IN LINGUA LATINA sunt multae p\u0101ginae et multa capitula: capitulum pr\u012bmum, secundum, tertium, c\u0113tera."}
+{"instruction": "", "input": "", "output": "'IMERPIVM ROMANVM' est titulus capitul\u012b pr\u012bm\u012b."}
+{"instruction": "", "input": "", "output": "Titulus capitul\u012b secund\u012b est 'FAMILIA ROMANA'."}
+{"instruction": "", "input": "", "output": "In capitul\u014d secund\u014d sunt sex p\u0101ginae."}
+{"instruction": "", "input": "", "output": "In p\u0101gin\u0101 pr\u012bm\u0101 capitul\u012b secund\u012b multa voc\u0101bula nova sunt: *vir*, *f\u0113minina*, *puer*, *puella*, *familia*, c\u0113tera."}
+{"instruction": "", "input": "", "output": "Numerus voc\u0101bul\u014drum Lat\u012bn\u014drum magnus est."}
+{"instruction": "", "input": "", "output": "# PVER IMPROBVS"}
+{"instruction": "", "input": "", "output": "# SCAENA PRIMA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: I\u016blia, M\u0101rcus, Qu\u012bntus.*"}
+{"instruction": "", "input": "", "output": "I\u016blia cantat: \"Lalla.\""}
+{"instruction": "", "input": "", "output": "I\u016blia laeta est."}
+{"instruction": "", "input": "", "output": "M\u0101rcus: \"St!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus laetus n\u014dn est."}
+{"instruction": "", "input": "", "output": "I\u016blia cantat: \"Lalla, lalla.\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus: \"Ssst!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus \u012br\u0101tus est."}
+{"instruction": "", "input": "", "output": "I\u016blia cantat: \"Lalla, lalla.\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus I\u016bliam pulsat."}
+{"instruction": "", "input": "", "output": "Iam I\u016blia n\u014dn cantat, sed pl\u014drat: \"Uhuh\u016b!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus r\u012bdet: \"Hahahae!\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus M\u0101rcum videt."}
+{"instruction": "", "input": "", "output": "M\u0101rcus n\u014dn videt Qu\u012bntum."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"Quid?"}
+{"instruction": "", "input": "", "output": "M\u0101rcus puellam pulsat--et r\u012bdet!\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus \u012br\u0101tus est et M\u0101rcum pulsat!"}
+{"instruction": "", "input": "", "output": "Iam n\u014dn r\u012bdet M\u0101rcus."}
+{"instruction": "", "input": "", "output": "M\u0101rcus \u012br\u0101tus pulsat Qu\u012bntum."}
+{"instruction": "", "input": "", "output": "I\u016blia: \"Ubi est m\u0101ter?\""}
+{"instruction": "", "input": "", "output": "I\u016blia Aemiliam n\u014dn videt."}
+{"instruction": "", "input": "", "output": "I\u016blia Aemiliam vocat: \"M\u0101ter!"}
+{"instruction": "", "input": "", "output": "M\u0101rcus Qu\u012bntum pulsat!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus (\u012br\u0101tus): \"St!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus I\u016bliam pulsat."}
+{"instruction": "", "input": "", "output": "I\u016blia pl\u014drat et Aemiliam vocat: \"Mamma! Mam-ma!"}
+{"instruction": "", "input": "", "output": "M\u0101rcus m\u0113 pulsat!\""}
+{"instruction": "", "input": "", "output": "Aemilia venit."}
+{"instruction": "", "input": "", "output": "# SCAENA SECVNDA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: Aemilia, I\u016blia, M\u0101rcus, Qu\u012bntus.*"}
+{"instruction": "", "input": "", "output": "Aemilia interrogat: \"Quis m\u0113 vocat?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus respondet: \"I\u016blia t\u0113 vocat.\""}
+{"instruction": "", "input": "", "output": "Aemilia Qu\u012bntum int\u0113rrogat: \"C\u016br I\u016blia pl\u014drat?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus respondent: \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Quid? Puer parvam puellam pulsat? F\u016b! C\u016br M\u0101rcus I\u016bliam pulsat?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"Quia I\u016blia cantat.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"\u014c I\u016blia, m\u0113a parva f\u012blia!"}
+{"instruction": "", "input": "", "output": "M\u0101rcus puer probus n\u014dn est; M\u0101rcus es puer improbus!\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"I\u016blia puella proba ests.\""}
+{"instruction": "", "input": "", "output": "Aemilia Qu\u012bntum int\u0113rrogat: \"Ubi est I\u016blius? C\u016br n\u014dn venit?\""}
+{"instruction": "", "input": "", "output": "Aemilia Iulium n\u014dn videt."}
+{"instruction": "", "input": "", "output": "Respondet M\u0101rcus: \"Pater dormit.\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"M\u0101ter n\u014dn t\u0113, sed m\u0113 int\u0113rrogat!\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"St, pueri!"}
+{"instruction": "", "input": "", "output": "Ubi est Pater?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"Pater n\u014dn h\u012bc est, sed M\u0101rcus h\u012bc est.\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus Iulium vocat: \"Pater! Pa-ter!\""}
+{"instruction": "", "input": "", "output": "Iulis Qu\u012bntum n\u014dn audit neque venit."}
+{"instruction": "", "input": "", "output": "C\u016br I\u016blius n\u014dn audit?"}
+{"instruction": "", "input": "", "output": "I\u016blius eum n\u014dn audit, quia dormit."}
+{"instruction": "", "input": "", "output": "M\u0101rcus: \"Hahae! Pater dormit neque t\u0113 audit.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"F\u016b, puer!\""}
+{"instruction": "", "input": "", "output": "Aemilia irata est."}
+{"instruction": "", "input": "", "output": "M\u0101ter filium verberat: tuxtax, tuxtax..."}
+{"instruction": "", "input": "", "output": "M\u0101rcus pl\u014drat: \"Uhuh\u016b!\""}
+{"instruction": "", "input": "", "output": "I\u016blius eum audit."}
+{"instruction": "", "input": "", "output": "Iam n\u014dn dormit Pater."}
+{"instruction": "", "input": "", "output": "# SCAENA TERTIA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: I\u016blius, Aemilia, I\u016blia, M\u0101rcus, Qu\u012bntus.*"}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"Pater venit.\""}
+{"instruction": "", "input": "", "output": "Aemilia Qu\u012bntum n\u014dn audit, quia M\u0101rcus pl\u014drat."}
+{"instruction": "", "input": "", "output": "I\u016blius Qu\u012bntum videt eumque int\u0113rrogat: \"C\u016br M\u0101rcus pl\u014drat?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus respondet: \"M\u0101rcus pl\u014drat, quia m\u0101ter eum verberat.\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Sed C\u016br m\u0101ter M\u0101rcum verberat?\""}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"M\u0101rcum verberat, quia puer improbus est. M\u0101rcus parvam puellam pulsat!\""}
+{"instruction": "", "input": "", "output": "I\u016blia: \"Mamma! Pater h\u012bc est.\""}
+{"instruction": "", "input": "", "output": "Aemilia Iulium videt."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Tuus M\u0101rcus filius improbus est!\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"F\u016b, puer! Puer probus n\u014dn pulsat puellam. Puer qui parvam puellam pulsat improbus est!\""}
+{"instruction": "", "input": "", "output": "I\u016blius \u012br\u0101tus puerum improbum verberat: tuxtax, tuxtax, tuxtax..."}
+{"instruction": "", "input": "", "output": "M\u0101rcus pl\u014drat."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus laetus est et r\u012bdet."}
+{"instruction": "", "input": "", "output": "I\u016blia laeta n\u014dn est neque r\u012bdet."}
+{"instruction": "", "input": "", "output": "C\u016br n\u014dn laeta est I\u016blia?"}
+{"instruction": "", "input": "", "output": "n\u014dn laeta est, quia M\u0101rcus pl\u014drat."}
+{"instruction": "", "input": "", "output": "I\u016blia est puella proba!"}
+{"instruction": "", "input": "", "output": "Puer r\u012bdet."}
+{"instruction": "", "input": "", "output": "Puella pl\u014drat."}
+{"instruction": "", "input": "", "output": "Quis est puer qu\u012b r\u012bdet?"}
+{"instruction": "", "input": "", "output": "Puer qu\u012b r\u012bdet est M\u0101rcus."}
+{"instruction": "", "input": "", "output": "Quae est puella quae pl\u014drat?"}
+{"instruction": "", "input": "", "output": "Puella quae pl\u014drat est I\u016blia."}
+{"instruction": "", "input": "", "output": "M\u0101rcus, qu\u012b puellam pulsat, puer improbus est."}
+{"instruction": "", "input": "", "output": "Puella quam M\u0101rcus pulsat est I\u016blia."}
+{"instruction": "", "input": "", "output": "I\u016blia Aemiliam vocat."}
+{"instruction": "", "input": "", "output": "Aemilia, quam I\u016blia vocat, m\u0101ter l\u012bber\u014drum est."}
+{"instruction": "", "input": "", "output": "Aemilia puerum verberat."}
+{"instruction": "", "input": "", "output": "Puer quem Aemilia verberat est M\u0101rcus."}
+{"instruction": "", "input": "", "output": "Quem vocat Qu\u012bntus?"}
+{"instruction": "", "input": "", "output": "Qu\u012bntus I\u016blium vocat."}
+{"instruction": "", "input": "", "output": "I\u016blius, quem Qu\u012bntus vocat, Pater l\u012bber\u014drum est."}
+{"instruction": "", "input": "", "output": "I\u016blius Qu\u012bntum n\u014dn audit."}
+{"instruction": "", "input": "", "output": "Quem audit I\u016blius?"}
+{"instruction": "", "input": "", "output": "I\u016blius M\u0101rcum audit."}
+{"instruction": "", "input": "", "output": "Puer quem I\u016blius audit est M\u0101rcus."}
+{"instruction": "", "input": "", "output": "Puella quae contat laeta est."}
+{"instruction": "", "input": "", "output": "Puella quae pl\u014drat n\u014dn est laeta."}
+{"instruction": "", "input": "", "output": "Puer qu\u012b puellam pulsat improbus est!"}
+{"instruction": "", "input": "", "output": "# DOMINVS ET SERVI"}
+{"instruction": "", "input": "", "output": "# SCAENA PRIMA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: I\u016blius, Aemilia, M\u0113dus.*"}
+{"instruction": "", "input": "", "output": "Sacculus I\u016bli\u012b n\u014dn parvus est."}
+{"instruction": "", "input": "", "output": "In saccul\u014d eius est pec\u016bnia."}
+{"instruction": "", "input": "", "output": "I\u016blius pec\u016bniam in saccul\u014d habet."}
+{"instruction": "", "input": "", "output": "Aemilia sacculum Vid\u0113t Iuliumque interrogat: \"Quot numm\u012b sunt in saccul\u014d tu\u014d?\""}
+{"instruction": "", "input": "", "output": "I\u016blius respondet: \"Centum.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Num h\u012bc centum numm\u012b sunt?\""}
+{"instruction": "", "input": "", "output": "I\u016blius pec\u016bniam numerat: \"\u016anus, duo tr\u0113s, quattuor, qu\u012bnque, sex, septum, oct\u014d, novem, decem. Quid? Decem tantum?\""}
+{"instruction": "", "input": "", "output": "I\u016blius r\u016brsus pec\u016bniam numerat: \"\u016anus, duo, tr\u0113s, quattuor... novem, decem.\""}
+{"instruction": "", "input": "", "output": "Numerus nummorum n\u014dn est centum, sed decum tantum."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Quid? In saccul\u014d me\u014d n\u014dn centum, sed tantum decem numm\u012b sunt! Ubi sunt c\u0113ter\u012b numm\u012b? Serv\u012b me\u012b ubi sunt?\""}
+{"instruction": "", "input": "", "output": "M\u0113dus: \"Servus tuus M\u0113dus h\u012bc est.\""}
+{"instruction": "", "input": "", "output": "I\u016blius servum suum M\u0113dum Vid\u0113t, D\u0101vum n\u014dn Vid\u0113t."}
+{"instruction": "", "input": "", "output": "M\u0113dust adest."}
+{"instruction": "", "input": "", "output": "D\u0101vus n\u014dn adest, sed abest. I\u016blius et Aemilia et M\u0113dus adsunt."}
+{"instruction": "", "input": "", "output": "D\u0101vus c\u0113ter\u012bque serv\u012b absunt."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Quid? \u016anus servus tantum adest! Ubi est D\u0101vus? D\u0101vum voc\u0101!\""}
+{"instruction": "", "input": "", "output": "M\u0113dus D\u0101vum vocat: \"D\u0101ve!\""}
+{"instruction": "", "input": "", "output": "Sed D\u0101vus M\u0113dum n\u014dn audit neque venit."}
+{"instruction": "", "input": "", "output": "M\u0113dus r\u016brsus D\u0101vum vocat: \"Da-\u0101-ve! Ven\u012b!\""}
+{"instruction": "", "input": "", "output": "D\u0101vus venit."}
+{"instruction": "", "input": "", "output": "Iam duo serv\u012b adsunt."}
+{"instruction": "", "input": "", "output": "# SCAENA SECVNDA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: I\u016blius, Aemilia, M\u0113dus, D\u0101vus.*"}
+{"instruction": "", "input": "", "output": "D\u0101vus, qu\u012b dominum suum n\u014dn Vid\u0113t, M\u0113dum interrogat: \"Quid est, M\u0113de?\""}
+{"instruction": "", "input": "", "output": "M\u0113dus: \"St! Dominus adest. Sal\u016bt\u0101 dominum!\""}
+{"instruction": "", "input": "", "output": "Servus dominum sal\u016btat: \"Salv\u0113 domine!\""}
+{"instruction": "", "input": "", "output": "Dominum servum sal\u016btat: \"Salv\u0113, serve!\""}
+{"instruction": "", "input": "", "output": "D\u0101vus: \"Quid est, domine?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"St! Tac\u0113, serve! Tac\u0113 et aud\u012b!\""}
+{"instruction": "", "input": "", "output": "Servus tacet."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"In saccul\u014d me\u014d sunt decem tantum numm\u012b. Ubi sunt c\u0113ter\u012b numm\u012b me\u012b?\""}
+{"instruction": "", "input": "", "output": "D\u0101vus tact, neque respondet."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Respond\u0113 Dave! Dominus t\u0113 interrogat.\""}
+{"instruction": "", "input": "", "output": "D\u0101vus respondet: \"Pec\u016bnia tua h\u012bc n\u014dn est. Interrog\u0101 M\u0113dum!\""}
+{"instruction": "", "input": "", "output": "I\u016blius M\u0113dum interrogat: \"Ubi sunt numm\u012b mei, M\u0113de?\""}
+{"instruction": "", "input": "", "output": "M\u0113dus n\u016bllum verbum respondet."}
+{"instruction": "", "input": "", "output": "I\u016blius r\u016brsus eum interrogat: \"Ubi est pec\u016bnia mea? Respond\u0113, serve!\""}
+{"instruction": "", "input": "", "output": "M\u0113dus D\u0101vum acc\u016bsat: \"Pec\u016bnia tua in saccul\u014d D\u0101v\u012b est. D\u0101vus pec\u016bniam tuam habet.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Aud\u012b, D\u0101ve! M\u0113dus t\u0113 acc\u016bsat.\""}
+{"instruction": "", "input": "", "output": "D\u0101vus: \"Quem M\u0113dus acc\u016bsat? me?\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Tac\u0113, M\u0113de! Servus qu\u012b servum acc\u016bsat improbus est!\""}
+{"instruction": "", "input": "", "output": "M\u0113dus tacet."}
+{"instruction": "", "input": "", "output": "I\u016blius D\u0101vum n\u014dn acc\u016bsat, sed interrogat eum: \"Estne pec\u016bnia mea in saccul\u014d tu\u014d, D\u0101ve?\""}
+{"instruction": "", "input": "", "output": "D\u0101vus: \"In saccul\u014d me\u014d n\u014dn est pec\u016bnia tua, domine.\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Ubis est sacculus tuus?\""}
+{"instruction": "", "input": "", "output": "D\u0101vus: \"H\u012bc est. Evve sacculus meus.\""}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Sacculum tuum in m\u0113ns\u0101 p\u014dne!\""}
+{"instruction": "", "input": "", "output": "D\u0101vus sacculum suum in m\u0113ns\u0101 p\u014dnit."}
+{"instruction": "", "input": "", "output": "Iam sacculus eius in m\u0113ns\u0101 est."}
+{"instruction": "", "input": "", "output": "I\u016blius baculum suum in m\u0113ns\u0101 p\u014dnit."}
+{"instruction": "", "input": "", "output": "Baculum domini in m\u0113ns\u0101 est."}
+{"instruction": "", "input": "", "output": "D\u0101vus: \"Vid\u0113: in saccul\u014d me\u014d n\u016blla pec\u016bnia est.\""}
+{"instruction": "", "input": "", "output": "I\u016blius n\u016bllam pec\u016bniam videt in saccul\u014d."}
+{"instruction": "", "input": "", "output": "In saccul\u014d D\u0101v\u012b n\u016blli numm\u012b sunt."}
+{"instruction": "", "input": "", "output": "Sacculus eius vaccus est."}
+{"instruction": "", "input": "", "output": "D\u0101vus pec\u016bniam domin\u012b n\u014dn habet."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"\u014c! D\u0101vus bonus servus est: pec\u016bniam meam n\u014dn habet. Ecce nummus tuus, D\u0101ve!\""}
+{"instruction": "", "input": "", "output": "I\u016blius \u016bnum nummum p\u014dnit in saccul\u014d D\u0101v\u012b."}
+{"instruction": "", "input": "", "output": "Iam sacculus D\u0101v\u012b n\u014dn est vacuus:"}
+{"instruction": "", "input": "", "output": "in saccul\u014d eius est \u016anus nummus."}
+{"instruction": "", "input": "", "output": "D\u0101vus laetus est."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"S\u016bme sacculum tuum et disc\u0113de, bone serve!\""}
+{"instruction": "", "input": "", "output": "D\u0101vus sacculum suum sumit et disc\u0113dit."}
+{"instruction": "", "input": "", "output": "M\u0113dus baculum, quod in m\u0113ns\u0101 est, Vid\u0113t."}
+{"instruction": "", "input": "", "output": "M\u0113dus quoque disc\u0113dit."}
+{"instruction": "", "input": "", "output": "C\u016br disc\u0113dit M\u0113dus?"}
+{"instruction": "", "input": "", "output": "M\u0113dus disc\u0113dit, quia is pec\u016bniam domini in saccul\u014d su\u014d habet!"}
+{"instruction": "", "input": "", "output": "D\u0101vus et M\u0113dus absunt."}
+{"instruction": "", "input": "", "output": "# SCAENA TERTIA"}
+{"instruction": "", "input": "", "output": "*Pers\u014dnae: I\u016blius, Aemilia.*"}
+{"instruction": "", "input": "", "output": "I\u016blius: \"D\u0101vus bonus servus est. Is n\u014dn habet pec\u016bniam meam. --- Sed ubi est pec\u016bnia mea, M\u0113de? Quis pec\u016bniam meam habet?\""}
+{"instruction": "", "input": "", "output": "M\u0113dus n\u014dn respondet."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Ubi est M\u0113dus? Cur n\u014dn respondet?\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"M\u0113dus n\u014dn respondet, quia abest. N\u016bllus servus adest.\""}
+{"instruction": "", "input": "", "output": "I\u016blius M\u0113dum vocat: \"M\u0113de! Ven\u012b! sed M\u0113dus, qu\u012b abest, eum n\u014dn audit neque venit."}
+{"instruction": "", "input": "", "output": "I\u016blius r\u016brsus vocat: \"M\u0113-de! Ven\u012b, improbe serve!\""}
+{"instruction": "", "input": "", "output": "M\u0113dus n\u014dn venit."}
+{"instruction": "", "input": "", "output": "I\u016blius: \"C\u016br n\u014dn venit M\u0113dus?\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"M\u0113dus n\u014dn venit, quia is habet pec\u016bniam tuam! Eius sacculus n\u014dn est vacuus!\""}
+{"instruction": "", "input": "", "output": "Aemilia r\u012bdet."}
+{"instruction": "", "input": "", "output": "I\u016blius \u012br\u0101tus est---is n\u014dn r\u012bdet!"}
+{"instruction": "", "input": "", "output": "I\u016blius: \"Ubi est baculum meum?\""}
+{"instruction": "", "input": "", "output": "I\u016blius baculum, quod in m\u0113ns\u0101 est, n\u014dn Vid\u0113t."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Ecce baculum in m\u0113ns\u0101.\""}
+{"instruction": "", "input": "", "output": "I\u016blius baculum suum s\u016bmit et disc\u0113dit."}
+{"instruction": "", "input": "", "output": "Ecce v\u012blla et hortus I\u016bli\u012b."}
+{"instruction": "", "input": "", "output": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat."}
+{"instruction": "", "input": "", "output": "Pater et m\u0101ter et tr\u0113s l\u012bber\u012b in vill\u0101 habitant."}
+{"instruction": "", "input": "", "output": "Il\u016bius et Aemilia tr\u0113s l\u012bber\u014ds habent: du\u014ds fili\u014ds et \u016bnam filiam -- n\u014dn du\u0101s fili\u0101s."}
+{"instruction": "", "input": "", "output": "In v\u012bll\u0101 mult\u012b serv\u012b habitant."}
+{"instruction": "", "input": "", "output": "Dominus e\u014drum est I\u016blius: is mult\u014ds serv\u014ds habet."}
+{"instruction": "", "input": "", "output": "Ancillae quoque multae in v\u012bll\u0101 habitant."}
+{"instruction": "", "input": "", "output": "Domina e\u0101rum est Aemilia: ea mult\u0101s ancill\u0101s habet."}
+{"instruction": "", "input": "", "output": "I\u016blius in v\u012bll\u0101 su\u0101 habitat cum magn\u0101 famili\u0101."}
+{"instruction": "", "input": "", "output": "Pater et m\u0101ter habitant cum M\u0101rco et Qu\u012bnt\u014d et I\u016bli\u0101."}
+{"instruction": "", "input": "", "output": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum l\u012bber\u012bs et serv\u012bs et ancill\u012bs."}
+{"instruction": "", "input": "", "output": "Villa I\u016bli\u012b in magn\u014d hort\u014d est."}
+{"instruction": "", "input": "", "output": "In Itali\u0101 sunt multae v\u012bllae cum magn\u012bs hort\u012bs."}
+{"instruction": "", "input": "", "output": "In hort\u012bs sunt rosae et l\u012blia."}
+{"instruction": "", "input": "", "output": "I\u016blius mult\u0101s ros\u0101s et multa l\u012blia in hort\u014d su\u014d habet."}
+{"instruction": "", "input": "", "output": "Hortus I\u016bli\u012b pulcher est, quia in e\u014d sunt multae et pulchrae rosae l\u012bliaque."}
+{"instruction": "", "input": "", "output": "Aemilia f\u0113mina pulchra est."}
+{"instruction": "", "input": "", "output": "Syra n\u014dn est f\u0113mina pulchra, neque pulcher est n\u0101sus eius, sed foedus est."}
+{"instruction": "", "input": "", "output": "Syra, quae bona ancilla est, n\u0101sum magnum et foedum habet."}
+{"instruction": "", "input": "", "output": "I\u016blius est vir Aemiliae, f\u0113minae pulchrae."}
+{"instruction": "", "input": "", "output": "I\u016blius Aemiliam amat, quia ea pulchra et bona f\u0113mina est."}
+{"instruction": "", "input": "", "output": "Aemilia I\u016blium virum suum amat et cum e\u014d habitat."}
+{"instruction": "", "input": "", "output": "Pater et m\u0101ter l\u012bber\u014ds su\u014ds amant."}
+{"instruction": "", "input": "", "output": "I\u016blius n\u014dn s\u014dlus, sed cum Aemili\u0101 et cum magn\u0101 famili\u0101 in v\u012bll\u0101 habitat."}
+{"instruction": "", "input": "", "output": "In v\u012bll\u0101 sunt duo \u014dstia: \u014dstium magnum et \u014dstium parvum."}
+{"instruction": "", "input": "", "output": "V\u012blla duo \u014dstia et mult\u0101s fenestr\u0101s habet."}
+{"instruction": "", "input": "", "output": "In vill\u0101 I\u016bli\u012b magnum \u0101trium est cum impluvi\u014d."}
+{"instruction": "", "input": "", "output": "Quid est in impluvi\u014d? In e\u014d est aqua."}
+{"instruction": "", "input": "", "output": "In \u0101tri\u014d n\u016bllae fenestrae sunt."}
+{"instruction": "", "input": "", "output": "Etiam perist\u0233lum magnum et pulchrum in v\u012bll\u0101 est."}
+{"instruction": "", "input": "", "output": "'Perist\u0233lum' est voc\u0101bulum Graecum."}
+{"instruction": "", "input": "", "output": "In v\u012bll\u012bs Graec\u012bs et R\u014dm\u0101n\u012bs magna et pulchra perist\u0233la sunt."}
+{"instruction": "", "input": "", "output": "Estne impluvium in perist\u0233l\u014d? Id n\u014dn in perist\u0233l\u014d, sed in \u0101tri\u014d est."}
+{"instruction": "", "input": "", "output": "In perist\u0233l\u014d parvus hortus est."}
+{"instruction": "", "input": "", "output": "In v\u012bll\u0101 sunt multa cubicula."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus in cubicul\u014d parv\u014d dormit."}
+{"instruction": "", "input": "", "output": "Estne magnum cubiculum M\u0101rc\u012b? Id quoque parvum est."}
+{"instruction": "", "input": "", "output": "I\u016blius et Aemilia in cubicul\u014d magn\u014d dormiunt."}
+{"instruction": "", "input": "", "output": "Ubi dormiunt serv\u012b? I\u012b quoque in cubicul\u012bs dormiunt."}
+{"instruction": "", "input": "", "output": "Suntne magna e\u014drum cubicula? Ea n\u014dn magna sunt, et mult\u012b serv\u012b in \u016bno cubicul\u014d dormiunt."}
+{"instruction": "", "input": "", "output": "Etiam ancillae multae in \u016bno cubicul\u014d dormiunt, neque eae magna cubicula habent."}
+{"instruction": "", "input": "", "output": "Aemilia in perist\u0233l\u014d est."}
+{"instruction": "", "input": "", "output": "Estne s\u014dla? Aemilia s\u014dla n\u014dn est: l\u012bber\u012b cum e\u0101 in perist\u0233l\u014d adsunt."}
+{"instruction": "", "input": "", "output": "I\u016blius abest."}
+{"instruction": "", "input": "", "output": "Aemilia sine vir\u014d su\u014d I\u016bli\u014d in v\u012bll\u0101 est."}
+{"instruction": "", "input": "", "output": "Ubi est Il\u016bius? In opid\u014d T\u016bscul\u014d est sine Aemili\u0101, sed cum serv\u012bs quattuor."}
+{"instruction": "", "input": "", "output": "Aemilia cum M\u0101rc\u00f5, Qu\u012bnt\u014d I\u016bli\u0101que in perist\u0233l\u014d est."}
+{"instruction": "", "input": "", "output": "I\u016bli\u0101 ros\u0101s pulchr\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit."}
+{"instruction": "", "input": "", "output": "Iam ea cum Aemili\u0101 n\u014dn est. Aemilia eam n\u014dn videt."}
+{"instruction": "", "input": "", "output": "Puella in hort\u014d est."}
+{"instruction": "", "input": "", "output": "Aemilia imperat: \"M\u0101rce et Qu\u012bnte! I\u016bliuam voc\u0101te!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus et Qu\u012bntus I\u016bliam vocant: \"I\u016blia! Ven\u012b!\" sed I\u016blia e\u014ds n\u014dn audit neque venit."}
+{"instruction": "", "input": "", "output": "I\u016blia puer\u014ds vocat: \"M\u0101rce et Qu\u012bnte! Ven\u012bte! H\u012bc multae rosae sunt.\""}
+{"instruction": "", "input": "", "output": "Puer\u012b I\u016bliam audiunt, neque i\u012b ab Aemili\u0101 disc\u0113dunt."}
+{"instruction": "", "input": "", "output": "Qu\u012bntus: \"Carpe ros\u0101s, I\u016blia!\""}
+{"instruction": "", "input": "", "output": "I\u016blia ros\u0101s carpit et cum qu\u012bnque ros\u012bs ex hort\u014d venit."}
+{"instruction": "", "input": "", "output": "I\u016blia: \"Vid\u0113, m\u0101ter! Vid\u0113te, puer\u012b! Vid\u0113te ros\u0101s me\u0101s!\" I\u016blia laeta est, rosae eam d\u0113lectant."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Ecce puella pulchra cum ros\u012bs pulchr\u012bs!\""}
+{"instruction": "", "input": "", "output": "Verba Aemiliae I\u016bliam d\u0113lectant."}
+{"instruction": "", "input": "", "output": "M\u0101rcus: \"Rosae pulchrae sunt; puella sine ros\u012bs pulchra n\u014dn est!\" Verba M\u0101rc\u012b I\u016bliam n\u014dn d\u0113lectant!"}
+{"instruction": "", "input": "", "output": "Aemilia (ir\u0101ta): \"Tac\u0113, puer improbe! I\u016blia puella pulchra est -- cum ros\u012bs et sine ros\u012bs.\""}
+{"instruction": "", "input": "", "output": "I\u016blia: \"Aud\u012bte, M\u0101rce et Qu\u012bnte!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus: \"M\u0101ter n\u014dn videt n\u0101sum tuum foedum!\""}
+{"instruction": "", "input": "", "output": "M\u0101rcus et Qu\u012bntus r\u012bdent: \"Hahahae!\""}
+{"instruction": "", "input": "", "output": "I\u016blia: \"Aud\u012b, mamma: puer\u012b etiam m\u0113 r\u012bdent!\""}
+{"instruction": "", "input": "", "output": "I\u016blia pl\u014drat et cum \u016bn\u0101 ros\u0101 ab i\u012bs disc\u0113dit."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Tac\u0113te, puer\u012b improb\u012b! N\u0101sus I\u016bliae foedus n\u014dn est. Disc\u0113dite ex perist\u0233l\u014d! S\u016bmite c\u0113ter\u0101s ros\u0101s easque in aqu\u0101 p\u014dnite!\""}
+{"instruction": "", "input": "", "output": "Puer\u012b c\u0113ter\u0101s quattuor ros\u0101s s\u016bmunt et cum i\u012bs disc\u0113dunt."}
+{"instruction": "", "input": "", "output": "Aemilia, quae iam s\u014dla est in perist\u0233l\u014d, ancill\u0101s vocat: \"D\u0113lia et Syra! Ven\u012bte!\""}
+{"instruction": "", "input": "", "output": "D\u0113lia et Syra ex \u0101tri\u014d vuniunt. Aemilia e\u0101s interrogat: \"Suntne puer\u012b in \u0101tri\u014d?\""}
+{"instruction": "", "input": "", "output": "D\u0113lia respondet: \"In \u0101tri\u014d sunt.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Quid agunt M\u0101rcus et Qu\u012bntus?\""}
+{"instruction": "", "input": "", "output": "D\u0113lia: \"Puer\u012b aquam s\u016bmunt ex impluvium...\""}
+{"instruction": "", "input": "", "output": "Syra: \"...et ros\u0101s in aqu\u0101 p\u014dnunt.\""}
+{"instruction": "", "input": "", "output": "H\u012bc domina et ancillae puer\u014ds audiunt ex \u0101tri\u014d: Qu\u012bntus pl\u014drat et M\u0101rcus r\u012bdet."}
+{"instruction": "", "input": "", "output": "Aemilia: \"Quid iam agunt puer\u012b? Age, D\u0113lia! disc\u0113de et interrog\u0101 e\u014ds!\" D\u0113lia ab Aemili\u0101 et Syr\u0101 disc\u0113dit."}
+{"instruction": "", "input": "", "output": "Aemilia Syram interrogat: \"Ubi est D\u0101vus?\""}
+{"instruction": "", "input": "", "output": "Syra respondet: \"In oppid\u014d est cum domin\u014d.\""}
+{"instruction": "", "input": "", "output": "D\u0113lia ex \u0101tri\u014d venit et dominam vocat: \"Ven\u012b, \u014d domina! Ven\u012b!\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Quid est, D\u0113lia?\""}
+{"instruction": "", "input": "", "output": "D\u0113lia: \"Qu\u012bntus est in impluvi\u014d!\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"In impluvi\u014d? Quid agit puer in impluvi\u014d?\""}
+{"instruction": "", "input": "", "output": "D\u0113lia: \"Aquam pulsat et t\u0113 vocat.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"Quid agit M\u0101rcus?\""}
+{"instruction": "", "input": "", "output": "D\u0113lia: \"Is r\u012bdet, quia Qu\u012bntus in aqu\u0101 est!\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"\u014c, puer improbus est M\u0101rcus! Agite! I\u016blium voc\u0101te, ancillae!\""}
+{"instruction": "", "input": "", "output": "Syra: \"Sed dominus in oppid\u014d est.\""}
+{"instruction": "", "input": "", "output": "Aemilia: \"\u014c, iam r\u016brsus abest I\u016blius!\""}
+{"instruction": "", "input": "", "output": "D\u0113lia: \"Age! Ven\u012b, domina, et M\u0101rcum verber\u0101!\""}
+{"instruction": "", "input": "", "output": "Quid agit domina? Domina \u012brata cum ancill\u012bs ex perist\u0233l\u014d disc\u0113dit."}
