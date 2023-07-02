@@ -1,0 +1,126 @@
+[
+    {
+        "q": "1. 'Alt|us -a -um' est # pr\u012bmae et secundae d\u0113cl\u012bn\u0101ti\u014dnis.",
+        "a": [
+            "adiect\u012bvum"
+        ]
+    },
+    {
+        "q": "2. N\u014dm.\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+        "a": [
+            "us",
+            "a",
+            "um",
+            "\u012b",
+            "ae",
+            "a"
+        ]
+    },
+    {
+        "q": "3. Acc.\t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+        "a": [
+            "um",
+            "am",
+            "um",
+            "\u014ds",
+            "\u0101s",
+            "a"
+        ]
+    },
+    {
+        "q": "4. Gen.\t\talt|#\talt|#\talt|#\t\talt|#\talt|#\talt|#",
+        "a": [
+            "\u012b",
+            "ae",
+            "\u012b",
+            "\u014drum",
+            "\u0101rum",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "5. Dat. \t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+        "a": [
+            "\u014d",
+            "ae",
+            "\u014d",
+            "\u012bs",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. Abl. \t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+        "a": [
+            "\u014d",
+            "\u0101",
+            "\u014d",
+            "\u012bs",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "7. Voc. \talt|#",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "8. Mascul\u012bnum: 'alt|us' est # # , 'alt|um' # #, 'alt|\u014ds' # pl\u016br\u0101lis, 'alt|\u012b' # singul\u0101ris aut # pl\u016br\u0101lis, 'alt|e' # #.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "singul\u0101ris",
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris",
+            "acc\u016bs\u0101t\u012bvus",
+            "genet\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "voc\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "9. F\u0113min\u012bnum: 'alt|a' est # singul\u0101ris, 'alt|am' # #, 'alt|\u0101s' # #, 'alt|ae' # aut # singul\u0101ris aut # pl\u016br\u0101lis, 'alt|\u0101' # #, 'alt|\u0101rum' # #.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris",
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis",
+            "genet\u012bvus",
+            "dat\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "abl\u0101t\u012bvus",
+            "singul\u0101ris",
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "10. Neutrum: 'alt|um' est # aut # singul\u0101ris, 'alt|a' # aut # pl\u016br\u0101lis.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "11. Mascul\u012bnum et neutrum: ''alt|\u012b est # singul\u0101ris, 'alt|\u014d' # aut # singul\u0101ris, 'alt|\u014drum' # #.",
+        "a": [
+            "genet\u012bvus",
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus",
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "12. 'Alt|\u012bs' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    }
+]

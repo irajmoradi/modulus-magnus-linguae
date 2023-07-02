@@ -1,0 +1,28 @@
+[
+    {
+        "q": "1. 'Ambul\u0101t|um' # est. 'Aud\u012bt|\u016b' quoque # est.",
+        "a": [
+            "sup\u012bnum",
+            "sup\u012bnum"
+        ]
+    },
+    {
+        "q": "2. Sup\u012bnum alterum in -# d\u0113sinit, alterum in -#.",
+        "a": [
+            "um",
+            "\u016b"
+        ]
+    },
+    {
+        "q": "3. Sup\u012bnum in -um d\u0113sin\u0113ns p\u014dnitur apud verba '#', 'ven\u012bre', 'mittere', c\u0113t.",
+        "a": [
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "4. Alterum sup\u012bnum, quod in -\u016b d\u0113sinit, apud adiect\u012bva '#' et 'difficilis' et pauca alia p\u014dnitur.",
+        "a": [
+            "facilis"
+        ]
+    }
+]

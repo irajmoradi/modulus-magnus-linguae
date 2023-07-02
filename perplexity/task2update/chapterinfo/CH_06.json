@@ -1,0 +1,1260 @@
+{
+    "id": 5,
+    "name": "CAPITVLVM VI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # Fl\u0101minia est # R\u014dmam et Ar\u012bminum.",
+                    "a": [
+                        "Via",
+                        "inter"
+                    ]
+                },
+                {
+                    "q": "2. V\u012blla I\u016bli\u012b # T\u016bsculum est, neque # \u0101 R\u014dm\u0101.",
+                    "a": [
+                        "prope",
+                        "procul"
+                    ]
+                },
+                {
+                    "q": "3. Ab oppid\u014d # v\u012bllam n\u014dn longa via est.",
+                    "a": [
+                        "ad"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius ab oppid\u014d ad v\u012bllam #.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. V\u012blla est # eum, oppidum # eum est.",
+                    "a": [
+                        "ante",
+                        "post"
+                    ]
+                },
+                {
+                    "q": "6. Dominus et quattuor serv\u012b ad v\u012bllam #.",
+                    "a": [
+                        "eunt"
+                    ]
+                },
+                {
+                    "q": "7. Serv\u012b in vi\u0101 #; dominus in # est neque ambulat.",
+                    "a": [
+                        "ambulant",
+                        "lect\u012bc\u0101"
+                    ]
+                },
+                {
+                    "q": "8. Duo serv\u012b lect\u012bcam cum domin\u014d #.",
+                    "a": [
+                        "portant"
+                    ]
+                },
+                {
+                    "q": "9. Syrus et L\u0113ander du\u014ds # in # portant.",
+                    "a": [
+                        "sacc\u014ds",
+                        "umer\u012bs"
+                    ]
+                },
+                {
+                    "q": "10. # venit I\u016blius? Ab oppid\u014d venit. ",
+                    "a": [
+                        "Unde"
+                    ]
+                },
+                {
+                    "q": "11. # it I\u016blius? Ad v\u012bllam it.",
+                    "a": [
+                        "Qu\u014d"
+                    ]
+                },
+                {
+                    "q": "12. Duo serv\u012b dominum ab oppid\u014d ad v\u012bllam # [= portant].",
+                    "a": [
+                        "vehunt"
+                    ]
+                },
+                {
+                    "q": "13. Dominus s\u014dlus n\u014dn est, # quattuor serv\u012b # eum sunt.",
+                    "a": [
+                        "nam",
+                        "apud"
+                    ]
+                },
+                {
+                    "q": "14. M\u0113dus numm\u014ds I\u016bli\u012b habet; # is n\u014dn est cum domin\u014d.",
+                    "a": [
+                        "itaque"
+                    ]
+                },
+                {
+                    "q": "15. M\u0113dus dominum \u012br\u0101tum #.",
+                    "a": [
+                        "timet"
+                    ]
+                },
+                {
+                    "q": "16. M\u0113dus servus # est. D\u0101vus # [= sed D.] servus bonus est.",
+                    "a": [
+                        "malus",
+                        "autem"
+                    ]
+                },
+                {
+                    "q": "17. D\u0101vus M\u0113dum n\u014dn amat: D\u0101vus # M\u0113d\u012b n\u014dn est.",
+                    "a": [
+                        "am\u012bcus"
+                    ]
+                },
+                {
+                    "q": "18. D\u0101vus et M\u0113dus n\u014dn am\u012bc\u012b, sed # sunt.",
+                    "a": [
+                        "inim\u012bc\u012b"
+                    ]
+                },
+                {
+                    "q": "19. Via Lat\u012bna n\u014dn tam # est quam via Appia.",
+                    "a": [
+                        "longa"
+                    ]
+                },
+                {
+                    "q": "20. In # R\u014dm\u0101n\u014d ant\u012bqu\u014d sunt # [XII] #.",
+                    "a": [
+                        "m\u016br\u014d",
+                        "duodecim",
+                        "portae"
+                    ]
+                },
+                {
+                    "q": "21. # T\u016bsculum m\u016brus n\u014dn # longus est # circum R\u014dmam.",
+                    "a": [
+                        "Circum",
+                        "tam",
+                        "quam"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi est via Lat\u012bna? ...",
+                    "a": [
+                        "Via Lat\u012bna est inter R\u014dmam et Capuam"
+                    ]
+                },
+                {
+                    "q": "2. Quid est Capua? ...",
+                    "a": [
+                        "Capua est oppidum R\u014dm\u0101num"
+                    ]
+                },
+                {
+                    "q": "3. Num fluvius Tiberis tam longus est quam N\u012blus? ...",
+                    "a": [
+                        "Tiberis n\u014dn tam longus est quam N\u012blus"
+                    ]
+                },
+                {
+                    "q": "4. Estne T\u016bsculum procul \u0101 R\u014dm\u0101? ...",
+                    "a": [
+                        "T\u016bsculum prope R\u014dmam est"
+                    ]
+                },
+                {
+                    "q": "5. Ubi est v\u012blla I\u016bli\u012b? ...",
+                    "a": [
+                        "V\u012blla I\u016bli\u012b est prope T\u016bsculum"
+                    ]
+                },
+                {
+                    "q": "6. Ubi est I\u016blius? ...",
+                    "a": [
+                        "I\u016blius inter v\u012bllam et oppidum est"
+                    ]
+                },
+                {
+                    "q": "7. Ambulatne I\u016blius? ...",
+                    "a": [
+                        "n\u014dn ambulat, serv\u012b eum vehunt"
+                    ]
+                },
+                {
+                    "q": "8. Quot serv\u012b apud dominum sunt? ...",
+                    "a": [
+                        "quattuor serv\u012b apud eum sunt"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b lect\u012bcam portant? ...",
+                    "a": [
+                        "Ursus et D\u0101vus lect\u012bcam portant"
+                    ]
+                },
+                {
+                    "q": "10. Quid portant Syrus et L\u0113ander? ...",
+                    "a": [
+                        "Syrus et L\u0113ander sacc\u014ds portant"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u014d it I\u016blius? ...",
+                    "a": [
+                        "I\u016blius ad v\u012bllam suam it"
+                    ]
+                },
+                {
+                    "q": "12. Unde venit I\u016blius? ...",
+                    "a": [
+                        "I\u016blius ab oppid\u014d T\u016bscul\u014d venit"
+                    ]
+                },
+                {
+                    "q": "13. C\u016br M\u0113dus apud dominum n\u014dn est? ...",
+                    "a": [
+                        "... quia M\u0113dus dominum timet"
+                    ]
+                },
+                {
+                    "q": "14. Suntne am\u012bc\u012b M\u0113dus et D\u0101vus? ...",
+                    "a": [
+                        "n\u014dn am\u012bc\u012b, sed inim\u012bc\u012b sunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius n\u014dn # v\u012bll\u0101, sed # oppid\u014d venit.",
+                    "a": [
+                        "\u0101|ab",
+                        "ab"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia # Aemili\u0101 et # puer\u012bs disc\u0113dit.",
+                    "a": [
+                        "ab",
+                        "\u0101|ab"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius # \u016bn\u014d ad decem numerat, neque # decem ad centum.",
+                    "a": [
+                        "ab",
+                        "\u0101|ab"
+                    ]
+                },
+                {
+                    "q": "4. M\u0113dus # domin\u014d disc\u0113dit, D\u0101vus # e\u014d n\u014dn disc\u0113dit.",
+                    "a": [
+                        "\u0101|ab",
+                        "ab"
+                    ]
+                },
+                {
+                    "q": "5. Britannia est procul # Itali\u0101 et # R\u014dm\u0101.",
+                    "a": [
+                        "ab",
+                        "\u0101|ab"
+                    ]
+                },
+                {
+                    "q": "6. Imperium R\u014dm\u0101num est # Hisp\u0101ni\u0101 ad Arabiam et # Britanni\u0101 ad \u0100fricam.",
+                    "a": [
+                        "ab",
+                        "\u0101|ab"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Via Appia est inter R\u014dm# et Brundisi#.",
+                    "a": [
+                        "am",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "2. Inter oppid# sunt viae. Circum multa oppid# sunt m\u016br\u012b.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. V\u012blla I\u016bli\u012b est prope oppid# T\u016bscul#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "4. Inter oppid# et v\u012bll# n\u014dn longa via est. ",
+                    "a": [
+                        "um",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blius ab oppid# T\u016bscul# ad v\u012bll# su# it.",
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. Dominus in lect\u012bc# est inter du# serv#.",
+                    "a": [
+                        "\u0101",
+                        "\u014ds|o",
+                        "\u014ds"
+                    ]
+                },
+                {
+                    "q": "7. Ursus est ante domin#, D\u0101vus post e# est.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "8. Quattuor serv\u012b apud domin# (= cum domin#) sunt.",
+                    "a": [
+                        "um",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "9, Aemilia in v\u012bll# est sine vir# su# I\u016bli#.",
+                    "a": [
+                        "\u0101",
+                        "\u014d",
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "10. Puer\u012b apud Aemili# sunt neque ab e# disc\u0113dunt.",
+                    "a": [
+                        "am",
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blia ex hort# ad Aemili# venit cum qu\u012bnque ros#.",
+                    "a": [
+                        "\u014d",
+                        "am",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "12. 'Ab', n\u014dn '\u0101', ante litter# a-, e-, i-, o-, u-, h-!",
+                    "a": [
+                        "\u0101s"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Serv\u012b # sacc\u014ds portant sunt Syrus et L\u0113ander.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "2. Sacc\u012b # serv\u012b portant n\u014dn parv\u012b sunt.",
+                    "a": [
+                        "qu\u014ds"
+                    ]
+                },
+                {
+                    "q": "3. Saccus # L\u0113ander portat est magnus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "4. Servus # magnum saccum portat laetus n\u014dn est.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Dominus # serv\u012b vehunt est I\u016blius.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "6. Serv\u012b # I\u016blium vehunt sunt Ursus et D\u0101vus.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Serv\u012b # dominus vocat ad eum veniunt.",
+                    "a": [
+                        "qu\u014ds"
+                    ]
+                },
+                {
+                    "q": "8. Dominus verberat serv\u014ds # n\u014dn p\u0101rent.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "9. Serv\u012b # dominus verberat improb\u012b sunt.",
+                    "a": [
+                        "qu\u014ds"
+                    ]
+                },
+                {
+                    "q": "10. Numm\u012b # M\u0113dus in saccul\u014d su\u014d habet I\u016bli\u012b sunt.",
+                    "a": [
+                        "qu\u014ds"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu\u014d it M\u0113dus? M\u0113dus R\u014dm# it, nam am\u012bca eius R\u014dm# habitat.",
+                    "a": [
+                        "am",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "2. Unde venit Corn\u0113lius? Corn\u0113lius R\u014dm# venit.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u014d it Corn\u0113lius? Corn\u0113lius T\u016bscul# it, nam is T\u016bscul# habitat.",
+                    "a": [
+                        "um",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "4. Unde venit M\u0113dus? M\u0113dus T\u016bscul# venit.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "5. M\u0113dus T\u016bscul# R\u014dm# it.",
+                    "a": [
+                        "\u014d",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. Corn\u0113lius R\u014dm# T\u016bscul# it.",
+                    "a": [
+                        "\u0101",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Iam M\u0113dus R\u014dm# apud am\u012bcam suam est.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "8. Ubi est Corn\u0113lius? T\u016bscul# est apud familiam suam.",
+                    "a": [
+                        "\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dominus n\u014dn ambul#, sed \u0101 serv\u012bs port#.",
+                    "a": [
+                        "at",
+                        "\u0101tur"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius Aemiliam am# et ab Aemili\u0101 am#.",
+                    "a": [
+                        "at",
+                        "\u0101tur"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius et Aemilia l\u012bber\u014ds su\u014ds am# et ab i\u012bs am#.",
+                    "a": [
+                        "ant",
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "4. Serv\u012b mal\u012b dominum tim# neque \u0101 domin\u014d tim#.",
+                    "a": [
+                        "ent",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "5. Qu\u012bntus M\u0101rcum vid# neque ab e\u014d vid#.",
+                    "a": [
+                        "et",
+                        "\u0113tur"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus M\u0101rcum puls# et ab e\u014d puls#.",
+                    "a": [
+                        "at",
+                        "\u0101tur"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012bntus I\u016blium voc# neque ab e\u014d aud#.",
+                    "a": [
+                        "at",
+                        "\u012btur"
+                    ]
+                },
+                {
+                    "q": "8. Puer\u012b I\u016bliam voc# neque ab e\u0101 aud#.",
+                    "a": [
+                        "ant",
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "9.Equus Corn\u0113lium veh#; I\u016blius n\u014dn equ\u014d, sed lect\u012bc\u0101 veh#.",
+                    "a": [
+                        "it",
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "10. Domin\u012b veh#, serv\u012b ambul#.",
+                    "a": [
+                        "untur",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "11. F\u0113minae ros\u012bs d\u0113lect#.",
+                    "a": [
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius numm\u014ds in m\u0113ns\u0101 p\u014dn# et numer#.",
+                    "a": [
+                        "it",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "13. Numm\u012b \u0101 I\u016bli\u014d in m\u0113ns\u0101 p\u014dn# et numer#.",
+                    "a": [
+                        "untur",
+                        "antur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nDominus servum vocat = servus \u0101 domin\u014d voc\u0101tur.\n",
+            "questions": [
+                {
+                    "q": "1. Ancilla dominum sal\u016btat = dominus # # #",
+                    "a": [
+                        "ab",
+                        "ancill\u0101",
+                        "sal\u016bt\u0101tur"
+                    ]
+                },
+                {
+                    "q": "2. Dominus \u0101 serv\u012bs sal\u016bt\u0101tur = serv\u012b # # ",
+                    "a": [
+                        "dominum",
+                        "sal\u016btant"
+                    ]
+                },
+                {
+                    "q": "3. Dominus serv\u014ds interrogat = # # # #",
+                    "a": [
+                        "serv\u012b",
+                        "\u0101|ab",
+                        "domin\u014d",
+                        "interrogantur"
+                    ]
+                },
+                {
+                    "q": "4. D\u0101vus acc\u016bs\u0101tur \u0101 M\u0113d\u014d = # # #",
+                    "a": [
+                        "M\u0113dus",
+                        "D\u0101vum",
+                        "acc\u016bsat"
+                    ]
+                },
+                {
+                    "q": "5. D\u0101vus sacculum in m\u0113ns\u0101 p\u014dnit = # # # # # # ",
+                    "a": [
+                        "sacculus",
+                        "in",
+                        "m\u0113ns\u0101",
+                        "p\u014dnitur",
+                        "\u0101|ab",
+                        "D\u0101v\u014d"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius \u0101 M\u0113d\u014d tim\u0113tur = # # #",
+                    "a": [
+                        "M\u0113dus",
+                        "I\u016blium",
+                        "timet"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius M\u0113dum vocat = # # # #",
+                    "a": [
+                        "M\u0113dus",
+                        "\u0101|ab",
+                        "I\u016bli\u014d",
+                        "voc\u0101tur"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blia \u0101 puer\u012bs voc\u0101tur = # # #",
+                    "a": [
+                        "puer\u012b",
+                        "I\u016bliam",
+                        "vocant"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blia puer\u014ds n\u014dn audit = # # # # #",
+                    "a": [
+                        "puer\u012b",
+                        "\u0101|ab",
+                        "I\u016bli\u0101",
+                        "n\u014dn",
+                        "audiuntur"
+                    ]
+                },
+                {
+                    "q": "10. Puer\u012b vocantur \u0101 I\u016bli\u0101 = # # #",
+                    "a": [
+                        "I\u016blia",
+                        "puer\u014ds",
+                        "vocat"
+                    ]
+                },
+                {
+                    "q": "11. Serv\u012b improb\u012b dominum \u012br\u0101tum timent = # # # # # #",
+                    "a": [
+                        "dominus",
+                        "\u012br\u0101tus",
+                        "\u0101|ab",
+                        "serv\u012bs",
+                        "improb\u012bs",
+                        "tim\u0113tur"
+                    ]
+                },
+                {
+                    "q": "12. Serv\u012b improb\u012b \u0101 domin\u014d \u012br\u0101t\u014d verberantur = # # # # #",
+                    "a": [
+                        "dominus",
+                        "\u012br\u0101tus",
+                        "serv\u014ds",
+                        "improb\u014ds",
+                        "verberat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Corn\u0113lius equ# vehitur.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius lect\u012bc# vehitur.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia verb# Aemiliae d\u0113lect\u0101tur.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "4. Dominus servum improbum bacul# verberat.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Serv\u012b sacc\u014ds umer# portant.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "6. Serv\u012b dominum lect\u012bc# vehunt.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "7. M\u0113dus vi# Lat\u012bn# T\u016bscul\u014d R\u014dmam it.",
+                    "a": [
+                        "\u0101",
+                        "\u0101"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Corn\u0113lius n\u014dn ambulat, sed # vehitur.",
+                    "a": [
+                        "equ\u014d"
+                    ]
+                },
+                {
+                    "q": "2. T\u016bsculum, # Corn\u0113lius habitat, prope R\u014dmam est.",
+                    "a": [
+                        "ubi"
+                    ]
+                },
+                {
+                    "q": "3. Serv\u012b qu\u012b magnam lect\u012bcam portant # sunt.",
+                    "a": [
+                        "fess\u012b"
+                    ]
+                },
+                {
+                    "q": "4. L\u0233dia est # M\u0113d\u012b, quae R\u014dmae habitat.",
+                    "a": [
+                        "am\u012bca"
+                    ]
+                },
+                {
+                    "q": "5. M\u0113dus \u014dstium L\u0233diae #. L\u0233dia: \"#!\" ",
+                    "a": [
+                        "pulsat",
+                        "Intr\u0101"
+                    ]
+                },
+                {
+                    "q": "6. M\u0113dus # \u014dstium intrat et am\u012bcam suam sal\u016btat.",
+                    "a": [
+                        "per"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi habitat Corn\u0113lius? ...",
+                    "a": [
+                        "Corn\u0113lius T\u016bscul\u012b habitat"
+                    ]
+                },
+                {
+                    "q": "2. Unde Corn\u0113lius venit et qu\u014d it? ...",
+                    "a": [
+                        "R\u014dm\u0101 venit et T\u016bsculum it"
+                    ]
+                },
+                {
+                    "q": "3. Ambulatne Corn\u0113lius? ...",
+                    "a": [
+                        "Corn\u0113lius equ\u014d vehitur"
+                    ]
+                },
+                {
+                    "q": "4. C\u016br M\u0113dus equ\u014d n\u014dn vehitur? ...",
+                    "a": [
+                        "... quia servus est neque equum habet"
+                    ]
+                },
+                {
+                    "q": "5. C\u016br laetus est M\u0113dus? ...",
+                    "a": [
+                        "... quia ad am\u012bcam suam it"
+                    ]
+                },
+                {
+                    "q": "6. Quae est L\u0233dia? ...",
+                    "a": [
+                        "L\u0233dia est am\u012bca M\u0113d\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Ubi L\u0233dia habitat? ...",
+                    "a": [
+                        "L\u0233dia R\u014dmae habitat"
+                    ]
+                },
+                {
+                    "q": "8. C\u016br Ursus et D\u0101vus fess\u012b sunt? ...",
+                    "a": [
+                        "... quia magn\u014ds sacc\u014ds portant"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br I\u016blius fessus n\u014dn est? ...",
+                    "a": [
+                        "... quia lect\u012bc\u0101 vehitur"
+                    ]
+                },
+                {
+                    "q": "10. Qu\u012b I\u016blium sal\u016btant? ...",
+                    "a": [
+                        "l\u012bber\u012b eum sal\u016btant"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Am\u0101|tur', 'ama|ntur' n\u014dn verbum \u0101ct\u012bvum, sed # est.",
+                    "a": [
+                        "pass\u012bvum"
+                    ]
+                },
+                {
+                    "q": "2. 'Ama|t', 'ama|nt' n\u014dn verbum pass\u012bvum, sed # est.",
+                    "a": [
+                        "\u0101ct\u012bvum"
+                    ]
+                },
+                {
+                    "q": "3. 'Vide|t', 'vide|nt' quoque verbum # est; 'vid\u0113|tur', 'vide|ntur' est verbum #.",
+                    "a": [
+                        "\u0101ct\u012bvum",
+                        "pass\u012bvum"
+                    ]
+                },
+                {
+                    "q": "4. 'P\u014dn|it', 'p\u014dn|unt' \u0101ct\u012bvum est; 'p\u014dn|itur', 'p\u014dn|untur' # est.",
+                    "a": [
+                        "pass\u012bvum"
+                    ]
+                },
+                {
+                    "q": "5. 'Audi|t', 'audi|unt' # est; 'aud\u012b|tur', 'audi|untur' est #.",
+                    "a": [
+                        "\u0101ct\u012bvum",
+                        "pass\u012bvum"
+                    ]
+                },
+                {
+                    "q": "6. \u0100ct\u012bvum: singul\u0101ris: voc#, tim#, veh#, aud#; pl\u016br\u0101lis: voc#, tim#, veh#, aud#.",
+                    "a": [
+                        "at",
+                        "et",
+                        "it",
+                        "it",
+                        "ant",
+                        "ent",
+                        "unt",
+                        "iunt"
+                    ]
+                },
+                {
+                    "q": "7. Pass\u012bvum: singul\u0101ris: voc#, tim#, veh#, aud#; pl\u016br\u0101lis: voc#, tim#, veh#, aud#.",
+                    "a": [
+                        "\u0101tur",
+                        "\u0113tur",
+                        "itur",
+                        "\u012btur",
+                        "antur",
+                        "entur",
+                        "untur",
+                        "iuntur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "\u014d",
+                        "am",
+                        "am"
+                    ],
+                    "q": "I\u016blius ab oppid# T\u016bscul\u014d ad v\u012bll# su# it."
+                },
+                {
+                    "a": [
+                        "um"
+                    ],
+                    "q": "V\u012blla eius prope T\u016bscul# est."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "I\u016blius in lect\u012bc\u0101 est inter Urs# et D\u0101v#."
+                },
+                {
+                    "a": [
+                        "\u0101tur"
+                    ],
+                    "q": "Dominus \u0101 serv\u012bs port#."
+                },
+                {
+                    "a": [
+                        "ant",
+                        "\u012b",
+                        "antur"
+                    ],
+                    "q": "Ursus et D\u0101vus n\u014dn sacc\u014ds port#, sacc# \u0101 Syr\u014d et L\u0113andr\u014d port#."
+                },
+                {
+                    "a": [
+                        "at",
+                        "\u014d",
+                        "\u0101tur"
+                    ],
+                    "q": "Saccus quem L\u0113ander port# n\u014dn tam parvus est quam saccus qu\u012b \u0101 Syr# port#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "et",
+                        "\u014d",
+                        "\u014d",
+                        "\u0113tur"
+                    ],
+                    "q": "M\u0113dus n\u014dn est apud domin#, nam servus malus dominum tim#. Dominus \u0101 serv# mal# tim#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "at",
+                        "\u012btur"
+                    ],
+                    "q": "Dominus serv# mal# voc# neque ab e\u014d aud#."
+                },
+                {
+                    "a": [
+                        "us",
+                        "us",
+                        "\u014d",
+                        "\u0101tur",
+                        "it"
+                    ],
+                    "q": "Serv# mal# \u0101 domin# voc# neque eum aud#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "\u014d"
+                    ],
+                    "q": "Qu\u014d it M\u0113dus? R\u014dm# it. Unde venit? M\u0113dus T\u016bscul# venit."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Ante M\u0113d# est R\u014dma, T\u016bsculum post e# est."
+                },
+                {
+                    "a": [
+                        "\u0101",
+                        "um",
+                        "\u012b"
+                    ],
+                    "q": "Corn\u0113lius n\u014dn T\u016bscul\u014d R\u014dmam, sed R\u014dm# T\u016bscul# it, nam is T\u016bscul# habitat."
+                },
+                {
+                    "a": [
+                        "\u014d",
+                        "itur"
+                    ],
+                    "q": "Corn\u0113lius n\u014dn ambulat, sed equ# veh#."
+                },
+                {
+                    "a": [
+                        "ae"
+                    ],
+                    "q": "L\u0233dia, am\u012bca M\u0113d\u012b, R\u014dm# habitat."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "am"
+                    ],
+                    "q": "Iam M\u0113dus R\u014dm# apud L\u0233di# est."
+                },
+                {
+                    "a": [
+                        "am",
+                        "am",
+                        "at",
+                        "\u0101",
+                        "\u0101",
+                        "\u0101tur",
+                        "um",
+                        "at",
+                        "\u014d",
+                        "\u0101tur"
+                    ],
+                    "q": "M\u0113dus am\u012bc# su# sal\u016bt# et ab am\u012bc# su# sal\u016bt#, nam L\u0233dia M\u0113d# am# et ab e# am#."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "procul",
+                        "prope"
+                    ],
+                    "q": "\u014cstia n\u014dn # \u0101 R\u014dm\u0101, sed # R\u014dmam est."
+                },
+                {
+                    "a": [
+                        "Unde",
+                        "ad",
+                        "portant"
+                    ],
+                    "q": "# venit I\u016blius? T\u016bscul\u014d venit et # v\u012bllam it. Duo serv\u012b eum #."
+                },
+                {
+                    "a": [
+                        "post",
+                        "sacc\u014ds"
+                    ],
+                    "q": "Syrus et L\u0113ander, qu\u012b # lect\u012bcam ambulant, du\u014ds # portant."
+                },
+                {
+                    "a": [
+                        "tam",
+                        "quam",
+                        "\u0101",
+                        "itaque",
+                        "fessus"
+                    ],
+                    "q": "Saccus Syr\u012b n\u014dn # magnus est # saccus qu\u012b # L\u0113andr\u014d port\u0101tur, # Syrus n\u014dn tam # est quam L\u0113ander."
+                },
+                {
+                    "a": [
+                        "apud",
+                        "timet"
+                    ],
+                    "q": "M\u0113dus # dominum n\u014dn est, nam M\u0113dus dominum \u012br\u0101tum #."
+                },
+                {
+                    "a": [
+                        "malus",
+                        "itaque",
+                        "am\u012bc\u012b"
+                    ],
+                    "q": "M\u0113dus servus # [= improbus] est; # M\u0113dus et I\u016blius n\u014dn #, sed inim\u012bc\u012b sunt."
+                },
+                {
+                    "a": [
+                        "inter",
+                        "longa",
+                        "via"
+                    ],
+                    "q": "Via Lat\u012bna, quae est # R\u014dmam et Capuam, n\u014dn tam # est quam # Appia."
+                },
+                {
+                    "a": [
+                        "Qu\u014d",
+                        "nam"
+                    ],
+                    "q": "# ambulat M\u0113dus? Is R\u014dmam ambulat, # am\u012bca eius R\u014dmae habitat."
+                },
+                {
+                    "a": [
+                        "autem",
+                        "it"
+                    ],
+                    "q": "Corn\u0113lius # [= sed C.] R\u014dm\u0101 T\u016bsculum #."
+                },
+                {
+                    "a": [
+                        "ante",
+                        "post"
+                    ],
+                    "q": "T\u016bsculum est # eum, # eum est R\u014dma."
+                },
+                {
+                    "a": [
+                        "vehitur",
+                        "ambulat"
+                    ],
+                    "q": "Corn\u0113lius equ\u014d #, is n\u014dn #."
+                },
+                {
+                    "a": [
+                        "eunt"
+                    ],
+                    "q": "I\u016blius et Corn\u0113lius ad v\u012bll\u0101s su\u0101s #."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ambulatne I\u016blius? ",
+                    "a": [
+                        "N\u014dn ambulat, lect\u012bc\u0101 vehitur"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u012b I\u016blium portant? ",
+                    "a": [
+                        "D\u0101vus et Ursus I\u016blium portant"
+                    ]
+                },
+                {
+                    "q": "3. Quid portant Syrus et L\u0113ander? ",
+                    "a": [
+                        "Syrus et L\u0113ander sacc\u014ds portant"
+                    ]
+                },
+                {
+                    "q": "4. Unde venit I\u016blius et qu\u014d it? ",
+                    "a": [
+                        "I\u016blius T\u016bscul\u014d venit et ad v\u012bllam suam it"
+                    ]
+                },
+                {
+                    "q": "5. Qu\u014d it M\u0113dus? ",
+                    "a": [
+                        "M\u0113dus R\u014dmam it"
+                    ]
+                },
+                {
+                    "q": "6. Etiamne Corn\u0113lius T\u016bscul\u014d R\u014dmam it? ",
+                    "a": [
+                        "Corn\u0113lius n\u014dn T\u016bscul\u014d R\u014dmam, sed R\u014dm\u0101 T\u016bsculum it"
+                    ]
+                },
+                {
+                    "q": "7. Ubi habitat Corn\u0113lius? ",
+                    "a": [
+                        "Corn\u0113lius T\u016bscul\u012b habitat"
+                    ]
+                },
+                {
+                    "q": "8. C\u016br M\u0113dus laetus est? ",
+                    "a": [
+                        "M\u0113dus laetus est, quia R\u014dmae am\u012bcam habet"
+                    ]
+                },
+                {
+                    "q": "9. Quae est L\u0233dia? ",
+                    "a": [
+                        "L\u0233dia est am\u012bca M\u0113d\u012b"
+                    ]
+                },
+                {
+                    "q": "10. Quid habet M\u0113dus in saccul\u014d su\u014d? ",
+                    "a": [
+                        "In saccul\u014d su\u014d M\u0113dus numm\u014ds domin\u012b habet"
+                    ]
+                },
+                {
+                    "q": "11. Suntne am\u012bc\u012b I\u016blius et M\u0113dus? ",
+                    "a": [
+                        "I\u016blius et M\u0113dus n\u014dn am\u012bc\u012b, sed inim\u012bc\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "12. Num 'portat' verbum pass\u012bvum est? ",
+                    "a": [
+                        "Portat n\u014dn est verbum pass\u012bvum. sed \u0101ct\u012bvum"
+                    ]
+                }
+            ]
+        }
+    ]
+}

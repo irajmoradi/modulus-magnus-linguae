@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Estne Qu\u012bntus in cubicul\u014d su\u014d? ...",
+        "a": [
+            "Qu\u012bntus in cubicul\u014d su\u014d est"
+        ]
+    },
+    {
+        "q": "2. Estne obsc\u016brum cubiculum Qu\u012bnt\u012b? ...",
+        "a": [
+            "obsc\u016brum n\u014dn est, l\u016bce s\u014dlis ill\u016bstr\u0101tur cubiculum"
+        ]
+    },
+    {
+        "q": "3. C\u016br Aemilia fenestram claudit? ...",
+        "a": [
+            "... quod s\u014dl l\u016bcet et \u0101\u0113r calidus est"
+        ]
+    },
+    {
+        "q": "4 C\u016br Qu\u012bntus h\u014dr\u0101s long\u0101s esse putat? ...",
+        "a": [
+            "... quia t\u014dtum diem in lect\u014d iacet"
+        ]
+    },
+    {
+        "q": "5 Quod tempus est ann\u012b? ...",
+        "a": [
+            "v\u0113r est"
+        ]
+    },
+    {
+        "q": "6. \u0100 qu\u014d n\u014dmin\u0101tur m\u0113nsis I\u016blius? ...",
+        "a": [
+            "m\u0113nsis I\u016blius n\u014dmin\u0101tur \u0101 I\u016bli\u014d Caesare"
+        ]
+    },
+    {
+        "q": "7. Quod n\u014dmen e\u012b m\u0113ns\u012b erat ante tempus Caesaris? ...",
+        "a": [
+            "tunc e\u012b m\u0113ns\u012b n\u014dmen erat Qu\u012bnt\u012blis"
+        ]
+    },
+    {
+        "q": "8. Num I\u016blius vel Qu\u012bnt\u012blis m\u0113nsis qu\u012bntus est? ...",
+        "a": [
+            "n\u014dn qu\u012bntus sed septimus est m\u0113nsis I\u016blius"
+        ]
+    },
+    {
+        "q": "9. C\u016br Qu\u012bntus dorm\u012bre n\u014dn potest? ...",
+        "a": [
+            "... quia aeger est et p\u0113s dolet"
+        ]
+    },
+    {
+        "q": "10. Ubi s\u014dl l\u016bcet cum nox est in Itali\u0101? ...",
+        "a": [
+            "nocte s\u014dl in ali\u012bs terr\u012bs l\u016bcet"
+        ]
+    },
+    {
+        "q": "11. Quand\u014d homin\u0113s dormiunt? ...",
+        "a": [
+            "homin\u0113s dormiunt nocte"
+        ]
+    },
+    {
+        "q": "12. Quae urbs est caput imperi\u012b R\u014dm\u0101n\u012b? ...",
+        "a": [
+            "caput imperi\u012b est urbs R\u014dma"
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "q": "1. P\u0101stor bon# ab ovibus n\u014dn abit.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "2. Ov\u0113s p\u0101st\u014drem bon# amant.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "3. I\u016blius est dominus p\u0101st\u014dris bon#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. I\u016blius p\u0101st\u014dr\u012b bon# p\u0101nem dat ",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "5. Ov\u0113s \u0101 p\u0101st\u014dre bon# n\u014dn abeunt.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. P\u0101st\u014dr\u0113s bon# ab ovibus su# n\u014dn abeunt.",
+        "a": [
+            "\u012b",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "7. I\u016blius mult# p\u0101st\u014dr\u0113s habet.",
+        "a": [
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "8. I\u016blius est dominus mult# p\u0101st\u014drum.",
+        "a": [
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "9. I\u016blius p\u0101st\u014dribus su# p\u0101nem dat.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. Ov\u0113s \u0101 p\u0101st\u014dribus su# n\u014dn abeunt.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "11. In camp\u014d sunt mult# ov\u0113s alb# et \u016bn# ovis nigr#.",
+        "a": [
+            "ae",
+            "ae",
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "12. P\u0101stor mult# ov\u0113s alb# et \u016bn# ovem nigr# habet.",
+        "a": [
+            "\u0101s",
+            "\u0101s",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "13. P\u0101stor est dominus ovium alb# et ovis nigr#.",
+        "a": [
+            "\u0101rum",
+            "ae"
+        ]
+    },
+    {
+        "q": "14. P\u0101stor ovibus alb# et ov\u012b nigr# cibum dat.",
+        "a": [
+            "\u012bs",
+            "ae"
+        ]
+    },
+    {
+        "q": "15. P\u0101stor in camp\u014d est cum mult# ovibus alb# et \u016bn# ove nigr#.",
+        "a": [
+            "\u012bs",
+            "\u012bs",
+            "\u0101",
+            "\u0101"
+        ]
+    }
+]

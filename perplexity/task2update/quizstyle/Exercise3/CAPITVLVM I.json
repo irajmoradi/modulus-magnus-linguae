@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Ubi est R\u014dma? ...",
+        "a": [
+            "R\u014dma in Itali\u0101 est"
+        ]
+    },
+    {
+        "q": "2. Ubi est Italia? ...",
+        "a": [
+            "Italia in Eur\u014dp\u0101 est"
+        ]
+    },
+    {
+        "q": "3. Estne Graecia in Eur\u014dp\u0101? ...",
+        "a": [
+            "Graecia in Eur\u014dp\u0101 est"
+        ]
+    },
+    {
+        "q": "4. Ubi est Aegyptus? ...",
+        "a": [
+            "Aegyptus in \u0100fric\u0101 est"
+        ]
+    },
+    {
+        "q": "5. Estne Hisp\u0101nia in Eur\u014dp\u0101? ...",
+        "a": [
+            "Hisp\u0101nia in Eur\u014dp\u0101 est"
+        ]
+    },
+    {
+        "q": "6. Estne Syria in Eur\u014dp\u0101? ...",
+        "a": [
+            "Syria in Eur\u014dp\u0101 n\u014dn est"
+        ]
+    },
+    {
+        "q": "7. Ubi est Syria? ...",
+        "a": [
+            "Syria in Asi\u0101 est"
+        ]
+    },
+    {
+        "q": "8. Estne Gallia in Asi\u0101? ...",
+        "a": [
+            "Gallia in Asi\u0101 n\u014dn est"
+        ]
+    },
+    {
+        "q": "9. Ubi est Gallia? ...",
+        "a": [
+            "Gallia est in Eur\u014dp\u0101"
+        ]
+    },
+    {
+        "q": "10. Estne Germ\u0101nia in Eur\u014dp\u0101? ...",
+        "a": [
+            "Germ\u0101nia in Eur\u014dp\u0101 est"
+        ]
+    }
+]

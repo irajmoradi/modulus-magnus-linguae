@@ -1,0 +1,61 @@
+[
+    {
+        "q": "1. Qu\u012bntus, qu\u012b hodi\u0113 abest, etiam # \u0101 magistr\u014d laud\u0101tur.",
+        "a": [
+            "abs\u0113ns"
+        ]
+    },
+    {
+        "q": "2. Magistr\u014d su\u014d p\u0101r\u0113re #.",
+        "a": [
+            "oportet"
+        ]
+    },
+    {
+        "q": "3. Magister \u0113 saccul\u014d su\u014d # du\u014ds numm\u014ds, # et #.",
+        "a": [
+            "pr\u014dmit",
+            "assem",
+            "d\u0113n\u0101rium"
+        ]
+    },
+    {
+        "q": "4. Magister: \"Quot s\u0113sterti\u012b sunt sex d\u0113n\u0101ri\u012b?\" Titus digit\u012bs #: \"...quattuor, ...oct\u014d, ...duodecim...\"",
+        "a": [
+            "computat"
+        ]
+    },
+    {
+        "q": "5. Titus: \"Sunt s\u0113sterti\u012b... v\u012bgint\u012b? an tr\u012bgint\u0101?\" Titus n\u014dn #, sed # est. Sextus autem r\u0113ct\u0113 respondet.",
+        "a": [
+            "certus",
+            "incertus"
+        ]
+    },
+    {
+        "q": "6. Magister Sext\u014d assem dat, et d\u0113n\u0101rium in saccul\u014d #.",
+        "a": [
+            "rep\u014dnit"
+        ]
+    },
+    {
+        "q": "7. Magister # n\u014dn est neque pec\u016bniam suam discipul\u012bs #.",
+        "a": [
+            "largus",
+            "larg\u012btur"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus: \"# [= c\u016br] n\u014ds comput\u0101re doc\u0113s, magister?\"",
+        "a": [
+            "Qu\u0101r\u0113"
+        ]
+    },
+    {
+        "q": "9. Magister: \"Id exempl\u014d # possum: S\u012b s\u0113decim ass\u0113s cum am\u012bc\u014d tu\u014d # [= d\u012bvidis]...\"",
+        "a": [
+            "d\u0113m\u014dnstr\u0101re",
+            "part\u012bris"
+        ]
+    }
+]

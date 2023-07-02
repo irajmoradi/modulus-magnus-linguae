@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Quid magister puer\u014ds docet? ...",
+        "a": [
+            "magister puer\u014ds litter\u0101s et numer\u014ds docet"
+        ]
+    },
+    {
+        "q": "2. Num doct\u012b sunt discipul\u012b? ...",
+        "a": [
+            "n\u014dn doct\u012b, sed indoct\u012b sunt"
+        ]
+    },
+    {
+        "q": "3. Qu\u012b discipulus mult\u0101s r\u0113s discit? ...",
+        "a": [
+            "discipulus pr\u016bd\u0113ns et industrius mult\u0101s r\u0113s discit"
+        ]
+    },
+    {
+        "q": "4. Sedentne discipul\u012b magistr\u014d recitante? ...",
+        "a": [
+            "magistr\u014d recitante discipul\u012b ante sell\u0101s su\u0101s stant"
+        ]
+    },
+    {
+        "q": "5. Quid faciunt discipul\u012b antequam respondent? ...",
+        "a": [
+            "discipul\u012b qu\u012b respond\u0113re possunt manum tollunt"
+        ]
+    },
+    {
+        "q": "6. Omn\u0113sne simul manum tollunt? ... ",
+        "a": [
+            "Sextus pr\u012bmum manum tollit, postr\u0113m\u014d M\u0101rcus"
+        ]
+    },
+    {
+        "q": "7. Qu\u014ds numer\u014ds d\u012bcit Titus? ...",
+        "a": [
+            "Titus omn\u0113s numer\u014ds d\u012bcit \u0101 X ad XX et decimum quemque \u0101 XX ad C"
+        ]
+    },
+    {
+        "q": "8. Num Sextus omn\u0113s numer\u014ds d\u012bcit \u0101 C ad M? ...",
+        "a": [
+            "Sextus cent\u0113simum quemque numerum d\u012bcit \u0101 C ad M"
+        ]
+    },
+    {
+        "q": "9. Estne Sextus puer stultus? ...",
+        "a": [
+            "Sextus puer pr\u016bd\u0113ns est"
+        ]
+    },
+    {
+        "q": "10. Omn\u0113sne discipul\u012b r\u0113ct\u0113 respondent? ...",
+        "a": [
+            "Titus et Sextus r\u0113ct\u0113 respondent, M\u0101rcus pr\u0101v\u0113 respondet"
+        ]
+    },
+    {
+        "q": "11. C\u016br M\u0101rcus pr\u0101v\u0113 respondet? ...",
+        "a": [
+            "pr\u0101v\u0113 respondet quia piger est"
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "q": "1. I\u016blius n\u014dn du# f\u012bli\u0101s, sed \u016bn# f\u012bliam habet.",
+        "a": [
+            "\u0101s",
+            "am"
+        ]
+    },
+    {
+        "q": "2. Corn\u0113lius n\u014dn du# f\u012bli\u014ds, sed \u016bn# f\u012blium habet.",
+        "a": [
+            "\u014ds|o",
+            "um"
+        ]
+    },
+    {
+        "q": "3. Corn\u0113li\u014d \u016bn# f\u012blius est, n\u014dn du#, neque e\u012b du# f\u012bliae sunt, sed \u016bn# tantum.",
+        "a": [
+            "us",
+            "o",
+            "ae",
+            "a"
+        ]
+    },
+    {
+        "q": "4. I\u016bli\u014d sunt tr# l\u012bber\u012b: du# f\u012bli\u012b et \u016bn# f\u012blia.",
+        "a": [
+            "\u0113s",
+            "o",
+            "a"
+        ]
+    },
+    {
+        "q": "5. I\u016blius est pater tr# l\u012bber\u014drum: du# f\u012bli\u014drum et \u016bn# f\u012bliae.",
+        "a": [
+            "ium",
+            "\u014drum",
+            "\u012bus"
+        ]
+    },
+    {
+        "q": "6. M\u0101ter in \u0101tri\u014d est cum tr# l\u012bber\u012bs et du# ancill\u012bs.",
+        "a": [
+            "ibus",
+            "\u0101bus"
+        ]
+    },
+    {
+        "q": "7. I\u016blius \u0101 du# serv\u012bs vehitur.",
+        "a": [
+            "\u014dbus"
+        ]
+    },
+    {
+        "q": "8. In perist\u0233l\u014d sunt tr# signa: \u016bn# Cup\u012bdinis, du# altera I\u016bn\u014dnis et Veneris.",
+        "a": [
+            "ia",
+            "um",
+            "o"
+        ]
+    },
+    {
+        "q": "9. In perist\u0233l\u014d sunt signa du# de\u0101rum et \u016bn# de\u012b.",
+        "a": [
+            "\u0101rum",
+            "\u012bus"
+        ]
+    },
+    {
+        "q": "10. Signum Cup\u012bdinis est minimum h\u014drum tr# sign\u014drum (= ex h\u012bs tr# sign\u012bs).",
+        "a": [
+            "ium",
+            "ibus"
+        ]
+    },
+    {
+        "q": "11. Via Aur\u0113lia, Fl\u0101minia, Appia sunt tr# viae Italiae.",
+        "a": [
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "12. Via Appia longissima est h\u0101rum tr# vi\u0101rum (= ex h\u012bs tr# vi\u012bs).",
+        "a": [
+            "ium",
+            "ibus"
+        ]
+    }
+]

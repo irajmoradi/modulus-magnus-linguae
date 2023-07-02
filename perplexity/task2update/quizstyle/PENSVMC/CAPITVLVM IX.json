@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Num p\u0101stor s\u014dlus in camp\u014d est? ",
+        "a": [
+            "P\u0101stor n\u014dn s\u014dlus est, canis et ov\u0113s apud eum sunt"
+        ]
+    },
+    {
+        "q": "2. Quot ov\u0113s habet p\u0101stor? ",
+        "a": [
+            "P\u0101stor centum ov\u0113s habet"
+        ]
+    },
+    {
+        "q": "3. \u0100 qu\u014d canis cibum accipit? ",
+        "a": [
+            "Canis cibum accipit \u0101 p\u0101st\u014dre"
+        ]
+    },
+    {
+        "q": "4. Suntne mont\u0113s prope p\u0101st\u014drem? ",
+        "a": [
+            "Mont\u0113s n\u014dn prope p\u0101st\u014drem, sed procul \u0101 p\u0101st\u014dre sunt"
+        ]
+    },
+    {
+        "q": "5. Ubi sunt vall\u0113s? ",
+        "a": [
+            "Vall\u0113s sunt inter mont\u0113s"
+        ]
+    },
+    {
+        "q": "6. Quid est collis? ",
+        "a": [
+            "Collis est parvus m\u014dns"
+        ]
+    },
+    {
+        "q": "7. Qu\u014d it p\u0101stor? ",
+        "a": [
+            "P\u0101stor ad arborem it"
+        ]
+    },
+    {
+        "q": "8. C\u016br p\u0101stor umbram petit? ",
+        "a": [
+            "Umbram petit, quia s\u014dl l\u016bcet"
+        ]
+    },
+    {
+        "q": "9. Qu\u014d it ovis nigra? ",
+        "a": [
+            "Ovis nigra in silvam it"
+        ]
+    },
+    {
+        "q": "10. Quid ovis in terr\u0101 videt? ",
+        "a": [
+            "Ovis vest\u012bgia lup\u012b videt in terr\u0101"
+        ]
+    },
+    {
+        "q": "11. C\u016br lupus ovem nigram n\u014dn \u0113st? ",
+        "a": [
+            "Quia canis accurrit et lupum petit"
+        ]
+    }
+]

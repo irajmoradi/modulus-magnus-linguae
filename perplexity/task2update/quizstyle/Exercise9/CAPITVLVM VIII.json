@@ -1,0 +1,42 @@
+[
+    {
+        "q": "1. # pec\u016bnia est in saccul\u014d M\u0113d\u012b? # [XC] s\u0113sterti\u012b.",
+        "a": [
+            "Quanta",
+            "N\u014dn\u0101gint\u0101"
+        ]
+    },
+    {
+        "q": "2. Alb\u012bnus: \"Id n\u014dn # est. Pretium \u0101nul\u012b est s\u0113sterti\u012b centum.\"",
+        "a": [
+            "satis"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \"Id est # magnum pretium. Accipe n\u014dn\u0101gint\u0101 s\u0113sterti\u014ds # n\u016bll\u014ds!\"",
+        "a": [
+            "nimis",
+            "aut"
+        ]
+    },
+    {
+        "q": "4. \u0100nulus n\u014dn in digit\u014d #, sed in digit\u014d # p\u014dnitur.",
+        "a": [
+            "medi\u014d",
+            "qu\u0101rt\u014d"
+        ]
+    },
+    {
+        "q": "5. Digitus qu\u0101rtus n\u014dn # [= tam magnus] est # digitus medius.",
+        "a": [
+            "tantus",
+            "quantus"
+        ]
+    },
+    {
+        "q": "6. Decem et decem sunt # [XX].",
+        "a": [
+            "v\u012bgint\u012b"
+        ]
+    }
+]

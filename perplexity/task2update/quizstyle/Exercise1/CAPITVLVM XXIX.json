@@ -1,0 +1,53 @@
+[
+    {
+        "q": "1. Merc\u0101tor queritur: \u201cQuid faci#? Qu\u014dmodo ux\u014drem et l\u012bber\u014ds al#? Qu\u014dmodo n\u014ds v\u012bv# sine pec\u016bni\u0101?\u201d",
+        "a": [
+            "am",
+            "am",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus s\u0113 interrogat: \u201cQuid L\u0233diae responde#? Utrum v\u0113rum d\u012bc# an tace#? Qu\u014dmodo m\u0113 exc\u016bs#?\u201d ",
+        "a": [
+            "am",
+            "am",
+            "am",
+            "em"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus nescit quid L\u0233diae responde#.",
+        "a": [
+            "at"
+        ]
+    },
+    {
+        "q": "4. Ariadna: \u201cQuid nunc ag#? Nesci\u014d qu\u014d m\u0113 vert#. Unde auxilium pet#? Quem deum invoc#?\u201d",
+        "a": [
+            "am",
+            "am",
+            "am",
+            "em"
+        ]
+    },
+    {
+        "q": "5. \u012acarus: \u201cIncl\u016bs\u012b sumus, pater. Quid faci#? Qu\u014dmodo exitum inveni#? \u0100 qu\u014d auxilium pet#?\u201d",
+        "a": [
+            "\u0101mus",
+            "\u0101mus",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "6. L\u0233dia: \u201cUtrum R\u014dmae mane# an profic\u012bsc#? Utrum r\u012bde# an pl\u014dr#?\u201d L\u0233dia s\u0113 interrogat utrum r\u012bde# an pl\u014dr#.",
+        "a": [
+            "am",
+            "ar",
+            "am",
+            "em",
+            "at",
+            "et"
+        ]
+    }
+]

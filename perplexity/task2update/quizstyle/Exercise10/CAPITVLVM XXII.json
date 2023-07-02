@@ -1,0 +1,70 @@
+[
+    {
+        "q": "1. aper\u012bre, #isse, #um esse  ",
+        "a": [
+            "aperu",
+            "apert"
+        ]
+    },
+    {
+        "q": "2. claudere, #isse, #um esse",
+        "a": [
+            "claus",
+            "claus"
+        ]
+    },
+    {
+        "q": "3. emere, #isse, #um esse ",
+        "a": [
+            "\u0113m",
+            "\u0113mpt"
+        ]
+    },
+    {
+        "q": "4. pellere, #isse, #um esse",
+        "a": [
+            "pepul",
+            "puls"
+        ]
+    },
+    {
+        "q": "5. posse, #isse ",
+        "a": [
+            "potu"
+        ]
+    },
+    {
+        "q": "6. rumpere, #isse, #um esse ",
+        "a": [
+            "r\u016bp",
+            "rupt"
+        ]
+    },
+    {
+        "q": "7. scindere, #isse, #um esse",
+        "a": [
+            "scid",
+            "sciss"
+        ]
+    },
+    {
+        "q": "8. solvere, #isse, #um esse ",
+        "a": [
+            "solv",
+            "sol\u016bt"
+        ]
+    },
+    {
+        "q": "9. vinc\u012bre, #isse, #um esse ",
+        "a": [
+            "v\u012bnx",
+            "v\u012bnct"
+        ]
+    },
+    {
+        "q": "10. ven\u012bre, #isse",
+        "a": [
+            "v\u0113n"
+        ]
+    }
+]

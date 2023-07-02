@@ -1,0 +1,41 @@
+[
+    {
+        "q": "1. Saccus qu\u012b h\u012bc est = h# saccus.",
+        "a": [
+            "ic"
+        ]
+    },
+    {
+        "q": "2. Rosa quae h\u012bc est = h# rosa.",
+        "a": [
+            "aec"
+        ]
+    },
+    {
+        "q": "3. M\u0101lum quod h\u012bc est = h# m\u0101lum.",
+        "a": [
+            "oc"
+        ]
+    },
+    {
+        "q": "4. Puella qu# h\u012bc est = h# puella.",
+        "a": [
+            "ae",
+            "aec"
+        ]
+    },
+    {
+        "q": "5. Speculum qu# h\u012bc est = h# speculum.",
+        "a": [
+            "od",
+            "oc"
+        ]
+    },
+    {
+        "q": "6. Equus qu# h\u012bc est = h# equus.",
+        "a": [
+            "\u012b",
+            "ic"
+        ]
+    }
+]

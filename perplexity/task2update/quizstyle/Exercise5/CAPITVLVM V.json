@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Ubi habitat I\u016blius? ...",
+        "a": [
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat"
+        ]
+    },
+    {
+        "q": "2. Num I\u016blius s\u014dlus habitat? ...",
+        "a": [
+            "n\u014dn s\u014dlus, sed cum famili\u0101 habitat"
+        ]
+    },
+    {
+        "q": "3. Quot f\u012bli\u014ds et quot f\u012bli\u0101s habet I\u016blius? ...",
+        "a": [
+            "du\u014ds f\u012bli\u014ds et \u016bnam f\u012bliam habet"
+        ]
+    },
+    {
+        "q": "4. Quot serv\u014ds habet? ...",
+        "a": [
+            "centum serv\u014ds habet"
+        ]
+    },
+    {
+        "q": "5. Ubi sunt rosae et l\u012blia? ...",
+        "a": [
+            "rosae et l\u012blia in hort\u014d sunt"
+        ]
+    },
+    {
+        "q": "6. Ubi est impluvium? ...",
+        "a": [
+            "impluvium in \u0101tri\u014d est"
+        ]
+    },
+    {
+        "q": "7. Quot fenestrae in \u0101tri\u014d sunt? ...",
+        "a": [
+            "in \u0101tri\u014d sunt n\u016bllae fenestrae"
+        ]
+    },
+    {
+        "q": "8. Ubi dormit Qu\u012bntus? ...",
+        "a": [
+            "Qu\u012bntus in parv\u014d cubicul\u014d dormit"
+        ]
+    },
+    {
+        "q": "9. Serv\u012b ubi dormiunt? ...",
+        "a": [
+            "Serv\u012b in parv\u012bs cubicul\u012bs dormiunt"
+        ]
+    },
+    {
+        "q": "10. Estne I\u016blius in v\u012bll\u0101? ...",
+        "a": [
+            "n\u014dn est in v\u012bll\u0101, sed in oppid\u014d"
+        ]
+    },
+    {
+        "q": "11. Estne Aemilia in oppid\u014d cum vir\u014d su\u014d? ...",
+        "a": [
+            "Aemilia cum vir\u014d su\u014d n\u014dn est"
+        ]
+    },
+    {
+        "q": "12. S\u014dlane est Aemilia in perist\u0233l\u014d? ...",
+        "a": [
+            "n\u014dn s\u014dla, sed cum l\u012bber\u012bs su\u012bs est"
+        ]
+    }
+]

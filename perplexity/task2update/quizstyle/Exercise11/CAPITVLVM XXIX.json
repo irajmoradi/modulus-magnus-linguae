@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. allicere, #isse, #um esse",
+        "a": [
+            "all\u0113x",
+            "allect"
+        ]
+    },
+    {
+        "q": "2. \u0101mittere, \u0101#isse, \u0101#um esse",
+        "a": [
+            "m\u012bs",
+            "miss"
+        ]
+    },
+    {
+        "q": "3. canere, #isse",
+        "a": [
+            "cecin"
+        ]
+    },
+    {
+        "q": "4. c\u014dnfit\u0113r\u012b, c\u014dn#um esse",
+        "a": [
+            "fess"
+        ]
+    },
+    {
+        "q": "5. cr\u0113dere, #isse",
+        "a": [
+            "cr\u0113did"
+        ]
+    },
+    {
+        "q": "6. d\u0113sil\u012bre, d\u0113#isse",
+        "a": [
+            "silu"
+        ]
+    },
+    {
+        "q": "7. \u0113ripere, \u0113#isse, \u0113#um esse",
+        "a": [
+            "ripu",
+            "rept"
+        ]
+    },
+    {
+        "q": "8. l\u0101b\u012b, #um esse",
+        "a": [
+            "l\u0101ps"
+        ]
+    },
+    {
+        "q": "9. p\u014dnere, #isse, #um esse",
+        "a": [
+            "posu",
+            "posit"
+        ]
+    },
+    {
+        "q": "10. sec\u0101re, #isse, #um esse",
+        "a": [
+            "secu",
+            "sect"
+        ]
+    },
+    {
+        "q": "11. su\u0101d\u0113re, #isse",
+        "a": [
+            "su\u0101s"
+        ]
+    },
+    {
+        "q": "12. vehere, #isse, #um esse",
+        "a": [
+            "v\u0113x",
+            "vect"
+        ]
+    }
+]

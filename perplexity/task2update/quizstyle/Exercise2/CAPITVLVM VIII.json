@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Quis est Alb\u012bnus? ...",
+        "a": [
+            "Alb\u012bnus tabern\u0101rius est"
+        ]
+    },
+    {
+        "q": "2. Quid v\u0113ndit Alb\u012bnus? ...",
+        "a": [
+            "\u014drn\u0101menta v\u0113ndit"
+        ]
+    },
+    {
+        "q": "3. Ali\u012b tabern\u0101ri\u012b quid v\u0113ndunt? ...",
+        "a": [
+            "ali\u012b tabern\u0101ri\u012b libr\u014ds, ros\u0101s, m\u0101la, c\u0113tera v\u0113ndunt"
+        ]
+    },
+    {
+        "q": "4. C\u016br f\u0113minae \u014drn\u0101menta emunt? ...",
+        "a": [
+            "... quia \u014drn\u0101ment\u012bs d\u0113lectantur"
+        ]
+    },
+    {
+        "q": "5. Num \u014drn\u0101mentum est l\u012bnea sine margar\u012bt\u012bs? ...",
+        "a": [
+            "\u014drn\u0101mentum n\u014dn est!"
+        ]
+    },
+    {
+        "q": "6. C\u016br Aemilia multa \u014drn\u0101menta habet? ...",
+        "a": [
+            "... quia I\u016blius e\u012b multa \u014drn\u0101menta dat"
+        ]
+    },
+    {
+        "q": "7. Ubi sunt margar\u012btae Aemiliae? ...",
+        "a": [
+            "in coll\u014d eius sunt"
+        ]
+    },
+    {
+        "q": "8. Quid digitum Aemiliae \u014drnat? ...",
+        "a": [
+            "\u0101nulus digitum eius \u014drnat"
+        ]
+    },
+    {
+        "q": "9. Estne M\u0113dus cum domin\u014d su\u014d? ...",
+        "a": [
+            "M\u0113dus n\u014dn est cum domin\u014d"
+        ]
+    },
+    {
+        "q": "10. Quod \u014drn\u0101mentum habet L\u0233dia? ...",
+        "a": [
+            "l\u012bneam margar\u012bt\u0101rum habet"
+        ]
+    },
+    {
+        "q": "11. C\u016br L\u0233dia n\u016blla alia \u014drn\u0101menta habet? ...",
+        "a": [
+            "... quia pec\u016bni\u014dsa n\u014dn est"
+        ]
+    }
+]

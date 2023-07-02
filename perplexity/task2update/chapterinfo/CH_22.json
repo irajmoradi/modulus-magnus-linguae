@@ -1,0 +1,1085 @@
+{
+    "id": 21,
+    "name": "CAPITVLVM XXII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. \u0100nulus ex aur\u014d factus = \u0101nulus aur#.",
+                    "a": [
+                        "eus"
+                    ]
+                },
+                {
+                    "q": "2. Baculum \u0113 lign\u014d factum = baculum lign#.",
+                    "a": [
+                        "eum"
+                    ]
+                },
+                {
+                    "q": "3. Cat\u0113na ex ferr\u014d facta = cat\u0113na ferr#.",
+                    "a": [
+                        "ea"
+                    ]
+                },
+                {
+                    "q": "4. Numm\u012b ex aur\u014d fact\u012b = numm\u012b aur#.",
+                    "a": [
+                        "e\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Stilus ferreus = stilus # # #.",
+                    "a": [
+                        "ex|\u0113",
+                        "ferr\u014d",
+                        "factus"
+                    ]
+                },
+                {
+                    "q": "6. P\u014dculum aureum = p\u014dculum # # #.",
+                    "a": [
+                        "ex",
+                        "aur\u014d",
+                        "factum"
+                    ]
+                },
+                {
+                    "q": "7. For\u0113s ligneae = for\u0113s # # #.",
+                    "a": [
+                        "ex|\u0113",
+                        "lign\u014d",
+                        "factae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magna i\u0101nua # \u0113 du\u0101bus #, quae in # vertuntur.",
+                    "a": [
+                        "c\u014dnstat",
+                        "foribus",
+                        "cardinibus"
+                    ]
+                },
+                {
+                    "q": "2. Sub foribus est #.",
+                    "a": [
+                        "l\u012bmen"
+                    ]
+                },
+                {
+                    "q": "3. # [= \u014dsti\u0101rius] d\u012bcitur servus qu\u012b homin\u0113s advenient\u0113s in \u0101trium #.",
+                    "a": [
+                        "I\u0101nitor",
+                        "admittit"
+                    ]
+                },
+                {
+                    "q": "4. I\u0101nitor cum cane su\u014d v\u012bllam domin\u012b #.",
+                    "a": [
+                        "c\u016bst\u014ddit"
+                    ]
+                },
+                {
+                    "q": "5. Canis, qu\u012b prope tam # est quam lupus, cat\u0113n\u0101 #.",
+                    "a": [
+                        "fer\u014dx",
+                        "vinc\u012btur"
+                    ]
+                },
+                {
+                    "q": "6. # n\u014dn modo can\u0113s, sed etiam i\u0101nit\u014dr\u0113s vinci\u0113bantur.",
+                    "a": [
+                        "Ante\u0101"
+                    ]
+                },
+                {
+                    "q": "7. # c\u014dnstat \u0113 mult\u012bs \u0101nul\u012bs ferre\u012bs qu\u012b # # coniunguntur.",
+                    "a": [
+                        "Cat\u0113na",
+                        "inter",
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "8. \u0100nulus L\u0233diae n\u014dn ex ferr\u014d, sed ex # factus est.",
+                    "a": [
+                        "aur\u014d"
+                    ]
+                },
+                {
+                    "q": "9. \u0100nulus aureus magn\u012b # est.",
+                    "a": [
+                        "preti\u012b"
+                    ]
+                },
+                {
+                    "q": "10. I\u0101nua \u0113 # facta est # [= ut] baculum I\u016bli\u012b.",
+                    "a": [
+                        "lign\u014d",
+                        "s\u012bcut"
+                    ]
+                },
+                {
+                    "q": "11. Servus qu\u012b epistul\u0101s fert # appell\u0101tur.",
+                    "a": [
+                        "tabell\u0101rius"
+                    ]
+                },
+                {
+                    "q": "12. Tabell\u0101rius cl\u0101mat: \u201c# i\u0101nitor! # aper\u012bs? Num # [= aliquis] h\u012bc est?\u201d",
+                    "a": [
+                        "Heus",
+                        "Qu\u012bn",
+                        "quis"
+                    ]
+                },
+                {
+                    "q": "13. # i\u0101nitor surgit et tabell\u0101rium # [= multa interrogat].",
+                    "a": [
+                        "Tandem",
+                        "rogitat"
+                    ]
+                },
+                {
+                    "q": "14. Tabell\u0101rius: \u201c# admitte m\u0113! # [= deinde] respond\u0113b\u014d.\u201d",
+                    "a": [
+                        "Prius",
+                        "Poste\u0101"
+                    ]
+                },
+                {
+                    "q": "15. Host\u0113s n\u014dn sunt # v\u0101llum, sed # v\u0101llum.",
+                    "a": [
+                        "intr\u0101",
+                        "extr\u0101"
+                    ]
+                },
+                {
+                    "q": "16. Vulc\u0101nus est deus #.",
+                    "a": [
+                        "fabr\u014drum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ex quibus partibus c\u014dnstat i\u0101nua v\u012bllae? ...",
+                    "a": [
+                        "i\u0101nua c\u014dnstat \u0113 du\u0101bus foribus"
+                    ]
+                },
+                {
+                    "q": "2. Quid scr\u012bptum est in l\u012bmine? ...",
+                    "a": [
+                        "in l\u012bmine CAVE CANEM scr\u012bptum est"
+                    ]
+                },
+                {
+                    "q": "3. Quis d\u012bcitur servus qu\u012b i\u0101nuam c\u016bst\u014ddit? ...",
+                    "a": [
+                        "is servus d\u012bcitur \u2018\u014dsti\u0101rius\u2019 s\u012bve \u2018i\u0101nitor\u2019"
+                    ]
+                },
+                {
+                    "q": "4. Quid facit is qu\u012b v\u012bllam intr\u0101re vult? ...",
+                    "a": [
+                        "qu\u012b v\u012bllam intr\u0101re vult i\u0101nuam pulsat et extr\u0101 i\u0101nuam exspectat"
+                    ]
+                },
+                {
+                    "q": "5. Ubi sedet i\u0101nitor? ...",
+                    "a": [
+                        "i\u0101nitor intr\u0101 i\u0101nuam sedet"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br canis i\u0101nit\u014dris cat\u0113n\u0101 vinc\u012btur? ...",
+                    "a": [
+                        "... quia canis fer\u014dx est"
+                    ]
+                },
+                {
+                    "q": "7. Ex qu\u0101 m\u0101teri\u0101 cat\u0113na facta est? ...",
+                    "a": [
+                        "cat\u0113na ex ferr\u014d facta est"
+                    ]
+                },
+                {
+                    "q": "8. Num \u0101nulus L\u0233diae ex ferr\u014d factus est? ...",
+                    "a": [
+                        "\u0101nulus L\u0233diae n\u014dn ex ferr\u014d, sed ex aur\u014d factus est"
+                    ]
+                },
+                {
+                    "q": "9. Utrum d\u016brius est, lignumne an ferrum? ...",
+                    "a": [
+                        "ferrum d\u016brius est quam lignum"
+                    ]
+                },
+                {
+                    "q": "10. Quis d\u012bcitur vir qu\u012b r\u0113s ferre\u0101s efficit? ...",
+                    "a": [
+                        "qu\u012b r\u0113s ferre\u0101s efficit \u2018faber\u2019 d\u012bcitur"
+                    ]
+                },
+                {
+                    "q": "11. C\u016br \u2018tabell\u0101ri\u012b\u2019 d\u012bcuntur serv\u012b qu\u012b epistul\u0101s ferunt? ...",
+                    "a": [
+                        "... quia ante\u0101 epistulae in tabell\u012bs scr\u012bb\u0113bantur"
+                    ]
+                },
+                {
+                    "q": "12. Qu\u014dmodo i\u0101nitor \u0113 somn\u014d excit\u0101tur? ...",
+                    "a": [
+                        "i\u0101nitor cane l\u0101trante excit\u0101tur"
+                    ]
+                },
+                {
+                    "q": "13. C\u016br tabell\u0101rius n\u014dn statim i\u0101nit\u014dr\u012b respondet? ...",
+                    "a": [
+                        "... quod i\u0101nitor multa simul interrogat"
+                    ]
+                },
+                {
+                    "q": "14. Quid huic tabell\u0101ri\u014d n\u014dmen est? ...",
+                    "a": [
+                        "e\u012b n\u014dmen est \u2018Tl\u0113polemus\u2019"
+                    ]
+                },
+                {
+                    "q": "15. Unde Tl\u0113polemus s\u0113 ven\u012bre d\u012bcit? ...",
+                    "a": [
+                        "d\u012bcit \u2018s\u0113 T\u016bscul\u014d ven\u012bre\u2019"
+                    ]
+                },
+                {
+                    "q": "16. Quid I\u016blius post mer\u012bdiem agere solet? ...",
+                    "a": [
+                        "post mer\u012bdiem I\u016blius dorm\u012btum \u012bre solet, tum ambul\u0101tum it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Post mer\u012bdiem I\u016blius ambul\u0101# \u012bre solet.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "2. Postquam ambul\u0101vit, lav\u0101# it.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "3. Vesper\u012b homin\u0113s dorm\u012b# eunt.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101ne am\u012bc\u012b ad v\u012bllam veniunt dominum sal\u016bt\u0101#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "5. M\u0113dus et L\u0233dia in Graeciam eunt habit\u0101#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "6. Host\u0113s castra oppugn\u0101# veniunt.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "7. Tabell\u0101rius n\u014dn mittitur pec\u016bniam postul\u0101#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "8. Facile est v\u014dcem magistr\u012b aud\u012bre = V\u014dx magistr\u012b est facilis aud\u012b#.",
+                    "a": [
+                        "t\u016b"
+                    ]
+                },
+                {
+                    "q": "9. Difficile est n\u014dmina barbara d\u012bcere = N\u014dmina barbara difficilia sunt dic#.",
+                    "a": [
+                        "t\u016b"
+                    ]
+                },
+                {
+                    "q": "10. Quae est dea pulcherrima? Id difficile sc\u012b# est.",
+                    "a": [
+                        "t\u016b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0113dus, qu\u012b r\u0113s M\u0101rc\u012b fer# solet, hodi\u0113 abest.",
+                    "a": [
+                        "re"
+                    ]
+                },
+                {
+                    "q": "2. Itaque M\u0101rcus ad l\u016bdum ambul\u0101ns r\u0113s su\u0101s ipse fer#.",
+                    "a": [
+                        "t"
+                    ]
+                },
+                {
+                    "q": "3. Titus et Sextus semper r\u0113s su\u0101s ips\u012b fer#.",
+                    "a": [
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "4. Titus: \u201cC\u016br t\u016b ipse r\u0113s tu\u0101s fer# hodi\u0113, M\u0101rce?\u201d",
+                    "a": [
+                        "s"
+                    ]
+                },
+                {
+                    "q": "5. M\u0101rcus: \u201cIpse r\u0113s me\u0101s fer#, quia M\u0113dus abest; sed c\u016br v\u014ds semper r\u0113s vestr\u0101s ips\u012b fer#?\u201d",
+                    "a": [
+                        "\u014d",
+                        "tis"
+                    ]
+                },
+                {
+                    "q": "6. Titus: \u201cN\u014ds r\u0113s nostr\u0101s ips\u012b fer#, quia in ips\u014d oppid\u014d T\u016bscul\u014d habit\u0101mus, n\u014dn procul ab oppid\u014d.\u201d",
+                    "a": [
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "7. M\u0101rcus: \u201cVen\u012bte m\u0113cum ac r\u0113s me\u0101s fer#!\u201d",
+                    "a": [
+                        "te"
+                    ]
+                },
+                {
+                    "q": "8. Sextus: \u201cR\u0113s tu\u0101s fer# n\u014dlumus. Ipse r\u0113s tu\u0101s #, M\u0101rce!\u201d",
+                    "a": [
+                        "re",
+                        "fer"
+                    ]
+                },
+                {
+                    "q": "9. Tabula, quae \u0101 M\u0113d\u014d fer# solet, hodi\u0113 \u0101 M\u0101rc\u014d fer#.",
+                    "a": [
+                        "r\u012b",
+                        "tur"
+                    ]
+                },
+                {
+                    "q": "10. Epistulae \u0101 tabell\u0101ri\u012bs fer#.",
+                    "a": [
+                        "untur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Canis, qu\u012b tabell\u0101rium # stantem videt, dent\u0113s ostendit ac #: \u201cRrrr...\u201d",
+                    "a": [
+                        "for\u012bs",
+                        "fremit"
+                    ]
+                },
+                {
+                    "q": "2. Canis tabell\u0101rium # vult, sed cat\u0113n\u0101 #.",
+                    "a": [
+                        "mord\u0113re",
+                        "retin\u0113tur"
+                    ]
+                },
+                {
+                    "q": "3. I\u0101nitor eum d\u0113 cane fer\u014dc\u012b #: \u201c#! Canis t\u0113 mord\u0113bit.\u201d",
+                    "a": [
+                        "monet",
+                        "Cav\u0113"
+                    ]
+                },
+                {
+                    "q": "4. Tabell\u0101rius n\u014dn intrat, sed in l\u012bmine #.",
+                    "a": [
+                        "resistit"
+                    ]
+                },
+                {
+                    "q": "5. \u201cN\u014dl\u012b canem tuum #!\u201d inquit.",
+                    "a": [
+                        "solvere"
+                    ]
+                },
+                {
+                    "q": "6. In sol\u014d intr\u0101 l\u012bmen est # canis fer\u014dcis.",
+                    "a": [
+                        "im\u0101g\u014d"
+                    ]
+                },
+                {
+                    "q": "7. Tabell\u0101rius propius ad canem # [= ad\u012bre] audet; neque im\u0101g\u014d canis neque canis v\u0113rus eum #.\t",
+                    "a": [
+                        "acc\u0113dere",
+                        "terret"
+                    ]
+                },
+                {
+                    "q": "8. Canis cat\u0113nam # et vestem tabell\u0101ri\u012b dentibus #.",
+                    "a": [
+                        "rumpit",
+                        "prehendit"
+                    ]
+                },
+                {
+                    "q": "9. # novum, quod Tl\u0113polemus # [= paul\u014d ante] \u0113mit, \u0101 cane fer\u014dc\u012b #.",
+                    "a": [
+                        "Pallium",
+                        "n\u016bper",
+                        "scinditur"
+                    ]
+                },
+                {
+                    "q": "10. Tabell\u0101rius ex \u014dsti\u014d # n\u014dn potest, quia canis eum tenet.",
+                    "a": [
+                        "c\u0113dere"
+                    ]
+                },
+                {
+                    "q": "11. Hom\u014d territus nec # nec # audet.",
+                    "a": [
+                        "pr\u014dcedere",
+                        "rec\u0113dere"
+                    ]
+                },
+                {
+                    "q": "12. Canis eum loc\u014d s\u0113 mov\u0113re n\u014dn #.",
+                    "a": [
+                        "sinit"
+                    ]
+                },
+                {
+                    "q": "13. I\u0101nitor virum territum #: \u201cHahahae! Qu\u012bn intr\u0101s?\u201d",
+                    "a": [
+                        "d\u0113r\u012bdet"
+                    ]
+                },
+                {
+                    "q": "14. Tl\u0113polemus intr\u0101re c\u014dn\u0101tur, sed canis \u012br\u0101tus eum ex \u014dsti\u014d #.",
+                    "a": [
+                        "pellit"
+                    ]
+                },
+                {
+                    "q": "15. \u201cVinc\u012b # [= illum tuum] canem!\u201d inquit tabell\u0101rius t\u014dt\u014d corpore #.",
+                    "a": [
+                        "istum",
+                        "trem\u0113ns"
+                    ]
+                },
+                {
+                    "q": "16. I\u0101nitor: \u201cN\u014dl\u012b # [= put\u0101re] m\u0113 canem solvisse!\u201d",
+                    "a": [
+                        "arbitr\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "17. I\u0101nitor cat\u0113nam prehendit et canem \u0101 Tl\u0113polem\u014d #.",
+                    "a": [
+                        "removet"
+                    ]
+                },
+                {
+                    "q": "18. Tl\u0113polemus: \u201c# m\u0113 intr\u0101re! N\u014dl\u012b m\u0113 # in imbrem pellere!\u201d",
+                    "a": [
+                        "Sine",
+                        "for\u0101s"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. C\u016br tabell\u0101rius in l\u012bmine resistit? ...",
+                    "a": [
+                        "in l\u012bmine resistit quia canem i\u0101nit\u014dris timet"
+                    ]
+                },
+                {
+                    "q": "2. Quae im\u0101g\u014d in sol\u014d intr\u0101 l\u012bmen vid\u0113tur? ...",
+                    "a": [
+                        "intr\u0101 l\u012bmen im\u0101g\u014d canis vid\u0113tur"
+                    ]
+                },
+                {
+                    "q": "3. Quae verba \u012bnfr\u0101 im\u0101ginem scr\u012bpta sunt? ...",
+                    "a": [
+                        "\u012bnfr\u0101 im\u0101ginem CAVE CANEM scr\u012bptum est"
+                    ]
+                },
+                {
+                    "q": "4. Num Tl\u0113polemus im\u0101gine canis terr\u0113tur? ...",
+                    "a": [
+                        "tabell\u0101rius im\u0101gine n\u014dn terr\u0113tur"
+                    ]
+                },
+                {
+                    "q": "5. Quid agit canis cum Tl\u0113polemus ad eum acc\u0113dit? ...",
+                    "a": [
+                        "canis in tabell\u0101rium salit"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br canis excurr\u0113ns cat\u0113n\u0101 n\u014dn retin\u0113tur? ...",
+                    "a": [
+                        "... quod cat\u0113na rumpitur"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br tabell\u0101rius n\u014dn audet loc\u014d s\u0113 mov\u0113re? ...",
+                    "a": [
+                        "... quia canis n\u014dn sinit eum loc\u014d s\u0113 mov\u0113re"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014dmodo canis eum for\u0101s pellit? ...",
+                    "a": [
+                        "canis ped\u0113s in pectore eius p\u014dnit"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br tremit Tl\u0113polemus? ...",
+                    "a": [
+                        "... quia cane \u012br\u0101t\u014d terr\u0113tur"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br tabell\u0101rius i\u0101nit\u014dr\u012b pallium suum ostendit? ...",
+                    "a": [
+                        "... quod canis i\u0101nit\u014dris pallium eius scidit"
+                    ]
+                },
+                {
+                    "q": "11. Quid tabell\u0101rius s\u0113cum fert? ...",
+                    "a": [
+                        "tabell\u0101rius epistulam s\u0113cum fert"
+                    ]
+                },
+                {
+                    "q": "12. Quis epistulam in \u0101trium ad I\u016blium fert? ...",
+                    "a": [
+                        "i\u0101nitor epistulam prehendit et ad dominum suum fert"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla: \nDominus cot\u012bdi\u0113 ambul\u0101tum it. \nV\u014dx tabell\u0101ri\u012b difficilis aud\u012bt\u016b est.\n",
+            "questions": [
+                {
+                    "q": "1. 'Ambul\u0101t|um' # est. 'Aud\u012bt|\u016b' quoque # est.",
+                    "a": [
+                        "sup\u012bnum",
+                        "sup\u012bnum"
+                    ]
+                },
+                {
+                    "q": "2. Sup\u012bnum alterum in -# d\u0113sinit, alterum in -#.",
+                    "a": [
+                        "um",
+                        "\u016b"
+                    ]
+                },
+                {
+                    "q": "3. Sup\u012bnum in -um d\u0113sin\u0113ns p\u014dnitur apud verba '#', 'ven\u012bre', 'mittere', c\u0113t.",
+                    "a": [
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "4. Alterum sup\u012bnum, quod in -\u016b d\u0113sinit, apud adiect\u012bva '#' et 'difficilis' et pauca alia p\u014dnitur.",
+                    "a": [
+                        "facilis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "'Thema' d\u012bcitur prior verb\u012b pars ad quam adduntur variae litterae vel \nsyllabae ('termin\u0101ti\u014dn\u0113s' quae vocantur), ut -re, -\u014d, -isse, -\u012b, -ist\u012b, \n-us, -a, -um, c\u0113t.\nVerb\u012b themata sunt tria: \n(1) thema praesentis (= \u012bnf. praes. \u0101ct. sine -re, -ere), ut am\u0101-, mon\u0113-, \nscr\u012bb-, aud\u012b-; (2) thema perfect\u012b (= \u012bnf. perf. \u0101ct. sine -isse), ut \nam\u0101v-, monu-, scr\u012bps-, aud\u012bv-; (3) thema sup\u012bn\u012b (= sup\u012bnum sine -um s\u012bve \npart. perf. sine -us -a -um), ut am\u0101t-, monit-, scr\u012bpt-, aud\u012bt-.\n",
+            "questions": [
+                {
+                    "q": "1. \u012anf\u012bn\u012bt\u012bv\u012b: voc\u0101|re, voc\u0101v|isse, voc\u0101t|um esse: voc\u0101- thema # est, voc\u0101v- thema #, voc\u0101t- # #.",
+                    "a": [
+                        "praesentis",
+                        "perfect\u012b",
+                        "thema",
+                        "sup\u012bn\u012b"
+                    ]
+                },
+                {
+                    "q": "2. \u012anf\u012bn\u012bt\u012bv\u012b: terr\u0113|re, terru|isse, territ|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+                    "a": [
+                        "terr\u0113",
+                        "terru",
+                        "territ"
+                    ]
+                },
+                {
+                    "q": "3. \u012anf\u012bn\u012bt\u012bv\u012b: d\u012bc|ere, d\u012bx|isse, dict|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+                    "a": [
+                        "d\u012bc",
+                        "d\u012bx",
+                        "dict"
+                    ]
+                },
+                {
+                    "q": "4. \u012anf\u012bn\u012bt\u012bv\u012b: p\u016bn\u012b|re, p\u016bn\u012bv|isse, p\u016bn\u012bt|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+                    "a": [
+                        "p\u016bn\u012b",
+                        "p\u016bn\u012bv",
+                        "p\u016bn\u012bt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "\u012anf\u012bn\u012bt\u012bv\u012b (adde themata perfect\u012b et sup\u012bn\u012b): \n",
+            "questions": [
+                {
+                    "q": "1. aper\u012bre, #isse, #um esse  ",
+                    "a": [
+                        "aperu",
+                        "apert"
+                    ]
+                },
+                {
+                    "q": "2. claudere, #isse, #um esse",
+                    "a": [
+                        "claus",
+                        "claus"
+                    ]
+                },
+                {
+                    "q": "3. emere, #isse, #um esse ",
+                    "a": [
+                        "\u0113m",
+                        "\u0113mpt"
+                    ]
+                },
+                {
+                    "q": "4. pellere, #isse, #um esse",
+                    "a": [
+                        "pepul",
+                        "puls"
+                    ]
+                },
+                {
+                    "q": "5. posse, #isse ",
+                    "a": [
+                        "potu"
+                    ]
+                },
+                {
+                    "q": "6. rumpere, #isse, #um esse ",
+                    "a": [
+                        "r\u016bp",
+                        "rupt"
+                    ]
+                },
+                {
+                    "q": "7. scindere, #isse, #um esse",
+                    "a": [
+                        "scid",
+                        "sciss"
+                    ]
+                },
+                {
+                    "q": "8. solvere, #isse, #um esse ",
+                    "a": [
+                        "solv",
+                        "sol\u016bt"
+                    ]
+                },
+                {
+                    "q": "9. vinc\u012bre, #isse, #um esse ",
+                    "a": [
+                        "v\u012bnx",
+                        "v\u012bnct"
+                    ]
+                },
+                {
+                    "q": "10. ven\u012bre, #isse",
+                    "a": [
+                        "v\u0113n"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "H\u014dr\u0101 n\u014dn\u0101 erus ambul\u0101# \u012bre solet."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Tabell\u0101ri\u012b n\u014dn mittuntur pec\u016bniam postul\u0101#."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Host\u0113s castra expugn\u0101# veniunt."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Mult\u012b barbar\u012b R\u014dmam veniunt habit\u0101#."
+                },
+                {
+                    "a": [
+                        "t\u016b"
+                    ],
+                    "q": "Syra: \"Verba medic\u012b difficilia sunt aud\u012b#.\""
+                },
+                {
+                    "a": [
+                        "t\u016b"
+                    ],
+                    "q": "Ea r\u0113s est fac# facilis."
+                },
+                {
+                    "a": [
+                        "t\u016b"
+                    ],
+                    "q": "N\u014dmen barbarum difficile dic# est."
+                },
+                {
+                    "a": [
+                        "terru",
+                        "territ"
+                    ],
+                    "q": "Verba: terr\u0113re, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "claus",
+                        "claus"
+                    ],
+                    "q": "claudere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "d\u012bx",
+                        "dict"
+                    ],
+                    "q": "d\u012bcere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "solv",
+                        "sol\u016bt"
+                    ],
+                    "q": "solvere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "\u0113m",
+                        "\u0113mpt"
+                    ],
+                    "q": "emere, #isse, #um"
+                },
+                {
+                    "a": [
+                        "r\u016bp",
+                        "rupt"
+                    ],
+                    "q": "rumpere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "aperu",
+                        "apert"
+                    ],
+                    "q": "aper\u012bre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "v\u012bnx",
+                        "v\u012bnct"
+                    ],
+                    "q": "vinc\u012bre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "pepul",
+                        "puls"
+                    ],
+                    "q": "pellere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "scid",
+                        "sciss"
+                    ],
+                    "q": "scindere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "v\u0113n"
+                    ],
+                    "q": "ven\u012bre, #isse; "
+                },
+                {
+                    "a": [
+                        "potu"
+                    ],
+                    "q": "posse, #isse."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "foribus",
+                        "cardinibus"
+                    ],
+                    "q": "I\u0101nua c\u014dnstat \u0113 du\u0101bus #, quae in # vertuntur."
+                },
+                {
+                    "a": [
+                        "i\u0101nitor",
+                        "admittit"
+                    ],
+                    "q": "\u014csti\u0101rius vel # d\u012bcitur servus qu\u012b homin\u0113s in v\u012bllam #."
+                },
+                {
+                    "a": [
+                        "fer\u014dx",
+                        "ferre\u0101",
+                        "vinc\u012bre"
+                    ],
+                    "q": "Canis eius prope tam # quam lupus est; itaque necesse est eum cat\u0113n\u0101 # [<ferrum] #."
+                },
+                {
+                    "a": [
+                        "aur\u014d"
+                    ],
+                    "q": "\u0100nulus L\u0233diae n\u014dn ex ferr\u014d, sed ex # factus est."
+                },
+                {
+                    "a": [
+                        "tabell\u0101rius",
+                        "ante\u0101"
+                    ],
+                    "q": "Servus qu\u012b epistul\u0101s fert # d\u012bcitur, nam # epistulae in tabell\u012bs scr\u012bb\u0113bantur."
+                },
+                {
+                    "a": [
+                        "extr\u0101"
+                    ],
+                    "q": "Tabell\u0101rius # i\u0101nuam stat."
+                },
+                {
+                    "a": [
+                        "intr\u0101",
+                        "monet",
+                        "mord\u0113bit"
+                    ],
+                    "q": "I\u0101nitor, qu\u012b # i\u0101nuam sedet, tabell\u0101rium d\u0113 cane fer\u014dc\u012b #: \"Cav\u0113! Canis t\u0113 #!\""
+                },
+                {
+                    "a": [
+                        "l\u012bmen",
+                        "Cav\u0113",
+                        "im\u0101ginem"
+                    ],
+                    "q": "In sol\u014d intr\u0101 # scr\u012bptum est \"# canem\" \u012bnfr\u0101 # canis."
+                },
+                {
+                    "a": [
+                        "im\u0101g\u014d",
+                        "terret",
+                        "acc\u0113dit"
+                    ],
+                    "q": "\"Nec haec # nec canis v\u0113rus m\u0113 #\" inquit tabell\u0101rius, ac propius ad canem #."
+                },
+                {
+                    "a": [
+                        "rumpit",
+                        "prehendit"
+                    ],
+                    "q": "Canis cat\u0113nam # et vestem eius dentibus #."
+                },
+                {
+                    "a": [
+                        "pr\u014dc\u0113dere",
+                        "rec\u0113dere"
+                    ],
+                    "q": "Tabell\u0101rius neque # neque # audet."
+                },
+                {
+                    "a": [
+                        "Qu\u012bn",
+                        "sin\u014d",
+                        "d\u0113r\u012bdet"
+                    ],
+                    "q": "I\u0101nitor: \"# pr\u014dc\u0113dis? Ego t\u0113 intr\u0101re #!\" S\u012bc i\u0101nitor hominem territum #."
+                },
+                {
+                    "a": [
+                        "pellit"
+                    ],
+                    "q": "Ille alterum gradum facit, sed canis eum ex \u014dsti\u014d #."
+                },
+                {
+                    "a": [
+                        "trem\u0113ns",
+                        "c\u0113dit"
+                    ],
+                    "q": "Tl\u0113polemus t\u014dt\u014d corpore # ex \u014dsti\u014d #."
+                },
+                {
+                    "a": [
+                        "Tandem"
+                    ],
+                    "q": "# [= postr\u0113m\u014d] i\u0101nitor canem vincit."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est i\u0101nit\u014dris officium? ",
+                    "a": [
+                        "I\u0101nit\u014dris officium est v\u012bllam c\u016bst\u014dd\u012bre"
+                    ]
+                },
+                {
+                    "q": "2. C\u016br necesse est canem eius vinc\u012bre? ",
+                    "a": [
+                        "Quia canis fer\u014dx est"
+                    ]
+                },
+                {
+                    "q": "3. Ex qu\u0101 m\u0101teri\u0101 c\u014dnstat i\u0101nua? ",
+                    "a": [
+                        "I\u0101nua \u0113lign\u014d c\u014dnstat"
+                    ]
+                },
+                {
+                    "q": "4. Vulc\u0101nus quis est? ",
+                    "a": [
+                        "Vulc\u0101nus est deus fabr\u014drum"
+                    ]
+                },
+                {
+                    "q": "5. Quid in sol\u014d intr\u0101 l\u012bmen vid\u0113tur? ",
+                    "a": [
+                        "Intr\u0101 limen vid\u0113tur im\u0101g\u014d canis"
+                    ]
+                },
+                {
+                    "q": "6. Quid tabell\u0101rius s\u0113cum fert? ",
+                    "a": [
+                        "Tabell\u0101rius epistul\u0101s fert"
+                    ]
+                },
+                {
+                    "q": "7. Unde venit Tl\u0113polemus et quem quaerit? ",
+                    "a": [
+                        "T\u016bscul\u014d venit et I\u016blium, patrem M\u0101rc\u012b, quaerit"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014dmodo i\u0101nitor \u0113 somn\u014d excit\u0101tur? ",
+                    "a": [
+                        "Cane latrante excit\u0101tur i\u0101nitor"
+                    ]
+                },
+                {
+                    "q": "9. Quid agit I\u016blius post mer\u012bdiem? ",
+                    "a": [
+                        "Post mer\u012bdiem I\u016blius dorm\u012btum it"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br canis sali\u0113ns cat\u0113n\u0101 n\u014dn retin\u0113tur? ",
+                    "a": [
+                        "Quia cat\u0113na rumpitur"
+                    ]
+                },
+                {
+                    "q": "11. Quid facit i\u0101nitor antequam tabell\u0101rius intrat? ",
+                    "a": [
+                        "Canem vincit"
+                    ]
+                }
+            ]
+        }
+    ]
+}

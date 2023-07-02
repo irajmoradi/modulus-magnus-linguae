@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. Cr\u0101s M\u0101rcus r\u016brsus in l\u016bd\u014d pugn\u0101# nec magistr\u014d p\u0101r\u0113#, aut dormi# nec verba magistr\u012b audi#.",
+        "a": [
+            "bit",
+            "bit",
+            "et",
+            "et"
+        ]
+    },
+    {
+        "q": "2. Cr\u0101s M\u0101rcus tam male comput\u0101# ac scr\u012bb# quam hodi\u0113.",
+        "a": [
+            "bit",
+            "et"
+        ]
+    },
+    {
+        "q": "3. Erg\u014d M\u0101rcus r\u016brsus \u0101 magistr\u014d reprehend# ac verber\u0101# aut ali\u014d mod\u014d p\u016bni#.",
+        "a": [
+            "\u0113tur",
+            "bitur",
+            "\u0113tur"
+        ]
+    },
+    {
+        "q": "4. Cr\u0101s discipul\u012b pigr\u012b r\u016brsus in l\u016bd\u014d pugn\u0101# nec magistr\u014d p\u0101r\u0113#, aut dormi# nec verba magistr\u012b audi#. ",
+        "a": [
+            "bunt",
+            "bunt",
+            "ent",
+            "ent"
+        ]
+    },
+    {
+        "q": "5. Cr\u0101s discipul\u012b tam male comput\u0101# ac scr\u012bb# quam hodi\u0113.\t ",
+        "a": [
+            "bunt",
+            "ent"
+        ]
+    },
+    {
+        "q": "6. Erg\u014d discipul\u012b r\u016brsus \u0101 magistr\u014d reprehend# ac verber\u0101# aut ali\u014d mod\u014d p\u016bni#.",
+        "a": [
+            "entur",
+            "buntur",
+            "entur"
+        ]
+    }
+]

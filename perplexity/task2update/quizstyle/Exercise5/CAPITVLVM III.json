@@ -1,0 +1,59 @@
+[
+    {
+        "q": "1. C\u016br M\u0101rcus I\u016bliam pulsat? M\u0101rcus I\u016bliam pulsat # I\u016blia cantat.",
+        "a": [
+            "quia"
+        ]
+    },
+    {
+        "q": "2. C\u016br I\u016blia pl\u014drat? I\u016blia pl\u014drat # M\u0101rcus eam pulsat.",
+        "a": [
+            "quia"
+        ]
+    },
+    {
+        "q": "3. # M\u0101rcus r\u012bdet? M\u0101rcus r\u012bdet quia I\u016blia pl\u014drat.",
+        "a": [
+            "C\u016br"
+        ]
+    },
+    {
+        "q": "4. C\u016br I\u016blia n\u014dn pulsat M\u0101rcum? I\u016blia M\u0101rcum n\u014dn pulsat # parva puella est.",
+        "a": [
+            "quia"
+        ]
+    },
+    {
+        "q": "5. # Aemilia venit? Aemilia venit # I\u016blia eam vocat.",
+        "a": [
+            "C\u016br",
+            "quia"
+        ]
+    },
+    {
+        "q": "6. # I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit # dormit.",
+        "a": [
+            "C\u016br",
+            "quia"
+        ]
+    },
+    {
+        "q": "7. C\u016br M\u0101rcum verberat Aemilia? M\u0101rcum verberat # puer improbus est.",
+        "a": [
+            "quia"
+        ]
+    },
+    {
+        "q": "8. # M\u0101rcus pl\u014drat? M\u0101rcus pl\u014drat # Aemilia eum verberat.",
+        "a": [
+            "C\u016br",
+            "quia"
+        ]
+    },
+    {
+        "q": "9. C\u016br venit I\u016blius? I\u016blius venit # M\u0101rcum audit.",
+        "a": [
+            "quia"
+        ]
+    }
+]

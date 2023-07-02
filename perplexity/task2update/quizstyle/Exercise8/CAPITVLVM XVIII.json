@@ -1,0 +1,48 @@
+[
+    {
+        "q": "1. L\u016bna n\u014dn tam cl\u0101r# l\u016bcet quam s\u014dl = S\u014dl cl\u0101r# l\u016bcet quam l\u016bna.",
+        "a": [
+            "\u0113",
+            "ius"
+        ]
+    },
+    {
+        "q": "3. Host\u0113s n\u014dn tam fort# pugnant quam R\u014dm\u0101n\u012b = R\u014dm\u0101n\u012b fort# pugnant quam host\u0113s.",
+        "a": [
+            "iter",
+            "ius"
+        ]
+    },
+    {
+        "q": "3. Manus f\u0113minae n\u014dn tam grav# pulsat quam vir\u012b = Manus vir\u012b grav# pulsat quam f\u0113minae.",
+        "a": [
+            "iter",
+            "ius"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus n\u014dn tam pulchr# scr\u012bbit quam Sextus = Sextus pulchr# scr\u012bbit quam M\u0101rcus.",
+        "a": [
+            "\u0113",
+            "ius"
+        ]
+    },
+    {
+        "q": "5. Titus n\u014dn tam stult# respondet quam M\u0101rcus nec tam sev\u0113r# reprehenditur = M\u0101rcus stult# respondet quam Titus et sev\u0113r# reprehenditur.",
+        "a": [
+            "\u0113",
+            "\u0113",
+            "ius",
+            "ius"
+        ]
+    },
+    {
+        "q": "6. Titus n\u014dn tam foed# nec tam lev# scr\u012bbit quam M\u0101rcus = M\u0101rcus foed# et lev# scr\u012bbit quam Titus.",
+        "a": [
+            "\u0113",
+            "iter",
+            "ius",
+            "ius"
+        ]
+    }
+]

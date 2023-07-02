@@ -1,0 +1,76 @@
+[
+    {
+        "q": "1. I\u016blius n\u014dn # [= tantum] M\u0101rc\u014d, sed # Qu\u012bnt\u014d m\u0101lum dat.",
+        "a": [
+            "s\u014dlum",
+            "etiam"
+        ]
+    },
+    {
+        "q": "2. I\u016blius # M\u0101rc\u014d # Qu\u012bnt\u014d m\u0101lum dat.",
+        "a": [
+            "et",
+            "et"
+        ]
+    },
+    {
+        "q": "3. Pater f\u012bli\u012bs n\u014dn s\u014dlum m\u0101la, # # pira dat.",
+        "a": [
+            "sed",
+            "etiam"
+        ]
+    },
+    {
+        "q": "4. Iam puer\u012b # m\u0101la # pira habent, sed serv\u012b # m\u0101la # pira habent.",
+        "a": [
+            "et",
+            "et",
+            "neque",
+            "neque"
+        ]
+    },
+    {
+        "q": "5. # Syrus # L\u0113ander m\u0101lum habet.",
+        "a": [
+            "Neque",
+            "neque"
+        ]
+    },
+    {
+        "q": "6. I\u016blius # # Syr\u014d, sed etiam L\u0113andr\u014d m\u0101lum dat.",
+        "a": [
+            "n\u014dn",
+            "s\u014dlum"
+        ]
+    },
+    {
+        "q": "7. Iam # serv\u012b # f\u012bli\u012b m\u0101la habent.",
+        "a": [
+            "et",
+            "et"
+        ]
+    },
+    {
+        "q": "8. N\u014dn s\u014dlum I\u016blia, # # Syra abest.",
+        "a": [
+            "sed",
+            "etiam"
+        ]
+    },
+    {
+        "q": "9. # I\u016blia # Syra absunt: # I\u016blia # Syra adest.",
+        "a": [
+            "Et",
+            "et",
+            "neque",
+            "neque"
+        ]
+    },
+    {
+        "q": "10. I\u016blia # in \u0101tri\u014d # in hort\u014d est.",
+        "a": [
+            "neque",
+            "neque"
+        ]
+    }
+]

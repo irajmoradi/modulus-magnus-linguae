@@ -1,0 +1,96 @@
+[
+    {
+        "q": "1. Magnum # est N\u012blus.",
+        "a": [
+            "fl\u016bmen"
+        ]
+    },
+    {
+        "q": "2. \u014cceanus Atlanticus magnum # est.",
+        "a": [
+            "mare"
+        ]
+    },
+    {
+        "q": "3. Pisc\u0113s n\u014dn in terr\u0101, sed in aqu\u0101 #.",
+        "a": [
+            "v\u012bvunt"
+        ]
+    },
+    {
+        "q": "4. Cum hom\u014d #, anima in # intrat et r\u016brsus exit.",
+        "a": [
+            "sp\u012brat",
+            "pulm\u014dn\u0113s"
+        ]
+    },
+    {
+        "q": "5. # est \u0101\u0113r qu\u012b in pulm\u014dn\u0113s d\u016bcitur.",
+        "a": [
+            "Anima"
+        ]
+    },
+    {
+        "q": "6. Qu\u012b sp\u012brat # est, qu\u012b n\u014dn sp\u012brat est #.",
+        "a": [
+            "v\u012bvus",
+            "mortuus"
+        ]
+    },
+    {
+        "q": "7. Sine anim\u0101 et cib\u014d # v\u012bvere potest.",
+        "a": [
+            "n\u0113m\u014d"
+        ]
+    },
+    {
+        "q": "8. Sp\u012br\u0101re et \u0113sse hominibus # est.",
+        "a": [
+            "necesse"
+        ]
+    },
+    {
+        "q": "9. Homin\u0113s et b\u0113stiae # sunt.",
+        "a": [
+            "anim\u0101lia"
+        ]
+    },
+    {
+        "q": "10. Av\u0113s in arboribus # faciunt.",
+        "a": [
+            "n\u012bd\u014ds"
+        ]
+    },
+    {
+        "q": "11. N\u012bd\u012b sunt inter # et # arborum.",
+        "a": [
+            "r\u0101m\u014ds",
+            "folia"
+        ]
+    },
+    {
+        "q": "12. In n\u012bd\u012bs sunt # aut pull\u012b.",
+        "a": [
+            "\u014dva"
+        ]
+    },
+    {
+        "q": "13. Av\u0113s \u014dva #, ex quibus # exeunt.",
+        "a": [
+            "pariunt",
+            "pull\u012b"
+        ]
+    },
+    {
+        "q": "14. Ovis n\u014dn \u014dva, sed pull\u014ds v\u012bv\u014ds #.",
+        "a": [
+            "parit"
+        ]
+    },
+    {
+        "q": "15. F\u0113minae quae pec\u016bniam facere # \u014drn\u0101menta sua v\u0113ndunt.",
+        "a": [
+            "volunt"
+        ]
+    }
+]

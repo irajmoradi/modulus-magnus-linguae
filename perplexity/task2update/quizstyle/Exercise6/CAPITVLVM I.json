@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. T\u016bsculum n\u014dn oppidum Graecum, sed oppidum # est.",
+        "a": [
+            "R\u014dm\u0101num"
+        ]
+    },
+    {
+        "q": "2. Sparta est oppidum #.",
+        "a": [
+            "Graecum"
+        ]
+    },
+    {
+        "q": "3. # N\u012blus oppidum est? N\u012blus n\u014dn est oppidum.",
+        "a": [
+            "Num"
+        ]
+    },
+    {
+        "q": "4. # est N\u012blus? N\u012blus fluvius est.",
+        "a": [
+            "Quid"
+        ]
+    },
+    {
+        "q": "5. In Arabi\u0101 n\u014dn mult\u012b, sed # fluvi\u012b sunt.",
+        "a": [
+            "pauc\u012b"
+        ]
+    },
+    {
+        "q": "6. Quid est Gallia? Gallia est # R\u014dm\u0101na.",
+        "a": [
+            "pr\u014dvincia"
+        ]
+    },
+    {
+        "q": "7. In imperi\u014d R\u014dm\u0101n\u014d n\u014dn paucae, sed # pr\u014dvinciae sunt.",
+        "a": [
+            "multae"
+        ]
+    },
+    {
+        "q": "8. Magnum est # R\u014dm\u0101num.",
+        "a": [
+            "imperium"
+        ]
+    }
+]

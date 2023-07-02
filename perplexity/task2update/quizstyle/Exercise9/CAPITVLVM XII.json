@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. Dominus serv# su\u014d imperat; servus domin# su# p\u0101ret.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. Domina ancill# suae imperat; ancilla domin# su# p\u0101ret.",
+        "a": [
+            "ae",
+            "ae",
+            "ae"
+        ]
+    },
+    {
+        "q": "3. I\u016blius M\u0113d# imperat: \"Ven\u012b!\" nec M\u0113dus e# p\u0101ret.",
+        "a": [
+            "\u014d",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus sor\u014dr# su# imperat: \"Tac\u0113, I\u016blia!\" neque ea fr\u0101tr# su# p\u0101ret.",
+        "a": [
+            "\u012b",
+            "ae",
+            "\u012b",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "5. Dux m\u012blit# imperat, m\u012blit\u0113s duc# su# p\u0101rent.",
+        "a": [
+            "ibus",
+            "\u012b",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. R\u014dm\u0101n\u012b Gall# imperant, Gall\u012b R\u014dm\u0101n# p\u0101rent.",
+        "a": [
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "7. C# domin\u014d D\u0101vus p\u0101ret? Dominus c# D\u0101vus p\u0101ret est I\u016blius.",
+        "a": [
+            "ui",
+            "ui"
+        ]
+    }
+]

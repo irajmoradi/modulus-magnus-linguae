@@ -1,0 +1,108 @@
+[
+    {
+        "q": "1. N\u014dm.\tp\u0101stor\t\tp\u0101st\u014dr|#\t\tov|#\tov|#",
+        "a": [
+            "\u0113s",
+            "is",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "2. Acc.\t \tp\u0101st\u014dr|#\tp\u0101st\u014dr|#\t\tov|#\tov|#",
+        "a": [
+            "em",
+            "\u0113s",
+            "em",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "3. Gen. \tp\u0101st\u014dr|#\tp\u0101st\u014dr|#\t\tov|#\tov|#",
+        "a": [
+            "is",
+            "um",
+            "is",
+            "ium"
+        ]
+    },
+    {
+        "q": "4. Dat. \t\tp\u0101st\u014dr|#\t\tp\u0101st\u014dr|#\t\tov|#\tov|#",
+        "a": [
+            "\u012b",
+            "ibus",
+            "\u012b",
+            "ibus"
+        ]
+    },
+    {
+        "q": "5. Abl.  \tp\u0101st\u014dr|#\t\tp\u0101st\u014dr|#\t\tov|#\tov|#",
+        "a": [
+            "e",
+            "ibus",
+            "e",
+            "ibus"
+        ]
+    },
+    {
+        "q": "6. 'P\u0101stor' # singul\u0101ris est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'P\u0101st\u014dr|e' et 'ov|e' # # est.",
+        "a": [
+            "abl\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "8. 'P\u0101st\u014dr|em' et 'ov|em' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "9. 'P\u0101st\u014dr|\u0113s' et 'ov|\u0113s' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "10. 'P\u0101st\u014dr|\u012b' et 'ov|\u012b' # # est.",
+        "a": [
+            "dat\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "11. 'P\u0101st\u014dr|ibus' et 'ov|ibus' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "12. 'P\u0101st\u014dr|is' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "13. 'Ov|is' # aut # singul\u0101ris est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "14. 'P\u0101st\u014dr|um' et 'ov|ium' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q": "1. Vir pr\u016bd\u0113ns neg\u014dtia sua pr\u016bd# agit.",
+        "a": [
+            "enter"
+        ]
+    },
+    {
+        "q": "2. Agricola d\u012blig\u0113ns agr\u014ds d\u012blig# colit.",
+        "a": [
+            "enter"
+        ]
+    },
+    {
+        "q": "3. P\u0101stor negleg\u0113ns ov\u0113s su\u0101s negleg# c\u016brat.",
+        "a": [
+            "enter"
+        ]
+    },
+    {
+        "q": "4. Sextus n\u014dn r\u0101r\u014d, sed frequ# laud\u0101tur.\t",
+        "a": [
+            "enter"
+        ]
+    },
+    {
+        "q": "5. Hom\u014d c\u014dnst\u0101ns et pati\u0113ns dol\u014dr\u0113s c\u014dnst# ac pati# fert.",
+        "a": [
+            "anter",
+            "enter"
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "q": "1. I\u016blius in v\u012bll\u0101 habit#.",
+        "a": [
+            "at"
+        ]
+    },
+    {
+        "q": "2. I\u016blius et Aemilia in v\u012bll\u0101 habit#.",
+        "a": [
+            "ant"
+        ]
+    },
+    {
+        "q": "3. Aemilia tr\u0113s l\u012bber\u014ds hab#.",
+        "a": [
+            "et"
+        ]
+    },
+    {
+        "q": "4. I\u016blius et Aemilia tr\u0113s l\u012bber\u014ds hab#.",
+        "a": [
+            "ent"
+        ]
+    },
+    {
+        "q": "5. Aemilia I\u016blium am# et I\u016blius Aemiliam am#.",
+        "a": [
+            "at",
+            "at"
+        ]
+    },
+    {
+        "q": "6. I\u016blius et Aemilia l\u012bber\u014ds su\u014ds am#.",
+        "a": [
+            "ant"
+        ]
+    },
+    {
+        "q": "7. Serv\u012b dominum sal\u016bt# et dominus serv\u014ds sal\u016bt#.",
+        "a": [
+            "ant",
+            "at"
+        ]
+    },
+    {
+        "q": "8. Dominus imper#; serv\u012b p\u0101r#.",
+        "a": [
+            "at",
+            "ent"
+        ]
+    },
+    {
+        "q": "9. Puella cant#. Puer\u012b n\u014dn cant#, sed r\u012bd#.",
+        "a": [
+            "at",
+            "ant",
+            "ent"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus in parv\u014d cubicul\u014d dorm#.",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "11. I\u016blius et Aemilia in magn\u014d cubicul\u014d dorm#.",
+        "a": [
+            "iunt"
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "q": "1. Magister discipul\u014ds c\u014dns\u012bdere et tac\u0113re iubet = magister discipul\u012bs imperat ut # # #",
+        "a": [
+            "c\u014dns\u012bdant",
+            "et",
+            "taceant"
+        ]
+    },
+    {
+        "q": "2. Magister M\u0101rcum surgere et respond\u0113re iubet = # # # # # # #",
+        "a": [
+            "magister",
+            "M\u0101rc\u014d",
+            "imperat",
+            "ut",
+            "surgat",
+            "et",
+            "respondeat"
+        ]
+    },
+    {
+        "q": "3. Domina ancillam intr\u0101re iubet = # # # # #",
+        "a": [
+            "domina",
+            "ancillae",
+            "imperat",
+            "ut",
+            "intret"
+        ]
+    },
+    {
+        "q": "4. Gubern\u0101tor naut\u0101s aquam haur\u012bre iubet = # # # # # #",
+        "a": [
+            "gubern\u0101tor",
+            "naut\u012bs",
+            "imperat",
+            "ut",
+            "aquam",
+            "hauriant"
+        ]
+    },
+    {
+        "q": "5. Dominus serv\u014ds industri\u0113 lab\u014dr\u0101re iubet = # # # # # #",
+        "a": [
+            "dominus",
+            "serv\u012bs",
+            "imperat",
+            "ut",
+            "industri\u0113",
+            "lab\u014drent"
+        ]
+    },
+    {
+        "q": "6. I\u016blius i\u0101nit\u014drem vigil\u0101re et domum bene c\u016bst\u014dd\u012bre iubet = # # # # # # # # #",
+        "a": [
+            "I\u016blius",
+            "i\u0101nit\u014dr\u012b",
+            "imperat",
+            "ut",
+            "vigilet",
+            "et",
+            "domum",
+            "bene",
+            "c\u016bst\u014ddiat"
+        ]
+    },
+    {
+        "q": "7. Dux m\u012blit\u0113s oppidum hostium oppugn\u0101re iubet = # # # # # # #",
+        "a": [
+            "dux",
+            "m\u012blitibus",
+            "imperat",
+            "ut",
+            "oppidum",
+            "hostium",
+            "oppugnent"
+        ]
+    },
+    {
+        "q": "8. I\u016blius servum medicum arcessere iubet = # # # # # #",
+        "a": [
+            "I\u016blius",
+            "serv\u014d",
+            "imperat",
+            "ut",
+            "medicum",
+            "arcessat"
+        ]
+    },
+    {
+        "q": "9. Medicus Qu\u012bntum \u014ds aper\u012bre et linguam ostendere iubet = # # # # # # # # #",
+        "a": [
+            "medicus",
+            "Qu\u012bnt\u014d",
+            "imperat",
+            "ut",
+            "\u014ds",
+            "aperiat",
+            "et",
+            "linguam",
+            "ostendat"
+        ]
+    },
+    {
+        "q": "10. Medicus I\u016blium bracchium puer\u012b ten\u0113re iubet = # # # # # # #",
+        "a": [
+            "medicus",
+            "I\u016bli\u014d",
+            "imperat",
+            "ut",
+            "bracchium",
+            "puer\u012b",
+            "teneat"
+        ]
+    },
+    {
+        "q": "11. I\u016blius serv\u014ds c\u014dnsistere et man\u0113re iubet = # # # # # # #",
+        "a": [
+            "I\u016blius",
+            "serv\u012bs",
+            "imperat",
+            "ut",
+            "c\u014dnsistant",
+            "et",
+            "maneant"
+        ]
+    }
+]

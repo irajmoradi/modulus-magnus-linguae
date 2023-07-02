@@ -1,0 +1,1179 @@
+{
+    "id": 24,
+    "name": "CAPITVLVM XXV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # et lupus # [= sine caus\u0101] ad eundem r\u012bvum v\u0113n\u0113runt.",
+                    "a": [
+                        "Agnus",
+                        "forte"
+                    ]
+                },
+                {
+                    "q": "2. Quattuor equ\u012b currum S\u014dlis #; nec facile est equ\u014ds S\u014dlis #.",
+                    "a": [
+                        "trahunt",
+                        "regere"
+                    ]
+                },
+                {
+                    "q": "3. Achill\u0113s corpus Hectoris post # suum tr\u0101xit.",
+                    "a": [
+                        "currum"
+                    ]
+                },
+                {
+                    "q": "4. R\u014dmulus pr\u012bma # R\u014dm\u0101na aedific\u0101vit et fr\u0101trem #.",
+                    "a": [
+                        "moenia",
+                        "interf\u0113cit"
+                    ]
+                },
+                {
+                    "q": "5. Moenia, quae R\u014dmulus #, n\u014dn alta, sed # erant.",
+                    "a": [
+                        "aedific\u0101vit",
+                        "humilia"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus # d\u0113 R\u014dmul\u014d et Rem\u014d iam aud\u012bvit.",
+                    "a": [
+                        "f\u0101bulam"
+                    ]
+                },
+                {
+                    "q": "7. Nunc f\u0101bulam d\u0113 # fer\u014dc\u012b quod homin\u0113s v\u012bv\u014ds # aud\u012bre cupit.",
+                    "a": [
+                        "m\u014dnstr\u014d",
+                        "vorat"
+                    ]
+                },
+                {
+                    "q": "8. T\u0101le m\u014dnstrum # [= fer\u014dx] Qu\u012bntum n\u014dn terr\u0113bit, neque enim is puer # est.",
+                    "a": [
+                        "saevum",
+                        "timidus"
+                    ]
+                },
+                {
+                    "q": "9. In Cr\u0113t\u0101 # [= tempore ant\u012bqu\u014d] v\u012bv\u0113bat # m\u014dnstrum, n\u014dmine M\u012bn\u014dtaurus, cui corpus vir\u012b, sed caput # erat.",
+                    "a": [
+                        "\u014dlim",
+                        "terribile",
+                        "taur\u012b"
+                    ]
+                },
+                {
+                    "q": "10. # [= pl\u016br\u0113s quam duo] adul\u0113scent\u0113s virgin\u0113sque Ath\u0113ni\u0113ns\u0113s # [= omn\u012b ann\u014d] ad M\u012bn\u014dtaurum mitt\u0113bantur.",
+                    "a": [
+                        "Compl\u016br\u0113s",
+                        "quotann\u012bs"
+                    ]
+                },
+                {
+                    "q": "11. Labyrinthus est magnum #, unde n\u0113m\u014d potest ex\u012bre, quamquam i\u0101nua #.",
+                    "a": [
+                        "aedificium",
+                        "patet"
+                    ]
+                },
+                {
+                    "q": "12. Daedalus compl\u016br\u0113s r\u0113s # [< m\u012br\u0101r\u012b] eff\u0113cerat praeter labyrinthum.",
+                    "a": [
+                        "m\u012br\u0101bil\u0113s"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Qu\u012bntus Syram sibi n\u0101rr\u0101re iubet? ...",
+                    "a": [
+                        "Qu\u012bntus Syram sibi f\u0101bulam n\u0101rr\u0101re iubet"
+                    ]
+                },
+                {
+                    "q": "2. Quid f\u0113cit Achill\u0113s? ...",
+                    "a": [
+                        "Achill\u0113s Hectorem interf\u0113cit"
+                    ]
+                },
+                {
+                    "q": "3. Quis pr\u012bm\u014ds m\u016br\u014ds R\u014dm\u0101n\u014ds aedific\u0101vit? ...",
+                    "a": [
+                        "R\u014dmulus pr\u012bm\u014ds m\u016br\u014ds R\u014dm\u0101n\u014ds aedific\u0101vit"
+                    ]
+                },
+                {
+                    "q": "4. Quem R\u014dmulus interf\u0113cit?",
+                    "a": [
+                        "R\u014dmulus Remum fr\u0101trem interf\u0113cit"
+                    ]
+                },
+                {
+                    "q": "5. C\u016br Qu\u012bntus f\u0101bulam d\u0113 R\u014dmul\u014d aud\u012bre n\u014dn vult? ...",
+                    "a": [
+                        "quia illam f\u0101bulam iam n\u014dvit"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u0101lem f\u0101bulam Qu\u012bntus aud\u012bre cupit? ...",
+                    "a": [
+                        "f\u0101bulam d\u0113 m\u014dnstr\u014d fer\u014dc\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Quam f\u0101bulam Syra puer\u014d n\u0101rrat? ...",
+                    "a": [
+                        "Syra e\u012b f\u0101bulam d\u0113 Th\u0113se\u014d et M\u012bn\u014dtaur\u014d n\u0101rr\u0101re incipit"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u0101le m\u014dnstrum erat M\u012bn\u014dtaurus? ...",
+                    "a": [
+                        "erat m\u014dnstrum terribile quod homin\u0113s v\u012bv\u014ds vor\u0101bat"
+                    ]
+                },
+                {
+                    "q": "9. Ubi illud m\u014dnstrum habit\u0101bat? ...",
+                    "a": [
+                        "in Cr\u0113t\u0101 in labyrinth\u014d habit\u0101bat"
+                    ]
+                },
+                {
+                    "q": "10. Quid est labyrinthus? ...",
+                    "a": [
+                        "labyrinthus est magnum aedificium unde difficile est ex\u012bre"
+                    ]
+                },
+                {
+                    "q": "11. Clausane erat i\u0101nua labyrinth\u012b? ...",
+                    "a": [
+                        "i\u0101nua labyrinth\u012b pat\u0113bat"
+                    ]
+                },
+                {
+                    "q": "12. Quis illum labyrinthum aedific\u0101verat? ...",
+                    "a": [
+                        "labyrinthum aedific\u0101verat Daedalus"
+                    ]
+                },
+                {
+                    "q": "13. Unde veni\u0113bant homin\u0113s qu\u014ds ed\u0113bat M\u012bn\u014dtaurus? ...",
+                    "a": [
+                        "ill\u012b Ath\u0113n\u012bs veni\u0113bant"
+                    ]
+                },
+                {
+                    "q": "14. Qu\u0101lia v\u0113la ger\u0113bat n\u0101vis e\u014drum? ...",
+                    "a": [
+                        "N\u0101vis v\u0113la \u0101tra ger\u0113bat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia: \u201cMan\u0113 h# apud n\u014ds, pater! N\u014dl\u012b h# ab\u012bre!\u201d",
+                    "a": [
+                        "\u012bc",
+                        "inc"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius: \u201cCr\u0101s necesse erit m\u0113 h# R\u014dmam profic\u012bsc\u012b, sed brev\u012b h# ad v\u014ds red\u012bb\u014d.\u201d",
+                    "a": [
+                        "inc",
+                        "\u016bc"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia: \u201cQu\u0101r\u0113 r\u016brsus R\u014dmam \u012bbis? Necesse n\u014dn est toti\u0113s ill# \u012bre nec tot di\u0113s ill# man\u0113re.\u201d",
+                    "a": [
+                        "\u016bc",
+                        "\u012bc"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius: \u201cR\u014dmae v\u012bvere m\u0113 n\u014dn d\u0113lectat; itaque post pauc\u014ds di\u0113s ill# disc\u0113dam atque h# revertar.\u201d",
+                    "a": [
+                        "inc",
+                        "\u016bc"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blia: \u201cQuod d\u014dnum mihi ill# affer\u0113s?\u201d",
+                    "a": [
+                        "inc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u012bn\u014ds, # Cr\u0113tae, Ath\u0113n\u0101s expugn\u0101verat.",
+                    "a": [
+                        "r\u0113x"
+                    ]
+                },
+                {
+                    "q": "2. Post # urbis r\u0113x et pec\u016bniam et homin\u0113s postul\u0101vit.",
+                    "a": [
+                        "expugn\u0101ti\u014dnem"
+                    ]
+                },
+                {
+                    "q": "3. Itaque quotann\u012bs compl\u016br\u0113s Ath\u0113ni\u0113ns\u0113s ad # certam mitt\u0113bantur.",
+                    "a": [
+                        "mortem"
+                    ]
+                },
+                {
+                    "q": "4. M\u012bn\u014ds enim et pec\u016bniae et sanguinis # erat.",
+                    "a": [
+                        "cupidus"
+                    ]
+                },
+                {
+                    "q": "5. Th\u0113seus, vir # cupidus, M\u012bn\u014dtaurum # [= interficere] atque # su\u014ds serv\u0101re #.",
+                    "a": [
+                        "gl\u014driae",
+                        "nec\u0101re|occ\u012bdere",
+                        "c\u012bv\u0113s",
+                        "c\u014dnstituit"
+                    ]
+                },
+                {
+                    "q": "6. Th\u0113seus, qu\u012b gladium ger\u0113bat, ad pugnam # erat.",
+                    "a": [
+                        "par\u0101tus"
+                    ]
+                },
+                {
+                    "q": "7. Ariadna Th\u0113se\u014d # longum dedit;  ita f\u012blia r\u0113gis e\u012b # tulit.",
+                    "a": [
+                        "f\u012blum",
+                        "auxilium"
+                    ]
+                },
+                {
+                    "q": "8. Th\u0113seus: \u201c# [= mox] h\u016bc red\u012bb\u014d, nec poste\u0101 t\u0113 relinquam, Ariadna: hoc tibi # [= pr\u014dmitt\u014d].\u201d",
+                    "a": [
+                        "Brev\u012b",
+                        "polliceor"
+                    ]
+                },
+                {
+                    "q": "9. Tum Th\u0113seus sine # [= continu\u014d] labyrinthum intr\u0101vit atque M\u012bn\u014dtaurum # [= nec\u0101vit/interf\u0113cit].",
+                    "a": [
+                        "mor\u0101",
+                        "occ\u012bdit"
+                    ]
+                },
+                {
+                    "q": "10. Poste\u0101 f\u012blum Ariadnae sec\u016btus # labyrinth\u012b facile repperit.",
+                    "a": [
+                        "exitum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. C\u016br Ath\u0113ni\u0113ns\u0113s in Cr\u0113tam mitt\u0113bantur? ...",
+                    "a": [
+                        "... quod r\u0113x M\u012bn\u014ds Ath\u0113ni\u0113nsibus male vol\u0113bat"
+                    ]
+                },
+                {
+                    "q": "2. C\u016br M\u012bn\u014ds Ath\u0113ni\u0113nsibus inim\u012bcus erat? ...",
+                    "a": [
+                        "... quod f\u012blius eius ab Ath\u0113ni\u0113nsibus nec\u0101tus erat"
+                    ]
+                },
+                {
+                    "q": "3. Ubi Th\u0113seus v\u012bv\u0113bat? ...",
+                    "a": [
+                        "Th\u0113seus Ath\u0113n\u012bs v\u012bv\u0113bat"
+                    ]
+                },
+                {
+                    "q": "4. Quam b\u0113stiam Th\u0113seus iam nec\u0101verat? ...",
+                    "a": [
+                        "taurum album, patrem M\u012bn\u014dtaur\u012b, iam nec\u0101verat"
+                    ]
+                },
+                {
+                    "q": "5. Quid Th\u0113seus tum agere c\u014dnstituit? ...",
+                    "a": [
+                        "c\u014dnstituit M\u012bn\u014dtaurum ipsum quoque occ\u012bdere"
+                    ]
+                },
+                {
+                    "q": "6. S\u014dlusne Th\u0113seus in Cr\u0113tam profectus est? ...",
+                    "a": [
+                        "n\u014dn s\u014dlus, sed cum ali\u012bs Ath\u0113ni\u0113nsibus profectus est"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u014d r\u0113x M\u012bn\u014ds Th\u0113seum d\u016bc\u012b iussit? ...",
+                    "a": [
+                        "r\u0113x eum in labyrinthum d\u016bc\u012b iussit"
+                    ]
+                },
+                {
+                    "q": "8. Quae fuit Ariadna? ...",
+                    "a": [
+                        "Ariadna fuit f\u012blia virg\u014d r\u0113gis M\u012bn\u014dis"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br ea Th\u0113seum serv\u0101re c\u014dnstituit? ...",
+                    "a": [
+                        "... quia eum am\u0101bat"
+                    ]
+                },
+                {
+                    "q": "10. Qu\u014dmodo Ariadna Th\u0113se\u014d auxilium tulit? ...",
+                    "a": [
+                        "Ariadna Th\u0113se\u014d f\u012blum dedit quod e\u012b viam \u0113 labyrinth\u014d m\u014dnstr\u0101vit"
+                    ]
+                },
+                {
+                    "q": "11. Quid Th\u0113seus Ariadnae pr\u014dm\u012bsit? ...",
+                    "a": [
+                        "Th\u0113seus pr\u014dm\u012bsit \u2018s\u0113 Ariadnam s\u0113cum Ath\u0113n\u0101s duct\u016brum esse\u2019"
+                    ]
+                },
+                {
+                    "q": "12. Quid f\u0113cit Th\u0113seus in labyrinth\u014d? ...",
+                    "a": [
+                        "M\u012bn\u014dtaurum gladi\u014d occ\u012bdit"
+                    ]
+                },
+                {
+                    "q": "13. Qu\u014dmodo exitum labyrinth\u012b repperit? ...",
+                    "a": [
+                        "f\u012blum Ariadnae sec\u016btus exitum repperit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius: \u201cN\u014dl\u014d s\u014dlus ambul\u0101re. Comit# m\u0113, Syre et L\u0113ander! Opper# m\u0113 ante portam!\u201d",
+                    "a": [
+                        "\u0101min\u012b",
+                        "\u012bmin\u012b"
+                    ]
+                },
+                {
+                    "q": "2. L\u0233dia: \u201cN\u014dl\u012b m\u0113 d\u0113serere, M\u0113de! Hoc mihi pollic#!\u201d",
+                    "a": [
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "3. M\u0113dus: \u201cProfic\u012bsc# m\u0113cum, L\u0233dia! Comit# m\u0113 in Graeciam!\u201d",
+                    "a": [
+                        "ere",
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "4. M\u0113dus: \u201cN\u0101vem solvite, nautae! Intu# caelum! Profic\u012bsc#!\u201d ",
+                    "a": [
+                        "\u0113min\u012b",
+                        "imin\u012b"
+                    ]
+                },
+                {
+                    "q": "5. D\u0101vus: \u201cSequ# m\u0113 in cubiculum tuum, M\u0101rce!\u201d",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "6. Dux: \u201cLaet#, m\u012blit\u0113s! Host\u0113s fugiunt. Sequ# e\u014ds, sed brev\u012b h\u016bc revert#!\u201d",
+                    "a": [
+                        "\u0101min\u012b",
+                        "imin\u012b",
+                        "imin\u012b"
+                    ]
+                },
+                {
+                    "q": "7. L\u0233dia: \u201cN\u014dl\u012b de\u014ds R\u014dm\u0101n\u014ds ver\u0113r\u012b, M\u0113de! \u016anum s\u014dlum Deum ver#! Eius auxilium opper#!\u201d",
+                    "a": [
+                        "\u0113re",
+                        "\u012bre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Post # [> nec\u0101re] M\u012bn\u014dtaur\u012b Th\u0113seus n\u0101vem # atque cum Ariadn\u0101 profectus est.",
+                    "a": [
+                        "necem",
+                        "solvit"
+                    ]
+                },
+                {
+                    "q": "2. Nax\u012b Th\u0113seus Ariadnam # [= rel\u012bquit].",
+                    "a": [
+                        "d\u0113seruit"
+                    ]
+                },
+                {
+                    "q": "3. Pr\u012bm\u014d Ariadna am\u012bcum in # quaes\u012bvit.",
+                    "a": [
+                        "l\u012btore"
+                    ]
+                },
+                {
+                    "q": "4. Deinde in altum # ascendit, unde # n\u0101vem Th\u0113se\u012b procul in mar\u012b v\u012bdit.",
+                    "a": [
+                        "saxum",
+                        "pr\u014dspici\u0113ns"
+                    ]
+                },
+                {
+                    "q": "5. Postquam n\u0101vis \u0113 # eius abiit, Ariadna d\u0113 sax\u014d in l\u012btus #.",
+                    "a": [
+                        "c\u014dnspect\u016b",
+                        "d\u0113scendit"
+                    ]
+                },
+                {
+                    "q": "6. # [= ill\u012bc] puella misera capillum et vestem scind\u0113bat, s\u012bcut agunt homin\u0113s qu\u012b #.",
+                    "a": [
+                        "Ibi",
+                        "maerent"
+                    ]
+                },
+                {
+                    "q": "7. Post mortem Aege\u012b Th\u0113seus mult\u014ds ann\u014ds Ath\u0113n\u0101s #.",
+                    "a": [
+                        "r\u0113xit"
+                    ]
+                },
+                {
+                    "q": "8. H\u012bc Syra f\u012bnem # facit.",
+                    "a": [
+                        "n\u0101rr\u0101ti\u014dnis"
+                    ]
+                },
+                {
+                    "q": "9. Syra virum improbum am\u0101vit, neque tamen ill\u012bus vir\u012b # potest.",
+                    "a": [
+                        "obl\u012bv\u012bsc\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:  \nF\u0101bul\u0101s n\u0101rr\u0101re m\u0113 d\u0113lectat = N\u0101rr\u0101ti\u014d f\u0101bul\u0101rum m\u0113 d\u0113lectat.\nVir qu\u012b pec\u016bniam cupit = vir pec\u016bniae cupidus.\n",
+            "questions": [
+                {
+                    "q": "1. Difficile fuit urb# expugn\u0101re: Expugn\u0101ti\u014d urb# difficilis fuit.",
+                    "a": [
+                        "em",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "2. Voc\u0101bul# Lat\u012bn# d\u0113cl\u012bn\u0101re d\u0113b\u0113mus: D\u0113cl\u012bn\u0101ti\u014d voc\u0101bul# Lat\u012bn# facilis n\u014dn est.",
+                    "a": [
+                        "a",
+                        "a",
+                        "\u014drum",
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "3. Th\u0113seus patri# am\u0101bat atque gl\u014dri# cupi\u0113bat: ille vir patri# am\u0101ns atque gl\u014dri# cupidus in Cr\u0113tam profectus est.",
+                    "a": [
+                        "am",
+                        "am",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "4. Th\u0113seus mort# n\u014dn tim\u0113bat. Sine tim\u014dre mort# labyrinthum intr\u0101vit.",
+                    "a": [
+                        "em",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "5. Th\u0113seus ob am\u014drem patri# atque gl\u014dri# cupidit\u0101tem M\u012bn\u014dtaur# nec\u0101vit.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "6. Post necem M\u012bn\u014dtaur# Th\u0113seus in patriam revertit.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Magister M\u0101rc# n\u014dn laudat: in epistul\u0101 eius n\u016blla laus M\u0101rc# est.",
+                    "a": [
+                        "um",
+                        "\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Th\u0113seus c\u012bvibus su\u012bs ostendit? ...",
+                    "a": [
+                        "Th\u0113seus i\u012bs gladium suum cruentum ostendit"
+                    ]
+                },
+                {
+                    "q": "2. Num Th\u0113seus s\u014dlus \u0113 Cr\u0113t\u0101 profectus est? ...",
+                    "a": [
+                        "n\u014dn s\u014dlus, sed cum Ariadn\u0101 c\u012bvibusque su\u012bs profectus est"
+                    ]
+                },
+                {
+                    "q": "3. Ubi Ariadnam rel\u012bquit Th\u0113seus? ...",
+                    "a": [
+                        "Nax\u012b Th\u0113seus eam dormientem rel\u012bquit"
+                    ]
+                },
+                {
+                    "q": "4. Ubi am\u012bcum suum Ariadna quaes\u012bvit? ...",
+                    "a": [
+                        "Ariadna eum in l\u012btore quaes\u012bvit"
+                    ]
+                },
+                {
+                    "q": "5. Quid puella \u0113 sax\u014d pr\u014dspici\u0113ns v\u012bdit? ...",
+                    "a": [
+                        "n\u0101vem Th\u0113se\u012b procul in mar\u012b v\u012bdit"
+                    ]
+                },
+                {
+                    "q": "6. Quid facere solent homin\u0113s qu\u012b maerent? ...",
+                    "a": [
+                        "qu\u012b maerent capillum et vestem scindere solent"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br Syra vir\u012bs n\u014dn cr\u0113dit? ...",
+                    "a": [
+                        "... quia d\u0113serta est \u0101 vir\u014d qu\u012b e\u012b multa pr\u014dm\u012bserat"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014d Th\u0113seus N\u0101x\u014d profectus est? ...",
+                    "a": [
+                        "Ath\u0113n\u0101s in patriam suam profectus est"
+                    ]
+                },
+                {
+                    "q": "9. Unde Aegeus r\u0113x in mare pr\u014dspici\u0113bat? ...",
+                    "a": [
+                        "ab alt\u014d sax\u014d Aegeus in mare pr\u014dspici\u0113bat"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br Aegeus f\u012blium suum mortuum esse arbitr\u0101b\u0101tur? ...",
+                    "a": [
+                        "... quod n\u0101vem f\u012bli\u012b v\u0113la \u0101tra gerentem v\u012bdit"
+                    ]
+                },
+                {
+                    "q": "11. Quid tum f\u0113cit Aegeus? ...",
+                    "a": [
+                        "r\u0113x in mare s\u0113 i\u0113cit"
+                    ]
+                },
+                {
+                    "q": "12. Quod mare ab Aege\u014d r\u0113ge appell\u0101tum est? ...",
+                    "a": [
+                        "ab Aege\u014d r\u0113ge appell\u0101tum est \u2018mare Aegaeum\u2019"
+                    ]
+                },
+                {
+                    "q": "13. Ubi situm est mare Aegaeum? ...",
+                    "a": [
+                        "mare Aegaeum situm est inter Graeciam et Asiam"
+                    ]
+                },
+                {
+                    "q": "14. Quis r\u0113x Ath\u0113ni\u0113nsium factus est post Aegeum? ...",
+                    "a": [
+                        "Th\u0113seus, Aege\u012b f\u012blius, r\u0113x Ath\u0113ni\u0113nsium factus est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla:  \nDominus servum s\u0113 comit\u0101r\u012b iubet: \u201cComit\u0101re m\u0113, serve!\u201d\nDominus serv\u014ds s\u0113 comit\u0101r\u012b iubet: \u201cComit\u0101min\u012b m\u0113, serv\u012b!\u201d\n",
+            "questions": [
+                {
+                    "q": "1. 'Comit\u0101|r\u012b' \u012bnf\u012bn\u012bt\u012bvus verb\u012b d\u0113p\u014dnentis est. 'Comit\u0101|re' n\u014dn est \u012bnf\u012bn\u012bt\u012bvus, sed # verb\u012b d\u0113p\u014dnentis.",
+                    "a": [
+                        "imper\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Comit\u0101|re' est # singul\u0101ris; 'comit\u0101|min\u012b' imper\u0101t\u012bvus # est.",
+                    "a": [
+                        "imper\u0101t\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "3. \u012anf\u012bn\u012bt\u012bvus: c\u014dn\u0101r\u012b; imper\u0101t\u012bvus: sing. c\u014dn#, pl\u016br. c\u014dn#.",
+                    "a": [
+                        "\u0101re",
+                        "\u0101min\u012b"
+                    ]
+                },
+                {
+                    "q": "4. \u012anf\u012bn\u012bt\u012bvus: ver\u0113r\u012b; imper\u0101t\u012bvus: sing. ver#, pl\u016br. ver#.",
+                    "a": [
+                        "\u0113re",
+                        "\u0113min\u012b"
+                    ]
+                },
+                {
+                    "q": "5. \u012anf\u012bn\u012bt\u012bvus: loqu\u012b; imper\u0101t\u012bvus: sing. loqu#, pl\u016br. loqu#.",
+                    "a": [
+                        "ere",
+                        "imin\u012b"
+                    ]
+                },
+                {
+                    "q": "6. \u012anf\u012bn\u012bt\u012bvus: part\u012br\u012b; imper\u0101t\u012bvus: sing. part#, pl\u016br. part#.",
+                    "a": [
+                        "\u012bre",
+                        "\u012bmin\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. acc\u0113dere, ac#isse",
+                    "a": [
+                        "cess"
+                    ]
+                },
+                {
+                    "q": "2. c\u014dnscendere, c\u014dn#isse",
+                    "a": [
+                        "scend"
+                    ]
+                },
+                {
+                    "q": "3. c\u014dnspicere, c\u014dn#isse, c\u014dn#um esse",
+                    "a": [
+                        "spex",
+                        "spect"
+                    ]
+                },
+                {
+                    "q": "4. c\u014dnstituere, c\u014dn#isse, c\u014dn#um esse",
+                    "a": [
+                        "stitu",
+                        "stit\u016bt"
+                    ]
+                },
+                {
+                    "q": "5. d\u0113serere, d\u0113#isse, d\u0113#um esse",
+                    "a": [
+                        "seru",
+                        "sert"
+                    ]
+                },
+                {
+                    "q": "6. gerere, #isse, #um esse",
+                    "a": [
+                        "gess",
+                        "gest"
+                    ]
+                },
+                {
+                    "q": "7. iacere, #isse, #um esse",
+                    "a": [
+                        "i\u0113c",
+                        "iact"
+                    ]
+                },
+                {
+                    "q": "8. incipere, #isse, #um esse",
+                    "a": [
+                        "coep",
+                        "coept"
+                    ]
+                },
+                {
+                    "q": "9. interficere, inter#isse, inter#um esse",
+                    "a": [
+                        "f\u0113c",
+                        "fect"
+                    ]
+                },
+                {
+                    "q": "10. iub\u0113re, #isse, #um esse",
+                    "a": [
+                        "iuss",
+                        "iuss"
+                    ]
+                },
+                {
+                    "q": "11. obl\u012bv\u012bsc\u012b, ob#um esse",
+                    "a": [
+                        "l\u012bt"
+                    ]
+                },
+                {
+                    "q": "12. occ\u012bdere, oc#isse, oc#um esse",
+                    "a": [
+                        "c\u012bd",
+                        "c\u012bs"
+                    ]
+                },
+                {
+                    "q": "13. petere, #isse, #um esse",
+                    "a": [
+                        "pet\u012bv|peti",
+                        "pet\u012bt"
+                    ]
+                },
+                {
+                    "q": "14. profic\u012bsc\u012b, pro#um esse",
+                    "a": [
+                        "fect"
+                    ]
+                },
+                {
+                    "q": "15. quaerere, #isse, #um esse",
+                    "a": [
+                        "quaes\u012bv|quaesi",
+                        "quaes\u012bt"
+                    ]
+                },
+                {
+                    "q": "16. reddere, red#isse, red#um esse",
+                    "a": [
+                        "did",
+                        "dit"
+                    ]
+                },
+                {
+                    "q": "17. regere, #isse, #um esse",
+                    "a": [
+                        "r\u0113x",
+                        "r\u0113ct"
+                    ]
+                },
+                {
+                    "q": "18. relinquere, re#isse, re#um esse",
+                    "a": [
+                        "l\u012bqu",
+                        "lict"
+                    ]
+                },
+                {
+                    "q": "19. reper\u012bre, #isse, #um esse",
+                    "a": [
+                        "repper",
+                        "repert"
+                    ]
+                },
+                {
+                    "q": "20. sequ\u012b, #um esse",
+                    "a": [
+                        "sec\u016bt"
+                    ]
+                },
+                {
+                    "q": "21. trahere, #isse, #um esse",
+                    "a": [
+                        "tr\u0101x",
+                        "tract"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "\u0101re",
+                        "ere",
+                        "\u0113re",
+                        "ere",
+                        "\u0101re"
+                    ],
+                    "q": "M\u0113dus (ad L\u0233diam): \"In Graeciam \u012bb\u014d. Comit# m\u0113! Profic\u012bsc# m\u0113cum! Hoc mihi pollic#! Obl\u012bv\u012bsc# R\u014dmae! \u014cscul# m\u0113!\""
+                },
+                {
+                    "a": [
+                        "imin\u012b",
+                        "\u0113min\u012b",
+                        "\u0101min\u012b"
+                    ],
+                    "q": "M\u0113dus (ad naut\u0101s): \"Iam profic\u012bsc#, nautae! Ventus secundus est: intu# caelum! Laet#!\""
+                },
+                {
+                    "a": [
+                        "tr\u0101x",
+                        "tract"
+                    ],
+                    "q": "Verba: trahere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "pet\u012bv",
+                        "pet\u012bt"
+                    ],
+                    "q": "petere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "quaes\u012bv",
+                        "quaes\u012bt"
+                    ],
+                    "q": "quaerere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "occ\u012bd",
+                        "occ\u012bs"
+                    ],
+                    "q": "occ\u012bdere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "l\u012bqu",
+                        "lict"
+                    ],
+                    "q": "relinquere, re#isse, re#um;"
+                },
+                {
+                    "a": [
+                        "f\u0113c",
+                        "fect"
+                    ],
+                    "q": "interficere, inter#isse, inter#um;"
+                },
+                {
+                    "a": [
+                        "stitu",
+                        "stit\u016bt"
+                    ],
+                    "q": "c\u014dnstituere, c\u014dn#isse, c\u014dn#um;"
+                },
+                {
+                    "a": [
+                        "d\u0113seru",
+                        "d\u0113sert"
+                    ],
+                    "q": "d\u0113serere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "spex",
+                        "spect"
+                    ],
+                    "q": "c\u014dnspicere, c\u014dn#isse, c\u014dn#um;"
+                },
+                {
+                    "a": [
+                        "coep",
+                        "coept"
+                    ],
+                    "q": "incipere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "did",
+                        "dit"
+                    ],
+                    "q": "reddere, red#isse, red#um;"
+                },
+                {
+                    "a": [
+                        "repper",
+                        "repert"
+                    ],
+                    "q": "reper\u012bre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "iuss",
+                        "iuss"
+                    ],
+                    "q": "iub\u0113re, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "gess",
+                        "gest"
+                    ],
+                    "q": "gerere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "i\u0113c",
+                        "iact"
+                    ],
+                    "q": "iacere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "r\u0113x",
+                        "r\u0113ct"
+                    ],
+                    "q": "regere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "scend"
+                    ],
+                    "q": "c\u014dnscendere, c\u014dn#isse;"
+                },
+                {
+                    "a": [
+                        "cess"
+                    ],
+                    "q": "acc\u0113dere, ac#isse;"
+                },
+                {
+                    "a": [
+                        "fect"
+                    ],
+                    "q": "profic\u012bsc\u012b, pro#um esse;"
+                },
+                {
+                    "a": [
+                        "sec\u016bt"
+                    ],
+                    "q": "sequ\u012b, #um esse;"
+                },
+                {
+                    "a": [
+                        "l\u012bt"
+                    ],
+                    "q": "obl\u012bv\u012bsc\u012b, ob#um esse."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "f\u0101bulam",
+                        "agn\u014d",
+                        "interf\u0113cit",
+                        "currum",
+                        "moenia",
+                        "tr\u0101xit"
+                    ],
+                    "q": "Qu\u012bntus # d\u0113 lup\u014d et # aud\u012bre n\u014dn vult nec f\u0101bulam d\u0113 Achille, qu\u012b Hectorem # et corpus eius mortuum post # suum circum # [= m\u016br\u014ds] Tr\u014diae #."
+                },
+                {
+                    "a": [
+                        "aedificium",
+                        "patet"
+                    ],
+                    "q": "Labyrinthus est magnum # unde n\u0113m\u014d ex\u012bre potest, ets\u012b i\u0101nua #."
+                },
+                {
+                    "a": [
+                        "taurum",
+                        "nec\u0101re",
+                        "c\u014dnstituit"
+                    ],
+                    "q": "Th\u0113seus, qu\u012b patrem M\u012bn\u014dtaur\u012b, # album, iam nec\u0101verat, M\u012bn\u014dtaurum ipsum quoque # [= interficere] #."
+                },
+                {
+                    "a": [
+                        "par\u0101tus",
+                        "r\u0113gis",
+                        "f\u012blum"
+                    ],
+                    "q": "Antequam Th\u0113seus, ad pugnam #, labyrinthum intr\u0101vit, Ariadna, f\u012blia #, e\u012b # longum dedit."
+                },
+                {
+                    "a": [
+                        "auxilium",
+                        "exitum"
+                    ],
+                    "q": "Ita Ariadna Th\u0113se\u014d # tulit, nam ille f\u012blum sequ\u0113ns # labyrinth\u012b repperit."
+                },
+                {
+                    "a": [
+                        "necem",
+                        "ibi",
+                        "d\u0113seruit"
+                    ],
+                    "q": "Post # M\u012bn\u014dtaur\u012b Th\u0113seus cum Ariadn\u0101 Naxum n\u0101vig\u0101vit atque # [= ill\u012bc] eam # [= rel\u012bquit]."
+                },
+                {
+                    "a": [
+                        "sax\u014d",
+                        "brev\u012b",
+                        "c\u014dnspect\u016b"
+                    ],
+                    "q": "Ariadna ab alt\u014d # pr\u014dspici\u0113bat, sed # [= mox] n\u0101vis Th\u0113se\u012b \u0113 # eius abiit."
+                },
+                {
+                    "a": [
+                        "l\u012btus",
+                        "h\u016bc",
+                        "ill\u016bc",
+                        "maerent"
+                    ],
+                    "q": "Puella misera in # d\u0113scendit, ubi # et # curr\u0113ns capillum scind\u0113bat, ut faciunt eae quae #."
+                },
+                {
+                    "a": [
+                        "mortem",
+                        "r\u0113xit"
+                    ],
+                    "q": "Th\u0113seus post # patris mult\u014ds ann\u014ds Ath\u0113n\u0101s #."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid f\u0113cit Achill\u0113s? ",
+                    "a": [
+                        "Achill\u0113s Hectorem interfecit"
+                    ]
+                },
+                {
+                    "q": "2. Quid f\u0113cit R\u014dmulus? ",
+                    "a": [
+                        "R\u014dmulus pr\u012bm\u014ds m\u016br\u014ds R\u014dm\u0101n\u014ds aedific\u0101vit"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u0101lem f\u0101bulam Qu\u012bntus aud\u012bre cupit? ",
+                    "a": [
+                        "F\u0101bulam d\u0113 m\u014dnstr\u014d fer\u014dc\u012b aud\u012bre cupit"
+                    ]
+                },
+                {
+                    "q": "4. Ubi habit\u0101bat M\u012bn\u014dtaurus? ",
+                    "a": [
+                        "In magn\u014d labyrinth\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Quid est labyrinthus? ",
+                    "a": [
+                        "Labyrinthus est aedificium unde difficile est ex\u012bre"
+                    ]
+                },
+                {
+                    "q": "6. Quid M\u012bn\u014dtaurus ed\u0113bat? ",
+                    "a": [
+                        "Homin\u0113s ed\u0113bat"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br tot Ath\u0113ni\u0113ns\u0113s ad eum mitt\u0113bantur? ",
+                    "a": [
+                        "Quia f\u012blius M\u012bn\u014dis ab Ath\u0113ni\u0113nsibus nec\u0101tus erat"
+                    ]
+                },
+                {
+                    "q": "8. Quis Ath\u0113ni\u0113ns\u0113s \u0101 M\u012bn\u014dtaur\u014d serv\u0101vit? ",
+                    "a": [
+                        "Th\u0113sus M\u012bn\u014dtaurum occ\u012bdit et c\u012bv\u0113s su\u014ds serv\u0101vit"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u014dmodo Th\u0113seus exitum labyrinth\u012b repperit? ",
+                    "a": [
+                        "Theseus f\u012blum Ariadnae sec\u016btus est"
+                    ]
+                },
+                {
+                    "q": "10. S\u014dlusne Th\u0113seus \u0113 Cr\u0113t\u0101 profectus est? ",
+                    "a": [
+                        "Th\u0113seus n\u014dn s\u014dlus, sed cum Ariadn\u0101 profectus est"
+                    ]
+                },
+                {
+                    "q": "11. Ubi Th\u0113seus Ariadnam rel\u012bquit? ",
+                    "a": [
+                        "Nax\u012b eam rel\u012bquit"
+                    ]
+                },
+                {
+                    "q": "12. \u0100 qu\u014d mare Aegaeum n\u014dmen habet? ",
+                    "a": [
+                        "\u0100 r\u0113ge Aege\u014d"
+                    ]
+                }
+            ]
+        }
+    ]
+}

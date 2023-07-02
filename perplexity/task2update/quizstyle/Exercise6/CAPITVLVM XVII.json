@@ -1,0 +1,42 @@
+[
+    {
+        "q": "1. Magister Sextum #: \"Bonus es discipulus, Sexte. Semper r\u0113ct\u0113, # pr\u0101v\u0113 respond\u0113s.\" ",
+        "a": [
+            "laudat",
+            "numquam"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus n\u014dn laud\u0101tur, sed #.",
+        "a": [
+            "reprehenditur"
+        ]
+    },
+    {
+        "q": "3. Quod magister interrogat n\u014dn difficile, sed # est.",
+        "a": [
+            "facile"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus v\u0113r\u014d semper pr\u0101v\u0113 respondet, # facile est quod interrog\u0101tur; neque enim # antequam respondet.",
+        "a": [
+            "quamquam",
+            "c\u014dgitat"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus: \"Quod ego interrogor nimis # est, neque ali\u012b discipul\u012b tam # interrogantur quam ego.\"",
+        "a": [
+            "difficile",
+            "saepe"
+        ]
+    },
+    {
+        "q": "6. XXX et VIII sunt #, XXX et IX #.",
+        "a": [
+            "duod\u0113quadr\u0101gint\u0101",
+            "\u016bnd\u0113quadr\u0101gint\u0101"
+        ]
+    }
+]

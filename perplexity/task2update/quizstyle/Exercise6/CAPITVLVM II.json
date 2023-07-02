@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Quis est pater M\u0101rc\u012b? ...",
+        "a": [
+            "pater M\u0101rc\u012b est I\u016blius"
+        ]
+    },
+    {
+        "q": "2. Quae est m\u0101ter M\u0101rc\u012b? ...",
+        "a": [
+            "Aemilia est m\u0101ter M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "3. Quae est f\u012blia I\u016bli\u012b et Aemiliae? ...",
+        "a": [
+            "I\u016blia est f\u012blia I\u016bli\u012b et Aemiliae"
+        ]
+    },
+    {
+        "q": "4. Qu\u012b sunt f\u012bli\u012b I\u016bli\u012b et Aemiliae? ...",
+        "a": [
+            "F\u012bli\u012b sunt M\u0101rcus et Qu\u012bntus"
+        ]
+    },
+    {
+        "q": "5. Quis est M\u0113dus? ...",
+        "a": [
+            "M\u0113dus servus est"
+        ]
+    },
+    {
+        "q": "6. Qu\u012b sunt M\u0113dus et D\u0101vus? ...",
+        "a": [
+            "M\u0113dus et D\u0101vus serv\u012b sunt"
+        ]
+    },
+    {
+        "q": "7. Quae est D\u0113lia? ...",
+        "a": [
+            "D\u0113lia ancilla est"
+        ]
+    },
+    {
+        "q": "8. Quis est dominus serv\u014drum? ...",
+        "a": [
+            "I\u016blius est dominus serv\u014drum"
+        ]
+    },
+    {
+        "q": "9. Quae est domina ancill\u0101rum? ...",
+        "a": [
+            "Aemilia domina ancill\u0101rum est"
+        ]
+    },
+    {
+        "q": "10. Cuius servus est M\u0113dus? ...",
+        "a": [
+            "M\u0113dus servus I\u016bli\u012b est"
+        ]
+    },
+    {
+        "q": "11. Cuius f\u012blius est M\u0101rcus? ...",
+        "a": [
+            "M\u0101rcus est f\u012blius I\u016bli\u012b"
+        ]
+    }
+]

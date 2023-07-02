@@ -1,0 +1,102 @@
+[
+    {
+        "q": "1. # est pars n\u0101vis posterior.",
+        "a": [
+            "Puppis"
+        ]
+    },
+    {
+        "q": "2. Ill\u012bc sedet #, is est nauta qu\u012b n\u0101vem #.",
+        "a": [
+            "gubern\u0101tor",
+            "gubernat"
+        ]
+    },
+    {
+        "q": "3. # est ea pars cael\u012b unde s\u014dl h\u014dr\u0101 pr\u012bm\u0101 #.",
+        "a": [
+            "Ori\u0113ns",
+            "oritur"
+        ]
+    },
+    {
+        "q": "4. # est ea cael\u012b pars qu\u014d s\u014dl h\u014dr\u0101 duodecim\u0101 #.",
+        "a": [
+            "Occid\u0113ns",
+            "occidit"
+        ]
+    },
+    {
+        "q": "5. Ori\u0113ns et occid\u0113ns part\u0113s cael\u012b # sunt.",
+        "a": [
+            "contr\u0101riae"
+        ]
+    },
+    {
+        "q": "6. Ea cael\u012b pars ubi s\u014dl mer\u012bdi\u0113 stat appell\u0101tur '#'.",
+        "a": [
+            "mer\u012bdi\u0113s"
+        ]
+    },
+    {
+        "q": "7. Pars contr\u0101ria d\u012bcitur '#' \u0101 septem st\u0113ll\u012bs quae # in e\u0101 parte cael\u012b stant.",
+        "a": [
+            "septentri\u014dn\u0113s",
+            "semper"
+        ]
+    },
+    {
+        "q": "8. Nautae ad occidentem n\u0101vigant\u012b mer\u012bdi\u0113s \u0101 # est, \u0101 # septentri\u014dn\u0113s, ori\u0113ns \u0101 terg\u014d.",
+        "a": [
+            "sinistr\u0101",
+            "dextr\u0101|dexter\u0101"
+        ]
+    },
+    {
+        "q": "9. Vent\u014d secund\u014d atque cael\u014d # multae n\u0101v\u0113s # [= \u016bn\u014d tempore] \u0113 port\u016b \u0113grediuntur.",
+        "a": [
+            "ser\u0113n\u014d",
+            "simul"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus et L\u0233dia n\u0101vem # et ex Itali\u0101 #.",
+        "a": [
+            "c\u014dnscendunt",
+            "profic\u012bscuntur"
+        ]
+    },
+    {
+        "q": "11. L\u0233dia M\u0113dum in puppim ascendentem #.",
+        "a": [
+            "sequitur"
+        ]
+    },
+    {
+        "q": "12. L\u0233dia tr\u012bstis est, sed M\u0113dus # [= gaudet] nec iam dominum #. ",
+        "a": [
+            "laet\u0101tur",
+            "ver\u0113tur"
+        ]
+    },
+    {
+        "q": "13. M\u0113dus faciem L\u0233diae # [= spectat]: d\u0113 ocul\u012bs eius lacrimae #. ",
+        "a": [
+            "intu\u0113tur",
+            "l\u0101buntur"
+        ]
+    },
+    {
+        "q": "14. M\u0113dus am\u012bcam suam # eamque mult\u012bs verb\u012bs #.",
+        "a": [
+            "complectitur",
+            "c\u014dns\u014dl\u0101tur"
+        ]
+    },
+    {
+        "q": "15. Parvae r\u0113s quae procul absunt ocul\u012bs # n\u014dn possunt.",
+        "a": [
+            "cern\u012b"
+        ]
+    }
+]

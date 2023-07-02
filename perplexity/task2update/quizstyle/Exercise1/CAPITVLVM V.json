@@ -1,0 +1,123 @@
+[
+    {
+        "q": "1. Serv# abest; dominus serv# vocat.",
+        "a": [
+            "us",
+            "um"
+        ]
+    },
+    {
+        "q": "2. Serv# absunt; dominus serv# vocat.",
+        "a": [
+            "\u012b",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "3. Ancill# abest; domina ancill# vocat.",
+        "a": [
+            "a",
+            "am"
+        ]
+    },
+    {
+        "q": "4. Ancill# absunt; domina ancill# vocat.",
+        "a": [
+            "ae",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "5. M\u0101rc# et Qu\u012bnt# f\u012bli# I\u016bli\u012b sunt.",
+        "a": [
+            "us",
+            "us",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "6. I\u016blius n\u014dn \u016bn# f\u012bli#, sed du\u014ds f\u012bli# habet.",
+        "a": [
+            "um",
+            "um",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "7. I\u016blia f\u012bli# I\u016bli\u012b est.",
+        "a": [
+            "a"
+        ]
+    },
+    {
+        "q": "8. I\u016blius n\u014dn du\u0101s f\u012bli#, sed \u016bn# f\u012bli# habet.",
+        "a": [
+            "\u0101s",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "9. I\u016blius numm# su# numerat: in saccul\u014d sunt decem numm#.",
+        "a": [
+            "\u014ds",
+            "\u014ds",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "10. I\u016blius \u016bn# numm# in saccul\u014d D\u0101v\u012b p\u014dnit.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "11. Iam \u016bn# numm# in saccul\u014d D\u0101v\u012b est.",
+        "a": [
+            "us",
+            "us"
+        ]
+    },
+    {
+        "q": "12. D\u0101vus \u016bn# numm# habet. I\u016blius mult# numm# habet.",
+        "a": [
+            "um",
+            "um",
+            "\u014ds",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "13. Bacul# I\u016bli\u012b in m\u0113ns\u0101 est; M\u0113dus bacul# videt.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "14. I\u016blius interrogat. M\u0113dus n\u016bll# verb# respondet.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "15. In hort\u014d sunt mult# ros# et mult# l\u012bli#.",
+        "a": [
+            "ae",
+            "ae",
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "16. I\u016blia mult# ros# et mult# l\u012bli# videt in hort\u014d.",
+        "a": [
+            "\u0101s",
+            "\u0101s",
+            "a",
+            "a"
+        ]
+    }
+]

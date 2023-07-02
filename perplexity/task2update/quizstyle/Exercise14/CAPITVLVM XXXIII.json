@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. caedere, #isse, #um esse",
+        "a": [
+            "cec\u012bd",
+            "caes"
+        ]
+    },
+    {
+        "q": "2. c\u014dgere, #isse, #um esse",
+        "a": [
+            "co\u0113g",
+            "co\u0101ct"
+        ]
+    },
+    {
+        "q": "3. d\u0113sistere, d\u0113#isse",
+        "a": [
+            "stit"
+        ]
+    },
+    {
+        "q": "4. effundere, ef#isse, ef#um esse",
+        "a": [
+            "f\u016bd",
+            "f\u016bs"
+        ]
+    },
+    {
+        "q": "5. \u012bnstruere, \u012bn#isse, \u012bn#um esse",
+        "a": [
+            "str\u016bx",
+            "str\u016bct"
+        ]
+    },
+    {
+        "q": "6. percutere, per#isse, per#um esse ",
+        "a": [
+            "cuss",
+            "cuss"
+        ]
+    },
+    {
+        "q": "7. intellegere, intel#isse, intel#um esse",
+        "a": [
+            "l\u0113x",
+            "l\u0113ct"
+        ]
+    },
+    {
+        "q": "8. pr\u014dcurrere, pr\u014d#isse",
+        "a": [
+            "curr"
+        ]
+    },
+    {
+        "q": "9. pr\u014dgred\u012b, pr\u014d#um esse",
+        "a": [
+            "gress"
+        ]
+    }
+]

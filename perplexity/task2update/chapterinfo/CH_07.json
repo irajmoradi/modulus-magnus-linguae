@@ -1,0 +1,1093 @@
+{
+    "id": 6,
+    "name": "CAPITVLVM VII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In perist\u0233l\u014d Aemilia virum suum #.",
+                    "a": [
+                        "exspectat|expectat"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia in cubicul\u014d su\u014d rosam ante n\u0101sum #.",
+                    "a": [
+                        "tenet"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia n\u014dn r\u012bdet, sed #: in # eius sunt #.",
+                    "a": [
+                        "lacrimat",
+                        "ocul\u012bs",
+                        "lacrimae"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blia # ante ocul\u014ds tenet et # in specul\u014d videt.",
+                    "a": [
+                        "speculum",
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "5. Syra \u014dstium pulsat. I\u016blia: \"Intr\u0101!\" Syra \u014dstium # et in cubiculum intrat.",
+                    "a": [
+                        "aperit"
+                    ]
+                },
+                {
+                    "q": "6. Syra \u014dstium post s\u0113 #.",
+                    "a": [
+                        "claudit"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blia: \"Num n\u0101sus meus foedus est?\" Syra: \"# n\u0101sus tuus # est.\"",
+                    "a": [
+                        "Imm\u014d",
+                        "f\u014drm\u014dsus"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blia s\u0113 # et Syra lacrim\u0101s eius videt.",
+                    "a": [
+                        "vertit"
+                    ]
+                },
+                {
+                    "q": "9. Syra: \"# ocul\u014ds! # laeta!\"",
+                    "a": [
+                        "Terg\u0113",
+                        "Es"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid agunt M\u0101rcus et Qu\u012bntus? ...",
+                    "a": [
+                        "I\u016blium exspectant"
+                    ]
+                },
+                {
+                    "q": "2. Estne Aemilia apud f\u012bli\u014ds? ...",
+                    "a": [
+                        "Aemilia apud e\u014ds n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "3. C\u016br Aemilia laeta n\u014dn est? ...",
+                    "a": [
+                        "... quia vir eius abest"
+                    ]
+                },
+                {
+                    "q": "4. Ubi est I\u016blia? ...",
+                    "a": [
+                        "I\u016blia in cubicul\u014d su\u014d est"
+                    ]
+                },
+                {
+                    "q": "5. Quid I\u016blia ante n\u0101sum tenet? ...",
+                    "a": [
+                        "I\u016blia rosam ante n\u0101sum tenet"
+                    ]
+                },
+                {
+                    "q": "6. R\u012bdetne I\u016blia? ...",
+                    "a": [
+                        "I\u016blia n\u014dn r\u012bdet, sed lacrimat"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br I\u016blia lacrimat? ...",
+                    "a": [
+                        "... quia puer\u012b improb\u012b eam r\u012bdent"
+                    ]
+                },
+                {
+                    "q": "8. Quid I\u016blia in specul\u014d videt? ...",
+                    "a": [
+                        "I\u016blia s\u0113 in specul\u014d videt"
+                    ]
+                },
+                {
+                    "q": "9. Estne f\u014drm\u014dsus n\u0101sus I\u016bliae? ...",
+                    "a": [
+                        "n\u0101sus eius f\u014drm\u014dsus n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "10. Quis in cubiculum eius intrat? ...",
+                    "a": [
+                        "Syra in cubiculum intrat"
+                    ]
+                },
+                {
+                    "q": "11. C\u016br Syra lacrim\u0101s I\u016bliae n\u014dn videt? ...",
+                    "a": [
+                        "... quia I\u016blia s\u0113 n\u014dn vertit"
+                    ]
+                },
+                {
+                    "q": "12. Quid I\u016blia ante Syram tenet? ...",
+                    "a": [
+                        "speculum tenet ante Syram"
+                    ]
+                },
+                {
+                    "q": "13. C\u016br Syra ocul\u014ds claudit et tacet? ...",
+                    "a": [
+                        "... quia n\u0101sum suum foedum videt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia in cubicul\u014d su\u014d est; ante # est speculum.",
+                    "a": [
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia speculum ante # tenet et # in specul\u014d videt.",
+                    "a": [
+                        "s\u0113",
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia # interrogat: \"Estne foedus n\u0101sus meus?\"",
+                    "a": [
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "4. Syra intrat; I\u016blia # post # in specul\u014d videt.",
+                    "a": [
+                        "eam",
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "5. Syra I\u016bliam ante # videt; I\u016blia ante # est.",
+                    "a": [
+                        "s\u0113",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blia # vertit, et Syra # interrogat: \"Quid est, I\u016blia?\"",
+                    "a": [
+                        "s\u0113",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius intrat neque \u014dstium post # claudit.",
+                    "a": [
+                        "s\u0113"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blius intrat et \u014dsti\u0101rius \u014dstium post # claudit.",
+                    "a": [
+                        "eum"
+                    ]
+                },
+                {
+                    "q": "9. Dominus servum ad # vocat et # interrogat.",
+                    "a": [
+                        "s\u0113",
+                        "eum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia in cubicul# su# est.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "2. Syra in cubicul# I\u016bliae intrat.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Syra: \"Ven\u012b in hort#, I\u016blia! In hort# sunt rosae.\"",
+                    "a": [
+                        "um",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "4. In v\u012bll# Aemilia virum suum exspectat.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blius in v\u012bll# intrat; iam I\u016blius in \u0101tri# est.",
+                    "a": [
+                        "am",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia in \u0101tri# intrat.",
+                    "a": [
+                        "um"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Unde venit I\u016blius? ...",
+                    "a": [
+                        "I\u016blius T\u016bscul\u014d venit"
+                    ]
+                },
+                {
+                    "q": "2. Ubi serv\u012b lect\u012bcam p\u014dnunt? ...",
+                    "a": [
+                        "lect\u012bcam p\u014dnunt ante \u014dstium"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u012b I\u016blium sal\u016btant ante \u014dstium? ...",
+                    "a": [
+                        "f\u012bli\u012b eum sal\u016btant"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u014d I\u016blius et puer\u012b intrant? ...",
+                    "a": [
+                        "I\u016blius et puer\u012b in \u0101trium intrant"
+                    ]
+                },
+                {
+                    "q": "5. Quis \u014dstium post e\u014ds claudit? ...",
+                    "a": [
+                        "\u014dsti\u0101rius \u014dstium claudit"
+                    ]
+                },
+                {
+                    "q": "6. Ubi L\u0113ander saccum p\u014dnit? ...",
+                    "a": [
+                        "saccum ante I\u016blium p\u014dnit"
+                    ]
+                },
+                {
+                    "q": "7. Estne vacuus saccus L\u0113andr\u012b? ...",
+                    "a": [
+                        "saccus n\u014dn vacuus, sed pl\u0113nus est"
+                    ]
+                },
+                {
+                    "q": "8. Quid I\u016blius \u0113 sacc\u014d s\u016bmit? ...",
+                    "a": [
+                        "I\u016blius m\u0101lum \u0113 sacc\u014d s\u016bmit"
+                    ]
+                },
+                {
+                    "q": "9. Quid I\u016blius M\u0101rc\u014d et Qu\u012bnt\u014d dat? ...",
+                    "a": [
+                        "I\u016blius M\u0101rc\u014d et Qu\u012bnt\u014d m\u0101la dat"
+                    ]
+                },
+                {
+                    "q": "10. Quid inest in sacc\u014d Syr\u012b? ...",
+                    "a": [
+                        "in sacc\u014d eius pira \u012bnsunt"
+                    ]
+                },
+                {
+                    "q": "11. F\u012bli\u012bsne tantum I\u016blius m\u0101la et pira dat? ...",
+                    "a": [
+                        "etiam serv\u012bs m\u0101la et pira dat"
+                    ]
+                },
+                {
+                    "q": "12. Adestne I\u016blia? ...",
+                    "a": [
+                        "I\u016blia abest; in cubicul\u014d su\u014d est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius n\u014dn # [= tantum] M\u0101rc\u014d, sed # Qu\u012bnt\u014d m\u0101lum dat.",
+                    "a": [
+                        "s\u014dlum",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius # M\u0101rc\u014d # Qu\u012bnt\u014d m\u0101lum dat.",
+                    "a": [
+                        "et",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "3. Pater f\u012bli\u012bs n\u014dn s\u014dlum m\u0101la, # # pira dat.",
+                    "a": [
+                        "sed",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "4. Iam puer\u012b # m\u0101la # pira habent, sed serv\u012b # m\u0101la # pira habent.",
+                    "a": [
+                        "et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "5. # Syrus # L\u0113ander m\u0101lum habet.",
+                    "a": [
+                        "Neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius # # Syr\u014d, sed etiam L\u0113andr\u014d m\u0101lum dat.",
+                    "a": [
+                        "n\u014dn",
+                        "s\u014dlum"
+                    ]
+                },
+                {
+                    "q": "7. Iam # serv\u012b # f\u012bli\u012b m\u0101la habent.",
+                    "a": [
+                        "et",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "8. N\u014dn s\u014dlum I\u016blia, # # Syra abest.",
+                    "a": [
+                        "sed",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "9. # I\u016blia # Syra absunt: # I\u016blia # Syra adest.",
+                    "a": [
+                        "Et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blia # in \u0101tri\u014d # in hort\u014d est.",
+                    "a": [
+                        "neque",
+                        "neque"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius: \"Ecce m\u0101lum tuum, M\u0101rce.\" I\u016blius M\u0101rc# m\u0101lum dat: pater f\u012bli# m\u0101lum dat.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius M\u0101rc\u014d et Qu\u012bnt\u014d m\u0101la dat: pater f\u012bli# m\u0101la dat.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "3. Dominus servum vocat et e# m\u0101lum dat.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius Syr# serv# su# m\u0101lum dat.",
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Dominus serv\u014ds vocat et i# m\u0101la dat.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "6. Dominus Syr# et L\u0113andr# serv# su# m\u0101la dat.",
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "\u012bs",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius Aemiliam sal\u016btat et e# \u014dsculum dat.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia I\u016bli# vir# su# \u014dsculum dat.",
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blius n\u014dn s\u014dlum Aemili# \u014dsculum dat, sed etiam I\u016bli# f\u012bli# su# \u014dsculum et m\u0101lum dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blia m\u0101l# su# \u014dsculum dat!",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "11. Domina ancillam vocat et e# m\u0101lum dat.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "12. Aemilia D\u0113li# ancill# su# m\u0101lum dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "13. Domina ancill\u0101s vocat et i# m\u0101la dat.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "14. Aemilia D\u0113li# et Syr# ancill# su# m\u0101la dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "\u012bs",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "15. I\u016blius: \"Ecce nummus tuus, D\u0101ve.\" Dominus serv# nummum dat.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "16. C# I\u016blius nummum dat? Servus c# I\u016blius nummum dat est D\u0101vus.",
+                    "a": [
+                        "ui",
+                        "ui"
+                    ]
+                },
+                {
+                    "q": "17. C# I\u016blius \u014dsculum dat? F\u0113mina c# I\u016blius \u014dsculum dat est Aemilia.",
+                    "a": [
+                        "ui",
+                        "ui"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Saccus qu\u012b h\u012bc est = h# saccus.",
+                    "a": [
+                        "ic"
+                    ]
+                },
+                {
+                    "q": "2. Rosa quae h\u012bc est = h# rosa.",
+                    "a": [
+                        "aec"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101lum quod h\u012bc est = h# m\u0101lum.",
+                    "a": [
+                        "oc"
+                    ]
+                },
+                {
+                    "q": "4. Puella qu# h\u012bc est = h# puella.",
+                    "a": [
+                        "ae",
+                        "aec"
+                    ]
+                },
+                {
+                    "q": "5. Speculum qu# h\u012bc est = h# speculum.",
+                    "a": [
+                        "od",
+                        "oc"
+                    ]
+                },
+                {
+                    "q": "6. Equus qu# h\u012bc est = h# equus.",
+                    "a": [
+                        "\u012b",
+                        "ic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius ad v\u012bllam # et f\u012bli\u014ds sal\u016btat: \"#, f\u012bli\u012b!\"",
+                    "a": [
+                        "advenit",
+                        "Salv\u0113te"
+                    ]
+                },
+                {
+                    "q": "2. \u014cstium aper\u012btur ab #.",
+                    "a": [
+                        "\u014dsti\u0101ri\u014d"
+                    ]
+                },
+                {
+                    "q": "3. In sacc\u012bs qu\u014ds serv\u012b portant # et # sunt.",
+                    "a": [
+                        "m\u0101la",
+                        "pira"
+                    ]
+                },
+                {
+                    "q": "4. Sacc\u012b n\u014dn vacu\u012b, sed # sunt.",
+                    "a": [
+                        "pl\u0113n\u012b"
+                    ]
+                },
+                {
+                    "q": "5, Quid # in sacc\u012bs? In sacc\u014d L\u0113andr\u012b m\u0101la #.",
+                    "a": [
+                        "inest",
+                        "\u012bnsunt"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius M\u0101rc\u014d m\u0101lum #: \"Ecce m\u0101lum tuum, M\u0101rce.\"",
+                    "a": [
+                        "dat"
+                    ]
+                },
+                {
+                    "q": "7. Aemilia ad I\u016blium # et e\u012b # dat.",
+                    "a": [
+                        "adit",
+                        "\u014dsculum"
+                    ]
+                },
+                {
+                    "q": "8. D\u0113lia: \"Ven\u012b in \u0101trium, I\u016blia! # pater tuus t\u0113 exspectat.\" \t",
+                    "a": [
+                        "Ill\u012bc"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blia # [= ex] cubicul\u014d #; ancillae quoque #.",
+                    "a": [
+                        "\u0113",
+                        "exit",
+                        "exeunt"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blia in \u0101trium #, n\u014dn ambulat.",
+                    "a": [
+                        "currit"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blia: \"Ecce rosa. # pulchra est haec rosa?\"",
+                    "a": [
+                        "N\u014dnne"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cui I\u016blius \u014dsculum dat? ...",
+                    "a": [
+                        "I\u016blius Aemiliae \u014dsculum dat"
+                    ]
+                },
+                {
+                    "q": "2. Unde venit Aemilia? ...",
+                    "a": [
+                        "Aemilia \u0113 perist\u0233l\u014d venit"
+                    ]
+                },
+                {
+                    "q": "3. C\u016br I\u016blia n\u014dn adest? ...",
+                    "a": [
+                        "I\u016blia in cubicul\u014d su\u014d est"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u014d puer\u012b currunt? ...",
+                    "a": [
+                        "puer\u012b in hortum currunt"
+                    ]
+                },
+                {
+                    "q": "5. Estne I\u016blia in hort\u014d? ...",
+                    "a": [
+                        "I\u016blia ill\u012bc n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u014d it D\u0113lia? ...",
+                    "a": [
+                        "D\u0113lia ad cubiculum I\u016bliae it"
+                    ]
+                },
+                {
+                    "q": "7. Estne s\u014dla I\u016blia in cubicul\u014d su\u014d? ...",
+                    "a": [
+                        "s\u014dla n\u014dn est, Syra cum e\u0101 est"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014d I\u016blia currit? ...",
+                    "a": [
+                        "I\u016blia in \u0101trium currit"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b sunt in \u0101tri\u014d? ...",
+                    "a": [
+                        "ill\u012bc sunt pater, m\u0101ter, f\u012bli\u012b, serv\u012b et ancillae"
+                    ]
+                },
+                {
+                    "q": "10. Cui I\u016blia \u014dsculum dat? ...",
+                    "a": [
+                        "I\u016blia I\u016bli\u014d \u014dsculum dat"
+                    ]
+                },
+                {
+                    "q": "11. Quid I\u016blius f\u012bliae suae dat? ...",
+                    "a": [
+                        "I\u016blius f\u012bliae suae m\u0101lum dat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Exempla: \nDominus serv\u014d m\u0101lum dat:dominus e\u012b m\u0101lum dat.\nDominus ancillae m\u0101lum dat: dominus e\u012b m\u0101lum dat.\nFluvius oppid\u014d aquam dat.\nDominus serv\u012bs et ancill\u012bs m\u0101la dat: dominus i\u012bs m\u0101la dat.\nFluvi\u012b oppid\u012bs aquam dant.\n",
+            "questions": [
+                {
+                    "q": "1. 'Serv|\u014d', 'ancill|ae', 'oppid|\u014d', 'e|\u012b' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est. Etiam 'serv|\u012bs', 'ancill|\u012bs', 'oppid|\u012bs', 'i|\u012bs' # est.",
+                    "a": [
+                        "dat\u012bvus",
+                        "dat\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Serv|\u014d', 'ancill|ae', 'oppid|\u014d', 'e|\u012b' est dat\u012bvus #.",
+                    "a": [
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "3. 'Serv|\u012bs', 'ancill|\u012bs', 'oppid|\u012bs', 'i|\u012bs' n\u014dn # singul\u0101ris, sed # # est.",
+                    "a": [
+                        "dat\u012bvus",
+                        "dat\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "4. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: servus, dat\u012bvus: serv#.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: serv\u012b, dat\u012bvus: serv#.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "6. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: ancilla, dat\u012bvus: ancill#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "7. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus ancillae, dat\u012bvus ancill#.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "8. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: oppidum, dat\u012bvus: oppid#.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "9. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: oppida, dat\u012bvus: oppid#.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "10. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: 'is' 'ea', dat\u012bvus: e#.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "11. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: 'i\u012b' 'eae', dat\u012bvus: i#.",
+                    "a": [
+                        "\u012bs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "\u014d"
+                    ],
+                    "q": "I\u016blius M\u0101rc#, f\u012bli# su#, m\u0101lum dat."
+                },
+                {
+                    "a": [
+                        "\u014d",
+                        "\u014d",
+                        "\u012bs",
+                        "\u012bs"
+                    ],
+                    "q": "I\u016blius M\u0101rc# et Qu\u012bnt#, f\u012bli# su#, m\u0101la dat."
+                },
+                {
+                    "a": [
+                        "\u012bs",
+                        "\u012bs",
+                        "\u014d",
+                        "\u014d"
+                    ],
+                    "q": "I\u016blius etiam serv# su#, Syr# et L\u0113andr#, m\u0101la dat."
+                },
+                {
+                    "a": [
+                        "ui",
+                        "\u014d",
+                        "\u014d",
+                        "\u014d"
+                    ],
+                    "q": "C# Aemilia \u014dsculum dat? Aemilia vir# su# I\u016bli# \u014dsculum dat."
+                },
+                {
+                    "a": [
+                        "ae"
+                    ],
+                    "q": "I\u016blius Aemili# \u014dsculum dat."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae",
+                        "\u012bs",
+                        "\u012bs"
+                    ],
+                    "q": "I\u016blius I\u016bli#, f\u012bli# su# m\u0101lum dat, neque s\u014dlum I\u016bliae, sed etiam Syr# et D\u0113li#, ancill# su#."
+                },
+                {
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ],
+                    "q": "I\u016blia m\u0101l# su# \u014dsculum dat!"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "advenit"
+                    ],
+                    "q": "I\u016blius ad v\u012bllam #."
+                },
+                {
+                    "a": [
+                        "aperit",
+                        "claudit"
+                    ],
+                    "q": "\u014csti\u0101rius \u014dstium # et post eum #."
+                },
+                {
+                    "a": [
+                        "pl\u0113n\u012b"
+                    ],
+                    "q": "Sacc\u012b n\u014dn vacu\u012b, sed # sunt."
+                },
+                {
+                    "a": [
+                        "Hic",
+                        "m\u0101l\u014drum"
+                    ],
+                    "q": "I\u016blius: \"Vid\u0113te, puer\u012b: # saccus pl\u0113nus # est. Ecce m\u0101lum tuum, M\u0101rce.\""
+                },
+                {
+                    "a": [
+                        "dat"
+                    ],
+                    "q": "I\u016blius M\u0101rc\u014d m\u0101lum #."
+                },
+                {
+                    "a": [
+                        "s\u014dlum"
+                    ],
+                    "q": "I\u016blius f\u012bli\u012bs n\u014dn # m\u0101la, sed etiam pira dat."
+                },
+                {
+                    "a": [
+                        "et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ],
+                    "q": "Iam puer\u012b # m\u0101la # pira habent, sed serv\u012b # m\u0101la # pira habent."
+                },
+                {
+                    "a": [
+                        "s\u0113",
+                        "i\u012bs",
+                        "pira"
+                    ],
+                    "q": "Dominus serv\u014ds ad # vocat et # quoque m\u0101la et # dat."
+                },
+                {
+                    "a": [
+                        "adit",
+                        "\u014dsculum"
+                    ],
+                    "q": "Aemilia ad I\u016blium # et e\u012b # dat."
+                },
+                {
+                    "a": [
+                        "currunt"
+                    ],
+                    "q": "I\u016blia abest. Puer\u012b n\u014dn ambulant, sed # in hortum."
+                },
+                {
+                    "a": [
+                        "Ill\u012bc"
+                    ],
+                    "q": "# [: in hort\u014d] I\u016blia n\u014dn est, ea in cubicul\u014d su\u014d est."
+                },
+                {
+                    "a": [
+                        "lacrimat",
+                        "ocul\u012bs",
+                        "lacrimae"
+                    ],
+                    "q": "I\u016blia n\u014dn r\u012bdet, sed # : in # eius sunt #."
+                },
+                {
+                    "a": [
+                        "exspectat"
+                    ],
+                    "q": "D\u0113lia: \"In \u0101tri\u014d pater tuus t\u0113 #, I\u016blia.\""
+                },
+                {
+                    "a": [
+                        "\u0113",
+                        "exit",
+                        "e\u012b"
+                    ],
+                    "q": "I\u016blia # [= ex] cubicul\u014d #, ad I\u016blium currit et # [: I\u016bli\u014d] \u014dsculum dat."
+                },
+                {
+                    "a": [
+                        "tenet"
+                    ],
+                    "q": "I\u016blia rosam ante I\u016blium #."
+                },
+                {
+                    "a": [
+                        "haec",
+                        "f\u014drm\u014dsa"
+                    ],
+                    "q": "I\u016blia: \"N\u014dnne # rosa # [= pulchra] est?\""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quem puer\u012b exspectant? ",
+                    "a": [
+                        "Puer\u012b I\u016blium exspectant"
+                    ]
+                },
+                {
+                    "q": "2. Venitne I\u016blius R\u014dm\u0101? ",
+                    "a": [
+                        "I\u016blius n\u014dn R\u014dm\u0101, sed T\u016bscul\u014d venit"
+                    ]
+                },
+                {
+                    "q": "3. Quis \u014dstium aperit et claudit? ",
+                    "a": [
+                        "\u014csti\u0101rius \u014dstium aperit et claudit"
+                    ]
+                },
+                {
+                    "q": "4. Quid inest in sacc\u012bs? ",
+                    "a": [
+                        "In saccis m\u0101la et pira \u012bnsunt"
+                    ]
+                },
+                {
+                    "q": "5. Cui I\u016blius m\u0101lum pr\u012bmum dat? ",
+                    "a": [
+                        "I\u016blius M\u0101rc\u014d m\u0101lum pr\u012bmum dat"
+                    ]
+                },
+                {
+                    "q": "6. Cui Aemilia \u014dsculum dat? ",
+                    "a": [
+                        "Aemilia vir\u014d su\u014d \u014dsculum dat"
+                    ]
+                },
+                {
+                    "q": "7. Estne I\u016blia in hort\u014d? ",
+                    "a": [
+                        "I\u016blia n\u014dn in hort\u014d, sed in cubicul\u014d su\u014d est"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014d it D\u0113lia? ",
+                    "a": [
+                        "D\u0113lia in cubiculum I\u016bliae it"
+                    ]
+                },
+                {
+                    "q": "9. Estne I\u016blia s\u014dla in cubicul\u014d su\u014d? ",
+                    "a": [
+                        "I\u016blia n\u014dn s\u014dla est ill\u012bc, Syra apud eam est"
+                    ]
+                },
+                {
+                    "q": "10. R\u012bdetne I\u016blia? ",
+                    "a": [
+                        "I\u016blia n\u014dn r\u012bdet, sed lacrimat"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u014d I\u016blia currit? ",
+                    "a": [
+                        "I\u016blia atri\u014d currit"
+                    ]
+                },
+                {
+                    "q": "12. Quid I\u016blius dat f\u012bliae suae? ",
+                    "a": [
+                        "I\u016blius f\u012bliae suae m\u0101lum et pirum dat"
+                    ]
+                }
+            ]
+        }
+    ]
+}

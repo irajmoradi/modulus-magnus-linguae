@@ -1,0 +1,59 @@
+[
+    {
+        "q": "1. M\u0113dus D\u0101vum vocat: \"D\u0101v#!\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "2. D\u0101vus M\u0113dum interrogat: \"Quid est, M\u0113d#?\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \"St! Tac\u0113, D\u0101v#! Dominus adest.\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "4. Servus dominum sal\u016btat: \"Salv\u0113, domin#!\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "5. Dominus servum sal\u016btat: \"Salv\u0113, serv#!\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "6. I\u016blius: \"Ubi est pec\u016bnia mea, D\u0101v#?\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "7. D\u0101vus: \"Ecce sacculus meus, domin#.\"",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \"Disc\u0113de, bon# serv#!\"",
+        "a": [
+            "e",
+            "e"
+        ]
+    },
+    {
+        "q": "9. I\u016blius M\u0113dum vocat: \"M\u0113d#! Ven\u012b, improb# serv#!\"",
+        "a": [
+            "e",
+            "e",
+            "e"
+        ]
+    }
+]

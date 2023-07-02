@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. Itali# in Eur\u014dp\u0101 est.",
+        "a": [
+            "a"
+        ]
+    },
+    {
+        "q": "2. R\u014dma in Itali# est.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "3. Itali# et Graeci# in Eur\u014dp# sunt.",
+        "a": [
+            "a",
+            "a",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "4. R\u014dma n\u014dn in Graeci#, sed in Itali# est.",
+        "a": [
+            "\u0101",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "5. Imperi# R\u014dm\u0101n# magnum est.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "6. In imperi# R\u014dm\u0101n# multae pr\u014dvinciae sunt.",
+        "a": [
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "7. Gallia est pr\u014dvinci# R\u014dm\u0101na.",
+        "a": [
+            "a"
+        ]
+    },
+    {
+        "q": "8. In pr\u014dvinci# Galli\u0101 sunt mult\u012b fluvi\u012b.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "9. 'Ubi' est voc\u0101bul# Lat\u012bnum.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "10. In voc\u0101bul# 'ubi' sunt tr\u0113s litterae.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "11. Capitul# pr\u012bmum: IMPERIVM ROMANVM.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "12. In capitul# pr\u012bm# multa voc\u0101bula sunt.",
+        "a": [
+            "\u014d",
+            "\u014d"
+        ]
+    }
+]

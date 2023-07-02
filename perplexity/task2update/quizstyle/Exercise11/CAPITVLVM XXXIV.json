@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. accendere, #isse, #um esse.",
+        "a": [
+            "accend",
+            "acc\u0113ns"
+        ]
+    },
+    {
+        "q": "2. d\u0113l\u0113re, #isse, #um esse.",
+        "a": [
+            "d\u0113l\u0113v",
+            "d\u0113l\u0113t"
+        ]
+    },
+    {
+        "q": "3. implic\u0101re, #isse, #um esse.",
+        "a": [
+            "implicu",
+            "implicit"
+        ]
+    },
+    {
+        "q": "4. laedere, #isse, #um esse.",
+        "a": [
+            "laes",
+            "laes"
+        ]
+    },
+    {
+        "q": "5. parere, #isse, #um esse.",
+        "a": [
+            "peper",
+            "part"
+        ]
+    },
+    {
+        "q": "6. plaudere, #isse.",
+        "a": [
+            "plaus"
+        ]
+    },
+    {
+        "q": "7. retin\u0113re, re#isse, re#um esse.",
+        "a": [
+            "tinu",
+            "tent"
+        ]
+    },
+    {
+        "q": "8. sapere, #isse.",
+        "a": [
+            "sapi"
+        ]
+    },
+    {
+        "q": "9. sed\u0113re, #isse.",
+        "a": [
+            "s\u0113d"
+        ]
+    }
+]

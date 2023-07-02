@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. Ubi habitat medicus? ...",
+        "a": [
+            "medicus T\u016bscul\u012b habitat"
+        ]
+    },
+    {
+        "q": "2. Qu\u014d I\u016blius servum suum \u012bre iubet? ...",
+        "a": [
+            "I\u016blius servum T\u016bsculum \u012bre iubet"
+        ]
+    },
+    {
+        "q": "3. Ambulatne servus qu\u012b medicum arcessit? ...",
+        "a": [
+            "servus equ\u014d vehitur, n\u014dn ambulat"
+        ]
+    },
+    {
+        "q": "4. Qu\u014d it I\u016blius cum medic\u014d? ...",
+        "a": [
+            "ad puerum aegrum it cum medic\u014d"
+        ]
+    },
+    {
+        "q": "5. Quid medicus videt? ... \t",
+        "a": [
+            "medicus puerum dorm\u012bre videt"
+        ]
+    },
+    {
+        "q": "6. Quid d\u012bcit medicus? ...",
+        "a": [
+            "medicus 'puerum dorm\u012bre' d\u012bcit"
+        ]
+    },
+    {
+        "q": "7. C\u016br Syra verba medic\u012b aud\u012bre n\u014dn potest? ...",
+        "a": [
+            "... quia mal\u0101s aur\u0113s habet"
+        ]
+    },
+    {
+        "q": "8. Quid medicus Qu\u012bntum facere iubet? ...",
+        "a": [
+            "iubet eum linguam ostendere"
+        ]
+    },
+    {
+        "q": "9. Qu\u012b color est linguae? ...",
+        "a": [
+            "lingua rubra est"
+        ]
+    },
+    {
+        "q": "10. Quid d\u012bcit medicus? ...",
+        "a": [
+            "d\u012bcit 'linguam rubram esse'"
+        ]
+    },
+    {
+        "q": "11. Quid medicus videt inter dent\u0113s alb\u014ds? ...",
+        "a": [
+            "dentem nigrum videt"
+        ]
+    },
+    {
+        "q": "12. Suntne s\u0101n\u012b dent\u0113s Qu\u012bnt\u012b? ...",
+        "a": [
+            "\u016bnus d\u0113ns Qu\u012bnt\u012b aeger est"
+        ]
+    },
+    {
+        "q": "13. Quid d\u012bcit Qu\u012bntus? ...",
+        "a": [
+            "'n\u014dn dentem, sed pedem dol\u0113re' d\u012bcit"
+        ]
+    },
+    {
+        "q": "14. Quid medicus tangit? ...",
+        "a": [
+            "medicus pedem Qu\u012bnt\u012b tangit"
+        ]
+    },
+    {
+        "q": "15. Quid sentit Qu\u012bntus et quid d\u012bcit? ...",
+        "a": [
+            "puer digitum medic\u012b in pede sentit et 'pedem dol\u0113re' d\u012bcit"
+        ]
+    }
+]

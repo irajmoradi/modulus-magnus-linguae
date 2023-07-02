@@ -1,0 +1,58 @@
+[
+    {
+        "q": "1. Magister calamum pr\u014dmit, # scr\u012bb# [= quia scr\u012bbere vult].",
+        "a": [
+            "ut",
+            "at"
+        ]
+    },
+    {
+        "q": "2. Merc\u0101t\u014dr\u0113s merc\u0113s v\u0113ndunt, # pec\u016bniam faci# [= quia pec\u016bniam facere volunt].",
+        "a": [
+            "ut",
+            "ant"
+        ]
+    },
+    {
+        "q": "3. P\u0101stor umbram petit, # in s\u014dle ambul# [= quia in s\u014dle ambul\u0101re n\u014dn vult].",
+        "a": [
+            "n\u0113",
+            "et"
+        ]
+    },
+    {
+        "q": "4. Homin\u0113s vest\u012bmenta gerunt, # fr\u012bg# [= quia fr\u012bg\u0113re n\u014dlunt].",
+        "a": [
+            "n\u0113",
+            "eant"
+        ]
+    },
+    {
+        "q": "5. Ariadna Th\u0113se\u014d f\u012blum dedit, # eum serv# [= quia eum serv\u0101re vol\u0113bat].",
+        "a": [
+            "ut",
+            "\u0101ret"
+        ]
+    },
+    {
+        "q": "6. Daedalus \u0101l\u0101s c\u014dnf\u0113cit, # \u0113 labyrinth\u014d \u0113vol# [= quia \u0113 labyrinth\u014d \u0113vol\u0101re vol\u0113bat].",
+        "a": [
+            "ut",
+            "\u0101ret"
+        ]
+    },
+    {
+        "q": "7. L\u0233dia ocul\u014ds clausit, # fulgura vid# [= quia fulgura vid\u0113re n\u014dl\u0113bat].",
+        "a": [
+            "n\u0113",
+            "\u0113ret"
+        ]
+    },
+    {
+        "q": "8. Mult\u012b homin\u0113s aegr\u012b ad Chr\u012bstum conveni\u0113bant, # ab e\u014d s\u0101n# [= quia ab e\u014d s\u0101n\u0101r\u012b vol\u0113bant].",
+        "a": [
+            "ut",
+            "\u0101rentur"
+        ]
+    }
+]

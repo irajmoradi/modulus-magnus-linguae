@@ -1,0 +1,149 @@
+[
+    {
+        "q": "1. Ante XX ann\u014ds I\u016blius ipse malus discipulus erat, qu\u012b in l\u016bd\u014d aut dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# et ali\u0101s r\u0113s ag#.",
+        "a": [
+            "\u0113bat",
+            "bat",
+            "bat",
+            "\u0113bat"
+        ]
+    },
+    {
+        "q": "2. Erg\u014d I\u016blius \u0101 magistr\u014d n\u014dn laud\u0101#, sed reprehend# ac p\u016bni#.",
+        "a": [
+            "b\u0101tur",
+            "\u0113b\u0101tur",
+            "\u0113b\u0101tur"
+        ]
+    },
+    {
+        "q": "3. I\u016blius nihil disc#, quamquam \u0101 bon\u014d magistr\u014d doc\u0113#.",
+        "a": [
+            "\u0113bat",
+            "b\u0101tur"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus: \"Num t\u016b melior discipulus #, pater, quam ego sum?\"",
+        "a": [
+            "er\u0101s"
+        ]
+    },
+    {
+        "q": "5. I\u016blius: \"Ego discipulus mult\u014d melior # quam t\u016b nunc es!\"",
+        "a": [
+            "eram"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus: \"N\u014dnne t\u016b in l\u016bd\u014d dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# et ali\u0101s r\u0113s ag#?\"",
+        "a": [
+            "\u0113b\u0101s",
+            "b\u0101s",
+            "b\u0101s",
+            "\u0113b\u0101s"
+        ]
+    },
+    {
+        "q": "7. I\u016blius: \"Ego numquam in l\u016bd\u014d dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# aut ali\u0101s r\u0113s ag#.\"",
+        "a": [
+            "\u0113bam",
+            "bam",
+            "bam",
+            "\u0113bam"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \"Ego multum disc#, quia \u0101 bon\u014d magistr\u014d doc\u0113#, neque ab e\u014d reprehend# aut p\u016bni#, sed semper laud\u0101#.\"",
+        "a": [
+            "\u0113bam",
+            "bar",
+            "\u0113bar",
+            "\u0113bar",
+            "bar"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus: \"S\u012b numquam reprehend# aut p\u016bni#, sed semper laud\u0101#, cert\u0113 \u0101 mal\u014d magistr\u014d doc\u0113#!\"",
+        "a": [
+            "\u0113b\u0101ris",
+            "\u0113b\u0101ris",
+            "b\u0101ris",
+            "b\u0101ris"
+        ]
+    },
+    {
+        "q": "10. Ante XX ann\u014ds I\u016blius et Fabius mal\u012b discipul\u012b #, qu\u012b in l\u016bd\u014d dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# et ali\u0101s r\u0113s ag#.",
+        "a": [
+            "erant",
+            "\u0113bant",
+            "bant",
+            "bant",
+            "\u0113bant"
+        ]
+    },
+    {
+        "q": "11. Itaque I\u016blius et Fabius \u0101 magistr\u014d su\u014d n\u014dn laud\u0101#, sed reprehend# ac p\u016bni#.",
+        "a": [
+            "bantur",
+            "\u0113bantur",
+            "\u0113bantur"
+        ]
+    },
+    {
+        "q": "12. I\u012b discipul\u012b nihil disc#, quamquam \u0101 bon\u014d magistr\u014d doc\u0113#.",
+        "a": [
+            "\u0113bant",
+            "bantur"
+        ]
+    },
+    {
+        "q": "13. Qu\u012bntus: \"Num v\u014ds meli\u014dr\u0113s discipul\u012b # quam n\u014ds sumus?\"",
+        "a": [
+            "er\u0101tis"
+        ]
+    },
+    {
+        "q": "14. I\u016blius: \"N\u014ds discipul\u012b mult\u014d meli\u014dr\u0113s # quam v\u014ds nunc estis!\"",
+        "a": [
+            "er\u0101mus"
+        ]
+    },
+    {
+        "q": "15. Qu\u012bntus: \"N\u014dnne v\u014ds in l\u016bd\u014d dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# et ali\u0101s r\u0113s ag#?\"",
+        "a": [
+            "\u0113b\u0101tis",
+            "b\u0101tis",
+            "b\u0101tis",
+            "\u0113b\u0101tis"
+        ]
+    },
+    {
+        "q": "16. I\u016blius: \"N\u014ds numquam in l\u016bd\u014d dormi# aut cl\u0101m\u0101# et r\u012bd\u0113# aut ali\u0101s r\u0113s ag#.\"",
+        "a": [
+            "\u0113b\u0101mus",
+            "b\u0101mus",
+            "b\u0101mus",
+            "\u0113b\u0101mus"
+        ]
+    },
+    {
+        "q": "17. I\u016blius: \"N\u014ds multum disc#, quia \u0101 bon\u014d magistr\u014d doc\u0113#, neque ab e\u014d reprehend# aut p\u016bni#, sed semper laud\u0101#.\"",
+        "a": [
+            "\u0113b\u0101mus",
+            "b\u0101mur",
+            "\u0113b\u0101mur",
+            "\u0113b\u0101mur",
+            "b\u0101mur"
+        ]
+    },
+    {
+        "q": "18. Qu\u012bntus: \"S\u012b v\u014ds numquam reprehend# aut p\u016bni#, sed semper laud\u0101#, cert\u0113 \u0101 mal\u014d magistr\u014d doc\u0113#!\"",
+        "a": [
+            "\u0113b\u0101min\u012b",
+            "\u0113b\u0101min\u012b",
+            "b\u0101min\u012b",
+            "b\u0101min\u012b"
+        ]
+    }
+]

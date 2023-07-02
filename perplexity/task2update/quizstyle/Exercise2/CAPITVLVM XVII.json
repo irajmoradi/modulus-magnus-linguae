@@ -1,0 +1,115 @@
+[
+    {
+        "q": "1. Discipulus est puer qu\u012b #.",
+        "a": [
+            "discit"
+        ]
+    },
+    {
+        "q": "2. Qu\u012b discipul\u014ds # magister est.",
+        "a": [
+            "docet"
+        ]
+    },
+    {
+        "q": "3. Magister est vir #, qu\u012b mult\u0101s r\u0113s #.",
+        "a": [
+            "doctus",
+            "scit"
+        ]
+    },
+    {
+        "q": "4. Discipul\u012b sunt puer\u012b #, qu\u012b mult\u0101s r\u0113s # [= n\u014dn sciunt].",
+        "a": [
+            "indoct\u012b",
+            "nesciunt"
+        ]
+    },
+    {
+        "q": "5. Discipulus qu\u012b nihil discere vult # est.",
+        "a": [
+            "piger"
+        ]
+    },
+    {
+        "q": "6. Sextus nec stultus nec piger est, sed # atque #. ",
+        "a": [
+            "pr\u016bd\u0113ns",
+            "industrius"
+        ]
+    },
+    {
+        "q": "7. Magister: \"D\u012bc numer\u014ds \u0101 decem # ad centum!\"",
+        "a": [
+            "\u016bsque"
+        ]
+    },
+    {
+        "q": "8. # discipulus manum #, pr\u012bmum Sextus, deinde Titus, # M\u0101rcus.",
+        "a": [
+            "Quisque",
+            "tollit",
+            "postr\u0113m\u014d"
+        ]
+    },
+    {
+        "q": "9. Titus numer\u014ds d\u012bcit \u0101 X ad XXII, tum magister eum #.",
+        "a": [
+            "interpellat"
+        ]
+    },
+    {
+        "q": "10. Titus decimum # numerum d\u012bcit \u0101 XX ad C: \"V\u012bgint\u012b, tr\u012bgint\u0101, #, #, sex\u0101gint\u0101, #, oct\u014dgint\u0101, n\u014dn\u0101gint\u0101, ",
+        "a": [
+            "quemque",
+            "quadr\u0101gint\u0101",
+            "qu\u012bnqu\u0101gint\u0101",
+            "septu\u0101gint\u0101"
+        ]
+    },
+    {
+        "q": "11. Sextus, qu\u012b numer\u014ds \u0101 C ad M d\u012bcere iub\u0113tur, # [= tam mult\u014ds] numer\u014ds d\u012bcere n\u014dn vult.",
+        "a": [
+            "tot"
+        ]
+    },
+    {
+        "q": "12. Sextus # [C] quemque numerum tantum d\u012bcit: \"Centum, ducent\u012b, trecent\u012b, #, #, #, #, #, #, m\u012blle.\"",
+        "a": [
+            "cent\u0113simum",
+            "quadringent\u012b",
+            "qu\u012bngent\u012b",
+            "sescent\u012b|sexcent\u012b",
+            "septingent\u012b",
+            "octingent\u012b",
+            "n\u014dngent\u012b"
+        ]
+    },
+    {
+        "q": "13. Magister: \"Quot sunt # [XL] et decem?\" Sextus: \"# [L].\" M\u0101rcus: \"Sex\u0101gint\u0101.\" ",
+        "a": [
+            "quadr\u0101gint\u0101",
+            "Qu\u012bnqu\u0101gint\u0101"
+        ]
+    },
+    {
+        "q": "14. Quod Sextus respondet # est.",
+        "a": [
+            "r\u0113ctum"
+        ]
+    },
+    {
+        "q": "15. # M\u0101rc\u012b n\u014dn r\u0113ctum, sed # est.",
+        "a": [
+            "Resp\u014dnsum",
+            "pr\u0101vum"
+        ]
+    },
+    {
+        "q": "16. Sextus # respondet; M\u0101rcus # respondet.",
+        "a": [
+            "r\u0113ct\u0113",
+            "pr\u0101v\u0113"
+        ]
+    }
+]

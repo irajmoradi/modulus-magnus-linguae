@@ -1,0 +1,103 @@
+[
+    {
+        "q": "1. 'Longior -ius -i\u014dr|is' est # adiect\u012bv\u012b.",
+        "a": [
+            "compar\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. N\u014dm.\tlongior\t\tlongius\t\tlongi\u014dr#\tlongi\u014dr#",
+        "a": [
+            "\u0113s",
+            "a"
+        ]
+    },
+    {
+        "q": "3. Acc.\t\tlongi\u014dr#\tlongius\t\tlongi\u014dr#\tlongi\u014dr#",
+        "a": [
+            "em",
+            "\u0113s",
+            "a"
+        ]
+    },
+    {
+        "q": "4. Gen. \tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#",
+        "a": [
+            "is",
+            "is",
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "5. Dat.\t\tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "6. Abl.\t\tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#\tlongi\u014dr#",
+        "a": [
+            "e",
+            "e",
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "7. Mascul\u012bnum et f\u0113min\u012bnum: 'longior' est # singul\u0101ris, 'longi\u014dr|em' # #, 'longi\u014dr|\u0113s' # aut # pl\u016br\u0101lis.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. Neutrum: 'longius' est # aut # singul\u0101ris, 'longi\u014dr|a' # aut # pl\u016br\u0101lis.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "9. 'Longi\u014dr|e' # singul\u0101ris est.",
+        "a": [
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "10. 'Longi\u014dr|\u012b' # # est.",
+        "a": [
+            "dat\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "11. 'Longi\u014dr|ibus' est # aut # pl\u016br\u0101lis.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "12. 'Longi\u014dr|is' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "13. 'Longi\u014dr|um' est # #.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    }
+]

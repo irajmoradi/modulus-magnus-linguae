@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. I\u016blia canit. Puer\u012b I\u016bli# can# audiunt.",
+        "a": [
+            "am",
+            "ere"
+        ]
+    },
+    {
+        "q": "2. I\u016blia \u0101 M\u0101rc\u014d puls\u0101tur. Qu\u012bntus I\u016bli# \u0101 M\u0101rc\u014d puls# videt.",
+        "a": [
+            "am",
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "3. I\u016blia pl\u014drat et M\u0101rcus r\u012bdet. Qu\u012bntus I\u016bli# pl\u014dr# et M\u0101rc# r\u012bd# audit.",
+        "a": [
+            "am",
+            "\u0101re",
+            "um",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "4. Aemilia venit. Puer\u012b Aemili# ven# vident.",
+        "a": [
+            "am",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "5. Aemilia \u012br\u0101ta est. M\u0101rcus Aemili# \u012br\u0101t# es# videt.",
+        "a": [
+            "am",
+            "am",
+            "se"
+        ]
+    },
+    {
+        "q": "6. Pull\u012b mortu\u012b sunt. I\u016blia pull# mortu# es# videt.",
+        "a": [
+            "\u014ds",
+            "\u014ds",
+            "se"
+        ]
+    },
+    {
+        "q": "7. D\u0101vus \u0101 I\u016bli\u014d interrog\u0101tur et \u0101 M\u0113d\u014d acc\u016bs\u0101tur. Aemilia D\u0101v# \u0101 I\u016bli\u014d interrog# et \u0101 M\u0113d\u014d acc\u016bs# audit.",
+        "a": [
+            "um",
+            "\u0101r\u012b",
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "8. M\u0113dus \u0101 I\u016bli\u014d voc\u0101tur neque venit. Aemilia M\u0113d# \u0101 I\u016bli\u014d voc# audit neque e# ven# videt.",
+        "a": [
+            "um",
+            "\u0101r\u012b",
+            "um",
+            "\u012bre"
+        ]
+    }
+]

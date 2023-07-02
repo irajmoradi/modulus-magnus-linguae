@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. I\u016blius: \u201cN\u014dl\u014d s\u014dlus ambul\u0101re. Comit# m\u0113, Syre et L\u0113ander! Opper# m\u0113 ante portam!\u201d",
+        "a": [
+            "\u0101min\u012b",
+            "\u012bmin\u012b"
+        ]
+    },
+    {
+        "q": "2. L\u0233dia: \u201cN\u014dl\u012b m\u0113 d\u0113serere, M\u0113de! Hoc mihi pollic#!\u201d",
+        "a": [
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \u201cProfic\u012bsc# m\u0113cum, L\u0233dia! Comit# m\u0113 in Graeciam!\u201d",
+        "a": [
+            "ere",
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "4. M\u0113dus: \u201cN\u0101vem solvite, nautae! Intu# caelum! Profic\u012bsc#!\u201d ",
+        "a": [
+            "\u0113min\u012b",
+            "imin\u012b"
+        ]
+    },
+    {
+        "q": "5. D\u0101vus: \u201cSequ# m\u0113 in cubiculum tuum, M\u0101rce!\u201d",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "6. Dux: \u201cLaet#, m\u012blit\u0113s! Host\u0113s fugiunt. Sequ# e\u014ds, sed brev\u012b h\u016bc revert#!\u201d",
+        "a": [
+            "\u0101min\u012b",
+            "imin\u012b",
+            "imin\u012b"
+        ]
+    },
+    {
+        "q": "7. L\u0233dia: \u201cN\u014dl\u012b de\u014ds R\u014dm\u0101n\u014ds ver\u0113r\u012b, M\u0113de! \u016anum s\u014dlum Deum ver#! Eius auxilium opper#!\u201d",
+        "a": [
+            "\u0113re",
+            "\u012bre"
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "q": "1. N\u014dm.\tdi#\tdi#",
+        "a": [
+            "\u0113s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "2. Acc.\t\tdi#\tdi#",
+        "a": [
+            "em",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "3. Gen.\t\tdi#\tdi#",
+        "a": [
+            "\u0113\u012b",
+            "\u0113rum"
+        ]
+    },
+    {
+        "q": "4. Dat.\t\tdi#\tdi#",
+        "a": [
+            "\u0113\u012b",
+            "\u0113bus"
+        ]
+    },
+    {
+        "q": "5. Abl.\t\tdi#\tdi#",
+        "a": [
+            "\u0113",
+            "\u0113bus"
+        ]
+    },
+    {
+        "q": "6. 'Di\u0113' est # singul\u0101ris.",
+        "a": [
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'Di\u0113bus' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'Di\u0113\u012b' est # aut # singul\u0101ris.",
+        "a": [
+            "genet\u012bvus",
+            "dat\u012bvus"
+        ]
+    },
+    {
+        "q": "9. 'Diem' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "10. 'Di\u0113rum' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "11. 'Di\u0113s' est # singul\u0101ris aut # aut # pl\u016br\u0101lis.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    }
+]

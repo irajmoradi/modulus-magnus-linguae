@@ -1,0 +1,52 @@
+[
+    {
+        "q": "1. Magister: \"Sextus bonus discipulus est; n\u0113m\u014d discipul\u014drum me\u014drum # est quam ille: Sextus discipulus meus # est.\"",
+        "a": [
+            "melior",
+            "optimus"
+        ]
+    },
+    {
+        "q": "2. Magister: \"M\u0101rcus malus discipulus est; n\u0113m\u014d discipul\u014drum me\u014drum # est quam ille: M\u0101rcus discipulus meus # est.\"",
+        "a": [
+            "p\u0113ior",
+            "pessimus"
+        ]
+    },
+    {
+        "q": "3. Sicilia \u012bnsula magna est, # quam Corsica et Sardinia; Sicilia # h\u0101rum \u012bnsul\u0101rum est.",
+        "a": [
+            "m\u0101ior",
+            "m\u0101xima"
+        ]
+    },
+    {
+        "q": "4. Melita \u012bnsula parva est, mult\u014d # quam Sicilia et Sardinia; Melita # h\u0101rum \u012bnsul\u0101rum est.",
+        "a": [
+            "minor",
+            "minima"
+        ]
+    },
+    {
+        "q": "5. Digitus qu\u0101rtus # est quam digitus medius et # quam digitus qu\u012bntus, qu\u012b # est ex qu\u012bnque digit\u012bs.",
+        "a": [
+            "minor",
+            "m\u0101ior",
+            "minimus"
+        ]
+    },
+    {
+        "q": "6. \u014cstia est magnum oppidum, # quam T\u016bsculum, sed # quam R\u014dma.",
+        "a": [
+            "m\u0101ius",
+            "minus"
+        ]
+    },
+    {
+        "q": "7. I\u016blius mult\u014ds serv\u014ds habet, # quam Corn\u0113lius aut Fabius; ex tribus domin\u012bs I\u016blius # serv\u014ds habet.",
+        "a": [
+            "pl\u016br\u0113s",
+            "pl\u016brim\u014ds"
+        ]
+    }
+]

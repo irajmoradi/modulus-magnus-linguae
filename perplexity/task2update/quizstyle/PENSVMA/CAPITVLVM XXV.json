@@ -1,0 +1,162 @@
+[
+    {
+        "a": [
+            "\u0101re",
+            "ere",
+            "\u0113re",
+            "ere",
+            "\u0101re"
+        ],
+        "q": "M\u0113dus (ad L\u0233diam): \"In Graeciam \u012bb\u014d. Comit# m\u0113! Profic\u012bsc# m\u0113cum! Hoc mihi pollic#! Obl\u012bv\u012bsc# R\u014dmae! \u014cscul# m\u0113!\""
+    },
+    {
+        "a": [
+            "imin\u012b",
+            "\u0113min\u012b",
+            "\u0101min\u012b"
+        ],
+        "q": "M\u0113dus (ad naut\u0101s): \"Iam profic\u012bsc#, nautae! Ventus secundus est: intu# caelum! Laet#!\""
+    },
+    {
+        "a": [
+            "tr\u0101x",
+            "tract"
+        ],
+        "q": "Verba: trahere, #isse, #um;"
+    },
+    {
+        "a": [
+            "pet\u012bv",
+            "pet\u012bt"
+        ],
+        "q": "petere, #isse, #um;"
+    },
+    {
+        "a": [
+            "quaes\u012bv",
+            "quaes\u012bt"
+        ],
+        "q": "quaerere, #isse, #um;"
+    },
+    {
+        "a": [
+            "occ\u012bd",
+            "occ\u012bs"
+        ],
+        "q": "occ\u012bdere, #isse, #um;"
+    },
+    {
+        "a": [
+            "l\u012bqu",
+            "lict"
+        ],
+        "q": "relinquere, re#isse, re#um;"
+    },
+    {
+        "a": [
+            "f\u0113c",
+            "fect"
+        ],
+        "q": "interficere, inter#isse, inter#um;"
+    },
+    {
+        "a": [
+            "stitu",
+            "stit\u016bt"
+        ],
+        "q": "c\u014dnstituere, c\u014dn#isse, c\u014dn#um;"
+    },
+    {
+        "a": [
+            "d\u0113seru",
+            "d\u0113sert"
+        ],
+        "q": "d\u0113serere, #isse, #um; "
+    },
+    {
+        "a": [
+            "spex",
+            "spect"
+        ],
+        "q": "c\u014dnspicere, c\u014dn#isse, c\u014dn#um;"
+    },
+    {
+        "a": [
+            "coep",
+            "coept"
+        ],
+        "q": "incipere, #isse, #um;"
+    },
+    {
+        "a": [
+            "did",
+            "dit"
+        ],
+        "q": "reddere, red#isse, red#um;"
+    },
+    {
+        "a": [
+            "repper",
+            "repert"
+        ],
+        "q": "reper\u012bre, #isse, #um;"
+    },
+    {
+        "a": [
+            "iuss",
+            "iuss"
+        ],
+        "q": "iub\u0113re, #isse, #um;"
+    },
+    {
+        "a": [
+            "gess",
+            "gest"
+        ],
+        "q": "gerere, #isse, #um;"
+    },
+    {
+        "a": [
+            "i\u0113c",
+            "iact"
+        ],
+        "q": "iacere, #isse, #um;"
+    },
+    {
+        "a": [
+            "r\u0113x",
+            "r\u0113ct"
+        ],
+        "q": "regere, #isse, #um;"
+    },
+    {
+        "a": [
+            "scend"
+        ],
+        "q": "c\u014dnscendere, c\u014dn#isse;"
+    },
+    {
+        "a": [
+            "cess"
+        ],
+        "q": "acc\u0113dere, ac#isse;"
+    },
+    {
+        "a": [
+            "fect"
+        ],
+        "q": "profic\u012bsc\u012b, pro#um esse;"
+    },
+    {
+        "a": [
+            "sec\u016bt"
+        ],
+        "q": "sequ\u012b, #um esse;"
+    },
+    {
+        "a": [
+            "l\u012bt"
+        ],
+        "q": "obl\u012bv\u012bsc\u012b, ob#um esse."
+    }
+]

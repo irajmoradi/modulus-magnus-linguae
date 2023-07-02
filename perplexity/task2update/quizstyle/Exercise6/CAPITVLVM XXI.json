@@ -1,0 +1,150 @@
+[
+    {
+        "q": "1. Aemilia: \u201cVoc\u0101 puer\u014ds, Syra!\u201d I\u016blia: \u201cEgo e\u014ds iam voc\u0101v#.\u201d",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "2. Aemilia: \u201cT\u016bne puer\u014ds iam voc\u0101v#, I\u016blia? Ego t\u0113 n\u014dn aud\u012bv# nec puer\u012b t\u0113 aud\u012bv#.\u201d",
+        "a": [
+            "ist\u012b",
+            "\u012b",
+            "\u0113runt"
+        ]
+    },
+    {
+        "q": "3. Puer\u012b veniunt, quia I\u016blia e\u014ds voc\u0101v#.",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "4. I\u016blia: \u201cN\u014dnne v\u014ds m\u0113 voc\u0101re aud\u012bv#, puer\u012b?\u201d",
+        "a": [
+            "istis"
+        ]
+    },
+    {
+        "q": "5. Puer\u012b: \u201cCert\u0113 t\u0113 aud\u012bv#. C\u016br n\u014ds voc\u0101v#?\u201d",
+        "a": [
+            "imus",
+            "ist\u012b"
+        ]
+    },
+    {
+        "q": "6. Aemilia: \u201cVoc\u0101 I\u016bliam, Syra!\u201d Puer\u012b: \u201cN\u014ds eam iam voc\u0101v#.\u201d",
+        "a": [
+            "imus"
+        ]
+    },
+    {
+        "q": "7. Aemilia: \u201cV\u014dsne eam iam voc\u0101v#? Ego v\u014ds n\u014dn aud\u012bv#, nec I\u016blia v\u014ds aud\u012bv#.\u201d",
+        "a": [
+            "istis",
+            "\u012b",
+            "it"
+        ]
+    },
+    {
+        "q": "8. I\u016blia venit, quia puer\u012b eam voc\u0101v#.",
+        "a": [
+            "\u0113runt"
+        ]
+    },
+    {
+        "q": "9. Puer\u012b: \u201cN\u014dnne t\u016b n\u014ds voc\u0101re aud\u012bv#, I\u016blia?\u201d",
+        "a": [
+            "ist\u012b"
+        ]
+    },
+    {
+        "q": "10. I\u016blia: \u201cCert\u0113 v\u014ds aud\u012bv#. C\u016br m\u0113 voc\u0101v#?\u201d",
+        "a": [
+            "\u012b",
+            "istis"
+        ]
+    },
+    {
+        "q": "11. Sextus M\u0101rcum puls\u0101v# et ipse \u0101 M\u0101rc\u014d et Tit\u014d puls\u0101t# #, neque i\u012b deinde \u0101 Sext\u014d puls\u0101t# #.",
+        "a": [
+            "it",
+            "us",
+            "est",
+            "\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "12. Titus: \u201cEgo et M\u0101rcus Sextum puls\u0101v#, nec n\u014ds deinde ab e\u014d puls\u0101t# #.\u201d",
+        "a": [
+            "imus",
+            "\u012b",
+            "sumus"
+        ]
+    },
+    {
+        "q": "13. Qu\u012bntus: \u201cV\u014dsne Sextum puls\u0101v# nec ab e\u014d puls\u0101t# #?\u201d",
+        "a": [
+            "istis",
+            "\u012b",
+            "estis"
+        ]
+    },
+    {
+        "q": "14. Titus: \u201cEgo s\u014dlus puls\u0101t# n\u014dn #.\u201d",
+        "a": [
+            "us",
+            "sum"
+        ]
+    },
+    {
+        "q": "15. Qu\u012bntus: \u201cC\u016br t\u016b puls\u0101t# n\u014dn #, Tite?\u201d",
+        "a": [
+            "us",
+            "es"
+        ]
+    },
+    {
+        "q": "16. Puella pl\u014drat, quia \u0101 puer\u014d improb\u014d puls\u0101t# #.",
+        "a": [
+            "a",
+            "est"
+        ]
+    },
+    {
+        "q": "17. M\u0101ter f\u012bliam interrogat: \u201c\u0100 qu\u014d puls\u0101t# #?\u201d",
+        "a": [
+            "a",
+            "es"
+        ]
+    },
+    {
+        "q": "18. F\u012blia respondet: \u201c\u0100 puer\u014d improb\u014d puls\u0101t# #.\u201d",
+        "a": [
+            "a",
+            "sum"
+        ]
+    },
+    {
+        "q": "19. Puellae pl\u014drant, quia \u0101 puer\u012bs improb\u012bs puls\u0101t# #.",
+        "a": [
+            "ae",
+            "sunt"
+        ]
+    },
+    {
+        "q": "20. M\u0101ter f\u012bli\u0101s interrogat: \u201c\u0100 quibus puls\u0101t# #?\u201d",
+        "a": [
+            "ae",
+            "estis"
+        ]
+    },
+    {
+        "q": "21. F\u012bliae respondent: \u201c\u0100 puer\u012bs improb\u012bs puls\u0101t# #.\u201d",
+        "a": [
+            "ae",
+            "sumus"
+        ]
+    }
+]

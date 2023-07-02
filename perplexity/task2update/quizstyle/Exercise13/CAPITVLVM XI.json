@@ -1,0 +1,71 @@
+[
+    {
+        "q": "1. 'Qu\u012bntum' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est; 'dorm\u012bre' n\u014dn indic\u0101t\u012bvus, sed # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Qu\u012bntum dorm\u012bre' est # cum #.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "\u012bnf\u012bn\u012bt\u012bv\u014d"
+        ]
+    },
+    {
+        "q": "3. Acc\u016bs\u0101t\u012bvus cum \u012bnf\u012bn\u012bt\u012bv\u014d p\u014dnitur apud haec verba: iub\u0113re, #, #, #, #, #, #, # esse, c\u0113tera.",
+        "a": [
+            "vid\u0113re",
+            "aud\u012bre",
+            "sent\u012bre",
+            "d\u012bcere",
+            "put\u0101re",
+            "gaud\u0113re",
+            "necesse"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus Qu\u012bntum in arborem ascendere # :\"In arborem ascende, Qu\u012bnte!\"",
+        "a": [
+            "iubet"
+        ]
+    },
+    {
+        "q": "5. Qu\u012bntus in terr\u0101 iacet nec s\u0113 movet; itaque M\u0101rcus eum mortuum esse #.",
+        "a": [
+            "putat"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus cl\u0101mat. I\u016blius M\u0101rcum cl\u0101m\u0101re # et accurrere #.",
+        "a": [
+            "audit",
+            "videt"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \"Qu\u012bntus mortuus est.\" M\u0101rcus # 'Qu\u012bntum mortuum esse.'",
+        "a": [
+            "d\u012bcit"
+        ]
+    },
+    {
+        "q": "8. Pater manum in pectus f\u012bli\u012b imp\u014dnit et cor eius palpit\u0101re #.",
+        "a": [
+            "sentit"
+        ]
+    },
+    {
+        "q": "9. I\u016blius laetus est: pater f\u012blium v\u012bvere #.",
+        "a": [
+            "gaudet"
+        ]
+    },
+    {
+        "q": "10. Qu\u012bntus ambul\u0101re n\u014dn potest, erg\u014d # est eum \u0101 I\u016bli\u014d port\u0101r\u012b.",
+        "a": [
+            "necesse"
+        ]
+    }
+]

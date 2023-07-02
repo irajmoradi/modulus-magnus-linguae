@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. 'Voc\u0101' imper\u0101t\u012bvus singul\u0101ris est; 'voc\u0101|te' # # est.",
+        "a": [
+            "imper\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "2. 'Voca|t' indic\u0101t\u012bvus # est; 'voca|nt' est # pl\u016br\u0101lis.",
+        "a": [
+            "singul\u0101ris",
+            "indic\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "3. 'Vid\u0113', 'p\u014dn|e', 'ven\u012b' # # est; 'vid\u0113|te', 'p\u014dn|ite', 'ven\u012b|te' # # est.",
+        "a": [
+            "imper\u0101t\u012bvus",
+            "singul\u0101ris",
+            "imper\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "4. 'Vide|t', 'p\u014dn|it', 'veni|t' # # est; 'vide|nt', 'p\u014dn|unt', 'veni|unt' # # est.",
+        "a": [
+            "indic\u0101t\u012bvus",
+            "singul\u0101ris",
+            "indic\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "5. Imper\u0101t\u012bvus singul\u0101ris: cant\u0101, tac#, ag#, aud#.",
+        "a": [
+            "\u0113",
+            "e",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "6. Imper\u0101t\u012bvus pl\u016br\u0101lis: cant#, tac#, ag#, aud#.",
+        "a": [
+            "\u0101te",
+            "\u0113te",
+            "ite",
+            "\u012bte"
+        ]
+    },
+    {
+        "q": "7. Indic\u0101t\u012bvus singul\u0101ris: cantat, tac#, ag#, aud#.",
+        "a": [
+            "et",
+            "it",
+            "it"
+        ]
+    },
+    {
+        "q": "8. Indic\u0101t\u012bvus pl\u016br\u0101lis: cant#, tac#, ag#, aud#.",
+        "a": [
+            "ant",
+            "ent",
+            "unt",
+            "iunt"
+        ]
+    }
+]

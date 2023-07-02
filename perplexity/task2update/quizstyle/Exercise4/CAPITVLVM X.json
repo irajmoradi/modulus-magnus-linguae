@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. Av\u0113s vol# possunt; pisc\u0113s nat# possunt.",
+        "a": [
+            "\u0101re",
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "2. Equus ambul# et curr# potest.",
+        "a": [
+            "\u0101re",
+            "ere"
+        ]
+    },
+    {
+        "q": "3. Ov\u0113s lupum aud# possunt, neque eum vid# possunt.",
+        "a": [
+            "\u012bre",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "4. I\u016blia centum numer# n\u014dn potest.",
+        "a": [
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "5. Hom\u014d mortuus s\u0113 mov# n\u014dn potest.",
+        "a": [
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "6. Sub aqu\u0101 hom\u014d n\u014dn potest sp\u012br#.",
+        "a": [
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "7. Sine anim\u0101 n\u0113m\u014d potest v\u012bv#.",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "8. Animam d\u016bc# necesse est homin\u012b.",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "9. Necesse n\u014dn est gemm\u0101s hab#.",
+        "a": [
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "10. Qu\u012b gemm\u0101s v\u0113ndit pec\u016bniam fac# potest.",
+        "a": [
+            "ere"
+        ]
+    }
+]

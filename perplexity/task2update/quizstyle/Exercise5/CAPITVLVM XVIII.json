@@ -1,0 +1,55 @@
+[
+    {
+        "q": "1. In tabul\u0101 su\u0101 #que discipulus eandem sententiam scr\u012bbit.",
+        "a": [
+            "quis"
+        ]
+    },
+    {
+        "q": "2. Magister #que discipulum ad s\u0113 vocat, pr\u012bmum Sextum, tum Titum, postr\u0113m\u014d M\u0101rcum.",
+        "a": [
+            "quem"
+        ]
+    },
+    {
+        "q": "3. Magister tabulam #que discipul\u012b aspicit.",
+        "a": [
+            "cuius"
+        ]
+    },
+    {
+        "q": "4. Magister suam #que discipul\u014d tabulam reddit.",
+        "a": [
+            "cui"
+        ]
+    },
+    {
+        "q": "5. Parvus discipulus cum legit #que litteram #que syllabae et #que syllabam #que voc\u0101bul\u012b d\u012bcit.",
+        "a": [
+            "quam",
+            "cuius",
+            "quam",
+            "cuius"
+        ]
+    },
+    {
+        "q": "6. Ita #que voc\u0101bulum \u0101 #que discipul\u014d legitur.",
+        "a": [
+            "quod",
+            "qu\u014d"
+        ]
+    },
+    {
+        "q": "7. In voc\u0101bul\u014d 'September' #que syllaba v\u014dc\u0101lem habet: in #que syllab\u0101 eadem v\u014dc\u0101lis est. ",
+        "a": [
+            "quae",
+            "qu\u0101"
+        ]
+    },
+    {
+        "q": "8. In lingu\u0101 Graec\u0101 suum #que litterae n\u014dmen est, ut 'alpha', 'b\u0113ta', 'gamma', 'delta', c\u0113t.",
+        "a": [
+            "cui"
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "q": "1. C\u016br Sextus et Titus laudantur \u0101 magistr\u014d? ...",
+        "a": [
+            "laudantur quia pr\u016bdent\u0113s atque industri\u012b sunt discipul\u012b"
+        ]
+    },
+    {
+        "q": "2. Estne difficile quod magister interrogat? ...",
+        "a": [
+            "quod magister interrogat facile est"
+        ]
+    },
+    {
+        "q": "3. Quem magister reprehendit? ...",
+        "a": [
+            "magister M\u0101rcum reprehendit"
+        ]
+    },
+    {
+        "q": "4. C\u016br M\u0101rcus numquam laud\u0101tur?",
+        "a": []
+    },
+    {
+        "q": "5. Num M\u0101rcus semper interrog\u0101tur? ...",
+        "a": [
+            "numquam laud\u0101tur quia semper pr\u0101v\u0113 respondet"
+        ]
+    },
+    {
+        "q": "6. Estne magister am\u012bcus patribus discipul\u014drum? ...",
+        "a": [
+            "is n\u014dn semper interrog\u0101tur, c\u0113ter\u012b discipul\u012b saepe interrogantur"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntusne \u0101 magistr\u014d reprehenditur? ...",
+        "a": [
+            "M\u0101rcus d\u012bcit 'magistrum patribus Sext\u012b et Tit\u012b am\u012bcum esse'"
+        ]
+    },
+    {
+        "q": "8. Quot sunt quadr\u0101gint\u0101 et oct\u014d? ...",
+        "a": [
+            "Qu\u012bntus laud\u0101tur \u0101 magistr\u014d"
+        ]
+    },
+    {
+        "q": "9. Estne facile quod v\u014ds interrog\u0101min\u012b, discipul\u012b? ...",
+        "a": [
+            "quadr\u0101gint\u0101 et oct\u014d sunt duod\u0113qu\u012bnqu\u0101gint\u0101"
+        ]
+    },
+    {
+        "q": "10. T\u016bne saepe \u0101 magistr\u014d/magistr\u0101 laud\u0101ris? ...",
+        "a": [
+            "n\u014dn facile est quod interrog\u0101mur"
+        ]
+    },
+    {
+        "q": "11. T\u016bne M\u0101rcum stultum esse put\u0101s? ...",
+        "a": [
+            "saepe laudor \u0101 magistr\u014d/magistr\u0101"
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. Quis fugam Daedal\u012b et \u012acar\u012b animadvertit? ...",
+        "a": [
+            "aliqu\u012b p\u0101stor e\u014ds volant\u0113s v\u012bdit"
+        ]
+    },
+    {
+        "q": "2. Quid arbitr\u0101tus est p\u0101stor qu\u012b e\u014ds vol\u0101re v\u012bdit? ...",
+        "a": [
+            "p\u0101stor e\u014ds de\u014ds esse arbitr\u0101tus est"
+        ]
+    },
+    {
+        "q": "3. C\u016br pater et f\u012blius n\u014dn r\u0113ct\u0101 vi\u0101 Ath\u0113n\u0101s vol\u0101v\u0113runt? ...",
+        "a": [
+            "... quod mult\u0101s \u012bnsul\u0101s vid\u0113re volu\u0113runt"
+        ]
+    },
+    {
+        "q": "4. Quid volant\u0113s sub s\u0113 v\u012bd\u0113runt? ...",
+        "a": [
+            "\u012bnsul\u0101s maris Aegae\u012b v\u012bd\u0113runt"
+        ]
+    },
+    {
+        "q": "5. Quid est Peloponn\u0113sus? ...",
+        "a": [
+            "magna paen\u012bnsula est"
+        ]
+    },
+    {
+        "q": "6. Qu\u014dmodo Peloponn\u0113sus cum reliqu\u0101 Graeci\u0101 coniungitur? ...",
+        "a": [
+            "Peloponn\u0113sus terr\u0101 angust\u0101 cum reliqu\u0101 Graeci\u0101 coniungitur"
+        ]
+    },
+    {
+        "q": "7. Quid est Corinthus? ...",
+        "a": [
+            "Corinthus est urbs Graeca prope Isthmum sita"
+        ]
+    },
+    {
+        "q": "8. Qu\u0101r\u0113 \u012acarus ad s\u014dlem ascendit? ...",
+        "a": [
+            "... quia s\u014dlem propius aspicere cupi\u0113bat"
+        ]
+    },
+    {
+        "q": "9. Quid tum puer\u014d temer\u0101ri\u014d accidit? ...",
+        "a": [
+            "ignis s\u014dlis c\u0113ram moll\u012bvit et penn\u0101s ussit"
+        ]
+    },
+    {
+        "q": "10. Quid appell\u0101tur id mare qu\u014d \u012acarus cecidit? ...",
+        "a": [
+            "mare \u012acarium appell\u0101tur"
+        ]
+    },
+    {
+        "q": "11. In qu\u0101 \u012bnsul\u0101 inventum est corpus puer\u012b? ...",
+        "a": [
+            "corpus puer\u012b inventum est in \u012bnsul\u0101 quae \u2018\u012acaria\u2019 appell\u0101tur"
+        ]
+    },
+    {
+        "q": "12. C\u016br Qu\u012bntus fessus n\u014dn est f\u0101bul\u0101s audiend\u014d? ...",
+        "a": [
+            "... quod puer f\u0101bul\u0101s audiend\u014d d\u0113lect\u0101tur"
+        ]
+    },
+    {
+        "q": "13. Qu\u0101r\u0113 n\u0101rr\u0101tur haec f\u0101bula? ...",
+        "a": [
+            "haec f\u0101bula et d\u0113lectand\u012b et monend\u012b caus\u0101 n\u0101rr\u0101tur"
+        ]
+    }
+]

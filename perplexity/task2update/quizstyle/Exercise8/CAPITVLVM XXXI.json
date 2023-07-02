@@ -1,0 +1,58 @@
+[
+    {
+        "q": "1. V\u012blla i\u0101nit\u014dr# c\u016bst\u014ddienda est.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "2. Quidquid dominus imper\u0101vit serv# faciendum est.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "3. Multa nova voc\u0101bula n# discenda sunt.",
+        "a": [
+            "\u014db\u012bs"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \u201cLaetor quod m# in agr\u012bs lab\u014drandum n\u014dn est.\u201d",
+        "a": [
+            "ihi"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus: \u201cQuid m# scr\u012bbendum est?\u201d Magister: \u201cLittera H t# scr\u012bbenda est deci\u0113s.\u201d",
+        "a": [
+            "ihi",
+            "ibi"
+        ]
+    },
+    {
+        "q": "6. Serv\u012b: \u201cQuid n# agendum est?\u201d Dominus: \u201cV# in hort\u014d lab\u014drandum est.\u201d",
+        "a": [
+            "\u014db\u012bs",
+            "\u014db\u012bs"
+        ]
+    },
+    {
+        "q": "7. Agricola est vir c# agr\u012b colend\u012b sunt.",
+        "a": [
+            "ui"
+        ]
+    },
+    {
+        "q": "8. Discipulus piger c\u0113ter# imitandus n\u014dn est.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "9. Omn# moriendum est. ",
+        "a": [
+            "ibus"
+        ]
+    }
+]

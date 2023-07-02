@@ -1,0 +1,94 @@
+[
+    {
+        "q": "1. I\u016blia: \"Ego bene can\u014d.\" I\u016blia d\u012bcit '# bene can#.'",
+        "a": [
+            "s\u0113",
+            "ere"
+        ]
+    },
+    {
+        "q": "2. Alb\u012bnus: \"\u014crn\u0101menta v\u0113nd\u014d.\" Alb\u012bnus d\u012bcit '# \u014drn\u0101menta v\u0113nd#.'",
+        "a": [
+            "s\u0113",
+            "ere"
+        ]
+    },
+    {
+        "q": "3. Servus: \"Fessus sum.\" Servus d\u012bcit '# fess# es#.'",
+        "a": [
+            "s\u0113",
+            "um",
+            "se"
+        ]
+    },
+    {
+        "q": "4. Serv\u012b: \"Fess\u012b sumus.\" Serv\u012b d\u012bcunt '# fess# es#.'",
+        "a": [
+            "s\u0113",
+            "\u014ds",
+            "se"
+        ]
+    },
+    {
+        "q": "5. Nauta: \"Ventum secundum opperior.\" Nauta d\u012bcit '# ventum secundum opper#.'",
+        "a": [
+            "s\u0113",
+            "\u012br\u012b"
+        ]
+    },
+    {
+        "q": "6. Nautae: \"Nept\u016bnum ver\u0113mur.\" Nautae d\u012bcunt '# Nept\u016bnum ver#.'",
+        "a": [
+            "s\u0113",
+            "\u0113r\u012b"
+        ]
+    },
+    {
+        "q": "7. I\u016blius: \"F\u012blius meus aegr\u014dtat.\" I\u016blius d\u012bcit 'F\u012bli# # aegr\u014dt#.'",
+        "a": [
+            "um",
+            "suum",
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "8. Titus: \"Ego librum meum n\u014dn habe\u014d.\" Titus d\u012bcit '# librum # n\u014dn hab#.'",
+        "a": [
+            "s\u0113",
+            "suum",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "9. Sextus: \"Laudor \u0101 magistr\u014d me\u014d.\" Sextus d\u012bcit '# laud#\u0101 magistr\u014d #.'",
+        "a": [
+            "s\u0113",
+            "\u0101r\u012b",
+            "su\u014d"
+        ]
+    },
+    {
+        "q": "10. Servus: \"Domin\u014d me\u014d p\u0101re\u014d.\" Servus d\u012bcit '# domin\u014d # p\u0101r#.'",
+        "a": [
+            "s\u0113",
+            "su\u014d",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "11. L\u0233dia: \"Cum am\u012bc\u014d me\u014d profic\u012bscor.\" L\u0233dia d\u012bcit '# cum am\u012bc\u014d # profic\u012bsc#.' ",
+        "a": [
+            "s\u0113",
+            "su\u014d",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "12. M\u012blit\u0113s: \"N\u014ds patriam nostram d\u0113fendimus.\" M\u012blit\u0113s d\u012bcunt '# patriam # d\u0113fend#.'",
+        "a": [
+            "s\u0113",
+            "suam",
+            "ere"
+        ]
+    }
+]

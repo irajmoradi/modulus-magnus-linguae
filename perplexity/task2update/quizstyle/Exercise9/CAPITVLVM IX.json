@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. N\u014dm.\tv\u012bll|#\t\tv\u012bll|#",
+        "a": [
+            "a",
+            "ae"
+        ]
+    },
+    {
+        "q": "2. Acc. \t\tv\u012bll|#\t\tv\u012bll|#",
+        "a": [
+            "am",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "3. Gen. \tv\u012bll|#  \t\tv\u012bll|#",
+        "a": [
+            "ae",
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "4. Dat.\t\tv\u012bll|#\t\tv\u012bll|#",
+        "a": [
+            "ae",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "5. Abl. \t\tv\u012bll|#\t\tv\u012bll|#",
+        "a": [
+            "\u0101",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. 'V\u012bll|a' # singul\u0101ris est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'V\u012bll|\u0101' # singul\u0101ris est.",
+        "a": [
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'V\u012bll|ae' # aut # singul\u0101ris est aut # pl\u016br\u0101lis.",
+        "a": [
+            "genet\u012bvus",
+            "dat\u012bvus",
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "9. 'V\u012bll|am' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "10. 'V\u012bll|\u0101rum' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "11. 'V\u012bll|\u0101s' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "12. 'V\u012bll|\u012bs' # aut # # est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    }
+]

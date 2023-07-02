@@ -1,0 +1,151 @@
+[
+    {
+        "q": "1. \u012anf\u012bn\u012bt\u012bvus: praes\u0113ns: voc\u0101|re, perfectum: #|isse;",
+        "a": [
+            "voc\u0101v"
+        ]
+    },
+    {
+        "q": "praes\u0113ns: p\u0101r\u0113|re, perfectum: #|isse;",
+        "a": [
+            "p\u0101ru"
+        ]
+    },
+    {
+        "q": "praes\u0113ns: scr\u012bb|ere, perfectum: #|isse;",
+        "a": [
+            "scr\u012bps"
+        ]
+    },
+    {
+        "q": "praes\u0113ns: aud\u012b|re, perfectum: #|isse.",
+        "a": [
+            "aud\u012bv"
+        ]
+    },
+    {
+        "q": "2. Pers\u014dnae perfect\u012b: singul\u0101ris: pers. 1 ~\u012b, 2 ~#, 3 ~#; pl\u016br\u0101lis: pers. 1 ~#, 2 ~#, 3 ~#.",
+        "a": [
+            "ist\u012b",
+            "it",
+            "imus",
+            "istis",
+            "\u0113runt"
+        ]
+    },
+    {
+        "q": "3. Pers.1  \tvoc\u0101v#\t\tvoc\u0101v#\t\tp\u0101ru#\t\tp\u0101ru#",
+        "a": [
+            "\u012b",
+            "imus",
+            "\u012b",
+            "imus"
+        ]
+    },
+    {
+        "q": "4. Pers.2\tvoc\u0101v#\tvoc\u0101v#\t\tp\u0101ru#\t\tp\u0101ru#",
+        "a": [
+            "ist\u012b",
+            "istis",
+            "ist\u012b",
+            "istis"
+        ]
+    },
+    {
+        "q": "5. Pers.3\tvoc\u0101v#\t\tvoc\u0101v#\t\tp\u0101ru#\t\tp\u0101ru#",
+        "a": [
+            "it",
+            "\u0113runt",
+            "it",
+            "\u0113runt"
+        ]
+    },
+    {
+        "q": "6. Pers.1\tscr\u012bps#\t\tscr\u012bps#\t\taud\u012bv#\t\taud\u012bv#",
+        "a": [
+            "\u012b",
+            "imus",
+            "\u012b",
+            "imus"
+        ]
+    },
+    {
+        "q": "7. Pers.2\tscr\u012bps#\tscr\u012bps#\t\taud\u012bv#\taud\u012bv#",
+        "a": [
+            "ist\u012b",
+            "istis",
+            "ist\u012b",
+            "istis"
+        ]
+    },
+    {
+        "q": "8. Pers.3\tscr\u012bps#\t\tscr\u012bps#\t\taud\u012bv#\t\taud\u012bv#",
+        "a": [
+            "it",
+            "\u0113runt",
+            "it",
+            "\u0113runt"
+        ]
+    },
+    {
+        "q": "9. \u012anf\u012bn\u012bt\u012bvus: praes\u0113ns: voc\u0101|r\u012b, perfectum: #um esse;",
+        "a": [
+            "voc\u0101t"
+        ]
+    },
+    {
+        "q": "praes\u0113ns: aud\u012b|r\u012b, perfectum: #um esse.",
+        "a": [
+            "aud\u012bt"
+        ]
+    },
+    {
+        "q": "10. Pers.1\tvoc\u0101tus #\tvoc\u0101t# #\taud\u012bt# #\taud\u012bt# #\t\t\t",
+        "a": [
+            "sum",
+            "\u012b",
+            "sumus",
+            "us",
+            "sum",
+            "\u012b",
+            "sumus"
+        ]
+    },
+    {
+        "q": "11. Pers.2\tvoc\u0101t# #\tvoc\u0101t# #\taud\u012bt# #\taud\u012bt# #\t",
+        "a": [
+            "us",
+            "es",
+            "\u012b",
+            "estis",
+            "us",
+            "es",
+            "\u012b",
+            "estis"
+        ]
+    },
+    {
+        "q": "12. Pers.3\tvoc\u0101t# #\tvoc\u0101t# #\taud\u012bt# #\taud\u012bt# #",
+        "a": [
+            "us",
+            "est",
+            "\u012b",
+            "sunt",
+            "us",
+            "est",
+            "\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "13. Participium perfect\u012b: n\u014dm. sing.: masc. voc#, aud#, f\u0113m. voc#, aud#, neutr. voc#, aud#.",
+        "a": [
+            "\u0101tus",
+            "\u012btus",
+            "\u0101ta",
+            "\u012bta",
+            "\u0101tum",
+            "\u012btum"
+        ]
+    }
+]

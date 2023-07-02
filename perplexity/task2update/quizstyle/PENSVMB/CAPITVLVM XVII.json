@@ -1,0 +1,99 @@
+[
+    {
+        "a": [
+            "discit",
+            "docet"
+        ],
+        "q": "Discipulus est puer qu\u012b #. Vir qu\u012b puer\u014ds # magister est."
+    },
+    {
+        "a": [
+            "doctus",
+            "scit",
+            "nesciunt"
+        ],
+        "q": "Magister est vir # qu\u012b mult\u0101s r\u0113s # qu\u0101s puer\u012b #."
+    },
+    {
+        "a": [
+            "pr\u016bd\u0113ns",
+            "industrius"
+        ],
+        "q": "Sextus nec stultus nec piger, sed # atque # est."
+    },
+    {
+        "a": [
+            "tollit"
+        ],
+        "q": "Magister interrogat, discipulus qu\u012b respond\u0113re potest manum #."
+    },
+    {
+        "a": [
+            "oportet"
+        ],
+        "q": "N\u014dn # respond\u0113re antequam magister interrogat."
+    },
+    {
+        "a": [
+            "D\u012bc",
+            "\u016bsque"
+        ],
+        "q": "Magister: \"# numer\u014ds \u0101 decem # ad centum!\""
+    },
+    {
+        "a": [
+            "Quisque",
+            "postr\u0113m\u014d"
+        ],
+        "q": "# puer manum tollit, primum Sextus, deinde Titus, # M\u0101rcus."
+    },
+    {
+        "a": [
+            "r\u0113ct\u0113",
+            "laudat"
+        ],
+        "q": "Sextus numer\u014ds d\u012bcit: \"XI, XII... XIX, XX, XXX, XL... XC, C.\" Sextus bonus discipulus est, qu\u012b semper # respondet; itaque magister eum #."
+    },
+    {
+        "a": [
+            "pr\u0101v\u0113",
+            "reprehenditur",
+            "Numquam",
+            "c\u014dgit\u0101s"
+        ],
+        "q": "M\u0101rcus, qu\u012b semper # respondet, \u0101 magistr\u014d #: \"# [<> semper] r\u0113ct\u0113 respond\u0113s, M\u0101rce! C\u016br n\u014dn # antequam respond\u0113s?\""
+    },
+    {
+        "a": [
+            "saepe"
+        ],
+        "q": "M\u0101rcus: \"C\u016br Titum n\u014dn interrog\u0101s? Is n\u014dn tam # interrog\u0101tur quam ego.\""
+    },
+    {
+        "a": [
+            "certus",
+            "incertus",
+            "resp\u014dnsum"
+        ],
+        "q": "Magister: \"Iam eum interrog\u014d: quot sunt XXI et LXVIII?\" Titus: \"LXXXVII? an LXXXVIII?\" Titus n\u014dn #, sed # est ac magistr\u014d # incertum dat."
+    },
+    {
+        "a": [
+            "quamquam"
+        ],
+        "q": "Sextus v\u0113r\u014d r\u0113ct\u0113 respondet, # difficile est id quod interrog\u0101tur."
+    },
+    {
+        "a": [
+            "facile"
+        ],
+        "q": "Quod M\u0101rcus interrog\u0101tur n\u014dn difficile, sed # est."
+    },
+    {
+        "a": [
+            "d\u0113n\u0101rius",
+            "ass\u0113s"
+        ],
+        "q": "\u016anus # est IV s\u0113sterti\u012b, \u016bnus s\u0113stertius IV #."
+    }
+]

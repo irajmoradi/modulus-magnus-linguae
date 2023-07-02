@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Via Appia long# et l\u0101t# est quam via Lat\u012bna.",
+        "a": [
+            "ior",
+            "ior"
+        ]
+    },
+    {
+        "q": "2. Multae viae long# et l\u0101t# sunt quam via Lat\u012bna.",
+        "a": [
+            "i\u014dr\u0113s",
+            "i\u014dr\u0113s"
+        ]
+    },
+    {
+        "q": "3. Saccus Syr\u012b lev# est quam saccus L\u0113andr\u012b.",
+        "a": [
+            "ior"
+        ]
+    },
+    {
+        "q": "4. Syrus saccum lev# portat quam L\u0113ander.",
+        "a": [
+            "i\u014drem"
+        ]
+    },
+    {
+        "q": "5. In sacc\u014d lev# sunt pira. \t",
+        "a": [
+            "i\u014dre"
+        ]
+    },
+    {
+        "q": "6. 'I\u016blius' n\u014dmen brev# est quam 'Corn\u0113lius'.",
+        "a": [
+            "ius"
+        ]
+    },
+    {
+        "q": "7. Litterae Graecae n\u014dmina long# habent quam Lat\u012bnae.",
+        "a": [
+            "i\u014dra"
+        ]
+    },
+    {
+        "q": "8. R\u014dm\u0101n\u012b p\u012bl\u012bs brev# et lev# pugnant quam Germ\u0101n\u012b.",
+        "a": [
+            "i\u014dribus",
+            "i\u014dribus"
+        ]
+    },
+    {
+        "q": "9. M\u012blit\u0113s R\u014dm\u0101n\u012b fort# sunt quam Germ\u0101n\u012b et duc\u012b fort# p\u0101rent quam ill\u012b.",
+        "a": [
+            "i\u014dr\u0113s",
+            "i\u014dr\u012b"
+        ]
+    },
+    {
+        "q": "10. Dux R\u014dm\u0101nus fort# est quam dux Germ\u0101n\u014drum et m\u012blitibus fort# imperat quam ille.",
+        "a": [
+            "ior",
+            "i\u014dribus"
+        ]
+    },
+    {
+        "q": "11. Corn\u0113lius equum f\u014drm\u014ds# habet quam I\u016blius; Corn\u0113lius dominus equ\u012b f\u014drm\u014ds# est.",
+        "a": [
+            "i\u014drem",
+            "i\u014dris"
+        ]
+    },
+    {
+        "q": "12. \u014crn\u0101menta f\u0113minam pulchram pulchr# facere possunt.",
+        "a": [
+            "i\u014drem"
+        ]
+    },
+    {
+        "q": "13. Quod \u014drn\u0101mentum pulchr# est quam \u0101nulus gemm\u0101tus?",
+        "a": [
+            "ius"
+        ]
+    }
+]

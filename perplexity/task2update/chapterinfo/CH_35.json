@@ -1,0 +1,553 @@
+{
+    "id": 34,
+    "name": "CAPITVLVM XXXV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Part\u0113s # sunt: n\u014dmen, pr\u014dn\u014dmen, verbum, adverbium, # [< coniungere], praepositi\u014d, #.",
+                    "a": [
+                        "\u014dr\u0101ti\u014dnis",
+                        "coni\u016bncti\u014d",
+                        "interiecti\u014d"
+                    ]
+                },
+                {
+                    "q": "2. 'Corn\u0113lius', 'Capua', 'Aetna' sunt n\u014dmina #, 'vir', 'oppidum', 'm\u014dns' n\u014dmina # sunt.",
+                    "a": [
+                        "propria",
+                        "appell\u0101t\u012bva"
+                    ]
+                },
+                {
+                    "q": "3. # est vir qu\u012b - aut f\u0113mina quae - di\u012bs servit.",
+                    "a": [
+                        "Sacerd\u014ds"
+                    ]
+                },
+                {
+                    "q": "4. Adiect\u012bva quae # [< qu\u0101lis] significant n\u014dn modo d\u0113cl\u012bn\u0101r\u012b, sed etiam # possunt, ut 'celer', 'celerior', 'celerrimus' ",
+                    "a": [
+                        "qu\u0101lit\u0101tem",
+                        "compar\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "5. # compar\u0101ti\u014dnis sunt: #, compar\u0101t\u012bvus, superl\u0101t\u012bvus.",
+                    "a": [
+                        "Grad\u016bs",
+                        "posit\u012bvus"
+                    ]
+                },
+                {
+                    "q": "6. # n\u014dminum sunt mascul\u012bnum, f\u0113min\u012bnum, neutrum.",
+                    "a": [
+                        "Genera"
+                    ]
+                },
+                {
+                    "q": "7. N\u014dmin\u0101t\u012bvus, acc\u016bs\u0101t\u012bvus, genet\u012bvus, c\u0113t. sunt # n\u014dminum.",
+                    "a": [
+                        "c\u0101s\u016bs"
+                    ]
+                },
+                {
+                    "q": "8. 'Ego', 't\u016b', 'n\u014ds', 'v\u014ds' sunt pr\u014dn\u014dmina #.",
+                    "a": [
+                        "pers\u014dn\u0101lia"
+                    ]
+                },
+                {
+                    "q": "9. 'Meus', 'tuus', 'suus', 'noster', 'vester' pr\u014dn\u014dmina # sunt.",
+                    "a": [
+                        "possess\u012bva"
+                    ]
+                },
+                {
+                    "q": "10. 'Hic', 'iste', 'ille', 'ipse' pr\u014dn\u014dmina # sunt.",
+                    "a": [
+                        "d\u0113m\u014dnstr\u0101t\u012bva"
+                    ]
+                },
+                {
+                    "q": "11. ... 'qu\u012b quae quod' est pr\u014dn\u014dmen #.",
+                    "a": [
+                        "rel\u0101t\u012bvum"
+                    ]
+                },
+                {
+                    "q": "12. 'Quis?' et 'uter?' sunt pr\u014dn\u014dmina #.",
+                    "a": [
+                        "interrog\u0101t\u012bva"
+                    ]
+                },
+                {
+                    "q": "13. Difficile est pr\u014dn\u014dmen 'hic haec hoc' # [= d\u0113cl\u012bn\u0101re].",
+                    "a": [
+                        "\u012bnflectere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # verb\u014drum sunt indic\u0101t\u012bvus, coni\u016bnct\u012bvus, imper\u0101t\u012bvus, \u012bnf\u012bn\u012bt\u012bvus.",
+                    "a": [
+                        "Mod\u012b"
+                    ]
+                },
+                {
+                    "q": "2. 'Loquor' est # pr\u012bma singul\u0101ris praesentis indic\u0101t\u012bv\u012b verb\u012b d\u0113p\u014dnentis; s\u012b -r # [<> additur], hoc verbum Lat\u012bnum n\u014dn est.",
+                    "a": [
+                        "pers\u014dna",
+                        "d\u0113mitur"
+                    ]
+                },
+                {
+                    "q": "3. Adverbium verb\u014d adicitur et # [< signific\u0101re] eius # [= pl\u0101num facit].",
+                    "a": [
+                        "signific\u0101ti\u014dnem",
+                        "expl\u0101nat"
+                    ]
+                },
+                {
+                    "q": "4. 'Et' coni\u016bncti\u014d est # [< c\u014dpul\u0101re], 'aut' # [< disiungere], 'quia' # [< causa].",
+                    "a": [
+                        "c\u014dpul\u0101t\u012bva",
+                        "disi\u016bnct\u012bva",
+                        "caus\u0101lis"
+                    ]
+                },
+                {
+                    "q": "5. 'Ab', 'cum', 'd\u0113', 'ex', 'prae', 'pr\u014d', 'sine' sunt # cas\u016bs abl\u0101t\u012bv\u012b.",
+                    "a": [
+                        "praepositi\u014dn\u0113s"
+                    ]
+                },
+                {
+                    "q": "6. 'In' iungitur acc\u016bs\u0101t\u012bv\u014d # [= cum] \u2018n\u014ds in locum \u012bre\u2019 d\u012bcimus.",
+                    "a": [
+                        "quand\u014d"
+                    ]
+                },
+                {
+                    "q": "7. Corn\u0113lius # Sol\u014dnis facit [= Sol\u014dnem memorat].",
+                    "a": [
+                        "menti\u014dnem"
+                    ]
+                },
+                {
+                    "q": "8. Odium et amor sunt mentis # contr\u0101ri\u012b; # est affectus eius qu\u012b \u012br\u0101tus est, # eius qu\u012b adm\u012br\u0101tur.",
+                    "a": [
+                        "affect\u016bs",
+                        "\u012bra",
+                        "adm\u012br\u0101ti\u014d"
+                    ]
+                },
+                {
+                    "q": "9. Numer\u014d pl\u016br\u0101l\u012b c\u0101sibus dat\u012bv\u014d et abl\u0101t\u012bv\u014d f\u014drmae # sunt.",
+                    "a": [
+                        "simil\u0113s"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. N\u014dmina d\u012bviduntur in V #, qu\u0101rum genet\u012bvus singul\u0101ris d\u0113sinit in [1] -#, [2] -#, [3] -#, [4] -#, [5] -#.  ",
+                    "a": [
+                        "d\u0113cl\u012bn\u0101ti\u014dn\u0113s",
+                        "ae",
+                        "\u012b",
+                        "is",
+                        "\u016bs",
+                        "\u0113\u012b"
+                    ]
+                },
+                {
+                    "q": "2. D\u0113cl\u012bn\u0101 haec n\u014dmina: via, annus, \u014dvum, le\u014d, pars, \u014ds, lacus, r\u0113s!",
+                    "a": []
+                },
+                {
+                    "q": "3. Verba in IV # d\u012bviduntur, qu\u0101rum \u012bnf\u012bn\u012bt\u012bvus (praes. \u0101ct.) d\u0113sinit in [1] -#, [2] -#, [3] -#, [4] -#. ",
+                    "a": [
+                        "coniug\u0101ti\u014dn\u0113s",
+                        "\u0101re",
+                        "\u0113re",
+                        "ere",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "4. D\u0113cl\u012bn\u0101 haec verba: laud\u014d, claud\u014d, aude\u014d, audi\u014d, n\u016bnti\u014d, rapi\u014d!",
+                    "a": []
+                },
+                {
+                    "q": "5. Adverbia, praepositi\u014dn\u0113s, coni\u016bncti\u014dn\u0113s, interiecti\u014dn\u0113s sunt part\u0113s \u014dr\u0101ti\u014dnis # [= quae n\u014dn d\u0113cl\u012bnantur]; sed multa adverbia comparantur, ut celeriter, celer#, celer#.",
+                    "a": [
+                        "ind\u0113cl\u012bn\u0101bil\u0113s",
+                        "ius",
+                        "rim\u0113"
+                    ]
+                },
+                {
+                    "q": "6. Voc\u0101bula quae idem significant # vocantur, ut 'f\u0113mina' et 'mulier', 'gladius' et '\u0113nsis', '\u014dr\u0101re' et 'rog\u0101re', 'fortasse' et ",
+                    "a": [
+                        "syn\u014dnyma"
+                    ]
+                },
+                {
+                    "q": "'#'.",
+                    "a": [
+                        "forsitan"
+                    ]
+                },
+                {
+                    "q": "7. Verba an\u014dmala [= quae exempl\u012bs n\u014dn conveniunt]: d\u0113mere, #isse, #um esse; adicere, ad#isse, ad#um esse.",
+                    "a": [
+                        "d\u0113mps",
+                        "d\u0113mpt",
+                        "i\u0113c",
+                        "iect"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "a",
+                        "anc",
+                        "am",
+                        "uius",
+                        "ae",
+                        "uic",
+                        "ae",
+                        "\u0101c",
+                        "\u0101"
+                    ],
+                    "q": "D\u0113cl\u012bn\u0101 haec voc\u0101bula: [1] \u0101la, n\u014dmen f\u0113min\u012bnum I d\u0113cl\u012bn\u0101ti\u014dnis: Singul\u0101ris: n\u014dm. haec \u0101l#, acc. h# \u0101l#, gen. h# \u0101l#, dat. h# \u0101l#, abl. h# \u0101l#. "
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "\u0101s",
+                        "\u0101s",
+                        "\u0101rum",
+                        "\u0101rum",
+                        "\u012bs",
+                        "\u012bs",
+                        "\u012bs",
+                        "\u012bs"
+                    ],
+                    "q": "Pl\u016br\u0101lis: n\u014dm. h# \u0101l#, acc. h# \u0101l#, gen. h# \u0101l#, dat. h# \u0101l#, abl. h# \u0101l#. "
+                },
+                {
+                    "a": [
+                        "ic",
+                        "unc",
+                        "em",
+                        "uius",
+                        "is",
+                        "uic",
+                        "\u012b",
+                        "\u014dc",
+                        "e"
+                    ],
+                    "q": "[2] p\u0113s, n\u014dmen mascul\u012bnum III d\u0113cl\u012bn\u0101ti\u014dnis: Singul\u0101ris: n\u014dm. h# p\u0113s, acc. h# ped#, gen. h# ped#, dat. h# ped#, abl. h# ped#. "
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u0113s",
+                        "\u014ds",
+                        "\u0113s",
+                        "\u014drum",
+                        "um",
+                        "\u012bs",
+                        "ibus",
+                        "\u012bs",
+                        "ibus"
+                    ],
+                    "q": "Pl\u016br\u0101lis: n\u014dm. h# ped#, acc. h# ped#, gen. h# ped#, dat. h# ped#, abl. h# ped#."
+                },
+                {
+                    "a": [
+                        "\u014d",
+                        "\u0101bam",
+                        "\u0101b\u014d",
+                        "\u012b",
+                        "eram",
+                        "er\u014d"
+                    ],
+                    "q": "[3] \u014dr\u0101re, verbum \u0101ct\u012bvum I coniug\u0101ti\u014dnis (pers. I sing.): Indic\u0101t\u012bvus: praes. \u014dr#, imperf. \u014dr#, fut. \u014dr#, perf. \u014dr\u0101v#, pl\u016bsquamperf. \u014dr\u0101v#, fut. perf. \u014dr\u0101v#.  "
+                },
+                {
+                    "a": [
+                        "em",
+                        "\u0101rem",
+                        "erim",
+                        "issem"
+                    ],
+                    "q": "Coni\u016bnct\u012bvus: praes. \u014dr#, imperf. \u014dr#, perf. \u014dr\u0101v#, pl\u016bsquamperf. \u014dr\u0101v#."
+                },
+                {
+                    "a": [
+                        "\u014d",
+                        "\u0113bam",
+                        "am",
+                        "\u012b",
+                        "eram",
+                        "er\u014d"
+                    ],
+                    "q": "[4] d\u012bcere, verbum \u0101ct\u012bvum III coniug\u0101ti\u014dnis (pers. I sing.): Indic\u0101t\u012bvus: praes. d\u012bc#, imperf. d\u012bc#, fut. d\u012bc#, perf. d\u012bx#, pl\u016bsquamperf. d\u012bx#, fut. perf. d\u012bx#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "erem",
+                        "erim",
+                        "issem"
+                    ],
+                    "q": "Coni\u016bnct\u012bvus: praes. d\u012bc#, imperf. d\u012bc#, perf. d\u012bx#, pl\u016bsquamperf. d\u012bx#."
+                },
+                {
+                    "a": [
+                        "laes",
+                        "laes"
+                    ],
+                    "q": "Verba: laedere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "plaus",
+                        "plaus"
+                    ],
+                    "q": "plaudere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "peper",
+                        "part"
+                    ],
+                    "q": "parere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "tinu",
+                        "tent"
+                    ],
+                    "q": "retin\u0113re, re#isse, re#um;"
+                },
+                {
+                    "a": [
+                        "accend",
+                        "acc\u0113ns"
+                    ],
+                    "q": "accendere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "d\u0113mps",
+                        "d\u0113mpt"
+                    ],
+                    "q": "d\u0113mere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "i\u0113c",
+                        "iect"
+                    ],
+                    "q": "adicere, ad#isse, ad#um;"
+                },
+                {
+                    "a": [
+                        "s\u0113d"
+                    ],
+                    "q": "sed\u0113re, #isse;"
+                },
+                {
+                    "a": [
+                        "n\u016bps"
+                    ],
+                    "q": "n\u016bbere, #isse;"
+                },
+                {
+                    "a": [
+                        "sapi"
+                    ],
+                    "q": "sapere, #isse."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "\u014dr\u0101ti\u014dnis"
+                    ],
+                    "q": "N\u014dmen est pars # quae corpus aut rem significat."
+                },
+                {
+                    "a": [
+                        "propria",
+                        "appell\u0101t\u012bva"
+                    ],
+                    "q": "'Aemilia' et 'I\u016blia' n\u014dmina # sunt, 'm\u0101ter' et 'f\u012blia' sunt n\u014dmina #."
+                },
+                {
+                    "a": [
+                        "C\u0101s\u016bs"
+                    ],
+                    "q": "# n\u014dminum sunt n\u014dmin\u0101t\u012bvus, genet\u012bvus, c\u0113t."
+                },
+                {
+                    "a": [
+                        "compar\u0101ti\u014dnis",
+                        "posit\u012bvus"
+                    ],
+                    "q": "Grad\u016bs # sunt tr\u0113s: #, compar\u0101t\u012bvus, superl\u0101t\u012bvus."
+                },
+                {
+                    "a": [
+                        "qu\u0101lit\u0101tem"
+                    ],
+                    "q": "Adiect\u012bva quae comparantur # aut quantit\u0101tem significant."
+                },
+                {
+                    "a": [
+                        "coniug\u0101ti\u014dnis"
+                    ],
+                    "q": "'Am\u0101re' est verbum pr\u012bmae #."
+                },
+                {
+                    "a": [
+                        "affectum"
+                    ],
+                    "q": "Interiecti\u014d mentis #, ut laetitiam vel dol\u014drem, significat."
+                },
+                {
+                    "a": [
+                        "\u012ara"
+                    ],
+                    "q": "# est affectus eius qu\u012b \u012br\u0101tus est."
+                },
+                {
+                    "a": [
+                        "simil\u0113s"
+                    ],
+                    "q": "Fr\u0101tr\u0113s gemin\u012b tam # sunt quam \u014dva."
+                },
+                {
+                    "a": [
+                        "expl\u0101n\u0101re",
+                        "forsitan",
+                        "proptere\u0101",
+                        "cis",
+                        "\u0113n"
+                    ],
+                    "q": "Syn\u014dnyma (voc\u0101bula quae idem fer\u0113 significant): pl\u0101num facere et #, fortasse et #, ide\u014d et #, citr\u0101 et #, ecce et #."
+                },
+                {
+                    "a": [
+                        "proprius",
+                        "d\u0113mere"
+                    ],
+                    "q": "Contr\u0101ria (voc\u0101bula quae r\u0113s contr\u0101ri\u0101s significant): comm\u016bnis et #, addere et #."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae sunt part\u0113s \u014dr\u0101ti\u014dnis? ",
+                    "a": [
+                        "N\u014dmen, pr\u014dn\u014dmen, verbum, adverbium, (participium), coni\u016bncti\u014d, praepositi\u014d, interiecti\u014d"
+                    ]
+                },
+                {
+                    "q": "2. Estne 'discipulus' n\u014dmen proprium? ",
+                    "a": [
+                        "N\u014dmen appell\u0101t\u012byum est"
+                    ]
+                },
+                {
+                    "q": "3. C\u0101s\u016bs n\u014dminum qu\u012b sunt? ",
+                    "a": [
+                        "N\u014dmin\u0101t\u012bvus, acc\u016bs\u0101t\u012bvus, genet\u012bvus, dat\u012bvus, abl\u0101t\u012bvus, voc\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012b sunt grad\u016bs compar\u0101ti\u014dnis? ",
+                    "a": [
+                        "Posit\u012bvus, compar\u0101t\u012bvus, superl\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "5. Pr\u014dn\u014dmen quid est? ",
+                    "a": [
+                        "Pars \u014dr\u0101ti\u014dnis quae pr\u014d n\u014dmine p\u014dnitur"
+                    ]
+                },
+                {
+                    "q": "6. Quot sunt coniug\u0101ti\u014dn\u0113s verb\u014drum? ",
+                    "a": [
+                        "Sunt quattuor"
+                    ]
+                },
+                {
+                    "q": "7. Num 'intus' et 'for\u012bs' adverbia temporis sunt? ",
+                    "a": [
+                        "N\u014dn adverbia temporis, sed loc\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "8. Cui c\u0101su\u012b iungitur 'inter' praepositi\u014d? ",
+                    "a": [
+                        "Inter casu\u012b acc\u016bs\u0101t\u012bv\u014d iungitur"
+                    ]
+                },
+                {
+                    "q": "9. Quae praepositi\u014dn\u0113s abl\u0101t\u012bv\u014d iunguntur? ",
+                    "a": [
+                        "Praepositi\u014dn\u0113s ab/\u0101, cum, de, ex/\u0113, prae, pr\u014d, sine, c\u014dram"
+                    ]
+                },
+                {
+                    "q": "10. Quibus c\u0101sibus iungitur 'in' praepositi\u014d? ",
+                    "a": [
+                        "Abl\u0101t\u012bv\u014d aut acc\u016bs\u0101tiv\u014d"
+                    ]
+                },
+                {
+                    "q": "11. Interiecti\u014d quid significat? ",
+                    "a": [
+                        "Interecti\u014d significat metis affectum"
+                    ]
+                }
+            ]
+        }
+    ]
+}

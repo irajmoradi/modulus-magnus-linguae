@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. Puella pl\u014dr# [= quae pl\u014drat]; puellae pl\u014dr# [= quae pl\u014drant].",
+        "a": [
+            "\u0101ns",
+            "ant\u0113s"
+        ]
+    },
+    {
+        "q": "2. Puer r\u012bd# [= qu\u012b r\u012bdet]; puer\u012b r\u012bd# [= qu\u012b r\u012bdent]. ",
+        "a": [
+            "\u0113ns",
+            "ent\u0113s"
+        ]
+    },
+    {
+        "q": "3. Cor palpit# [= quod palpitat]; corda palpit# [= quae palpitant]. ",
+        "a": [
+            "\u0101ns",
+            "antia"
+        ]
+    },
+    {
+        "q": "4. Equus curr# [= qu\u012b currit]; equ\u012b curr# [= qu\u012b currunt].",
+        "a": [
+            "\u0113ns",
+            "ent\u0113s"
+        ]
+    },
+    {
+        "q": "5. P\u0101stor dorm# [= qu\u012b dormit]; p\u0101st\u014dr\u0113s dorm# [= qu\u012b dormiunt].",
+        "a": [
+            "i\u0113ns",
+            "ient\u0113s"
+        ]
+    },
+    {
+        "q": "6. Ovis err# [= quae errat]; ov\u0113s err# [= quae errant].",
+        "a": [
+            "\u0101ns",
+            "ant\u0113s"
+        ]
+    },
+    {
+        "q": "7. Canis l\u0101tr# [= qu\u012b l\u0101trat]; can\u0113s l\u0101tr# [= qu\u012b l\u0101trant].",
+        "a": [
+            "\u0101ns",
+            "ant\u0113s"
+        ]
+    },
+    {
+        "q": "8. Animal vol# [= quod volat]; anim\u0101lia vol# [= quae volant].",
+        "a": [
+            "\u0101ns",
+            "antia"
+        ]
+    },
+    {
+        "q": "9. St\u0113lla l\u016bc# [= quae l\u016bcet]; st\u0113llae l\u016bc# [= quae l\u016bcent].",
+        "a": [
+            "\u0113ns",
+            "ent\u0113s"
+        ]
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "q": "1. Servus puerum excit\u0101vit = # # # # #",
+        "a": [
+            "puer",
+            "\u0101|ab",
+            "serv\u014d",
+            "excit\u0101tus",
+            "est"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus I\u016bliam puls\u0101vit = # # # # #",
+        "a": [
+            "I\u016blia",
+            "\u0101|ab",
+            "M\u0101rc\u014d",
+            "puls\u0101ta",
+            "est"
+        ]
+    },
+    {
+        "q": "3. Domina ancill\u0101s voc\u0101vit = # # # # #",
+        "a": [
+            "ancillae",
+            "\u0101|ab",
+            "domin\u0101",
+            "voc\u0101tae",
+            "sunt"
+        ]
+    },
+    {
+        "q": "4. Dominus serv\u014ds interrog\u0101vit = # # # # #",
+        "a": [
+            "serv\u012b",
+            "\u0101|ab",
+            "domin\u014d",
+            "interrog\u0101t\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus D\u0101vum acc\u016bs\u0101vit = # # # # #",
+        "a": [
+            "D\u0101vus",
+            "\u0101|ab",
+            "M\u0113d\u014d",
+            "acc\u016bs\u0101tus",
+            "est"
+        ]
+    },
+    {
+        "q": "6. M\u0113dus v\u014dcem domin\u012b n\u014dn aud\u012bvit = # # # # # # #",
+        "a": [
+            "v\u014dx",
+            "domin\u012b",
+            "\u0101|ab",
+            "M\u0113d\u014d",
+            "aud\u012bta",
+            "n\u014dn",
+            "est"
+        ]
+    },
+    {
+        "q": "7. Magister litter\u0101s Sext\u012b laud\u0101vit = # # # # # #",
+        "a": [
+            "litterae",
+            "Sext\u012b",
+            "\u0101|ab",
+            "magistr\u014d",
+            "laud\u0101tae",
+            "sunt"
+        ]
+    },
+    {
+        "q": "8. Magister discipulum pigrum p\u016bn\u012bvit = # # # # # #",
+        "a": [
+            "discipulus",
+            "piger",
+            "\u0101|ab",
+            "magistr\u014d",
+            "p\u016bn\u012btus",
+            "est"
+        ]
+    },
+    {
+        "q": "9. R\u014dm\u0101n\u012b oppidum hostium expugn\u0101v\u0113runt = # # # # # #",
+        "a": [
+            "oppidum",
+            "hostium",
+            "\u0101|ab",
+            "R\u014dm\u0101n\u012bs",
+            "expugn\u0101tum",
+            "est"
+        ]
+    },
+    {
+        "q": "10. Host\u0113s castra R\u014dm\u0101na oppugn\u0101v\u0113runt = # # # # # #",
+        "a": [
+            "castra",
+            "R\u014dm\u0101na",
+            "ab",
+            "hostibus",
+            "oppugn\u0101ta",
+            "sunt"
+        ]
+    },
+    {
+        "q": "11. Verba I\u016bli\u012b Aemiliam d\u0113lect\u0101v\u0113runt = # # # # # ",
+        "a": [
+            "Aemilia",
+            "verb\u012bs",
+            "I\u016bli\u012b",
+            "d\u0113lect\u0101ta",
+            "est"
+        ]
+    },
+    {
+        "q": "12. Fulgur caelum ill\u016bstr\u0101vit = # # # #",
+        "a": [
+            "caelum",
+            "fulgure",
+            "ill\u016bstr\u0101tum",
+            "est"
+        ]
+    },
+    {
+        "q": "13. Puer\u012b I\u016bliam voc\u0101v\u0113runt nec ab e\u0101 aud\u012bt\u012b sunt = # # # # # # # #",
+        "a": [
+            "I\u016blia",
+            "\u0101|ab",
+            "puer\u012bs",
+            "voc\u0101ta",
+            "est",
+            "nec|neque",
+            "e\u014ds",
+            "aud\u012bvit"
+        ]
+    },
+    {
+        "q": "14. Puer\u012b \u0101 I\u016bli\u0101 voc\u0101t\u012b sunt nec eam aud\u012bv\u0113runt = # # # # # # # #",
+        "a": [
+            "I\u016blia",
+            "puer\u014ds",
+            "voc\u0101vit",
+            "nec|neque",
+            "ab",
+            "i\u012bs|e\u012bs",
+            "aud\u012bta",
+            "est"
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Ambulatne I\u016blius? ",
+        "a": [
+            "N\u014dn ambulat, lect\u012bc\u0101 vehitur"
+        ]
+    },
+    {
+        "q": "2. Qu\u012b I\u016blium portant? ",
+        "a": [
+            "D\u0101vus et Ursus I\u016blium portant"
+        ]
+    },
+    {
+        "q": "3. Quid portant Syrus et L\u0113ander? ",
+        "a": [
+            "Syrus et L\u0113ander sacc\u014ds portant"
+        ]
+    },
+    {
+        "q": "4. Unde venit I\u016blius et qu\u014d it? ",
+        "a": [
+            "I\u016blius T\u016bscul\u014d venit et ad v\u012bllam suam it"
+        ]
+    },
+    {
+        "q": "5. Qu\u014d it M\u0113dus? ",
+        "a": [
+            "M\u0113dus R\u014dmam it"
+        ]
+    },
+    {
+        "q": "6. Etiamne Corn\u0113lius T\u016bscul\u014d R\u014dmam it? ",
+        "a": [
+            "Corn\u0113lius n\u014dn T\u016bscul\u014d R\u014dmam, sed R\u014dm\u0101 T\u016bsculum it"
+        ]
+    },
+    {
+        "q": "7. Ubi habitat Corn\u0113lius? ",
+        "a": [
+            "Corn\u0113lius T\u016bscul\u012b habitat"
+        ]
+    },
+    {
+        "q": "8. C\u016br M\u0113dus laetus est? ",
+        "a": [
+            "M\u0113dus laetus est, quia R\u014dmae am\u012bcam habet"
+        ]
+    },
+    {
+        "q": "9. Quae est L\u0233dia? ",
+        "a": [
+            "L\u0233dia est am\u012bca M\u0113d\u012b"
+        ]
+    },
+    {
+        "q": "10. Quid habet M\u0113dus in saccul\u014d su\u014d? ",
+        "a": [
+            "In saccul\u014d su\u014d M\u0113dus numm\u014ds domin\u012b habet"
+        ]
+    },
+    {
+        "q": "11. Suntne am\u012bc\u012b I\u016blius et M\u0113dus? ",
+        "a": [
+            "I\u016blius et M\u0113dus n\u014dn am\u012bc\u012b, sed inim\u012bc\u012b sunt"
+        ]
+    },
+    {
+        "q": "12. Num 'portat' verbum pass\u012bvum est? ",
+        "a": [
+            "Portat n\u014dn est verbum pass\u012bvum. sed \u0101ct\u012bvum"
+        ]
+    }
+]

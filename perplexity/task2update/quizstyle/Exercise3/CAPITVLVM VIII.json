@@ -1,0 +1,58 @@
+[
+    {
+        "q": "1. I\u016blius D\u0101v\u014d nummum dat = D\u0101vus # # # #",
+        "a": [
+            "nummum",
+            "accipit",
+            "\u0101|ab",
+            "I\u016bli\u014d"
+        ]
+    },
+    {
+        "q": "2. Aemilia \u0101nulum accipit \u0101 I\u016bli\u014d = # # # #",
+        "a": [
+            "I\u016blius",
+            "Aemiliae",
+            "\u0101nulum",
+            "dat"
+        ]
+    },
+    {
+        "q": "3. Vir\u012b f\u0113min\u012bs \u014drn\u0101menta dant = # # # # #",
+        "a": [
+            "f\u0113minae",
+            "\u014drn\u0101menta",
+            "accipiunt",
+            "\u0101|ab",
+            "vir\u012bs"
+        ]
+    },
+    {
+        "q": "4. Servus m\u0101lum accipit \u0101 domin\u014d = # # # #",
+        "a": [
+            "dominus",
+            "serv\u014d",
+            "m\u0101lum",
+            "dat"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus L\u0233diae rosam dat = # # # # #",
+        "a": [
+            "L\u0233dia",
+            "rosam",
+            "accipit",
+            "\u0101|ab",
+            "M\u0113d\u014d"
+        ]
+    },
+    {
+        "q": "6. Serv\u012b numm\u014ds accipiunt \u0101 domin\u014d = # # # #",
+        "a": [
+            "dominus",
+            "serv\u012bs",
+            "numm\u014ds",
+            "dat"
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "q": "1. I\u016blius pater M\u0101rc\u012b est: 'M\u0101rc|\u012b' # est.",
+        "a": [
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "2. I\u016blius pater I\u016bliae est: 'Iuli|ae' quoque # est.",
+        "a": [
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "3. I\u016blius dominus serv\u012b est: 'serv|\u012b' # singul\u0101ris est.",
+        "a": [
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "4. I\u016blius dominus serv\u014drum est: 'serv|\u014drum' est # #. ",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "5. Aemilia domina ancillae est: 'ancill|ae' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "6. Aemilia domina ancill\u0101rum est: 'ancill|\u0101rum' est # #. ",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "7. Titulus capitul\u012b est 'FAMILIA ROMANA': 'capitul|\u012b' # # est. ",
+        "a": [
+            "genet\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "8. Numerus capitul\u014drum magnus est: 'capitul|\u014drum' est # #.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "9. Genet\u012bvus: singul\u0101ris: serv#, pl\u016br\u0101lis: serv#.",
+        "a": [
+            "\u012b",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "10. Genet\u012bvus: singul\u0101ris: ancill#, pl\u016br\u0101lis: ancill#.",
+        "a": [
+            "ae",
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "11. Genet\u012bvus: singul\u0101ris: capitul#, pl\u016br\u0101lis: capitul#.",
+        "a": [
+            "\u012b",
+            "\u014drum"
+        ]
+    }
+]

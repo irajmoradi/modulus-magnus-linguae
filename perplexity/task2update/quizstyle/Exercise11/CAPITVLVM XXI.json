@@ -1,0 +1,60 @@
+[
+    {
+        "q": "1. M\u0101rcus in \u0101trium redit, # vestem m\u016bt\u0101vit.",
+        "a": [
+            "postquam"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus: \u201cMagister # [= mult\u0101s r\u0113s] n\u014ds docuit; pr\u012bmum # recit\u0101vit, nesci\u014d quid.\u201d",
+        "a": [
+            "multa",
+            "aliquid"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus parentibus # [= parvam tabulam] ostendit, quam \u2018suam esse\u2019 d\u012bcit.",
+        "a": [
+            "tabellam"
+        ]
+    },
+    {
+        "q": "4. Tabella v\u0113r\u014d Sext\u012b est, M\u0101rcus enim tabell\u0101s m\u016bt\u0101vit # pugnam.",
+        "a": [
+            "inter"
+        ]
+    },
+    {
+        "q": "5. N\u014dn v\u0113rum, sed # est id quod M\u0101rcus d\u012bcit: puer #.",
+        "a": [
+            "falsum",
+            "ment\u012btur"
+        ]
+    },
+    {
+        "q": "6. M\u0101ter f\u012bli\u014d su\u014d #, sed pater d\u0113 verb\u012bs eius #.",
+        "a": [
+            "cr\u0113dit",
+            "dubitat"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus patrem suum # n\u014dn potest.",
+        "a": [
+            "fallere"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \u201cFalsa sunt # [= omn\u0113s r\u0113s] quae # n\u0101rr\u0101vist\u012b!\u201d",
+        "a": [
+            "omnia",
+            "n\u014db\u012bs"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus: \u201cOmnia quae # n\u0101rr\u0101v\u012b, pater et m\u0101ter, v\u0113ra sunt!\u201d",
+        "a": [
+            "v\u014db\u012bs"
+        ]
+    }
+]

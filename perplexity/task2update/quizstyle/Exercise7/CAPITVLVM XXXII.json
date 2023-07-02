@@ -1,0 +1,44 @@
+[
+    {
+        "q": "1. N\u014dl\u012b pl\u014dr\u0101re! = # #!",
+        "a": [
+            "n\u0113",
+            "pl\u014dr\u0101veris"
+        ]
+    },
+    {
+        "q": "2. N\u014dl\u012bte cl\u0101m\u0101re! = # #!",
+        "a": [
+            "n\u0113",
+            "cl\u0101m\u0101veritis"
+        ]
+    },
+    {
+        "q": "3. N\u014dl\u012bte tim\u0113re! = # #!",
+        "a": [
+            "n\u0113",
+            "timueritis"
+        ]
+    },
+    {
+        "q": "4. N\u014dl\u012b f\u016brtum facere! = # f\u016brtum #!",
+        "a": [
+            "n\u0113",
+            "f\u0113ceris"
+        ]
+    },
+    {
+        "q": "5. N\u0113 f\u016bgeritis! = # #!",
+        "a": [
+            "n\u014dl\u012bte",
+            "fugere"
+        ]
+    },
+    {
+        "q": "6. N\u0113 m\u0113 rel\u012bqueris! = # m\u0113 #!",
+        "a": [
+            "n\u014dl\u012b",
+            "relinquere"
+        ]
+    }
+]

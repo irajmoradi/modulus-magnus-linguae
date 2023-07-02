@@ -1,0 +1,105 @@
+[
+    {
+        "q": "1. Syra I\u016bliam vocat = I\u016blia \u0101 Syr\u0101 voc#.",
+        "a": [
+            "\u0101tur"
+        ]
+    },
+    {
+        "q": "2. Syra I\u016bliam quaerit nec eam reperit = # # # # nec #.",
+        "a": [
+            "I\u016blia",
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaeritur",
+            "reper\u012btur"
+        ]
+    },
+    {
+        "q": "3. I\u016blia: \"Syra m\u0113 vocat\" = \"(Ego) # # #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "vocor"
+        ]
+    },
+    {
+        "q": "4. I\u016blia: \"Syra m\u0113 quaerit nec m\u0113 reperit\" = \"(Ego) # # # nec #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaeror",
+            "reperior"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus: \"Syra t\u0113 vocat\" = \"(T\u016b) # # #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "voc\u0101ris"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus: \"Syra t\u0113 quaerit nec t\u0113 reperit\" = \"(T\u016b) # # # nec #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaereris",
+            "reper\u012bris"
+        ]
+    },
+    {
+        "q": "7. Syra puer\u014ds vocat = # # # #.",
+        "a": [
+            "puer\u012b",
+            "\u0101|ab",
+            "Syr\u0101",
+            "vocantur"
+        ]
+    },
+    {
+        "q": "8. Syra puer\u014ds quaerit nec e\u014ds reperit = # # # # nec #.",
+        "a": [
+            "puer\u012b",
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaeruntur",
+            "reperiuntur"
+        ]
+    },
+    {
+        "q": "9. Puer\u012b: \"Syra n\u014ds vocat\" = \"(N\u014ds) # # #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "voc\u0101mur"
+        ]
+    },
+    {
+        "q": "10. Puer\u012b: \"Syra n\u014ds quaerit nec n\u014ds reperit\" = \"(N\u014ds) # # # nec #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaerimur",
+            "reper\u012bmur"
+        ]
+    },
+    {
+        "q": "11. I\u016blia: \"Syra v\u014ds vocat\" = \"(V\u014ds) # # #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "voc\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "12. I\u016blia: \"Syra v\u014ds quaerit nec v\u014ds reperit\" = \"(V\u014ds) # # # nec #.\"",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "quaerimin\u012b",
+            "reper\u012bmin\u012b"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "q": "1. Litterae et numer\u012b = # #.",
+        "a": [
+            "litterae",
+            "numer\u012bque"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus et Qu\u012bntus = # #.",
+        "a": [
+            "M\u0101rcus",
+            "Qu\u012bntusque"
+        ]
+    },
+    {
+        "q": "3. Puer\u012b et puellae = # #.",
+        "a": [
+            "puer\u012b",
+            "puellaeque"
+        ]
+    },
+    {
+        "q": "4. F\u0113minae puer\u012bque = # # #.",
+        "a": [
+            "f\u0113minae",
+            "et",
+            "puer\u012b"
+        ]
+    },
+    {
+        "q": "5. Serv\u012b ancillaeque = # # #.",
+        "a": [
+            "serv\u012b",
+            "et",
+            "ancillae"
+        ]
+    },
+    {
+        "q": "6. \u016ana f\u012blia duoque f\u012bli\u012b = # # # # #.",
+        "a": [
+            "\u016bna",
+            "f\u012blia",
+            "et",
+            "duo",
+            "f\u012bli\u012b"
+        ]
+    }
+]

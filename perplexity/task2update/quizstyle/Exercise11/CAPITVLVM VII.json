@@ -1,0 +1,71 @@
+[
+    {
+        "q": "1. 'Serv|\u014d', 'ancill|ae', 'oppid|\u014d', 'e|\u012b' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est. Etiam 'serv|\u012bs', 'ancill|\u012bs', 'oppid|\u012bs', 'i|\u012bs' # est.",
+        "a": [
+            "dat\u012bvus",
+            "dat\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Serv|\u014d', 'ancill|ae', 'oppid|\u014d', 'e|\u012b' est dat\u012bvus #.",
+        "a": [
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "3. 'Serv|\u012bs', 'ancill|\u012bs', 'oppid|\u012bs', 'i|\u012bs' n\u014dn # singul\u0101ris, sed # # est.",
+        "a": [
+            "dat\u012bvus",
+            "dat\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "4. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: servus, dat\u012bvus: serv#.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "5. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: serv\u012b, dat\u012bvus: serv#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: ancilla, dat\u012bvus: ancill#.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "7. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus ancillae, dat\u012bvus ancill#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "8. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: oppidum, dat\u012bvus: oppid#.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "9. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: oppida, dat\u012bvus: oppid#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: 'is' 'ea', dat\u012bvus: e#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "11. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: 'i\u012b' 'eae', dat\u012bvus: i#.",
+        "a": [
+            "\u012bs"
+        ]
+    }
+]

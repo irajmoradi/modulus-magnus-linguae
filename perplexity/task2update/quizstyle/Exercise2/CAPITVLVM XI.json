@@ -1,0 +1,137 @@
+[
+    {
+        "q": "1. In # h\u016bm\u0101n\u014d sunt quattuor #: duo # et duo #.",
+        "a": [
+            "corpore",
+            "membra",
+            "bracchia",
+            "cr\u016bra"
+        ]
+    },
+    {
+        "q": "2. In bracchi\u014d # est, in cr\u016bre p\u0113s.",
+        "a": [
+            "manus"
+        ]
+    },
+    {
+        "q": "3, In # sunt duo ocul\u012b, duae #, \u016bnus n\u0101sus, \u016bnum #.",
+        "a": [
+            "capite",
+            "aur\u0113s",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "4. \u014cs est inter duo #; in \u014dre sunt dent\u0113s et #.",
+        "a": [
+            "labra",
+            "lingua"
+        ]
+    },
+    {
+        "q": "5. Lingua et labra # sunt ut rosae.",
+        "a": [
+            "rubra"
+        ]
+    },
+    {
+        "q": "6. Supr\u0101 ocul\u014ds # est, # ocul\u014ds sunt #.",
+        "a": [
+            "fr\u014dns",
+            "\u012bnfr\u0101",
+            "genae"
+        ]
+    },
+    {
+        "q": "7. # caput capillus est.",
+        "a": [
+            "Super"
+        ]
+    },
+    {
+        "q": "8. # vir\u014drum n\u014dn tam longus est quam f\u0113min\u0101rum.",
+        "a": [
+            "Capillus"
+        ]
+    },
+    {
+        "q": "9. Qu\u012b ocul\u014ds bon\u014ds habet # videt.",
+        "a": [
+            "bene"
+        ]
+    },
+    {
+        "q": "10. Qu\u012b ocul\u014ds mal\u014ds habet # videt.",
+        "a": [
+            "male"
+        ]
+    },
+    {
+        "q": "11. \u012anfr\u0101 collum est #, in qu\u014d # et pulm\u014dn\u0113s sunt.",
+        "a": [
+            "pectus",
+            "cor"
+        ]
+    },
+    {
+        "q": "12. In corde est #, cuius # ruber est.",
+        "a": [
+            "sanguis",
+            "color"
+        ]
+    },
+    {
+        "q": "13. Sanguis per # ad cor #.",
+        "a": [
+            "v\u0113n\u0101s",
+            "fluit"
+        ]
+    },
+    {
+        "q": "14. \u012anfr\u0101 pulm\u014dn\u0113s est #, in qu\u014d cibus est.",
+        "a": [
+            "venter"
+        ]
+    },
+    {
+        "q": "15. Cor, pulm\u014dn\u0113s, #, venter sunt # h\u016bm\u0101na.",
+        "a": [
+            "iecur",
+            "viscera"
+        ]
+    },
+    {
+        "q": "16. Qu\u012b ventrem malum habet n\u014dn est #, sed #.",
+        "a": [
+            "s\u0101nus",
+            "aeger"
+        ]
+    },
+    {
+        "q": "17. # est vir qu\u012b homin\u0113s aegr\u014ds # [= s\u0101n\u014ds facit].",
+        "a": [
+            "Medicus",
+            "s\u0101nat"
+        ]
+    },
+    {
+        "q": "18. Aemilia apud lectum Qu\u012bnt\u012b #.",
+        "a": [
+            "sedet"
+        ]
+    },
+    {
+        "q": "19. Syra quoque adest, neque ea sedet, sed #.",
+        "a": [
+            "stat"
+        ]
+    },
+    {
+        "q": "20. M\u0101ter f\u012bli\u014d su\u014d aquam in # dat # [= et] f\u012blius aquam bibit.",
+        "a": [
+            "p\u014dcul\u014d",
+            "atque"
+        ]
+    }
+]

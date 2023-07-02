@@ -1,0 +1,47 @@
+[
+    {
+        "q": "1. Italia # Eur\u014dp\u0101 est; Graecia # in Eur\u014dp\u0101 est.",
+        "a": [
+            "in",
+            "quoque"
+        ]
+    },
+    {
+        "q": "2. Italia # Graecia in Eur\u014dp\u0101 sunt.",
+        "a": [
+            "et"
+        ]
+    },
+    {
+        "q": "3. Est# Arabia in Eur\u014dp\u0101? Arabia in Eur\u014dp\u0101 # est.",
+        "a": [
+            "ne",
+            "n\u014dn"
+        ]
+    },
+    {
+        "q": "4. # est Arabia? In Asi\u0101 est Arabia.",
+        "a": [
+            "Ubi"
+        ]
+    },
+    {
+        "q": "5. Arabia n\u014dn est in Eur\u014dp\u0101, # in Asi\u0101.",
+        "a": [
+            "sed"
+        ]
+    },
+    {
+        "q": "6. Germ\u0101nia # in Asi\u0101, # in Eur\u014dp\u0101 est.",
+        "a": [
+            "n\u014dn",
+            "sed"
+        ]
+    },
+    {
+        "q": "7. Rh\u0113nus est in Germ\u0101ni\u0101. Rh\u0113nus # est.",
+        "a": [
+            "fluvius"
+        ]
+    }
+]

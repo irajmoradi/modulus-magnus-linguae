@@ -1,0 +1,83 @@
+[
+    {
+        "q": "1. M\u0101rcus (ad Sextum et Titum): \"# magistrum n\u014dn sal\u016bt\u0101tis...\"",
+        "a": [
+            "V\u014ds"
+        ]
+    },
+    {
+        "q": "2. Sextus et Titus: \"Id # n\u014dn est: # magistrum sal\u016bt\u0101mus.\"",
+        "a": [
+            "v\u0113rum",
+            "n\u014ds"
+        ]
+    },
+    {
+        "q": "3. Magister: \"V\u0113rum d\u012bcitis. # M\u0101rcus d\u012bcit v\u0113rum n\u014dn est.\"",
+        "a": [
+            "Quod"
+        ]
+    },
+    {
+        "q": "4. Magister \u012br\u0101tus # M\u0101rc\u012b verberat.",
+        "a": [
+            "tergum"
+        ]
+    },
+    {
+        "q": "5. Tergum est pars corporis #.",
+        "a": [
+            "posterior"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus n\u014dn lacrimat, neque enim lacrim\u0101re puer\u014d R\u014dm\u0101n\u014d #.",
+        "a": [
+            "convenit"
+        ]
+    },
+    {
+        "q": "7. Magister eum verber\u0101re # [<> incipit], atque puer ad sellam suam #.",
+        "a": [
+            "d\u0113sinit",
+            "redit"
+        ]
+    },
+    {
+        "q": "8. # [= c\u016br] M\u0101rcus n\u014dn c\u014dns\u012bdit? N\u014dn c\u014dns\u012bdit, quia pars terg\u012b # e\u012b dolet.",
+        "a": [
+            "Quid",
+            "\u012bnferior"
+        ]
+    },
+    {
+        "q": "9. Qu\u012bntus n\u014dn in lud\u014d, sed # est.",
+        "a": [
+            "dom\u012b"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus: \"Qu\u012bntus d\u012bcit '# aegrum esse'.\"",
+        "a": [
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "11. Magister: \"# fr\u0101ter tuus aeger est, in l\u016bdum \u012bre n\u014dn potest.\"",
+        "a": [
+            "S\u012b"
+        ]
+    },
+    {
+        "q": "12. Magister M\u0101rcum Tit\u014d tabulam # iubet. ",
+        "a": [
+            "reddere"
+        ]
+    },
+    {
+        "q": "13. Magister: \"Necesse est t\u0113 p\u016bn\u012bre, # tabulam nunc reddis Tit\u014d!\"",
+        "a": [
+            "nisi"
+        ]
+    }
+]

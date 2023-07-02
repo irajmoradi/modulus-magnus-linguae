@@ -1,0 +1,1437 @@
+{
+    "id": 10,
+    "name": "CAPITVLVM XI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In corp# h\u016bm\u0101n\u014d n\u014dn \u016bn# cr\u016bs, sed duo cr\u016br# sunt.",
+                    "a": [
+                        "ore",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. Corp# h\u016bm\u0101n# duo bracchia et duo cr\u016br# habet.",
+                    "a": [
+                        "us",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. In cr\u016br# ped\u0113s sunt.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. In corp# h\u016bm\u0101n\u014d \u016bn# caput est, n\u014dn duo capit#.",
+                    "a": [
+                        "ore",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "6. In capit# est \u016bn# \u014ds, n\u014dn duo \u014dr#.",
+                    "a": [
+                        "e",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "7. Quot capit# et quot \u014dr# habent duo corp#?",
+                    "a": [
+                        "a",
+                        "a",
+                        "ora"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In # h\u016bm\u0101n\u014d sunt quattuor #: duo # et duo #.",
+                    "a": [
+                        "corpore",
+                        "membra",
+                        "bracchia",
+                        "cr\u016bra"
+                    ]
+                },
+                {
+                    "q": "2. In bracchi\u014d # est, in cr\u016bre p\u0113s.",
+                    "a": [
+                        "manus"
+                    ]
+                },
+                {
+                    "q": "3, In # sunt duo ocul\u012b, duae #, \u016bnus n\u0101sus, \u016bnum #.",
+                    "a": [
+                        "capite",
+                        "aur\u0113s",
+                        "\u014ds"
+                    ]
+                },
+                {
+                    "q": "4. \u014cs est inter duo #; in \u014dre sunt dent\u0113s et #.",
+                    "a": [
+                        "labra",
+                        "lingua"
+                    ]
+                },
+                {
+                    "q": "5. Lingua et labra # sunt ut rosae.",
+                    "a": [
+                        "rubra"
+                    ]
+                },
+                {
+                    "q": "6. Supr\u0101 ocul\u014ds # est, # ocul\u014ds sunt #.",
+                    "a": [
+                        "fr\u014dns",
+                        "\u012bnfr\u0101",
+                        "genae"
+                    ]
+                },
+                {
+                    "q": "7. # caput capillus est.",
+                    "a": [
+                        "Super"
+                    ]
+                },
+                {
+                    "q": "8. # vir\u014drum n\u014dn tam longus est quam f\u0113min\u0101rum.",
+                    "a": [
+                        "Capillus"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b ocul\u014ds bon\u014ds habet # videt.",
+                    "a": [
+                        "bene"
+                    ]
+                },
+                {
+                    "q": "10. Qu\u012b ocul\u014ds mal\u014ds habet # videt.",
+                    "a": [
+                        "male"
+                    ]
+                },
+                {
+                    "q": "11. \u012anfr\u0101 collum est #, in qu\u014d # et pulm\u014dn\u0113s sunt.",
+                    "a": [
+                        "pectus",
+                        "cor"
+                    ]
+                },
+                {
+                    "q": "12. In corde est #, cuius # ruber est.",
+                    "a": [
+                        "sanguis",
+                        "color"
+                    ]
+                },
+                {
+                    "q": "13. Sanguis per # ad cor #.",
+                    "a": [
+                        "v\u0113n\u0101s",
+                        "fluit"
+                    ]
+                },
+                {
+                    "q": "14. \u012anfr\u0101 pulm\u014dn\u0113s est #, in qu\u014d cibus est.",
+                    "a": [
+                        "venter"
+                    ]
+                },
+                {
+                    "q": "15. Cor, pulm\u014dn\u0113s, #, venter sunt # h\u016bm\u0101na.",
+                    "a": [
+                        "iecur",
+                        "viscera"
+                    ]
+                },
+                {
+                    "q": "16. Qu\u012b ventrem malum habet n\u014dn est #, sed #.",
+                    "a": [
+                        "s\u0101nus",
+                        "aeger"
+                    ]
+                },
+                {
+                    "q": "17. # est vir qu\u012b homin\u0113s aegr\u014ds # [= s\u0101n\u014ds facit].",
+                    "a": [
+                        "Medicus",
+                        "s\u0101nat"
+                    ]
+                },
+                {
+                    "q": "18. Aemilia apud lectum Qu\u012bnt\u012b #.",
+                    "a": [
+                        "sedet"
+                    ]
+                },
+                {
+                    "q": "19. Syra quoque adest, neque ea sedet, sed #.",
+                    "a": [
+                        "stat"
+                    ]
+                },
+                {
+                    "q": "20. M\u0101ter f\u012bli\u014d su\u014d aquam in # dat # [= et] f\u012blius aquam bibit.",
+                    "a": [
+                        "p\u014dcul\u014d",
+                        "atque"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot membra sunt in corpore h\u016bm\u0101n\u014d? ...",
+                    "a": [
+                        "in corpore h\u016bm\u0101n\u014d sunt quattuor membra"
+                    ]
+                },
+                {
+                    "q": "2. Quid est in bracchi\u014d? ...",
+                    "a": [
+                        "in bracchi\u014d manus est"
+                    ]
+                },
+                {
+                    "q": "3. In cr\u016bre quid est? ...",
+                    "a": [
+                        "in cr\u016bre est p\u0113s"
+                    ]
+                },
+                {
+                    "q": "4. Quot aur\u0113s et quot ocul\u012b sunt in capite? ...",
+                    "a": [
+                        "duae aur\u0113s et duo ocul\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Quid est in \u014dre? ...",
+                    "a": [
+                        "in \u014dre sunt dent\u0113s et lingua"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br Syra male audit? ...",
+                    "a": [
+                        "... quia aur\u0113s mal\u0101s habet"
+                    ]
+                },
+                {
+                    "q": "7. Ubi sunt pulm\u014dn\u0113s? ...",
+                    "a": [
+                        "pulm\u014dn\u0113s sunt in pectore"
+                    ]
+                },
+                {
+                    "q": "8. In corde et in v\u0113n\u012bs quid est? ...",
+                    "a": [
+                        "in corde et in v\u0113n\u012bs sanguis est"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b color est sanguinis? ...",
+                    "a": [
+                        "color sanguinis est ruber"
+                    ]
+                },
+                {
+                    "q": "10. In ventre quid est? ...",
+                    "a": [
+                        "in ventre est cibus"
+                    ]
+                },
+                {
+                    "q": "11. Quid est medicus? ...",
+                    "a": [
+                        "est vir qu\u012b homin\u0113s aegr\u014ds s\u0101nat"
+                    ]
+                },
+                {
+                    "q": "12. Estne s\u0101nus Qu\u012bntus? ...",
+                    "a": [
+                        "Qu\u012bntus n\u014dn s\u0101nus sed aeger est"
+                    ]
+                },
+                {
+                    "q": "13. Estne s\u014dlus in cubicul\u014d su\u014d? ...",
+                    "a": [
+                        "s\u014dlus n\u014dn est, m\u0101ter cum e\u014d est"
+                    ]
+                },
+                {
+                    "q": "14. Ubi sedet Aemilia? ...",
+                    "a": [
+                        "Aemilia apud lectum sedet"
+                    ]
+                },
+                {
+                    "q": "15. Sedetne Syra?",
+                    "a": [
+                        "Syra stat, n\u014dn sedet"
+                    ]
+                },
+                {
+                    "q": "16. Quid m\u0101ter f\u012bli\u014d aegr\u014d dat? ...",
+                    "a": [
+                        "M\u0101ter f\u012bli\u014d aegr\u014d m\u0101lum dat"
+                    ]
+                },
+                {
+                    "q": "17. C\u016br Qu\u012bntus m\u0101lum n\u014dn \u0113st? ...",
+                    "a": [
+                        "<missing>"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Syra pulch# n\u014dn est neque n\u0101sus eius pulch# est.",
+                    "a": [
+                        "ra",
+                        "er"
+                    ]
+                },
+                {
+                    "q": "2. \u016ana ovis nig# est, c\u0113terae sunt albae. ",
+                    "a": [
+                        "ra"
+                    ]
+                },
+                {
+                    "q": "3. Canis p\u0101st\u014dris n\u014dn est albus, sed nig#.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012bntus aeg# est, I\u016blia aeg# n\u014dn est.",
+                    "a": [
+                        "er",
+                        "ra"
+                    ]
+                },
+                {
+                    "q": "5. M\u0101ter f\u012bli\u014d aeg# m\u0101lum rub# dat.",
+                    "a": [
+                        "r\u014d",
+                        "rum"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus dentem nig# habet.",
+                    "a": [
+                        "rum"
+                    ]
+                },
+                {
+                    "q": "7. D\u0113ns nig# n\u014dn est s\u0101nus, sed aeg#.",
+                    "a": [
+                        "er",
+                        "er"
+                    ]
+                },
+                {
+                    "q": "8. Capillus M\u0113d\u012b n\u014dn rub#, sed nig# est.",
+                    "a": [
+                        "er",
+                        "er"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exempla: \nDominus: \"Tac\u0113, serve!\" Dominus servum tac\u0113re iubet. \nDominus: \"Tac\u0113te, serv\u012b!\" Dominus serv\u014ds tac\u0113re iubet.\n",
+            "questions": [
+                {
+                    "q": "1. Medicus: \"\u014cs aper#, puer, et linguam ostend#!\" Medicus puer# \u014ds aper# et linguam ostend# iubet.",
+                    "a": [
+                        "\u012b",
+                        "e",
+                        "um",
+                        "\u012bre",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "2. L\u0233dia: \"C\u014dnsist#, M\u0113de! Aspic# tabernam!\" L\u0233dia M\u0113d# c\u014dnsist# et tabernam aspic# iubet.",
+                    "a": [
+                        "e",
+                        "e",
+                        "um",
+                        "ere",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius: \"Curr# in hortum, puer\u012b!\" I\u016blius puer# in hortum curr# iubet.",
+                    "a": [
+                        "ite",
+                        "\u014ds",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius: \"Curr#, M\u0101rce!\" I\u016blius M\u0101rc# curr# iubet.",
+                    "a": [
+                        "e",
+                        "um",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "5. Domina: \"Aper# fenestr\u0101s, ancillae!\" Domina ancill# fenestr\u0101s aper# iubet.",
+                    "a": [
+                        "\u012bte",
+                        "\u0101s",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia: \"Claud# ocul\u014ds atque dorm#, Qu\u012bnte!\" Aemilia Qu\u012bnt# ocul\u014ds claud# atque dorm# iubet.",
+                    "a": [
+                        "e",
+                        "\u012b",
+                        "um",
+                        "ere",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "7. Syra: \"Terg# ocul\u014ds, I\u016blia! Es laeta!\" Syra I\u016bli# ocul\u014ds terg# et laetam es# iubet.",
+                    "a": [
+                        "\u0113",
+                        "am",
+                        "\u0113re",
+                        "se"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "Exempla: \nI\u016blia canit. M\u0101rcus I\u016bliam canere audit.\nM\u0101rcus: \"I\u016blia canit.\" M\u0101rcus 'I\u016bliam canere' d\u012bcit.\n",
+            "questions": [
+                {
+                    "q": "1. Puer dorm#. Medicus puer# dorm# videt.",
+                    "a": [
+                        "it",
+                        "um",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "2. Medicus: \"Puer dorm#.\" Medicus 'puer# dorm#' d\u012bcit.",
+                    "a": [
+                        "it",
+                        "um",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "3. Lingu# puer\u012b rubr# est. Medicus lingu# eius rubr# es# videt.",
+                    "a": [
+                        "a",
+                        "a",
+                        "am",
+                        "am",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "4. Medicus: \"Lingu# eius rubr# est.\" Medicus 'lingu# eius rubr# es#' d\u012bcit.",
+                    "a": [
+                        "a",
+                        "a",
+                        "am",
+                        "am",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "5. P\u0113s dol#. Qu\u012bntus ped# dol# sentit.",
+                    "a": [
+                        "et",
+                        "em",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus: \"P\u0113s dol#!\" Qu\u012bntus 'ped# dol#' d\u012bcit.",
+                    "a": [
+                        "et",
+                        "em",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "7. Serv\u012b cl\u0101m# et r\u012bd#. Aemilia serv# cl\u0101m# et r\u012bd# audit.",
+                    "a": [
+                        "ant",
+                        "ent",
+                        "\u014ds",
+                        "\u0101re",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia: \"Serv\u012b cl\u0101m# et r\u012bd#!\" Aemilia 'serv# cl\u0101m# et r\u012bd#' d\u012bcit.",
+                    "a": [
+                        "ant",
+                        "ent",
+                        "\u014ds",
+                        "\u0101re",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "9. Saccul# D\u0101v\u012b vacu# est. I\u016blius saccul# vacu# es# videt.",
+                    "a": [
+                        "us",
+                        "us",
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blius: \"Saccul# D\u0101v\u012b vacu# est.\" I\u016blius d\u012bcit 'saccul# D\u0101v\u012b vacu# es#'.",
+                    "a": [
+                        "us",
+                        "us",
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi habitat medicus? ...",
+                    "a": [
+                        "medicus T\u016bscul\u012b habitat"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u014d I\u016blius servum suum \u012bre iubet? ...",
+                    "a": [
+                        "I\u016blius servum T\u016bsculum \u012bre iubet"
+                    ]
+                },
+                {
+                    "q": "3. Ambulatne servus qu\u012b medicum arcessit? ...",
+                    "a": [
+                        "servus equ\u014d vehitur, n\u014dn ambulat"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u014d it I\u016blius cum medic\u014d? ...",
+                    "a": [
+                        "ad puerum aegrum it cum medic\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Quid medicus videt? ... \t",
+                    "a": [
+                        "medicus puerum dorm\u012bre videt"
+                    ]
+                },
+                {
+                    "q": "6. Quid d\u012bcit medicus? ...",
+                    "a": [
+                        "medicus 'puerum dorm\u012bre' d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br Syra verba medic\u012b aud\u012bre n\u014dn potest? ...",
+                    "a": [
+                        "... quia mal\u0101s aur\u0113s habet"
+                    ]
+                },
+                {
+                    "q": "8. Quid medicus Qu\u012bntum facere iubet? ...",
+                    "a": [
+                        "iubet eum linguam ostendere"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b color est linguae? ...",
+                    "a": [
+                        "lingua rubra est"
+                    ]
+                },
+                {
+                    "q": "10. Quid d\u012bcit medicus? ...",
+                    "a": [
+                        "d\u012bcit 'linguam rubram esse'"
+                    ]
+                },
+                {
+                    "q": "11. Quid medicus videt inter dent\u0113s alb\u014ds? ...",
+                    "a": [
+                        "dentem nigrum videt"
+                    ]
+                },
+                {
+                    "q": "12. Suntne s\u0101n\u012b dent\u0113s Qu\u012bnt\u012b? ...",
+                    "a": [
+                        "\u016bnus d\u0113ns Qu\u012bnt\u012b aeger est"
+                    ]
+                },
+                {
+                    "q": "13. Quid d\u012bcit Qu\u012bntus? ...",
+                    "a": [
+                        "'n\u014dn dentem, sed pedem dol\u0113re' d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "14. Quid medicus tangit? ...",
+                    "a": [
+                        "medicus pedem Qu\u012bnt\u012b tangit"
+                    ]
+                },
+                {
+                    "q": "15. Quid sentit Qu\u012bntus et quid d\u012bcit? ...",
+                    "a": [
+                        "puer digitum medic\u012b in pede sentit et 'pedem dol\u0113re' d\u012bcit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia bene can#, sed M\u0101rcus e# male can# putat.",
+                    "a": [
+                        "it",
+                        "am",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u012bnt# mortu# n\u014dn est, sed Syra putat Qu\u012bnt# mortu# esse.",
+                    "a": [
+                        "us",
+                        "us",
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius et Aemilia medic# stult# es# putant.",
+                    "a": [
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012bnt# ocul\u014ds claud# neque dorm#; Aemilia Qu\u012bnt# ocul\u014ds claud# videt et e# dorm# putat.",
+                    "a": [
+                        "us",
+                        "it",
+                        "it",
+                        "um",
+                        "ere",
+                        "um",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "5. D\u0101vus M\u0113d# putat numm\u014ds I\u016bli\u012b hab#.",
+                    "a": [
+                        "um",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "6. M\u0113dus preti# \u0101nul\u012b nimis magn# es# putat.",
+                    "a": [
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "7. L\u0233dia putat \u0101nul# gemm\u0101t# pulchr# es#.",
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "8. Puer\u012b n\u0101s# I\u016bliae foed# es# putant atque d\u012bcunt!",
+                    "a": [
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "9. Vi# long# n\u014dn est, sed serv\u012b qu\u012b lect\u012bcam portant vi# long# es# putant.",
+                    "a": [
+                        "a",
+                        "a",
+                        "am",
+                        "am",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "10. R\u014dm\u0101n\u012b de# Nept\u016bn# in mar\u012b v\u012bv# putant; Mercuri# autem putant inter caelum et terram vol#.",
+                    "a": [
+                        "um",
+                        "um",
+                        "ere",
+                        "um",
+                        "\u0101re"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Servus I\u016bli\u012b T\u016bsculum it atque medicum #.",
+                    "a": [
+                        "arcessit"
+                    ]
+                },
+                {
+                    "q": "2. Servus cum medic\u014d ad v\u012bllam # [= r\u016brsus venit].",
+                    "a": [
+                        "revenit"
+                    ]
+                },
+                {
+                    "q": "3. Medicus interrogat: \"Quis # [= aeger est]?\"",
+                    "a": [
+                        "aegr\u014dtat"
+                    ]
+                },
+                {
+                    "q": "4. Medicus linguam Qu\u012bnt\u012b # [= aspicit].",
+                    "a": [
+                        "spectat"
+                    ]
+                },
+                {
+                    "q": "5. Medicus digitum in pedem puer\u012b imp\u014dnit: medicus pedem eius #.",
+                    "a": [
+                        "tangit"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus digitum medic\u012b in pede su\u014d #.",
+                    "a": [
+                        "sentit"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012bntus: \"Ei! P\u0113s #!\" Qu\u012bntus 'pedem dol\u0113re' #.",
+                    "a": [
+                        "dolet",
+                        "d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "8. Medicus puerum ocul\u014ds claudere iubet, et # s\u016bmit.",
+                    "a": [
+                        "cultrum"
+                    ]
+                },
+                {
+                    "q": "9. Medicus cultrum ad bracchium Qu\u012bnt\u012b #.",
+                    "a": [
+                        "app\u014dnit"
+                    ]
+                },
+                {
+                    "q": "10. Puer sanguinem # bracchi\u014d fluere sentit; capill\u012b #, cor #. ",
+                    "a": [
+                        "d\u0113",
+                        "horrent",
+                        "palpitat"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u012bntus # iacet # [= neque] ocul\u014ds aperit; itaque Syra eum mortuum esse #.",
+                    "a": [
+                        "qui\u0113tus",
+                        "nec",
+                        "putat"
+                    ]
+                },
+                {
+                    "q": "12. M\u0101ter # [= laeta est] quod f\u012blius v\u012bvit.",
+                    "a": [
+                        "gaudet"
+                    ]
+                },
+                {
+                    "q": "13. Aemilia sanguinem d\u0113 bracchi\u014d Qu\u012bnt\u012b #.",
+                    "a": [
+                        "d\u0113terget"
+                    ]
+                },
+                {
+                    "q": "14. I\u016blius: \"Iam f\u012blius # [= meus et tuus] n\u014dn # [= s\u014dlum] pede, sed etiam bracchi\u014d aeger est.\"",
+                    "a": [
+                        "noster",
+                        "modo"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exemplum: \nM\u0101ter gaudet quod f\u012blius v\u012bvit = M\u0101ter f\u012blium v\u012bvere gaudet.\n",
+            "questions": [
+                {
+                    "q": "1. Qu\u012bntus gaudet quod medicus abest = Qu\u012bntus medic# ab# gaudet.",
+                    "a": [
+                        "um",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "2. L\u0233dia gaudet quod M\u0113dus R\u014dmam venit = L\u0233dia M\u0113d# R\u014dmam ven# gaudet.",
+                    "a": [
+                        "um",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius gaudet quod D\u0101vus servus probus est = I\u016blius D\u0101v# serv# prob# es# gaudet.",
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "4. L\u0233dia gaudet quod M\u0113dus pec\u016bniam habet = L\u0233dia M\u0113d# pec\u016bniam hab# gaudet. \t",
+                    "a": [
+                        "um",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia gaudet quod I\u016blius adest = Aemilia I\u016bli# ad# gaudet.",
+                    "a": [
+                        "um",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "6. P\u0101stor gaudet quod ovis nigra v\u012bvit = P\u0101stor ov# nigr# viv# gaudet.",
+                    "a": [
+                        "em",
+                        "am",
+                        "ere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. C\u016br medicus Qu\u012bntum ocul\u014ds claudere iubet? ...",
+                    "a": [
+                        "... quia puer cultrum medic\u012b timet"
+                    ]
+                },
+                {
+                    "q": "2. Quid Aemilia tenet sub bracchi\u014d Qu\u012bnt\u012b? ...",
+                    "a": [
+                        "p\u014dculum sub bracchi\u014d eius tenet"
+                    ]
+                },
+                {
+                    "q": "3. Quid facit medicus? ...",
+                    "a": [
+                        "medicus v\u0113nam aperit"
+                    ]
+                },
+                {
+                    "q": "4. C\u016br Qu\u012bntus horret? ...",
+                    "a": [
+                        "... quia sanguinem fluere sentit"
+                    ]
+                },
+                {
+                    "q": "5. C\u016br n\u014dn potest mov\u0113re bracchium? ...",
+                    "a": [
+                        "... quod pater bracchium eius tenet"
+                    ]
+                },
+                {
+                    "q": "6. Quid d\u0113 bracchi\u014d in p\u014dculum fluit? ...",
+                    "a": [
+                        "sanguis in p\u014dculum fluit"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br Syra putat Qu\u012bntum esse mortuum? ...",
+                    "a": [
+                        "... quia puer ocul\u014ds n\u014dn aperit"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014d medicus manum app\u014dnit et quid sentit? ...",
+                    "a": [
+                        "manum super pectus puer\u012b app\u014dnit et cor eius palpit\u0101re sentit"
+                    ]
+                },
+                {
+                    "q": "9. Quid d\u012bcit medicus? ...",
+                    "a": [
+                        "medicus 'puerum sp\u012br\u0101re et cor eius palpit\u0101re' d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br Syra gaudet? ...",
+                    "a": [
+                        "Syra puerum v\u012bvere gaudet"
+                    ]
+                },
+                {
+                    "q": "11. Quid Aemilia d\u0113 bracchi\u014d Qu\u012bnt\u012b d\u0113terget? ...",
+                    "a": [
+                        "sanguinem d\u0113 bracchi\u014d d\u0113terget"
+                    ]
+                },
+                {
+                    "q": "12. Quid d\u012bcit Qu\u012bntus? ...",
+                    "a": [
+                        "Qu\u012bntus 'bracchium dol\u0113re' d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "13. Quid Aemilia Syram arcessere iubet? ...",
+                    "a": [
+                        "Syram aquam arcessere iubet"
+                    ]
+                },
+                {
+                    "q": "14. Cui Aemilia aquam dat? ...",
+                    "a": [
+                        "Aemilia Qu\u012bnt\u014d aquam dat"
+                    ]
+                },
+                {
+                    "q": "15. C\u016br Qu\u012bntus medicum abesse gaudet? ...",
+                    "a": [
+                        "... quia medicum horret"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "D\u0113cl\u012bn\u0101ti\u014d tertia: neutrum.\nExempla: \ncorpus, gen. sing. corpor|is\nmar|e, gen. sing. mar|is\n____________Sing.\t\tPl\u016br.\t\t\tSing.\tPl\u016br.\n",
+            "questions": [
+                {
+                    "q": "1. N\u014dm. \tcorpus\t\tcorpor|#\t\tmar|#\tmar|#",
+                    "a": [
+                        "a",
+                        "e",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "2. Acc. \t\tcorpus\t\tcorpor|#\t\tmar|#\tmar|#",
+                    "a": [
+                        "a",
+                        "e",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "3. Gen. \tcorpor|#\tcorpor|#\t\tmar|#\tmar|#",
+                    "a": [
+                        "is",
+                        "um",
+                        "is",
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "4. Dat. \t\tcorpor|#\tcorpor|#\t\tmar|#\tmar|#",
+                    "a": [
+                        "\u012b",
+                        "ibus",
+                        "\u012b",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "5. Abl. \t\tcorpor|#\tcorpor|#\t\tmar|#\tmar|#\t",
+                    "a": [
+                        "e",
+                        "ibus",
+                        "\u012b",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "6. 'Corpor|a' et 'mar|ia' # aut # pl\u016br\u0101lis est.",
+                    "a": [
+                        "n\u014dmin\u0101t\u012bvus",
+                        "acc\u016bs\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Corpor|e' est # #.",
+                    "a": [
+                        "abl\u0101t\u012bvus",
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "8. 'Corpor|\u012b' est # #.",
+                    "a": [
+                        "dat\u012bvus",
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "9. 'Corpor|ibus' et 'mar|ibus' est # aut # pl\u016br\u0101lis.",
+                    "a": [
+                        "dat\u012bvus",
+                        "abl\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "10. 'Corporis' et 'mar|is' # # est.",
+                    "a": [
+                        "genet\u012bvus",
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "11. 'Corpor|um' et 'mar|ium' est # #.",
+                    "a": [
+                        "genet\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "12. 'Corpus' et 'mar|e' # aut # singul\u0101ris est.",
+                    "a": [
+                        "n\u014dmin\u0101t\u012bvus",
+                        "acc\u016bs\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "13. 'Mar|\u012b' est # aut # singul\u0101ris.",
+                    "a": [
+                        "dat\u012bvus",
+                        "abl\u0101t\u012bvus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "Exemplum: Medicus 'Qu\u012bntum dorm\u012bre' d\u012bcit: \"Qu\u012bntus dormit.\"\n",
+            "questions": [
+                {
+                    "q": "1. 'Qu\u012bntum' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est; 'dorm\u012bre' n\u014dn indic\u0101t\u012bvus, sed # est.",
+                    "a": [
+                        "acc\u016bs\u0101t\u012bvus",
+                        "\u012bnf\u012bn\u012bt\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Qu\u012bntum dorm\u012bre' est # cum #.",
+                    "a": [
+                        "acc\u016bs\u0101t\u012bvus",
+                        "\u012bnf\u012bn\u012bt\u012bv\u014d"
+                    ]
+                },
+                {
+                    "q": "3. Acc\u016bs\u0101t\u012bvus cum \u012bnf\u012bn\u012bt\u012bv\u014d p\u014dnitur apud haec verba: iub\u0113re, #, #, #, #, #, #, # esse, c\u0113tera.",
+                    "a": [
+                        "vid\u0113re",
+                        "aud\u012bre",
+                        "sent\u012bre",
+                        "d\u012bcere",
+                        "put\u0101re",
+                        "gaud\u0113re",
+                        "necesse"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101rcus Qu\u012bntum in arborem ascendere # :\"In arborem ascende, Qu\u012bnte!\"",
+                    "a": [
+                        "iubet"
+                    ]
+                },
+                {
+                    "q": "5. Qu\u012bntus in terr\u0101 iacet nec s\u0113 movet; itaque M\u0101rcus eum mortuum esse #.",
+                    "a": [
+                        "putat"
+                    ]
+                },
+                {
+                    "q": "6. M\u0101rcus cl\u0101mat. I\u016blius M\u0101rcum cl\u0101m\u0101re # et accurrere #.",
+                    "a": [
+                        "audit",
+                        "videt"
+                    ]
+                },
+                {
+                    "q": "7. M\u0101rcus: \"Qu\u012bntus mortuus est.\" M\u0101rcus # 'Qu\u012bntum mortuum esse.'",
+                    "a": [
+                        "d\u012bcit"
+                    ]
+                },
+                {
+                    "q": "8. Pater manum in pectus f\u012bli\u012b imp\u014dnit et cor eius palpit\u0101re #.",
+                    "a": [
+                        "sentit"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blius laetus est: pater f\u012blium v\u012bvere #.",
+                    "a": [
+                        "gaudet"
+                    ]
+                },
+                {
+                    "q": "10. Qu\u012bntus ambul\u0101re n\u014dn potest, erg\u014d # est eum \u0101 I\u016bli\u014d port\u0101r\u012b.",
+                    "a": [
+                        "necesse"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "is",
+                        "a"
+                    ],
+                    "q": "Membra corpor# h\u016bm\u0101n\u012b sunt duo bracchia et duo cr\u016br#."
+                },
+                {
+                    "a": [
+                        "e",
+                        "um",
+                        "a"
+                    ],
+                    "q": "In corpor# h\u016bm\u0101n\u014d \u016bn# caput est, n\u014dn duo capit#."
+                },
+                {
+                    "a": [
+                        "e",
+                        "\u0113s",
+                        "um"
+                    ],
+                    "q": "In capit# sunt duae aur# et \u016bn# \u014ds."
+                },
+                {
+                    "a": [
+                        "e",
+                        "\u0113s"
+                    ],
+                    "q": "In \u014dr# sunt dent#."
+                },
+                {
+                    "a": [
+                        "e",
+                        "um",
+                        "\u0113s"
+                    ],
+                    "q": "In pector# \u016bn# cor et duo pulm\u014dn# sunt."
+                },
+                {
+                    "a": [
+                        "um",
+                        "\u0113re",
+                        "um",
+                        "\u012bre"
+                    ],
+                    "q": "Medicus Qu\u012bnt# super lectum iac# videt; medicus puer# dorm# videt."
+                },
+                {
+                    "a": [
+                        "us",
+                        "it",
+                        "um",
+                        "\u012bre"
+                    ],
+                    "q": "Medicus: \"Qu\u012bnt# dorm#.\" Medicus 'Qu\u012bnt# dorm# ' d\u012bcit."
+                },
+                {
+                    "a": [
+                        "um",
+                        "ere",
+                        "am",
+                        "am",
+                        "se"
+                    ],
+                    "q": "Medicus puer# linguam ostend# iubet, et 'lingu# eius rubr# es# ' d\u012bcit."
+                },
+                {
+                    "a": [
+                        "em",
+                        "\u0113re"
+                    ],
+                    "q": "Puer d\u012bcit 'ped# et caput dol#.'"
+                },
+                {
+                    "a": [
+                        "am",
+                        "\u0113re"
+                    ],
+                    "q": "Medicus Aemili# p\u014dculum ten# iubet."
+                },
+                {
+                    "a": [
+                        "um",
+                        "\u0101re",
+                        "it",
+                        "um",
+                        "um",
+                        "se"
+                    ],
+                    "q": "Syra Qu\u012bnt# sp\u012br# n\u014dn aud#, itaque Syra e# mortu# es# putat."
+                },
+                {
+                    "a": [
+                        "us",
+                        "it"
+                    ],
+                    "q": "Sed Qu\u012bnt# v\u012bv#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "ere"
+                    ],
+                    "q": "M\u0101ter f\u012bli# v\u012bv# gaudet."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "\u012bre"
+                    ],
+                    "q": "Necesse est puer# aegr# dorm#."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "Corpus",
+                        "membra",
+                        "bracchia",
+                        "cr\u016bra"
+                    ],
+                    "q": "# hum\u0101num habet quattuor # : duo # et duo #."
+                },
+                {
+                    "a": [
+                        "man\u016bs",
+                        "ped\u0113s"
+                    ],
+                    "q": "In bracchi\u012bs duae # sunt, in cr\u016bribus duo #."
+                },
+                {
+                    "a": [
+                        "caput"
+                    ],
+                    "q": "Super collum est #."
+                },
+                {
+                    "a": [
+                        "aur\u0113s",
+                        "\u014ds"
+                    ],
+                    "q": "In capite sunt duo ocul\u012b, duae #, \u016bnus n\u0101sus, \u016bnum #."
+                },
+                {
+                    "a": [
+                        "lingua"
+                    ],
+                    "q": "In \u014dre sunt dent\u0113s et #."
+                },
+                {
+                    "a": [
+                        "pectus",
+                        "cor"
+                    ],
+                    "q": "Sub coll\u014d est #. In pectore sunt pulm\u014dn\u0113s et #."
+                },
+                {
+                    "a": [
+                        "sanguis",
+                        "v\u0113n\u0101s",
+                        "fluit"
+                    ],
+                    "q": "In corde et in v\u0113n\u012bs # est. Sanguis per # ad cor #."
+                },
+                {
+                    "a": [
+                        "sedet",
+                        "stat"
+                    ],
+                    "q": "Aemilia apud lectum Qu\u012bnt\u012b #, Syra apud lectum #."
+                },
+                {
+                    "a": [
+                        "s\u0101nus"
+                    ],
+                    "q": "Qu\u012bntus n\u014dn #, sed aeger est."
+                },
+                {
+                    "a": [
+                        "arcessit"
+                    ],
+                    "q": "Syrus medicum ex oppid\u014d #."
+                },
+                {
+                    "a": [
+                        "app\u014dnit",
+                        "tangit"
+                    ],
+                    "q": "Medicus digitum ad pedem puer\u012b # : medicus pedem eius #."
+                },
+                {
+                    "a": [
+                        "sentit",
+                        "dolet"
+                    ],
+                    "q": "Qu\u012bntus, qu\u012b digitum medic\u012b in pede # : \"Ei! P\u0113s #!\""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae sunt membra corporis h\u016bm\u0101n\u012b? ",
+                    "a": [
+                        "Sunt bracchia et cr\u016bra"
+                    ]
+                },
+                {
+                    "q": "2. Ubi est cerebrum? ",
+                    "a": [
+                        "Cerebrum est post frontem"
+                    ]
+                },
+                {
+                    "q": "3. Quid est in pectore? ",
+                    "a": [
+                        "in pectore sunt pulm\u014dn\u0113s et cor"
+                    ]
+                },
+                {
+                    "q": "4. Ubi est venter? ",
+                    "a": [
+                        "Venter est \u012bnfr\u0101 pulm\u014dn\u0113s"
+                    ]
+                },
+                {
+                    "q": "5. C\u016br Qu\u012bntus cibum s\u016bmere n\u014dn potest? ",
+                    "a": [
+                        "Quia aeger est"
+                    ]
+                },
+                {
+                    "q": "6. Estne Qu\u012bntus s\u014dlus in cubicul\u014d su\u014d? ",
+                    "a": [
+                        "S\u014dlus n\u014dn est, nam Aemilia et syra apud eum sunt"
+                    ]
+                },
+                {
+                    "q": "7. Unde medicus arcessitur? ",
+                    "a": [
+                        "Medicus T\u016bscul\u014d arcessitur"
+                    ]
+                },
+                {
+                    "q": "8. Quid videt medicus in \u014dre Qu\u012bnt\u012b? ",
+                    "a": [
+                        "Medicus dentem nigrum in \u014dre Qu\u012bnt\u012b videt"
+                    ]
+                },
+                {
+                    "q": "9. Quid Qu\u012bntus in bracchi\u014d sentit? ",
+                    "a": [
+                        "Quintus cultrum medic\u012b sentit"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br Syra Qu\u012bntum mortuum esse putat? ",
+                    "a": [
+                        "Quia eum sp\u012br\u0101re n\u014dn audit"
+                    ]
+                }
+            ]
+        }
+    ]
+}

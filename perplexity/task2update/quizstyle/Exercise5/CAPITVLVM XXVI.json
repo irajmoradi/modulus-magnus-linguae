@@ -1,0 +1,83 @@
+[
+    {
+        "q": "1. Qu\u012b in carcere incl\u016bsus est n\u014dn est #.",
+        "a": [
+            "l\u012bber"
+        ]
+    },
+    {
+        "q": "2. Avis # mont\u0113s et fl\u016bmina vol\u0101re potest.",
+        "a": [
+            "tr\u0101ns"
+        ]
+    },
+    {
+        "q": "3. Aquila circum labyrinthum in magnum # vol\u0101bat.",
+        "a": [
+            "orbem"
+        ]
+    },
+    {
+        "q": "4. Daedalus c\u014dnsilium fugae iam #: \u0101l\u0101s facere c\u014dnstituerat atque \u0113 labyrinth\u014d #.",
+        "a": [
+            "exc\u014dgit\u0101verat",
+            "\u0113vol\u0101re"
+        ]
+    },
+    {
+        "q": "5. \u0100l\u0101s c\u014dnficere # difficile est, sed Daedalus \u0101l\u0101s # [= m\u0101xim\u0101s] c\u014dnf\u0113cit ex #, qu\u0101s c\u0113r\u0101 in lacert\u012bs #.",
+        "a": [
+            "opus",
+            "ingent\u0113s",
+            "penn\u012bs",
+            "f\u012bxit"
+        ]
+    },
+    {
+        "q": "6. Ille # [= cert\u0113] deus n\u014dn erat, sed tamen arte su\u0101 ipsam # m\u016bt\u0101re poterat.",
+        "a": [
+            "quidem",
+            "n\u0101t\u016bram"
+        ]
+    },
+    {
+        "q": "7. \u201cOpus iam # est\u201d inquit Daedalus, \u201cEcce exemplum # meae novissimum. Iam av\u0113s in voland\u014d # possumus.\u201d",
+        "a": [
+            "perfectum",
+            "artis",
+            "imit\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "8. Puer, ets\u012b # erat voland\u012b, s\u0113 supr\u0101 humum # n\u014dn potuit.",
+        "a": [
+            "studi\u014dsus",
+            "lev\u0101re"
+        ]
+    },
+    {
+        "q": "9. Pater f\u012blium \u0101l\u0101s # # mov\u0113re docuit # [= s\u012bcut] avis.",
+        "a": [
+            "s\u016brsum",
+            "deorsum",
+            "tamquam"
+        ]
+    },
+    {
+        "q": "10. Tum f\u012blium s\u012bc monuit: \u201cN\u014dl\u012b vol\u0101re in # \u0101ere prope mare neque in # \u0101ere prope s\u014dlem, nam # s\u014dlis c\u0113ram # ac penn\u0101s # poterit. # est\u014d!\u201d",
+        "a": [
+            "\u012bnfim\u014d",
+            "summ\u014d",
+            "ignis",
+            "moll\u012bre",
+            "\u016brere",
+            "Cautus"
+        ]
+    },
+    {
+        "q": "11. # est pars bracchi\u012b superior.",
+        "a": [
+            "Lacertus"
+        ]
+    }
+]

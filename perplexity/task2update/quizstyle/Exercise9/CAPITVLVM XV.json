@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Quid facit magister antequam recit\u0101re incipit? ...",
+        "a": [
+            "magister librum suum aperit"
+        ]
+    },
+    {
+        "q": "2. T\u014dtumne librum audiunt discipul\u012b? ...",
+        "a": [
+            "partem pri\u014drem tantum audiunt"
+        ]
+    },
+    {
+        "q": "3. C\u016br n\u014dn audiunt posteri\u014drem libr\u012b partem? ...",
+        "a": [
+            "... quod dormiunt"
+        ]
+    },
+    {
+        "q": "4. C\u016br magister recit\u0101re d\u0113sinit? ...",
+        "a": [
+            "... quia discipul\u014ds dormient\u0113s videt"
+        ]
+    },
+    {
+        "q": "5. Qu\u014dmodo magister discipul\u014ds excitat? ...",
+        "a": [
+            "magister excl\u0101mat: \"\u014c discipul\u012b improb\u012b!\""
+        ]
+    },
+    {
+        "q": "6. Quid M\u0101rcus d\u012bcit magistr\u014d \u012br\u0101t\u014d? ...",
+        "a": [
+            "M\u0101rcus d\u012bcit 's\u0113 vigil\u0101re et aud\u012bre'"
+        ]
+    },
+    {
+        "q": "7. Qu\u014dmodo magister discipul\u014ds p\u016bnit? ...",
+        "a": [
+            "magister e\u014ds virg\u0101 verberat"
+        ]
+    },
+    {
+        "q": "8. C\u016br discipul\u012b n\u014dn c\u014dns\u012bdunt? ... ",
+        "a": [
+            "... quia sed\u0113re n\u014dn possunt"
+        ]
+    },
+    {
+        "q": "9. C\u016br magister e\u014ds ante sell\u0101s st\u0101re iubet? ...",
+        "a": [
+            "... quod stant\u0113s dorm\u012bre n\u014dn possunt"
+        ]
+    },
+    {
+        "q": "10. Quid recitat magister sed\u0113ns? ...",
+        "a": [
+            "partem libr\u012b posteri\u014drem recitat"
+        ]
+    },
+    {
+        "q": "11. Num in l\u016bd\u014d dorm\u012bre licet? ...",
+        "a": [
+            "n\u014dn licet dorm\u012bre in l\u016bd\u014d"
+        ]
+    },
+    {
+        "q": "12. Quid est lectulus? ...",
+        "a": [
+            "lectulus est parvus lectus"
+        ]
+    },
+    {
+        "q": "13. T\u016bne st\u0101ns dorm\u012bre potes? ...",
+        "a": [
+            "st\u0101ns dorm\u012bre n\u014dn possum"
+        ]
+    },
+    {
+        "q": "14. Ubi v\u014ds dorm\u012bre sol\u0113tis, discipul\u012b? ...",
+        "a": [
+            "in lect\u012bs nostr\u012bs dorm\u012bre sol\u0113mus"
+        ]
+    }
+]

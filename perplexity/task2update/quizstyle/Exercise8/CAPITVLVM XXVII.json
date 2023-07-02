@@ -1,0 +1,70 @@
+[
+    {
+        "q": "1. Dominus imperat ut servus voc# et interrog# (= Dominus servum voc# et interrog# iubet).",
+        "a": [
+            "\u0113tur",
+            "\u0113tur",
+            "\u0101r\u012b",
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "2. I\u016blius imperat ut p\u0101stor prehend# et tene# (= I\u016blius p\u0101st\u014drem prehend# et ten# iubet).",
+        "a": [
+            "\u0101tur",
+            "\u0101tur",
+            "\u012b",
+            "\u0113r\u012b"
+        ]
+    },
+    {
+        "q": "3. Col\u014dnus: \u201cC\u016br\u0101 ut ov\u0113s tuae ab agr\u012bs prohibe#!\u201d",
+        "a": [
+            "antur"
+        ]
+    },
+    {
+        "q": "4. Dux n\u016bntium monet ut caut\u0113 ex castr\u012bs \u0113gredi# et \u014dret ut sine mor\u0101 sibi auxilium mitt#.",
+        "a": [
+            "\u0101tur",
+            "\u0101tur"
+        ]
+    },
+    {
+        "q": "5. Dux: \u201cCav\u0113 n\u0113 vide# n\u0113ve audi# ab hostibus!\u201d",
+        "a": [
+            "\u0101ris",
+            "\u0101ris"
+        ]
+    },
+    {
+        "q": "6. M\u0101ter f\u012blium monet ut bene lav#: \u201cC\u016br\u0101 ut bene lav#, M\u0101rce, n\u0113ve sordid\u012bs manibus profic\u012bsc#!\u201d",
+        "a": [
+            "\u0113tur",
+            "\u0113ris",
+            "\u0101ris"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \u201cD\u0101vus semper c\u016brat ut ego bene lav# n\u0113ve sordid\u012bs manibus profic\u012bsc#.\u201d",
+        "a": [
+            "er",
+            "ar"
+        ]
+    },
+    {
+        "q": "8. M\u0101ter f\u012bli\u014ds monet ut bene lav#: \u201cC\u016br\u0101te ut bene lav#, f\u012bli\u012b, n\u0113ve sordid\u012bs manibus profic\u012bsc#.\u201d",
+        "a": [
+            "entur",
+            "\u0113min\u012b",
+            "\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus: \u201cD\u0101vus semper c\u016brat ut n\u014ds bene lav# n\u0113ve sordid\u012bs manibus profic\u012bsc#.\u201d",
+        "a": [
+            "\u0113mur",
+            "\u0101mur"
+        ]
+    }
+]

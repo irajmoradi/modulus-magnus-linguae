@@ -1,0 +1,123 @@
+[
+    {
+        "q": "1. I\u016blius: \"Ecce m\u0101lum tuum, M\u0101rce.\" I\u016blius M\u0101rc# m\u0101lum dat: pater f\u012bli# m\u0101lum dat.",
+        "a": [
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. I\u016blius M\u0101rc\u014d et Qu\u012bnt\u014d m\u0101la dat: pater f\u012bli# m\u0101la dat.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "3. Dominus servum vocat et e# m\u0101lum dat.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. I\u016blius Syr# serv# su# m\u0101lum dat.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "5. Dominus serv\u014ds vocat et i# m\u0101la dat.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. Dominus Syr# et L\u0113andr# serv# su# m\u0101la dat.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "7. I\u016blius Aemiliam sal\u016btat et e# \u014dsculum dat.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "8. Aemilia I\u016bli# vir# su# \u014dsculum dat.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "9. I\u016blius n\u014dn s\u014dlum Aemili# \u014dsculum dat, sed etiam I\u016bli# f\u012bli# su# \u014dsculum et m\u0101lum dat.",
+        "a": [
+            "ae",
+            "ae",
+            "ae",
+            "ae"
+        ]
+    },
+    {
+        "q": "10. I\u016blia m\u0101l# su# \u014dsculum dat!",
+        "a": [
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "11. Domina ancillam vocat et e# m\u0101lum dat.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "12. Aemilia D\u0113li# ancill# su# m\u0101lum dat.",
+        "a": [
+            "ae",
+            "ae",
+            "ae"
+        ]
+    },
+    {
+        "q": "13. Domina ancill\u0101s vocat et i# m\u0101la dat.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "14. Aemilia D\u0113li# et Syr# ancill# su# m\u0101la dat.",
+        "a": [
+            "ae",
+            "ae",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "15. I\u016blius: \"Ecce nummus tuus, D\u0101ve.\" Dominus serv# nummum dat.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "16. C# I\u016blius nummum dat? Servus c# I\u016blius nummum dat est D\u0101vus.",
+        "a": [
+            "ui",
+            "ui"
+        ]
+    },
+    {
+        "q": "17. C# I\u016blius \u014dsculum dat? F\u0113mina c# I\u016blius \u014dsculum dat est Aemilia.",
+        "a": [
+            "ui",
+            "ui"
+        ]
+    }
+]

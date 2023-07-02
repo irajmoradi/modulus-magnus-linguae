@@ -1,0 +1,66 @@
+[
+    {
+        "q": "1. 'Stultus' adiect\u012bvum est; 'stult\u0113' # est. ",
+        "a": [
+            "adverbium"
+        ]
+    },
+    {
+        "q": "2. 'Stultus' et 'levis' n\u014dn adverbia, sed # sunt.",
+        "a": [
+            "adiect\u012bva"
+        ]
+    },
+    {
+        "q": "3. 'Stult\u0113' et 'leviter' n\u014dn sunt #, sed #.",
+        "a": [
+            "adiect\u012bva",
+            "adverbia"
+        ]
+    },
+    {
+        "q": "4. Adiect\u012bvum: r\u0113ctus -a -um; adverbium: r\u0113ct#.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "5. Adiect\u012bvum: fortis -e; adverbium: fort#.",
+        "a": [
+            "iter"
+        ]
+    },
+    {
+        "q": "6. Adverbium: long\u0113; adiect\u012bvum: long# -# -#",
+        "a": [
+            "us",
+            "a",
+            "um"
+        ]
+    },
+    {
+        "q": "7. Adverbium: graviter; adiect\u012bvum: grav# -#.",
+        "a": [
+            "is",
+            "e"
+        ]
+    },
+    {
+        "q": "8. Adiect\u012bvum: pulcher -chra -chrum; adverbium: pulchr#.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "9. Adiect\u012bvum: -us (-er) -a -um (d\u0113cl. I/II). Adverbium: -#.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "10. Adiectivum: -is (-er -is) -e (d\u0113cl. III). Adverbium: -#.",
+        "a": [
+            "iter"
+        ]
+    }
+]

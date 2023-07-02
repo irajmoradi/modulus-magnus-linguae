@@ -1,0 +1,114 @@
+[
+    {
+        "q": "1. Post decem ann\u014ds M\u0101rcus m\u012bles er# et arma ger# ut avunculus suus.",
+        "a": [
+            "it",
+            "et"
+        ]
+    },
+    {
+        "q": "2. Tum M\u0101rcus fortiter pugn\u0101#, hostem n\u014dn tim\u0113# nec ab e\u014d fugi#.",
+        "a": [
+            "bit",
+            "bit",
+            "et"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus cum magn\u014d exercit\u016b in Italiam reveni#.",
+        "a": [
+            "et"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus: \"Ego m\u012bles er# ut avunculus meus; bona arma ger#, fortiter pugn\u0101#, hostem n\u014dn tim\u0113# nec ab e\u014d fugi#; cum magn\u014d exercit\u016b in Italiam reveni#.\"",
+        "a": [
+            "\u014d",
+            "am",
+            "b\u014d",
+            "b\u014d",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus: \"At t\u016b numquam m\u012bles fortis er#, Sexte. Etiam s\u012b bona arma ger#, n\u014dn fortiter pugn\u0101#, nam hostem tim\u0113# atque ab e\u014d fugi# et ad m\u0101trem tuam reveni#!\"",
+        "a": [
+            "is",
+            "\u0113s",
+            "bis",
+            "bis",
+            "\u0113s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus et Qu\u012bntus m\u012blit\u0113s er# et arma ger# ut avunculus suus: fortiter pugn\u0101#, hostem n\u014dn tim\u0113# nec ab e\u014d fugi#; cum magn\u014d exercit\u016b in Italiam reveni#. ",
+        "a": [
+            "unt",
+            "ent",
+            "bunt",
+            "bunt",
+            "ent",
+            "ent"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \"Ego et fr\u0101ter meus m\u012blit\u0113s er# ut avunculus noster; bona arma ger#, fortiter pugn\u0101#, hostem n\u014dn tim\u0113# nec ab e\u014d fugi#; cum magn\u014d exercit\u016b in Italiam reveni#.\"",
+        "a": [
+            "imus",
+            "\u0113mus",
+            "bimus",
+            "bimus",
+            "\u0113mus",
+            "\u0113mus"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus: \"At v\u014ds numquam m\u012blit\u0113s fort\u0113s er#, Sexte et Tite! Etiam s\u012b bona arma ger#, n\u014dn fortiter pugn\u0101#, nam hostem tim\u0113# atque ab e\u014d fugi# et ad m\u0101tr\u0113s vestr\u0101s reveni#!\"",
+        "a": [
+            "itis",
+            "\u0113tis",
+            "bitis",
+            "bitis",
+            "\u0113tis",
+            "\u0113tis"
+        ]
+    },
+    {
+        "q": "9. L\u0233dia: \"N\u014dl\u012b tim\u0113re, M\u0113de! Dominus n\u014ds serv\u0101# et in portum veh#.\"",
+        "a": [
+            "bit",
+            "et"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus: \"Egone quoque \u0101 domin\u014d tu\u014d serv\u0101# et in portum veh#?\"",
+        "a": [
+            "bor",
+            "ar"
+        ]
+    },
+    {
+        "q": "11. L\u0233dia: \"Cert\u0113 t\u016b quoque serv\u0101#, M\u0113de, et m\u0113cum in portum veh#. Nautae quoque serv\u0101#.\"",
+        "a": [
+            "beris",
+            "\u0113ris",
+            "buntur"
+        ]
+    },
+    {
+        "q": "12. Nautae: \"N\u014ds \u0101 Nept\u016bn\u014d serv\u0101#; ab ill\u014d de\u014d in portum veh#.\"",
+        "a": [
+            "bimur",
+            "\u0113mur"
+        ]
+    },
+    {
+        "q": "13. L\u0233dia: \"N\u014dn \u0101 Nept\u016bn\u014d, sed \u0101 Domin\u014d nostr\u014d serv\u0101#, nautae, et in portum veh#.\"",
+        "a": [
+            "bimin\u012b",
+            "\u0113min\u012b"
+        ]
+    }
+]

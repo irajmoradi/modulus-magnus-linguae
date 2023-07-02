@@ -1,0 +1,47 @@
+[
+    {
+        "q": "1. 'N\u0101vig\u0101|re' \u012bnf\u012bn\u012bt\u012bvus est. 'N\u0101viga|ndum' n\u014dn \u012bnf\u012bn\u012bt\u012bvus, sed # est.",
+        "a": [
+            "gerundium"
+        ]
+    },
+    {
+        "q": "2. 'N\u0101viga|nd|um' acc\u016bs\u0101t\u012bvus gerundi\u012b est; 'n\u0101viga|nd|\u012b' est #, 'n\u0101viga|nd|\u014d' # gerundi\u012b.",
+        "a": [
+            "genet\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "3. \u012anf\u012bn\u012bt\u012bvus: voc\u0101re. Gerundium: acc\u016bs\u0101t\u012bvus voca#, genet\u012bvus voca#, abl\u0101t\u012bvus voca#.",
+        "a": [
+            "ndum",
+            "nd\u012b",
+            "nd\u014d"
+        ]
+    },
+    {
+        "q": "4. \u012anf\u012bn\u012bt\u012bvus: vid\u0113re. Gerundium: acc\u016bs\u0101t\u012bvus vide#, genet\u012bvus vide#, abl\u0101t\u012bvus vide#.",
+        "a": [
+            "ndum",
+            "nd\u012b",
+            "nd\u014d"
+        ]
+    },
+    {
+        "q": "5. \u012anf\u012bn\u012bt\u012bvus: legere. Gerundium: acc\u016bs\u0101t\u012bvus leg#, genet\u012bvus leg#, abl\u0101t\u012bvus leg#.",
+        "a": [
+            "endum",
+            "end\u012b",
+            "end\u014d"
+        ]
+    },
+    {
+        "q": "6. \u012anf\u012bn\u012bt\u012bvus: aud\u012bre. Gerundium: acc\u016bs\u0101t\u012bvus audi#, genet\u012bvus audi#, abl\u0101t\u012bvus audi#.",
+        "a": [
+            "endum",
+            "end\u012b",
+            "end\u014d"
+        ]
+    }
+]

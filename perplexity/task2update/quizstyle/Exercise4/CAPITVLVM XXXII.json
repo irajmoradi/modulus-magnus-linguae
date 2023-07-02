@@ -1,0 +1,102 @@
+[
+    {
+        "q": "1. Pater \u0101 f\u012bli\u014d quaerit c\u016br verber\u0101t# # \u0101 magistr\u014d: \u201cD\u012bc mihi, f\u012bl\u012b, c\u016br t\u016b \u0101 magistr\u014d verber\u0101t# #?\u201d",
+        "a": [
+            "us",
+            "sit",
+            "us",
+            "s\u012bs"
+        ]
+    },
+    {
+        "q": "2. F\u012blius respondet: \u201cNesci\u014d c\u016br verber\u0101t# #, ego enim bonus discipulus fu\u012b.\u201d",
+        "a": [
+            "us",
+            "sim"
+        ]
+    },
+    {
+        "q": "3. Pater dubitat num f\u012blius v\u0113rum d\u012bx# eumque interrogat num v\u0113r\u0113 bonus fu# ac magistr\u014d p\u0101ru#. F\u012blius n\u014dn respondet.",
+        "a": [
+            "erit",
+            "erit",
+            "erit"
+        ]
+    },
+    {
+        "q": "4. Pater: \u201cQu\u012bn respond\u0113s? Quaer\u014d \u0101 t\u0113 num bonus discipulus fu# ac magistr\u014d p\u0101ru#.\u201d",
+        "a": [
+            "eris",
+            "eris"
+        ]
+    },
+    {
+        "q": "5. F\u012blius: \u201cC\u016br \u0101 m\u0113 quaeris num bonus discipulus fu# ac magistr\u014d p\u0101ru#? Iam tibi d\u012bx\u012b \u2018m\u0113 bonum discipulum fuisse\u2019.\u201d",
+        "a": [
+            "erim",
+            "erim"
+        ]
+    },
+    {
+        "q": "6. Pater: \u201cId quaer\u014d quia dubit\u014d num v\u0113rum d\u012bx#.\u201d",
+        "a": [
+            "eris"
+        ]
+    },
+    {
+        "q": "7. F\u012blius: \u201cT\u016bne dubit\u0101s num v\u0113rum d\u012bx#? N\u014dnne f\u012bli\u014d tu\u014d cr\u0113dis?\u201d",
+        "a": [
+            "erim"
+        ]
+    },
+    {
+        "q": "8. Pater \u0101 f\u012bli\u012bs quaerit c\u016br verber\u0101t# # \u0101 magistr\u014d: \u201cD\u012bcite mihi, f\u012bli\u012b, c\u016br v\u014ds \u0101 magistr\u014d verber\u0101t# #?\u201d",
+        "a": [
+            "\u012b",
+            "sint",
+            "\u012b",
+            "s\u012btis"
+        ]
+    },
+    {
+        "q": "9. F\u012bli\u012b respondent: \u201cNesc\u012bmus c\u016br verber\u0101t# #, n\u014ds enim bon\u012b discipul\u012b fuimus.\u201d",
+        "a": [
+            "\u012b",
+            "s\u012bmus"
+        ]
+    },
+    {
+        "q": "10. Pater dubitat num f\u012bli\u012b v\u0113rum d\u012bx# e\u014dsque interrogat num v\u0113r\u0113 bon\u012b fu# ac magistr\u014d p\u0101ru#. F\u012bli\u012b n\u014dn respondent.",
+        "a": [
+            "erint",
+            "erint",
+            "erint"
+        ]
+    },
+    {
+        "q": "11. Pater: \u201cQu\u012bn respond\u0113tis? Quaer\u014d \u0101 v\u014db\u012bs num bon\u012b discipul\u012b fu# ac magistr\u014d p\u0101ru#.\u201d",
+        "a": [
+            "eritis",
+            "eritis"
+        ]
+    },
+    {
+        "q": "12. F\u012bli\u012b: \u201cC\u016br \u0101 n\u014db\u012bs quaeris num bon\u012b discipul\u012b fu# ac magistr\u014d p\u0101ru#? Iam tibi d\u012bximus \u2018n\u014ds bon\u014ds discipul\u014ds fuisse\u2019.\u201d",
+        "a": [
+            "erimus",
+            "erimus"
+        ]
+    },
+    {
+        "q": "13. Pater: \u201cId quaer\u014d quia dubit\u014d num v\u0113rum d\u012bx#.\u201d",
+        "a": [
+            "eritis"
+        ]
+    },
+    {
+        "q": "14. F\u012bli\u012b: \u201cQuid? T\u016bne dubit\u0101s num n\u014ds v\u0113rum dix#?\u201d",
+        "a": [
+            "erimus"
+        ]
+    }
+]

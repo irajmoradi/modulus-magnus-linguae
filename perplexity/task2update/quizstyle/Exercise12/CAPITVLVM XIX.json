@@ -1,0 +1,168 @@
+[
+    {
+        "q": "1. 'Voca|t', 'vide|t', 'd\u012bc|it', 'audi|t' tempus # est.",
+        "a": [
+            "praes\u0113ns"
+        ]
+    },
+    {
+        "q": "2. 'Voc\u0101|bat', 'vid\u0113|bat', 'd\u012bc|\u0113bat', 'audi|\u0113bat' est tempus #.",
+        "a": [
+            "praeteritum"
+        ]
+    },
+    {
+        "q": "3. Praeteritum: pers. 3: [1, 2] -bat, -bant, [3, 4] -\u0113bat, -\u0113bant;",
+        "a": []
+    },
+    {
+        "q": "pers. 2: [1, 2] -#, -#, [3, 4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+        "a": [
+            "b\u0101s",
+            "b\u0101tis",
+            "\u0113b\u0101s",
+            "\u0113b\u0101tis",
+            "bam",
+            "b\u0101mus",
+            "\u0113bam",
+            "\u0113b\u0101mus"
+        ]
+    },
+    {
+        "q": "4. Pers.1\tvoc\u0101|#  \tvoc\u0101|#\t\tvid\u0113|#\tvid\u0113|#",
+        "a": [
+            "bam",
+            "b\u0101mus",
+            "bam",
+            "b\u0101mus"
+        ]
+    },
+    {
+        "q": "5. Pers.2\tvoc\u0101|#\tvoc\u0101|#\t\tvid\u0113|#\tvid\u0113|#",
+        "a": [
+            "b\u0101s",
+            "b\u0101tis",
+            "b\u0101s",
+            "b\u0101tis"
+        ]
+    },
+    {
+        "q": "6. Pers.3\tvoc\u0101|#\tvoc\u0101|#\t\tvid\u0113|#\t\tvid\u0113|#",
+        "a": [
+            "bat",
+            "bant",
+            "bat",
+            "bant"
+        ]
+    },
+    {
+        "q": "7. Pers.1\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113bam",
+            "\u0113b\u0101mus",
+            "\u0113bam",
+            "\u0113b\u0101mus"
+        ]
+    },
+    {
+        "q": "8. Pers.2\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113b\u0101s",
+            "\u0113b\u0101tis",
+            "\u0113b\u0101s",
+            "\u0113b\u0101tis"
+        ]
+    },
+    {
+        "q": "9. Pers.3\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113bat",
+            "\u0113bant",
+            "\u0113bat",
+            "\u0113bant"
+        ]
+    },
+    {
+        "q": "10. Praeteritum verb\u012b 'esse': singul\u0101ris: pers. 1 eram, 2 er#, 3 er#; pl\u016br\u0101lis: pers. 1 er#, 2 er#, 3 er#.",
+        "a": [
+            "\u0101s",
+            "at",
+            "\u0101mus",
+            "\u0101tis",
+            "ant"
+        ]
+    },
+    {
+        "q": "11. 'Voc\u0101|b\u0101tur', 'vid\u0113|b\u0101tur', 'd\u016bc|\u0113b\u0101tur', 'audi|\u0113b\u0101tur' tempus # pass\u012bv\u012b est.",
+        "a": [
+            "praeteritum"
+        ]
+    },
+    {
+        "q": "12. Praeteritum pass\u012bv\u012b: pers. 3: [1, 2] -b\u0101tur, -bantur, [3, 4] -\u0113b\u0101tur, -\u0113bantur; pers. 2: [1, 2] -#, -#, [3, 4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+        "a": [
+            "b\u0101ris",
+            "b\u0101min\u012b",
+            "\u0113b\u0101ris",
+            "\u0113b\u0101min\u012b",
+            "bar",
+            "b\u0101mur",
+            "\u0113bar",
+            "\u0113b\u0101mur"
+        ]
+    },
+    {
+        "q": "13. Pers.1\tvoc\u0101|#\tvoc\u0101|#\t\tvid\u0113|#\tvid\u0113|#",
+        "a": [
+            "bar",
+            "b\u0101mur",
+            "bar",
+            "b\u0101mur"
+        ]
+    },
+    {
+        "q": "14. Pers.2\tvoc\u0101|#\tvoc\u0101|#\t\tvid\u0113|#\tvid\u0113|#",
+        "a": [
+            "b\u0101ris",
+            "b\u0101min\u012b",
+            "b\u0101ris",
+            "b\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "15. Pers.3\tvoc\u0101|#\tvoc\u0101|#\t\tvid\u0113|#\tvid\u0113|#",
+        "a": [
+            "b\u0101tur",
+            "bantur",
+            "b\u0101tur",
+            "bantur"
+        ]
+    },
+    {
+        "q": "16. Pers.1\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113bar",
+            "\u0113b\u0101mur",
+            "\u0113bar",
+            "\u0113b\u0101mur"
+        ]
+    },
+    {
+        "q": "17. Pers.2\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113b\u0101ris",
+            "\u0113b\u0101min\u012b",
+            "\u0113b\u0101ris",
+            "\u0113b\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "18. Pers.3\td\u016bc|#\td\u016bc|#\t\taudi|#\taudi|#",
+        "a": [
+            "\u0113b\u0101tur",
+            "\u0113bantur",
+            "\u0113b\u0101tur",
+            "\u0113bantur"
+        ]
+    }
+]

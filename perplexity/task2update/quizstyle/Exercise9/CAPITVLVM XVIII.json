@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. N\u016blla st\u0113lla cl\u0101r# est quam s\u014dl: s\u014dl st\u0113lla cl\u0101r# est.",
+        "a": [
+            "ior",
+            "issima"
+        ]
+    },
+    {
+        "q": "2. N\u016blla st\u0113lla cl\u0101r# l\u016bcet quam s\u014dl: s\u014dl cl\u0101r# l\u016bcet.",
+        "a": [
+            "ius",
+            "issim\u0113"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus stult# est quam c\u0113ter\u012b discipul\u012b: M\u0101rcus discipulus stult# est.",
+        "a": [
+            "ior",
+            "issimus"
+        ]
+    },
+    {
+        "q": "4. N\u0113m\u014d stult# respondet quam M\u0101rcus: M\u0101rcus stult# respondet.",
+        "a": [
+            "ius",
+            "issim\u0113"
+        ]
+    },
+    {
+        "q": "5. N\u016bll\u012b m\u012blit\u0113s fort# sunt quam R\u014dm\u0101n\u012b; R\u014dm\u0101n\u012b m\u012blit\u0113s fort# sunt.",
+        "a": [
+            "i\u014dr\u0113s",
+            "issim\u012b"
+        ]
+    },
+    {
+        "q": "6. N\u016bll\u012b m\u012blit\u0113s fort# pugnant quam R\u014dm\u0101n\u012b; m\u012blit\u0113s R\u014dm\u0101n\u012b fort# pugnant.",
+        "a": [
+            "ius",
+            "issim\u0113"
+        ]
+    },
+    {
+        "q": "7. N\u0113m\u014d r\u0113ct# aut pulchr# scr\u012bbit quam Sextus: is r\u0113ct# ac pulcher# scr\u012bbit.",
+        "a": [
+            "ius",
+            "ius",
+            "issim\u0113",
+            "rim\u0113"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus turp# et pr\u0101v# scr\u012bbit quam c\u0113ter\u012b discipul\u012b: is turp# et pr\u0101v# scr\u012bbit.",
+        "a": [
+            "ius",
+            "ius",
+            "issim\u0113",
+            "issim\u0113"
+        ]
+    }
+]

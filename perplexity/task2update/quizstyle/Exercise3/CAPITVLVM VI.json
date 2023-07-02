@@ -1,0 +1,44 @@
+[
+    {
+        "q": "1. I\u016blius n\u014dn # v\u012bll\u0101, sed # oppid\u014d venit.",
+        "a": [
+            "\u0101|ab",
+            "ab"
+        ]
+    },
+    {
+        "q": "2. I\u016blia # Aemili\u0101 et # puer\u012bs disc\u0113dit.",
+        "a": [
+            "ab",
+            "\u0101|ab"
+        ]
+    },
+    {
+        "q": "3. I\u016blius # \u016bn\u014d ad decem numerat, neque # decem ad centum.",
+        "a": [
+            "ab",
+            "\u0101|ab"
+        ]
+    },
+    {
+        "q": "4. M\u0113dus # domin\u014d disc\u0113dit, D\u0101vus # e\u014d n\u014dn disc\u0113dit.",
+        "a": [
+            "\u0101|ab",
+            "ab"
+        ]
+    },
+    {
+        "q": "5. Britannia est procul # Itali\u0101 et # R\u014dm\u0101.",
+        "a": [
+            "ab",
+            "\u0101|ab"
+        ]
+    },
+    {
+        "q": "6. Imperium R\u014dm\u0101num est # Hisp\u0101ni\u0101 ad Arabiam et # Britanni\u0101 ad \u0100fricam.",
+        "a": [
+            "ab",
+            "\u0101|ab"
+        ]
+    }
+]

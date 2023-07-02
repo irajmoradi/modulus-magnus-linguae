@@ -1,0 +1,64 @@
+[
+    {
+        "q": "1. 'Tim\u0113|re' verbum \u0101ct\u012bvum est; 'tim\u0113|r\u012b' verbum # est.",
+        "a": [
+            "pass\u012bvum"
+        ]
+    },
+    {
+        "q": "2. 'Ver\u0113|r\u012b' est verbum #; 'ver\u0113|r\u012b' et 'l\u0101b|\u012b' verba # sunt.",
+        "a": [
+            "d\u0113p\u014dn\u0113ns",
+            "d\u0113p\u014dnentia"
+        ]
+    },
+    {
+        "q": "3. \u012anf\u012bn\u012bt\u012bvus verb\u012b d\u0113p\u014dnentis n\u014dn in -re d\u0113sinit, sed in -r\u012b/-\u012b ut \u012bnf\u012bn\u012bt\u012bvus verb\u012b #.",
+        "a": [
+            "pass\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "4. \u012anf\u012bn\u012bt\u012bvus: c\u014dn#, intu#, loqu#, opper#.",
+        "a": [
+            "\u0101r\u012b",
+            "\u0113r\u012b",
+            "\u012b",
+            "\u012br\u012b"
+        ]
+    },
+    {
+        "q": "5. Pers\u014dna tertia verb\u012b d\u0113p\u014dnentis n\u014dn in -t, -nt d\u0113sinit, sed in -tur, -ntur ut pers\u014dna tertia verb\u012b #.",
+        "a": [
+            "pass\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "6. Pers\u014dna tertia: singul\u0101ris: c\u014dn#, intu#, loqu#, opper#; pl\u016br\u0101lis: c\u014dn#, intu#, loqu#, opper#.",
+        "a": [
+            "\u0101tur",
+            "\u0113tur",
+            "itur",
+            "\u012btur",
+            "antur",
+            "entur",
+            "untur",
+            "iuntur"
+        ]
+    },
+    {
+        "q": "7. Participium verb\u012b d\u0113p\u014dnentis d\u0113sinit in -ns ut participium verb\u012b #.",
+        "a": [
+            "\u0101ct\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "8. Participium: n\u014dm. sing. c\u014dn#, intu#, loqu#, opper#.",
+        "a": [
+            "\u0101ns",
+            "\u0113ns",
+            "\u0113ns",
+            "i\u0113ns"
+        ]
+    }
+]

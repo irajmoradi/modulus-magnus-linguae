@@ -1,0 +1,21 @@
+[
+    {
+        "q": "1. 'Sal\u016bt\u0101bat' n\u014dn tempus praes\u0113ns, sed tempus # est; 'sal\u016bt\u0101vit' quoque tempus # est.",
+        "a": [
+            "praeteritum",
+            "praeteritum"
+        ]
+    },
+    {
+        "q": "2. 'Sed\u0113bat', 'exspect\u0101bat', 'sal\u016bt\u0101bat', 'sal\u016bt\u0101b\u0101tur' n\u014dn est praeteritum perfectum, sed #.",
+        "a": [
+            "imperfectum"
+        ]
+    },
+    {
+        "q": "3. 'Puls\u0101vit', 'intr\u0101vit', 'sal\u016bt\u0101vit', 'sal\u016bt\u0101ta est' n\u014dn praeteritum imperfectum, sed # est.",
+        "a": [
+            "perfectum"
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "q": "1. 'Voc\u0101' imper\u0101t\u012bvus est. 'Voc\u0101|re' est #.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Vid\u0113|re', 'p\u014dn|ere', 'aud\u012b|re' n\u014dn imper\u0101t\u012bvus, sed # est.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "3. Imper\u0101t\u012bvus: intr\u0101. \u012anf\u012bn\u012bt\u012bvus: intr#.",
+        "a": [
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "4. Imper\u0101t\u012bvus: tac\u0113. \u012anf\u012bn\u012bt\u012bvus: tac#.",
+        "a": [
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "5. Imper\u0101t\u012bvus: disc\u0113de. \u012anf\u012bn\u012bt\u012bvus: disc\u0113d#. ",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "6. Imper\u0101t\u012bvus: ven\u012b. \u012anf\u012bn\u012bt\u012bvus: ven#. ",
+        "a": [
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "7. 'Voc\u0101|re' est \u012bnf\u012bn\u012bt\u012bvus \u0101ct\u012bv\u012b. 'Voc\u0101|r\u012b' # pass\u012bv\u012b est.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'Vid\u0113|r\u012b', 'p\u014dn|\u012b', 'aud\u012b|r\u012b' n\u014dn \u012bnf\u012bn\u012bt\u012bvus \u0101ct\u012bv\u012b, sed # # est.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus",
+            "pass\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "9. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: voc#, pass\u012bvum: voc#.",
+        "a": [
+            "\u0101re",
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "10. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: vid#, pass\u012bvum vid#.",
+        "a": [
+            "\u0113re",
+            "\u0113r\u012b"
+        ]
+    },
+    {
+        "q": "11. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: p\u014dn#, pass\u012bvum: p\u014dn#.",
+        "a": [
+            "ere",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "12. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: aud#, pass\u012bvum: aud#.",
+        "a": [
+            "\u012bre",
+            "\u012br\u012b"
+        ]
+    },
+    {
+        "q": "13. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: [1, 2, 4] -#, [3] -#.",
+        "a": [
+            "re",
+            "ere"
+        ]
+    },
+    {
+        "q": "14. \u012anf\u012bn\u012bt\u012bvus: pass\u012bvum: [1, 2, 4] -#, [3] -#.",
+        "a": [
+            "r\u012b",
+            "\u012b"
+        ]
+    }
+]

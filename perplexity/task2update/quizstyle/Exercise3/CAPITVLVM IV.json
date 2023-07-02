@@ -1,0 +1,84 @@
+[
+    {
+        "q": "1. In saccul\u014d I\u016bli\u012b # est.",
+        "a": [
+            "pec\u016bnia"
+        ]
+    },
+    {
+        "q": "2. I\u016blius pec\u016bniam in saccul\u014d #.",
+        "a": [
+            "habet"
+        ]
+    },
+    {
+        "q": "3. In saccul\u014d # [: I\u016bli\u012b] mult\u012b # sunt.",
+        "a": [
+            "eius",
+            "numm\u012b"
+        ]
+    },
+    {
+        "q": "4. I\u016blius pec\u016bniam #: \"I, II, III, IV, V, VI, VII, VIII, IX, X.\"",
+        "a": [
+            "numerat"
+        ]
+    },
+    {
+        "q": "5. I\u016blius: \"Quid? Decem #?\"",
+        "a": [
+            "tantum"
+        ]
+    },
+    {
+        "q": "6. I\u016blius # pec\u016bniam suam numerat: \"I, II, III..... X.\"",
+        "a": [
+            "r\u016brsus"
+        ]
+    },
+    {
+        "q": "7. In # I\u016bli\u012b n\u014dn centum, sed # decem numm\u012b sunt.",
+        "a": [
+            "saccul\u014d",
+            "tantum"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \"Ubi est servus meus?\" I\u016blius servum # D\u0101vum n\u014dn videt. D\u0101vus #.",
+        "a": [
+            "suum",
+            "abest"
+        ]
+    },
+    {
+        "q": "9. M\u0113dus n\u014dn abest; M\u0113dus #.",
+        "a": [
+            "adest"
+        ]
+    },
+    {
+        "q": "10. D\u0101vus venit. Iam duo serv\u012b #; c\u0113ter\u012b serv\u012b #.",
+        "a": [
+            "adsunt",
+            "absunt"
+        ]
+    },
+    {
+        "q": "11. D\u0101vus dominum #: \"Salv\u0113, domine!\"",
+        "a": [
+            "sal\u016btat"
+        ]
+    },
+    {
+        "q": "12. I\u016blius D\u0101vum sal\u016btat: \"#, D\u0101ve! Ubi est pec\u016bnia mea?\"",
+        "a": [
+            "Salv\u0113"
+        ]
+    },
+    {
+        "q": "13. Davus n\u014dn respondet: D\u0101vus #.",
+        "a": [
+            "tacet"
+        ]
+    }
+]

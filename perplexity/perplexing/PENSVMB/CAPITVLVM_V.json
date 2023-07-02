@@ -1,0 +1,182 @@
+[
+    {
+        "question": "I\u016blius in magn\u0101 ~ habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 cum habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 fenestrae habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 sine habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat."
+        ],
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat."
+    },
+    {
+        "question": "I\u016blius in magn\u0101 v\u012bll\u0101 ~. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 d\u0113lectant. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 carpit. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 v\u012bll\u0101. Aemilia cum e\u014d [: I\u016bli\u014d] habitat."
+        ],
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat."
+    },
+    {
+        "question": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum ~ [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum habitat [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum hort\u014d [: I\u016bli\u014d] habitat.",
+            "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum ros\u012bs [: I\u016bli\u014d] habitat."
+        ],
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat."
+    },
+    {
+        "question": "I\u016blius Aemiliam ~, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+        "evalsentences": [
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam Id, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam ea, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam ex, quia ea [: Aemilia] bona et pulchra f\u0113mina est."
+        ],
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est."
+    },
+    {
+        "question": "I\u016blius Aemiliam amat, quia ~ [: Aemilia] bona et pulchra f\u0113mina est.",
+        "evalsentences": [
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia pulchra [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia \u0101tri\u014d [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia aqua [: Aemilia] bona et pulchra f\u0113mina est."
+        ],
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est."
+    },
+    {
+        "question": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et ~ f\u0113mina est.",
+        "evalsentences": [
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et ab f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et e\u014d f\u0113mina est.",
+            "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et cum f\u0113mina est."
+        ],
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est."
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est ~ l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+        "evalsentences": [
+            "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est fenestrae l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est sine l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est d\u0113lectant l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d."
+        ],
+        "answer": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d."
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed ~ vir\u014d su\u014d.",
+        "evalsentences": [
+            "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed carpit vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed v\u012bll\u0101 vir\u014d su\u014d.",
+            "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed habitat vir\u014d su\u014d."
+        ],
+        "answer": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d."
+    },
+    {
+        "question": "I\u016blia ~ Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+        "evalsentences": [
+            "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+            "I\u016blia hort\u014d Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+            "I\u016blia ros\u012bs Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+            "I\u016blia Id Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est."
+        ],
+        "answer": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est."
+    },
+    {
+        "question": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ~ est.",
+        "evalsentences": [
+            "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+            "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ea est.",
+            "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in amat est.",
+            "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ex est."
+        ],
+        "answer": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est."
+    },
+    {
+        "question": "I\u016blia ros\u0101s ~ et ex hort\u014d venit cum V ros\u012bs.",
+        "evalsentences": [
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s pulchra et ex hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s \u0101tri\u014d et ex hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s aqua et ex hort\u014d venit cum V ros\u012bs."
+        ],
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs."
+    },
+    {
+        "question": "I\u016blia ros\u0101s carpit et ~ hort\u014d venit cum V ros\u012bs.",
+        "evalsentences": [
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s carpit et ab hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s carpit et e\u014d hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s carpit et cum hort\u014d venit cum V ros\u012bs."
+        ],
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs."
+    },
+    {
+        "question": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ~.",
+        "evalsentences": [
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V fenestrae.",
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V sine.",
+            "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V d\u0113lectant."
+        ],
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs."
+    },
+    {
+        "question": "Puella laeta est: rosae eam ~.",
+        "evalsentences": [
+            "Puella laeta est: rosae eam d\u0113lectant.",
+            "Puella laeta est: rosae eam carpit.",
+            "Puella laeta est: rosae eam v\u012bll\u0101.",
+            "Puella laeta est: rosae eam habitat."
+        ],
+        "answer": "Puella laeta est: rosae eam d\u0113lectant."
+    },
+    {
+        "question": "Ubi est impluvium? ~ [: impluvium] est in \u0101tri\u014d.",
+        "evalsentences": [
+            "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+            "Ubi est impluvium? hort\u014d [: impluvium] est in \u0101tri\u014d.",
+            "Ubi est impluvium? ros\u012bs [: impluvium] est in \u0101tri\u014d.",
+            "Ubi est impluvium? ea [: impluvium] est in \u0101tri\u014d."
+        ],
+        "answer": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d."
+    },
+    {
+        "question": "Ubi est impluvium? Id [: impluvium] est in ~.",
+        "evalsentences": [
+            "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+            "Ubi est impluvium? Id [: impluvium] est in amat.",
+            "Ubi est impluvium? Id [: impluvium] est in ex.",
+            "Ubi est impluvium? Id [: impluvium] est in pulchra."
+        ],
+        "answer": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d."
+    },
+    {
+        "question": "In impluvi\u014d ~ est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+        "evalsentences": [
+            "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+            "In impluvi\u014d \u0101tri\u014d est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+            "In impluvi\u014d ab est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+            "In impluvi\u014d e\u014d est. In \u0101tri\u014d n\u016bllae fenestrae sunt."
+        ],
+        "answer": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt."
+    },
+    {
+        "question": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae ~ sunt.",
+        "evalsentences": [
+            "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+            "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae cum sunt.",
+            "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae sine sunt.",
+            "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae d\u0113lectant sunt."
+        ],
+        "answer": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt."
+    }
+]

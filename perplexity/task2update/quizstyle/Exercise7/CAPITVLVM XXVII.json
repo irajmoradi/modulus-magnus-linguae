@@ -1,0 +1,54 @@
+[
+    {
+        "q": "1. I\u016blius col\u014dn\u014d imperat ut merc\u0113dem solv#: \u201cImper\u014d tibi ut merc\u0113dem solv#!\u201d",
+        "a": [
+            "at",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "2. I\u016blius: \u201cH\u012bs litter\u012bs magister m\u0113 monet ut merc\u0113dem solv#.\u201d",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "3. Dux m\u012blit\u0113s monet ut fortiter pugn# et host\u0113s vinc#: \u201cMone\u014d v\u014ds ut fortiter pugn# et host\u0113s vinc#!\u201d",
+        "a": [
+            "ent",
+            "ant",
+            "\u0113tis",
+            "\u0101tis"
+        ]
+    },
+    {
+        "q": "4. M\u012bles fortissimus: \u201cAud\u012bte, am\u012bc\u012b: dux nos monet ut fortiter pugn# et host\u0113s vinc#.\u201d",
+        "a": [
+            "\u0113mus",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "5. I\u016blius ad am\u012bcum absentem scr\u012bbit: \u201cT\u0113 \u014dr\u014d ut ad m\u0113 scr\u012bb# aut ipse veni#. C\u016br\u0101 ut vale# et m\u0113 am#!\u201d",
+        "a": [
+            "\u0101s",
+            "\u0101s",
+            "\u0101s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "6. I\u016blia: \u201cM\u0101ter semper m\u0113 monet ut cauta s#, nec umquam monet v\u014ds, puer\u012b, ut caut\u012b s#.\u201d",
+        "a": [
+            "im",
+            "\u012btis"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \u201cM\u0101ter t\u0113 monet ut cauta s# quia t\u016b cauta n\u014dn es; n\u014ds v\u0113r\u014d caut\u012b sumus: itaque opus n\u014dn est n\u014ds mon\u0113re ut caut\u012b s#.\u201d",
+        "a": [
+            "\u012bs",
+            "\u012bmus"
+        ]
+    }
+]

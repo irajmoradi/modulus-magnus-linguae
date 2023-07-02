@@ -1,0 +1,136 @@
+[
+    {
+        "q": "1. H# servus est L\u0113ander, ill# servus est Syrus.",
+        "a": [
+            "ic",
+            "e"
+        ]
+    },
+    {
+        "q": "2. L\u0113ander h# saccum portat, ill# saccum portat Syrus.",
+        "a": [
+            "unc",
+            "um"
+        ]
+    },
+    {
+        "q": "3. H# saccus port\u0101tur ab h# serv\u014d, ill# ab ill#.",
+        "a": [
+            "ic",
+            "\u014dc",
+            "e",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "4. Saccus h# serv\u012b magnus est, ill# est parvus.",
+        "a": [
+            "uius",
+            "\u012bus"
+        ]
+    },
+    {
+        "q": "5. In h# sacc\u014d m\u0101la sunt, in ill# pira.",
+        "a": [
+            "\u014dc",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. I\u016blius h# serv\u014d m\u0101lum dat, ill# dat pirum.",
+        "a": [
+            "uic",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "7. H# f\u0113mina est L\u0233dia, ill# f\u0113mina est D\u014drippa.",
+        "a": [
+            "aec",
+            "a"
+        ]
+    },
+    {
+        "q": "8. M\u0113dus h# f\u0113minam amat, n\u014dn ill#.",
+        "a": [
+            "anc",
+            "am"
+        ]
+    },
+    {
+        "q": "9. Ab h# f\u0113min\u0101 M\u0113dus am\u0101tur, n\u014dn ab ill#.",
+        "a": [
+            "\u0101c",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus am\u012bcus h# f\u0113minae est, n\u014dn ill#.",
+        "a": [
+            "uius",
+            "\u012bus"
+        ]
+    },
+    {
+        "q": "11. M\u0113dus h# f\u0113minae \u0101nulum dat, n\u014dn ill#.",
+        "a": [
+            "uic",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "12. H# cubiculum magnum est, ill# est parvum.",
+        "a": [
+            "oc",
+            "ud"
+        ]
+    },
+    {
+        "q": "13. Fenestra h# cubicul\u012b n\u014dn tam parva est quam ill#.",
+        "a": [
+            "uius",
+            "\u012bus"
+        ]
+    },
+    {
+        "q": "14. I\u016blius et Aemilia in h# cubicul\u014d dormiunt, n\u014dn in ill#.",
+        "a": [
+            "\u014dc",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "15. L\u0233dia: \"Aspice ill# \u014drn\u0101menta, M\u0113de, ill# \u0101nul\u014ds et ill# gemm\u0101s! N\u014dnne pulchr\u012b sunt ill# \u0101nul\u012b et ill# gemmae?\"",
+        "a": [
+            "a",
+            "\u014ds",
+            "\u0101s",
+            "\u012b",
+            "ae"
+        ]
+    },
+    {
+        "q": "16. Alb\u012bnus: \"Aspicite h# \u014drn\u0101menta, h# \u0101nul\u014ds et h# gemm\u0101s! N\u014dnne pulchr\u012b sunt h# \u0101nul\u012b et h# gemmae?\"",
+        "a": [
+            "aec",
+            "\u014ds",
+            "\u0101s",
+            "\u012b",
+            "ae"
+        ]
+    },
+    {
+        "q": "17. L\u0233dia: \"Quantum est pretium h# \u0101nul\u014drum et h# gemm\u0101rum?\"",
+        "a": [
+            "\u014drum",
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "18. M\u0113dus: \"Nec in h# \u0101nul\u012bs nec in ill# gemmae sunt.\"",
+        "a": [
+            "\u012bs",
+            "\u012bs"
+        ]
+    }
+]

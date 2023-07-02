@@ -1,0 +1,42 @@
+[
+    {
+        "q": "1. I\u016blius Aemiliae \u014dsculum dat = I\u016blius Aemiliam #.",
+        "a": [
+            "\u014dscul\u0101tur"
+        ]
+    },
+    {
+        "q": "2. Aemilia: \"Amor meus # t\u0113 tempore n\u014dn # [= minor fit], imm\u014d v\u0113r\u014d #.\" \t",
+        "a": [
+            "erg\u0101",
+            "minuitur",
+            "aug\u0113tur"
+        ]
+    },
+    {
+        "q": "3. I\u016blius semper # Aemili\u0101 c\u014dgit\u0101bat.",
+        "a": [
+            "d\u0113"
+        ]
+    },
+    {
+        "q": "4. Aemilia: \"T\u016b s\u014dlus am\u014dre me\u014d # es, I\u016bl\u012b.\"",
+        "a": [
+            "dignus"
+        ]
+    },
+    {
+        "q": "5. Aemilia m\u0101tr\u014dna # # [= tenuis] est quam virg\u014d erat.",
+        "a": [
+            "minus",
+            "gracilis"
+        ]
+    },
+    {
+        "q": "6. Aemilia nec minus nec # \u0113st quam # est [= necesse est].",
+        "a": [
+            "pl\u016bs",
+            "opus"
+        ]
+    }
+]

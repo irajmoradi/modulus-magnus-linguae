@@ -1,0 +1,101 @@
+[
+    {
+        "q": "1. N\u014dm. \tcorpus\t\tcorpor|#\t\tmar|#\tmar|#",
+        "a": [
+            "a",
+            "e",
+            "ia"
+        ]
+    },
+    {
+        "q": "2. Acc. \t\tcorpus\t\tcorpor|#\t\tmar|#\tmar|#",
+        "a": [
+            "a",
+            "e",
+            "ia"
+        ]
+    },
+    {
+        "q": "3. Gen. \tcorpor|#\tcorpor|#\t\tmar|#\tmar|#",
+        "a": [
+            "is",
+            "um",
+            "is",
+            "ium"
+        ]
+    },
+    {
+        "q": "4. Dat. \t\tcorpor|#\tcorpor|#\t\tmar|#\tmar|#",
+        "a": [
+            "\u012b",
+            "ibus",
+            "\u012b",
+            "ibus"
+        ]
+    },
+    {
+        "q": "5. Abl. \t\tcorpor|#\tcorpor|#\t\tmar|#\tmar|#\t",
+        "a": [
+            "e",
+            "ibus",
+            "\u012b",
+            "ibus"
+        ]
+    },
+    {
+        "q": "6. 'Corpor|a' et 'mar|ia' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'Corpor|e' est # #.",
+        "a": [
+            "abl\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "8. 'Corpor|\u012b' est # #.",
+        "a": [
+            "dat\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "9. 'Corpor|ibus' et 'mar|ibus' est # aut # pl\u016br\u0101lis.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "10. 'Corporis' et 'mar|is' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "11. 'Corpor|um' et 'mar|ium' est # #.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "12. 'Corpus' et 'mar|e' # aut # singul\u0101ris est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "13. 'Mar|\u012b' est # aut # singul\u0101ris.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    }
+]

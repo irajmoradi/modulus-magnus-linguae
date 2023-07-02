@@ -1,0 +1,34 @@
+[
+    {
+        "q": "1. In Itali\u0101 M\u0113dus miser er#, quia dominum tim\u0113# ac procul ab am\u012bc\u0101 su\u0101 habit\u0101#.",
+        "a": [
+            "at",
+            "bat",
+            "bat"
+        ]
+    },
+    {
+        "q": "2. In Graeci\u0101 M\u0113dus be\u0101tus er#, quia cum am\u012bc\u0101 su\u0101 habit\u0101# nec dominum tim\u0113#.",
+        "a": [
+            "it",
+            "bit",
+            "bit"
+        ]
+    },
+    {
+        "q": "3. In Itali\u0101 M\u0113dus et L\u0233dia miser\u012b er#, quia dominum M\u0113d\u012b tim\u0113# nec in e\u0101dem urbe habit\u0101#.",
+        "a": [
+            "ant",
+            "bant",
+            "bant"
+        ]
+    },
+    {
+        "q": "4. In Graeci\u0101 M\u0113dus et L\u0233dia be\u0101t\u012b er#, quia in e\u0101dem dom\u014d habit\u0101# nec dominum R\u014dm\u0101num tim\u0113#.",
+        "a": [
+            "unt",
+            "bunt",
+            "bunt"
+        ]
+    }
+]

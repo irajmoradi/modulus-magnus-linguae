@@ -1,0 +1,55 @@
+[
+    {
+        "q": "1. Multae \u012bnsulae = # # #.",
+        "a": [
+            "magnus",
+            "numerus",
+            "\u012bnsul\u0101rum"
+        ]
+    },
+    {
+        "q": "2. Pauc\u012b fluvi\u012b = # # #.",
+        "a": [
+            "parvus",
+            "numerus",
+            "fluvi\u014drum"
+        ]
+    },
+    {
+        "q": "3. Multa oppida = # # #.",
+        "a": [
+            "magnus",
+            "numerus",
+            "oppid\u014drum"
+        ]
+    },
+    {
+        "q": "4. Pauc\u012b l\u012bber\u012b = # # #.",
+        "a": [
+            "parvus",
+            "numerus",
+            "l\u012bber\u014drum"
+        ]
+    },
+    {
+        "q": "5. Magnus numerus voc\u0101bul\u014drum = # #.",
+        "a": [
+            "multa",
+            "voc\u0101bula"
+        ]
+    },
+    {
+        "q": "6. Magnus numerus litter\u0101rum = # #.",
+        "a": [
+            "multae",
+            "litterae"
+        ]
+    },
+    {
+        "q": "7. Parvus numerus exempl\u014drum = # #. ",
+        "a": [
+            "pauca",
+            "exempla"
+        ]
+    }
+]

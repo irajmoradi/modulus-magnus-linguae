@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Unde venit l\u016bx l\u016bnae? ...",
+        "a": [
+            "l\u016bx l\u016bnae \u0101 s\u014dle venit"
+        ]
+    },
+    {
+        "q": "2. Num t\u014dta l\u016bna s\u014dle ill\u016bstr\u0101tur? ...",
+        "a": [
+            "pars l\u016bnae tantum s\u014dle ill\u016bstr\u0101tur"
+        ]
+    },
+    {
+        "q": "3. Quis d\u012bcitur di\u0113s tertius decimus m\u0113nsis Apr\u012blis? ...",
+        "a": [
+            "is di\u0113s d\u012bcitur 'n\u014dnae Apr\u012bl\u0113s'"
+        ]
+    },
+    {
+        "q": "4. Qu\u014d m\u0113nse longissim\u012b sunt di\u0113s? ...",
+        "a": [
+            "m\u0113nse I\u016bni\u014d di\u0113s longissim\u012b sunt"
+        ]
+    },
+    {
+        "q": "5. Quae sunt quattuor tempora ann\u012b? ...",
+        "a": [
+            "sunt aest\u0101s, hiems, v\u0113r, autumnus"
+        ]
+    },
+    {
+        "q": "6. \u0100 qu\u014d m\u0113nse incipit annus? ...",
+        "a": [
+            "annus \u0101 m\u0113nse I\u0101nu\u0101ri\u014d incipit"
+        ]
+    },
+    {
+        "q": "7. Quod ann\u012b tempus incipit \u0101 m\u0113nse Decembr\u012b? ...",
+        "a": [
+            "\u0101 Decembr\u012b incipit hiems"
+        ]
+    },
+    {
+        "q": "8. Qu\u012b m\u0113nsis ann\u012b fr\u012bgidissimus est? ...",
+        "a": [
+            "m\u0113nsis fr\u012bgidissimus est I\u0101nu\u0101rius"
+        ]
+    },
+    {
+        "q": "9. C\u016br mult\u012b homin\u0113s urbem relinquunt aest\u0101te? ...",
+        "a": [
+            "... quia aest\u0101s tempus calidissimum est"
+        ]
+    },
+    {
+        "q": "10. Quand\u014d folia d\u0113 arboribus cadunt? ...",
+        "a": [
+            "autumn\u014d folia d\u0113 arboribus cadunt"
+        ]
+    },
+    {
+        "q": "11. Quand\u014d arbor\u0113s nov\u012bs foli\u012bs \u014drnantur? ...",
+        "a": [
+            "v\u0113re arbor\u0113s nov\u012bs foli\u012bs \u014drnantur"
+        ]
+    },
+    {
+        "q": "12. Qu\u012b di\u0113s ann\u012b brevissimus est? ...",
+        "a": [
+            "di\u0113s brevissimus est ante diem oct\u0101vum kalend\u0101s I\u0101nu\u0101ri\u0101s"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "q": "1. Magister librum aperit ac # incipit. ",
+        "a": [
+            "recit\u0101re"
+        ]
+    },
+    {
+        "q": "2. Dum magister recitat, # discipul\u012b dormiunt [= n\u016bllus discipulus vigilat].",
+        "a": [
+            "omn\u0113s"
+        ]
+    },
+    {
+        "q": "3. Discipul\u012b tam bene dormiunt quam dom\u012b in # [= parv\u012bs lect\u012bs].",
+        "a": [
+            "lectul\u012bs"
+        ]
+    },
+    {
+        "q": "4. Erg\u014d posteri\u014drem libr\u012b partem n\u014dn audiunt, sed tantum # partem.",
+        "a": [
+            "pri\u014drem"
+        ]
+    },
+    {
+        "q": "5. Magister e\u014ds verberat. Discipul\u012b: \"C\u016br # verber\u0101s?\"",
+        "a": [
+            "n\u014ds"
+        ]
+    },
+    {
+        "q": "6. Magister: \"# verber\u014d, quod ali\u014d mod\u014d # excit\u0101re n\u014dn possum.\"",
+        "a": [
+            "V\u014ds",
+            "v\u014ds"
+        ]
+    },
+    {
+        "q": "7. In l\u016bd\u014d dorm\u012bre n\u014dn #.",
+        "a": [
+            "licet"
+        ]
+    }
+]

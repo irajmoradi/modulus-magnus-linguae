@@ -1,0 +1,1325 @@
+{
+    "id": 29,
+    "name": "CAPITVLVM XXX",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Vir pr\u016bd\u0113ns neg\u014dtia sua pr\u016bd# agit.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "2. Agricola d\u012blig\u0113ns agr\u014ds d\u012blig# colit.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "3. P\u0101stor negleg\u0113ns ov\u0113s su\u0101s negleg# c\u016brat.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "4. Sextus n\u014dn r\u0101r\u014d, sed frequ# laud\u0101tur.\t",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "5. Hom\u014d c\u014dnst\u0101ns et pati\u0113ns dol\u014dr\u0113s c\u014dnst# ac pati# fert.",
+                    "a": [
+                        "anter",
+                        "enter"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # d\u012bcitur cibus qu\u012b # h\u014dr\u0101 decim\u0101 s\u016bmitur.",
+                    "a": [
+                        "C\u0113na",
+                        "circiter"
+                    ]
+                },
+                {
+                    "q": "2. Corn\u0113lius et Oront\u0113s, am\u012bc\u012b et # I\u016bli\u012b, ab Aemili\u0101 # [= accipiuntur], dum I\u016blius in # lav\u0101tur.",
+                    "a": [
+                        "hospit\u0113s",
+                        "recipiuntur",
+                        "balne\u014d"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia mar\u012btum suum # exc\u016bsat: \u201cI\u016blius tard\u0113 revertit ex agr\u012bs, quod nimis # ambul\u0101vit.\u201d",
+                    "a": [
+                        "tardum",
+                        "di\u016b"
+                    ]
+                },
+                {
+                    "q": "4. Tum # [= d\u0113nique] I\u016blius intrat et am\u012bc\u014ds # iubet: \u201cSalv\u0113te, am\u012bc\u012b!\u201d",
+                    "a": [
+                        "d\u0113mum",
+                        "salv\u0113re"
+                    ]
+                },
+                {
+                    "q": "5. Corn\u0113lius I\u016blium prius # n\u014dn potuit prae neg\u014dti\u012bs urb\u0101n\u012bs.",
+                    "a": [
+                        "v\u012bsere"
+                    ]
+                },
+                {
+                    "q": "6. In v\u012bll\u0101 su\u0101 dominus \u014dti\u014d # [= d\u0113lect\u0101tur] atque post neg\u014dtia #.",
+                    "a": [
+                        "fruitur",
+                        "requi\u0113scit"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius, qu\u012b ipse in agr\u012bs n\u014dn lab\u014drat, v\u012btam r\u016bsticam n\u014dn #, sed # esse ex\u012bstimat.",
+                    "a": [
+                        "molestam",
+                        "i\u016bcundam"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u012b ex long\u014d # revertit, r\u0113s nov\u0101s # [< n\u016bntius] potest.",
+                    "a": [
+                        "itinere",
+                        "n\u016bnti\u0101re"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012b omnia neg\u014dtia sua bene c\u016brat hom\u014d # est.",
+                    "a": [
+                        "d\u012blig\u0113ns"
+                    ]
+                },
+                {
+                    "q": "10. Dux magn\u012b exercit\u016bs mult\u012bs m\u012blitibus #.",
+                    "a": [
+                        "praeest"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u012b \u012br\u0101tus est frontem #.",
+                    "a": [
+                        "contrahit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid agit I\u016blius ex agr\u012bs reversus? ...",
+                    "a": [
+                        "ex agr\u012bs reversus I\u016blius balneum petit"
+                    ]
+                },
+                {
+                    "q": "2. Lav\u0101turne I\u016blius aqu\u0101 fr\u012bgid\u0101 tantum? ...",
+                    "a": [
+                        "dominus et aqu\u0101 calid\u0101 et aqu\u0101 fr\u012bgid\u0101 lav\u0101tur"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u012b adveniunt dum I\u016blius vestem novam induit? ...",
+                    "a": [
+                        "am\u012bci et hospit\u0113s eius adveniunt"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012b sunt Corn\u0113lius et Oront\u0113s? ...",
+                    "a": [
+                        "Corn\u0113lius et Oront\u0113s sunt hospit\u0113s I\u016bli\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Fabia et Paula quae sunt? ...",
+                    "a": [
+                        "Fabia est uxor Corn\u0113li\u012b et Paula uxor Orontis"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u0101r\u0113 hospit\u0113s e\u0101 h\u014dr\u0101 adveniunt? ...",
+                    "a": [
+                        "hospit\u0113s adveniunt quia I\u016blius e\u014ds ad c\u0113nam voc\u0101vit"
+                    ]
+                },
+                {
+                    "q": "7. Quis hospit\u0113s advenient\u0113s recipit? ...",
+                    "a": [
+                        "hospit\u0113s recipit Aemilia, quia I\u016blius n\u014dndum \u0113 balne\u014d exiit"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014dmodo Aemilia mar\u012btum suum tardum exc\u016bsat? ...",
+                    "a": [
+                        "Aemilia d\u012bcit \u2018mar\u012btum suum tard\u0113 ex agr\u012bs revertisse\u2019"
+                    ]
+                },
+                {
+                    "q": "9. Quid I\u016blius intr\u0101ns Corn\u0113lium interrogat? ...",
+                    "a": [
+                        "Corn\u0113lium interrogat c\u016br tam r\u0101r\u014d eum videat"
+                    ]
+                },
+                {
+                    "q": "10. Quid respondet Corn\u0113lius? ...",
+                    "a": [
+                        "respondet \u2018s\u0113 urbem prius relinquere n\u014dn potuisse prae neg\u014dti\u012bs su\u012bs\u2019"
+                    ]
+                },
+                {
+                    "q": "11. Quand\u014d Oront\u0113s ex itinere revertit? ...",
+                    "a": [
+                        "\u012bdibus M\u0101i\u012bs revertit"
+                    ]
+                },
+                {
+                    "q": "12. Quid I\u016blius aud\u012bre cupit? ...",
+                    "a": [
+                        "I\u016blius aliquid d\u0113 r\u0113bus urb\u0101n\u012bs aud\u012bre cupit"
+                    ]
+                },
+                {
+                    "q": "13. Num I\u016blius ipse in agr\u012bs lab\u014drat? ...",
+                    "a": [
+                        "I\u016bli\u014d necesse n\u014dn est in agr\u012bs lab\u014dr\u0101re"
+                    ]
+                },
+                {
+                    "q": "14. T\u016bne v\u012btam r\u016bsticam molestam esse c\u0113ns\u0113s? ...",
+                    "a": [
+                        "ego v\u012btam r\u016bsticam i\u016bcundam esse c\u0113nse\u014d"
+                    ]
+                },
+                {
+                    "q": "15. Utrum r\u016br\u012b an in urbe v\u012bvere m\u0101v\u012bs? ...",
+                    "a": [
+                        "r\u016br\u012b v\u012bvere m\u0101l\u014d quam in urbe"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nDiscipulus scr\u012bbit id quod magister dict\u0101vit.\nDiscipulus scr\u012bb\u0113bat id quod magister dict\u0101verat.\nDiscipulus scr\u012bbet id quod magister dict\u0101verit.\n",
+            "questions": [
+                {
+                    "q": "1. Dominus servum laudat quod industri\u0113 lab\u014dr\u0101v#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "2. Her\u012b servus laud\u0101tus est quod industri\u0113 lab\u014dr\u0101v#. ",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "3. Cr\u0101s r\u016brsus laud\u0101bitur s\u012b industri\u0113 lab\u014dr\u0101v#.",
+                    "a": [
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "4. Dominus serv\u014ds laudat quod industri\u0113 lab\u014dr\u0101v#.",
+                    "a": [
+                        "\u0113runt"
+                    ]
+                },
+                {
+                    "q": "5. Her\u012b serv\u012b laud\u0101t\u012b sunt quod industri\u0113 lab\u014dr\u0101v#.",
+                    "a": [
+                        "erant"
+                    ]
+                },
+                {
+                    "q": "6. Cr\u0101s r\u016brsus laud\u0101buntur s\u012b industri\u0113 lab\u014dr\u0101v#.",
+                    "a": [
+                        "erint"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. C\u0113n\u0101bimus, cum pr\u012bmum cocus c\u0113nam par\u0101v# et serv\u012b tricl\u012bnium ex\u014drn\u0101v#.",
+                    "a": [
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "2. C\u0113n\u0101bimus, cum pr\u012bmum tricl\u012bnium ex\u014drn\u0101t# #.",
+                    "a": [
+                        "um",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "3. Puer\u012b \u016bmid\u012b erunt, s\u012b per imbrem ambul\u0101v#.",
+                    "a": [
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "4. Puellae pl\u014dr\u0101bunt, s\u012b \u0101 puer\u012bs puls\u0101t# #.",
+                    "a": [
+                        "ae",
+                        "erunt"
+                    ]
+                },
+                {
+                    "q": "5. Cum I\u016blius \u016bnam h\u014dram dorm\u012bv#, ambul\u0101bit, cum satis di\u016b ambul\u0101v#, lav\u0101tum \u012bbit.",
+                    "a": [
+                        "erit",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "6. M\u012blit\u0113s \u0101 duce laud\u0101buntur, s\u012b fortiter pugn\u0101v#.",
+                    "a": [
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "7. Pater gaud\u0113bit, s\u012b f\u012blius industrius fu# et \u0101 magistr\u014d laud\u0101t# #.",
+                    "a": [
+                        "erit",
+                        "us",
+                        "erit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. R\u014dm\u0101n\u012b circiter h\u014dr\u0101 decim\u0101 # [= c\u0113nam s\u016bmunt].",
+                    "a": [
+                        "c\u0113nant"
+                    ]
+                },
+                {
+                    "q": "2. S\u012b quis nihil \u0113st nec bibit, # et # patitur.",
+                    "a": [
+                        "famem",
+                        "sitim"
+                    ]
+                },
+                {
+                    "q": "3. Sine aqu\u0101 # [= paulum temporis] v\u012bvere possumus.",
+                    "a": [
+                        "paulisper"
+                    ]
+                },
+                {
+                    "q": "4. Oront\u0113s: \u201c# [= ego quidem] sine v\u012bn\u014d v\u012bvere n\u014dn possum. Magnum # est v\u012bnum.\"",
+                    "a": [
+                        "Equidem",
+                        "bonum"
+                    ]
+                },
+                {
+                    "q": "5. Ex mal\u012bs minimum # oportet.",
+                    "a": [
+                        "\u0113ligere"
+                    ]
+                },
+                {
+                    "q": "6. # est locus ubi cibus # et c\u0113na par\u0101tur.",
+                    "a": [
+                        "Cul\u012bna",
+                        "coquitur"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012b cibum coquit et c\u0113nam # in cul\u012bn\u0101, # d\u012bcitur.",
+                    "a": [
+                        "parat",
+                        "cocus|coquus"
+                    ]
+                },
+                {
+                    "q": "8. # vocantur serv\u012b qu\u012b cibum et v\u012bnum in tricl\u012bnium ferunt.",
+                    "a": [
+                        "Ministr\u012b"
+                    ]
+                },
+                {
+                    "q": "9. Ante # tricl\u012bnium fl\u014dribus # [= \u014drn\u0101tur] et vestis preti\u014dsa super lect\u014ds #.",
+                    "a": [
+                        "conv\u012bvium",
+                        "ex\u014drn\u0101tur",
+                        "sternitur"
+                    ]
+                },
+                {
+                    "q": "10. In # sunt tr\u0113s lect\u012b: lectus summus, medius, #.",
+                    "a": [
+                        "tricl\u012bni\u014d",
+                        "\u012bmus"
+                    ]
+                },
+                {
+                    "q": "11. Quot # in singul\u012bs lect\u012bs #? # aut # aut #.",
+                    "a": [
+                        "conv\u012bvae",
+                        "accubant",
+                        "Singul\u012b",
+                        "b\u012bn\u012b",
+                        "tern\u012b"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius: \u201cC\u0113nam iam # par\u0101tam esse oportuit!\u201d",
+                    "a": [
+                        "pr\u012bdem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Utrum malum m\u0101ius est, fam\u0113sne an sitis? ...",
+                    "a": [
+                        "sitis est malum m\u0101ius quam fam\u0113s"
+                    ]
+                },
+                {
+                    "q": "2. Quid Oront\u0113s bibere m\u0101vult quam aquam? ...",
+                    "a": [
+                        "Oront\u0113s v\u012bnum bibere m\u0101vult"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u0101r\u0113 homin\u0113s edunt et bibunt? ...",
+                    "a": [
+                        "edimus et bibimus ut v\u012bv\u0101mus"
+                    ]
+                },
+                {
+                    "q": "4. Ubi coquitur cibus? ...",
+                    "a": [
+                        "in cul\u012bn\u0101 cibus coquitur"
+                    ]
+                },
+                {
+                    "q": "5. Cuius neg\u014dtium est cibum coquere? ...",
+                    "a": [
+                        "cibum coquere est neg\u014dtium coc\u012b"
+                    ]
+                },
+                {
+                    "q": "6. Quot lect\u012b et quot m\u0113nsae sunt in tricl\u012bni\u014d? ...",
+                    "a": [
+                        "in tricl\u012bni\u014d sunt tr\u0113s lect\u012b et \u016bna m\u0113nsa"
+                    ]
+                },
+                {
+                    "q": "7. Quibus r\u0113bus ex\u014drn\u0101tur tricl\u012bnium? ...",
+                    "a": [
+                        "tricl\u012bnium ex\u014drn\u0101tur fl\u014dribus et veste pulcherrim\u0101"
+                    ]
+                },
+                {
+                    "q": "8. Num conv\u012bvae in sell\u012bs sedent\u0113s c\u0113nant? ...",
+                    "a": [
+                        "conv\u012bvae n\u014dn sedent\u0113s, sed cubant\u0113s c\u0113nant"
+                    ]
+                },
+                {
+                    "q": "9. Quot conv\u012bvae in singul\u012bs lect\u012bs accubant? ...",
+                    "a": [
+                        "in singul\u012bs lect\u012bs singul\u012b aut b\u012bn\u012b aut tern\u012b conv\u012bvae accubant"
+                    ]
+                },
+                {
+                    "q": "10. Quand\u014d conv\u012bvae in tricl\u012bnium intr\u0101bunt? ...",
+                    "a": [
+                        "conv\u012bvae intr\u0101bunt cum pr\u012bmum tricl\u012bnium \u014drn\u0101tum erit"
+                    ]
+                },
+                {
+                    "q": "11. Quot sunt bis b\u012bna? ...",
+                    "a": [
+                        "bis b\u012bna sunt quattuor"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Discipulus verber\u0101bitur, s\u012b piger fu#: s\u012b male comput\u0101v#, foed\u0113 scr\u012bps# atque in l\u016bd\u014d dorm\u012bv#.",
+                    "a": [
+                        "erit",
+                        "erit",
+                        "erit",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "2. Magister: \u201cT\u0113 verber\u0101b\u014d, s\u012b piger fu# ac dorm\u012bv#!\u201d",
+                    "a": [
+                        "eris",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "3. Discipulus: \u201cQuid mihi dabis, s\u012b industrius fu#? s\u012b bene comput\u0101v#, pulchr\u0113 scr\u012bps# nec in l\u016bd\u014d dorm\u012bv#?\u201d",
+                    "a": [
+                        "er\u014d",
+                        "er\u014d",
+                        "er\u014d",
+                        "er\u014d"
+                    ]
+                },
+                {
+                    "q": "4. Magister: \u201cNihil tibi dab\u014d, sed laud\u0101b\u014d t\u0113, s\u012b bene comput\u0101v# et pulchr\u0113 scr\u012bps#.\u201d",
+                    "a": [
+                        "eris",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "5. Discipul\u012b verber\u0101buntur, s\u012b pigr\u012b fu#: s\u012b male comput\u0101v#, foed\u0113 scr\u012bps# atque in l\u016bd\u014d dorm\u012bv#.",
+                    "a": [
+                        "erint",
+                        "erint",
+                        "erint",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "6. Magister: \u201cV\u014ds verber\u0101b\u014d, s\u012b pigr\u012b fu# ac dorm\u012bv#!\u201d",
+                    "a": [
+                        "eritis",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "7. Discipul\u012b: \u201cQuid n\u014db\u012bs dabis, s\u012b industri\u012b fu#? s\u012b bene comput\u0101v# et pulchr\u0113 scr\u012bps#?\u201d",
+                    "a": [
+                        "erimus",
+                        "erimus",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "8. Magister: \u201cNihil v\u014db\u012bs dab\u014d, sed laud\u0101b\u014d v\u014ds, s\u012b bene comput\u0101v# et pulchr\u0113 scrips#.\u201d",
+                    "a": [
+                        "eritis",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012bntus: \u201cQuid t\u016b faci\u0113s, M\u0101rce, s\u012b ab ali\u014d puer\u014d puls\u0101t# #?\u201d",
+                    "a": [
+                        "us",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "10. M\u0101rcus: \u201cS\u012b ego ab ali\u014d puer\u014d puls\u0101t# #, ipse eum puerum puls\u0101b\u014d.\u201d",
+                    "a": [
+                        "us",
+                        "er\u014d"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u012bntus: \u201cQuid v\u014ds faci\u0113tis, M\u0101rce et Tite, s\u012b ab ali\u012bs puer\u012bs puls\u0101t# #?\u201d",
+                    "a": [
+                        "\u012b",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "12. M\u0101rcus: \u201cS\u012b ab ali\u012bs puer\u012bs puls\u0101t# #, ips\u012b e\u014ds puls\u0101bimus.\u201d",
+                    "a": [
+                        "\u012b",
+                        "erimus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exemplum: \nDisc\u0113d\u0101mus! = Qu\u012bn disc\u0113dimus?\n",
+            "questions": [
+                {
+                    "q": "1. \u201cQu\u012bn ambul\u0101mus?\u201d = \u201cAmbul#!\u201d",
+                    "a": [
+                        "\u0113mus"
+                    ]
+                },
+                {
+                    "q": "2. \u201cQu\u012bn gaud\u0113mus?\u201d = \u201cGaud#!\u201d",
+                    "a": [
+                        "e\u0101mus"
+                    ]
+                },
+                {
+                    "q": "3. \u201cQu\u012bn bibimus atque canimus?\u201d = \u201cBib# atque can#!\u201d",
+                    "a": [
+                        "\u0101mus",
+                        "\u0101mus"
+                    ]
+                },
+                {
+                    "q": "4. \u201cQu\u012bn p\u014dcula exhaur\u012bmus?\u201d = \u201cP\u014dcula exhaur#!\u201d",
+                    "a": [
+                        "iamus"
+                    ]
+                },
+                {
+                    "q": "5. \u201cQu\u012bn equ\u014ds c\u014dnscendimus ac profic\u012bscimur?\u201d = \u201cEqu\u014ds c\u014dnscend# ac profisc\u012bsc#!\u201d",
+                    "a": [
+                        "\u0101mus",
+                        "\u0101mur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Conv\u012bvae tricl\u012bnium intrant atque in lect\u012bs #.",
+                    "a": [
+                        "accumbunt"
+                    ]
+                },
+                {
+                    "q": "2. In m\u0113ns\u0101 sunt # et p\u014dcula # (= ex # facta).",
+                    "a": [
+                        "v\u0101sa",
+                        "argentea",
+                        "argent\u014d"
+                    ]
+                },
+                {
+                    "q": "3. Ministr\u012b optimum cibum #.",
+                    "a": [
+                        "apportant"
+                    ]
+                },
+                {
+                    "q": "4. \u014cva, pisc\u0113s cum #, # porc\u012b, varia # m\u0101l\u014drum conv\u012bv\u012bs #. ",
+                    "a": [
+                        "holeribus|oleribus",
+                        "car\u014d",
+                        "genera",
+                        "app\u014dnuntur"
+                    ]
+                },
+                {
+                    "q": "5. Servus carnem secat cultr\u014d #.",
+                    "a": [
+                        "ac\u016bt\u014d"
+                    ]
+                },
+                {
+                    "q": "6. Oront\u0113s, cum pr\u012bmum carnem #, salem #; nec enim car\u014d sine # Oront\u012b #.",
+                    "a": [
+                        "gust\u0101vit",
+                        "aspergit",
+                        "sale",
+                        "placet"
+                    ]
+                },
+                {
+                    "q": "7. R\u014dm\u0101n\u012b v\u012bnum cum aqu\u0101 # solent; Oront\u0113s v\u0113r\u014d v\u012bnum # [= sine aqu\u0101] # [= bibit].",
+                    "a": [
+                        "misc\u0113re",
+                        "merum",
+                        "p\u014dtat"
+                    ]
+                },
+                {
+                    "q": "8. # est vir qu\u012b servus fuit et # [= l\u012bber factus] est.",
+                    "a": [
+                        "L\u012bbert\u012bnus",
+                        "l\u012bber\u0101tus"
+                    ]
+                },
+                {
+                    "q": "9. # est quod ap\u0113s ex fl\u014dribus quaerunt.",
+                    "a": [
+                        "Mel"
+                    ]
+                },
+                {
+                    "q": "10. V\u012bnum cum melle mixtum n\u014dn #, sed # est.",
+                    "a": [
+                        "acerbum",
+                        "dulce"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blius ministrum Falernum # et in p\u014dcula # iubet.",
+                    "a": [
+                        "pr\u014dferre",
+                        "fundere"
+                    ]
+                },
+                {
+                    "q": "12. Oront\u0113s iam pr\u012bdem p\u014dculum suum #.",
+                    "a": [
+                        "exhausit"
+                    ]
+                },
+                {
+                    "q": "13. Iam p\u014dcula Falern\u014d # [= implentur].",
+                    "a": [
+                        "complentur"
+                    ]
+                },
+                {
+                    "q": "14. Omn\u0113s sentiunt v\u012bnum Falernum # [= cert\u0113] melius esse Alb\u0101n\u014d, nec quisquam # suam d\u012bcere audet.",
+                    "a": [
+                        "s\u0101n\u0113",
+                        "sententiam"
+                    ]
+                },
+                {
+                    "q": "15. Qu\u012b d\u012bviti\u0101s su\u0101s ostendit et ipse s\u0113 laudat # est.",
+                    "a": [
+                        "gl\u014dri\u014dsus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Utrum preti\u014dsius est, aurumne an argentum? ...",
+                    "a": [
+                        "aurum preti\u014dsius est quam argentum"
+                    ]
+                },
+                {
+                    "q": "2. Num conv\u012bvae I\u016bli\u012b \u0113 v\u0101s\u012bs aure\u012bs c\u0113nant? ...",
+                    "a": [
+                        "n\u014dn \u0113 v\u0101s\u012bs aure\u012bs, sed \u0113 v\u0101s\u012bs argente\u012bs c\u0113nant conv\u012bvae"
+                    ]
+                },
+                {
+                    "q": "3. In qu\u014d lect\u014d accumbit dominus conv\u012bvi\u012b? ...",
+                    "a": [
+                        "dominus conv\u012bvi\u012b in lect\u014d medi\u014d accumbit"
+                    ]
+                },
+                {
+                    "q": "4. Quid conv\u012bv\u012bs I\u016bli\u012b app\u014dnitur? ...",
+                    "a": [
+                        "conv\u012bv\u012bs app\u014dnuntur \u014dva, pisc\u0113s, holera, car\u014d, c\u0113tera"
+                    ]
+                },
+                {
+                    "q": "5. Quid est caput c\u0113nae? ...",
+                    "a": [
+                        "caput c\u0113nae est porcus"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u0101r\u0113 Oront\u0113s salem carn\u012b aspergit? ...",
+                    "a": [
+                        "Oront\u0113s salem carn\u012b aspergit ut sitim augeat"
+                    ]
+                },
+                {
+                    "q": "7. Quid ministr\u012b in p\u014dcula fundunt? ...",
+                    "a": [
+                        "v\u012bnum et calidam in p\u014dcula fundunt ministr\u012b"
+                    ]
+                },
+                {
+                    "q": "8. Quid p\u014dtat Oront\u0113s? ...",
+                    "a": [
+                        "Oront\u0113s v\u012bnum merum p\u014dtat"
+                    ]
+                },
+                {
+                    "q": "9. In qu\u014d lect\u014d accubant l\u012bbert\u012bn\u012b? ...",
+                    "a": [
+                        "l\u012bbert\u012bn\u012b in lect\u014d \u012bm\u014d accubant"
+                    ]
+                },
+                {
+                    "q": "10. Quid est Falernum? ...",
+                    "a": [
+                        "Falernum est v\u012bnum optimum ex agr\u014d Falern\u014d"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u014dmodo Paula v\u012bnum suum dulce facit? ...",
+                    "a": [
+                        "Paula v\u012bn\u014d su\u014d mel miscet"
+                    ]
+                },
+                {
+                    "q": "12. Quid I\u016blius Orontem interrogat? ...",
+                    "a": [
+                        "I\u016blius Orontem interrogat \u2018utrum v\u012bnum melius sit, Falernum an Alb\u0101num?\u2019"
+                    ]
+                },
+                {
+                    "q": "13. C\u016br Oront\u0113s sententiam suam d\u012bcere n\u014dn vult? ...",
+                    "a": [
+                        "Oront\u0113s sententiam suam d\u012bcere n\u014dn vult antequam utrumque gust\u0101verit"
+                    ]
+                },
+                {
+                    "q": "14. Quid tum I\u016blius pr\u014dferr\u012b iubet? ...",
+                    "a": [
+                        "I\u016blius tum Falernum pr\u014dferr\u012b iubet"
+                    ]
+                },
+                {
+                    "q": "15. Utrum v\u012bnum conv\u012bv\u012bs magis placet? ...",
+                    "a": [
+                        "v\u012bnum Falernum conv\u012bv\u012bs magis placet quam Alb\u0101num"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "\u0100ct\u012bvum\n____________Sing.\t\tPl\u016br.\t\t\tSing.\t\tPl\u016br.\nPass\u012bvum\n____________Sing.\t\tPl\u016br.\n",
+            "questions": [
+                {
+                    "q": "1. 'Laud\u0101|bit' tempus # est; 'laud\u0101v|erit' est tempus fut\u016brum #.",
+                    "a": [
+                        "fut\u016brum",
+                        "perfectum"
+                    ]
+                },
+                {
+                    "q": "2. Fut\u016brum perfectum (pers. 3 sing.) d\u0113sinit in ~erit, quod ad thema # (~) adicitur, ut 'scr\u012bps|erit'.",
+                    "a": [
+                        "perfect\u012b"
+                    ]
+                },
+                {
+                    "q": "3. Fut\u016brum perfectum: singul\u0101ris: pers. 1 ~er\u014d, 2 ~#, 3 ~#; pl\u016br\u0101lis: pers. 1 ~#, 2 ~#, 3 ~#.",
+                    "a": [
+                        "eris",
+                        "erit",
+                        "erimus",
+                        "eritis",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "4. Pers.1\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+                    "a": [
+                        "er\u014d",
+                        "erimus",
+                        "er\u014d",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.2\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+                    "a": [
+                        "eris",
+                        "eritis",
+                        "eris",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "6. Pers.3\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+                    "a": [
+                        "erit",
+                        "erint",
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "7. Pers.1\td\u016bx#\t\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+                    "a": [
+                        "er\u014d",
+                        "erimus",
+                        "er\u014d",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "8. Pers.2\td\u016bx#\t\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+                    "a": [
+                        "eris",
+                        "eritis",
+                        "eris",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "9. Pers.3\td\u016bx#\t\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+                    "a": [
+                        "erit",
+                        "erint",
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "10. Fut\u016brum perfectum verb\u012b 'esse': singul\u0101ris: pers. 1 fu|er\u014d, 2 fu#, 3 fu#, pl\u016br\u0101lis: pers. 1 fu#, 2 fu#, 3 fu#.",
+                    "a": [
+                        "eris",
+                        "erit",
+                        "erimus",
+                        "eritis",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "11. 'Laud\u0101|bitur' # pass\u012bv\u012b est; 'laud\u0101t|us erit' est fut\u016brum # #. ",
+                    "a": [
+                        "fut\u016brum",
+                        "perfectum",
+                        "pass\u012bv\u012b"
+                    ]
+                },
+                {
+                    "q": "12. Fut\u016brum perfectum pass\u012bv\u012b c\u014dnstat ex # perfect\u012b et tempore # verb\u012b 'esse' (er\u014d, eris, erit...).",
+                    "a": [
+                        "participi\u014d",
+                        "fut\u016br\u014d"
+                    ]
+                },
+                {
+                    "q": "13. Pers.1\tvoc\u0101tus #\tvoc\u0101t# #",
+                    "a": [
+                        "er\u014d",
+                        "\u012b",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "14. Pers.2\tvoc\u0101t# #\tvoc\u0101t# #",
+                    "a": [
+                        "us",
+                        "eris",
+                        "\u012b",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "15. Pers.3\tvoc\u0101t# # \tvoc\u0101t# #",
+                    "a": [
+                        "us",
+                        "erit",
+                        "\u012b",
+                        "erunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. coquere, #isse, #um esse",
+                    "a": [
+                        "cox",
+                        "coct"
+                    ]
+                },
+                {
+                    "q": "2. \u0113ligere, #isse, #um esse",
+                    "a": [
+                        "\u0113l\u0113g",
+                        "\u0113l\u0113ct"
+                    ]
+                },
+                {
+                    "q": "3. exhaur\u012bre, ex#isse, ex#um esse",
+                    "a": [
+                        "haus",
+                        "haust"
+                    ]
+                },
+                {
+                    "q": "4. fundere, #isse, #um esse  ",
+                    "a": [
+                        "f\u016bd",
+                        "f\u016bs"
+                    ]
+                },
+                {
+                    "q": "5. induere, #isse, #um esse",
+                    "a": [
+                        "indu",
+                        "ind\u016bt"
+                    ]
+                },
+                {
+                    "q": "6. misc\u0113re, #isse, #um esse",
+                    "a": [
+                        "miscu",
+                        "mixt"
+                    ]
+                },
+                {
+                    "q": "7. revert\u012b, re#isse / re#um esse",
+                    "a": [
+                        "vert",
+                        "vers"
+                    ]
+                },
+                {
+                    "q": "8. sternere, #isse, #um esse",
+                    "a": [
+                        "str\u0101v",
+                        "str\u0101t"
+                    ]
+                },
+                {
+                    "q": "9. \u016bt\u012b, #um esse",
+                    "a": [
+                        "\u016bs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "eris"
+                    ],
+                    "q": "Syra: \"Iam dorm\u012b, Qu\u012bnte! Cum bene dorm\u012bv#, val\u0113bis.\" "
+                },
+                {
+                    "a": [
+                        "eris",
+                        "er\u014d"
+                    ],
+                    "q": "Qu\u012bntus: \"N\u014dn dormiam antequam t\u016b mihi f\u0101bulam n\u0101rr\u0101v#. Cum f\u0101bulam aud\u012bv#, bene dormiam."
+                },
+                {
+                    "a": [
+                        "er\u014d",
+                        "erit"
+                    ],
+                    "q": "Cum bene dorm\u012bv#, brev\u012b s\u0101nus er\u014d, nisi medicus m\u0113 nec\u0101v#!\""
+                },
+                {
+                    "a": [
+                        "erint"
+                    ],
+                    "q": "Patria salva erit s\u012b m\u012blit\u0113s nostr\u012b fortiter pugn\u0101v#. "
+                },
+                {
+                    "a": [
+                        "eritis"
+                    ],
+                    "q": "Dux: \"Nisi v\u014ds fortiter pugn\u0101v#, m\u012blit\u0113s, host\u0113s castra nostra expugn\u0101bunt.\""
+                },
+                {
+                    "a": [
+                        "erimus"
+                    ],
+                    "q": "M\u012blit\u0113s: \"Num quid n\u014db\u012bs dabitur, s\u012b fortiter pugn\u0101v#?\""
+                },
+                {
+                    "a": [
+                        "indu",
+                        "ind\u016bt"
+                    ],
+                    "q": "Verba: induere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "l\u0113g",
+                        "l\u0113ct"
+                    ],
+                    "q": "\u0113ligere, \u0113#isse, \u0113#um;"
+                },
+                {
+                    "a": [
+                        "cox",
+                        "coct"
+                    ],
+                    "q": "coquere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "str\u0101v",
+                        "str\u0101t"
+                    ],
+                    "q": "sternere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "f\u016bd",
+                        "f\u016bs"
+                    ],
+                    "q": "fundere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "miscu",
+                        "mixt"
+                    ],
+                    "q": "misc\u0113re, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "haus",
+                        "haust"
+                    ],
+                    "q": "exhaur\u012bre, ex#isse, ex#um;"
+                },
+                {
+                    "a": [
+                        "vert",
+                        "vers"
+                    ],
+                    "q": "revert\u012b, re#isse/ re#um esse. "
+                },
+                {
+                    "a": [
+                        "\u016bs"
+                    ],
+                    "q": "\u016bt\u012b, #um esse."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "hospit\u0113s",
+                        "c\u0113nam"
+                    ],
+                    "q": "I\u016blius Corn\u0113lium et Orontem, am\u012bc\u014ds et # su\u014ds, cum ux\u014dribus ad # voc\u0101vit."
+                },
+                {
+                    "a": [
+                        "balne\u014d",
+                        "salv\u0113re",
+                        "tardum"
+                    ],
+                    "q": "Cum hospit\u0113s veniunt, I\u016blius in # lav\u0101tur. Aemilia e\u014ds # iubet [= sal\u016btat] et mar\u012btum suum # exc\u016bsat."
+                },
+                {
+                    "a": [
+                        "fruitur"
+                    ],
+                    "q": "Corn\u0113lius ad v\u012bllam suam reversus \u014dti\u014d #."
+                },
+                {
+                    "a": [
+                        "itinere",
+                        "i\u016bcundam",
+                        "molestam"
+                    ],
+                    "q": "Oront\u0113s, qu\u012b ex long\u014d # revertit, v\u012btam r\u016bsticam n\u014dn #, sed # esse c\u0113nset."
+                },
+                {
+                    "a": [
+                        "coquitur"
+                    ],
+                    "q": "Hospit\u0113s in \u0101tri\u014d exspectant, dum cibus #."
+                },
+                {
+                    "a": [
+                        "cul\u012bn\u0101",
+                        "cocus"
+                    ],
+                    "q": "Servus qu\u012b in # cibum coquit, # appell\u0101tur."
+                },
+                {
+                    "a": [
+                        "tricl\u012bni\u014d",
+                        "\u012bmus",
+                        "singul\u012b",
+                        "b\u012bn\u012b",
+                        "conv\u012bvae"
+                    ],
+                    "q": "In # sunt tr\u0113s lect\u012b: lectus summus, medius, #; in singul\u012bs lect\u012bs # aut # aut tern\u012b # accubant."
+                },
+                {
+                    "a": [
+                        "c\u0113nant"
+                    ],
+                    "q": "R\u014dm\u0101n\u012b in lect\u012bs cubant\u0113s #."
+                },
+                {
+                    "a": [
+                        "n\u016bntiat"
+                    ],
+                    "q": "Tandem puer \"c\u0113nam par\u0101tam esse\" #."
+                },
+                {
+                    "a": [
+                        "v\u0101sa",
+                        "argent\u014d"
+                    ],
+                    "q": "In m\u0113ns\u0101 sunt # et p\u014dcula ex # facta."
+                },
+                {
+                    "a": [
+                        "placet",
+                        "car\u014d"
+                    ],
+                    "q": "Cibus omnibus #, m\u0101xim\u0113 autem # laud\u0101tur. "
+                },
+                {
+                    "a": [
+                        "Ministr\u012b",
+                        "fundunt"
+                    ],
+                    "q": "# [= serv\u012b] v\u012bnum in p\u014dcula #. "
+                },
+                {
+                    "a": [
+                        "p\u014dtat",
+                        "miscent"
+                    ],
+                    "q": "Oront\u0113s v\u012bnum merum # [= bibit], c\u0113ter\u012b conv\u012bvae aquam v\u012bn\u014d #."
+                },
+                {
+                    "a": [
+                        "di\u016b",
+                        "paulisper"
+                    ],
+                    "q": "Sine cib\u014d hom\u014d # v\u012bvere potest, sine aqu\u0101 # tantum."
+                },
+                {
+                    "a": [
+                        "Fam\u0113s",
+                        "sitis"
+                    ],
+                    "q": "# mala r\u0113s est, sed mult\u014d p\u0113ior est #."
+                },
+                {
+                    "a": [
+                        "\u0113ligere"
+                    ],
+                    "q": "Ex mal\u012bs minimum # oportet."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu\u012b sunt Corn\u0113lius et Oront\u0113s? ",
+                    "a": [
+                        "Am\u012bc\u012b et hospit\u0113s I\u016bli\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "2. Ubi est I\u016blius cum hospit\u0113s adveniunt? ",
+                    "a": [
+                        "In balne\u014d"
+                    ]
+                },
+                {
+                    "q": "3. Quid est balneum? ",
+                    "a": [
+                        "Est locus ubi corpus lav\u0101tur"
+                    ]
+                },
+                {
+                    "q": "4. N\u014dnne i\u016bcunda est v\u012bta r\u016bstica? ",
+                    "a": [
+                        "Cert\u0113 v\u012bta r\u016bstica i\u016bcunda est"
+                    ]
+                },
+                {
+                    "q": "5. Quid est coc\u012b neg\u014dtium? ",
+                    "a": [
+                        "Coc\u012b neg\u014dtium est cibum coquere"
+                    ]
+                },
+                {
+                    "q": "6. Num R\u014dm\u0101n\u012b in sell\u012bs sedent\u0113s c\u0113nant? ",
+                    "a": [
+                        "R\u014dm\u0101n\u012b n\u014dn in sell\u012bs sedent\u0113s, sed in lect\u012bs cubant\u0113s c\u0113nant"
+                    ]
+                },
+                {
+                    "q": "7. Quot lect\u012b sunt in tricl\u012bni\u014d? ",
+                    "a": [
+                        "Tr\u0113s lect\u012b: summus, medius, \u012bmus"
+                    ]
+                },
+                {
+                    "q": "8. Quot conv\u012bvae in singul\u012bs lect\u012bs accubant? ",
+                    "a": [
+                        "In singul\u012bs lect\u012bs singul\u012b aut b\u012bn\u012b aut term\u012b conv\u012bvae accubant"
+                    ]
+                },
+                {
+                    "q": "9. Ex qu\u0101 m\u0101teri\u0101 p\u014dcula et v\u0101sa facta sunt? ",
+                    "a": [
+                        "Ex argent\u014d"
+                    ]
+                },
+                {
+                    "q": "10. T\u016bne v\u012bnum aqu\u0101 calid\u0101 mixtum bibis? ",
+                    "a": [
+                        "V\u012bnum merum bibere sole\u014d"
+                    ]
+                }
+            ]
+        }
+    ]
+}

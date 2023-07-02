@@ -1,0 +1,91 @@
+[
+    {
+        "q": "1. Via Appia est inter R\u014dm# et Brundisi#.",
+        "a": [
+            "am",
+            "um"
+        ]
+    },
+    {
+        "q": "2. Inter oppid# sunt viae. Circum multa oppid# sunt m\u016br\u012b.",
+        "a": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "3. V\u012blla I\u016bli\u012b est prope oppid# T\u016bscul#.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "4. Inter oppid# et v\u012bll# n\u014dn longa via est. ",
+        "a": [
+            "um",
+            "am"
+        ]
+    },
+    {
+        "q": "5. I\u016blius ab oppid# T\u016bscul# ad v\u012bll# su# it.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "6. Dominus in lect\u012bc# est inter du# serv#.",
+        "a": [
+            "\u0101",
+            "\u014ds|o",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "7. Ursus est ante domin#, D\u0101vus post e# est.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "8. Quattuor serv\u012b apud domin# (= cum domin#) sunt.",
+        "a": [
+            "um",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "9, Aemilia in v\u012bll# est sine vir# su# I\u016bli#.",
+        "a": [
+            "\u0101",
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "10. Puer\u012b apud Aemili# sunt neque ab e# disc\u0113dunt.",
+        "a": [
+            "am",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "11. I\u016blia ex hort# ad Aemili# venit cum qu\u012bnque ros#.",
+        "a": [
+            "\u014d",
+            "am",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "12. 'Ab', n\u014dn '\u0101', ante litter# a-, e-, i-, o-, u-, h-!",
+        "a": [
+            "\u0101s"
+        ]
+    }
+]

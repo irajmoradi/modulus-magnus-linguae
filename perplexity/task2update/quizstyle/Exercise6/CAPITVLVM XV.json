@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Quis discipulus postr\u0113mus advenit? ...",
+        "a": [
+            "M\u0101rcus postr\u0113mus advenit"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcusne magistrum sal\u016btat? ...",
+        "a": [
+            "M\u0101rcus magistrum n\u014dn sal\u016btat"
+        ]
+    },
+    {
+        "q": "3. C\u016br magister M\u0101rcum verberat? ...",
+        "a": [
+            "... quod discipulus improbus est"
+        ]
+    },
+    {
+        "q": "4. C\u016br M\u0101rcus n\u014dn lacrimat? ...",
+        "a": [
+            "... quia puer\u014d n\u014dn convenit lacrim\u0101re"
+        ]
+    },
+    {
+        "q": "5. Qu\u014d magister puerum red\u012bre iubet? ...",
+        "a": [
+            "eum ad sellam suam red\u012bre iubet"
+        ]
+    },
+    {
+        "q": "6. C\u016br M\u0101rcus n\u014dn c\u014dns\u012bdit? ...",
+        "a": [
+            "... quia e\u012b dolet pars terg\u012b \u012bnferior"
+        ]
+    },
+    {
+        "q": "7. Quid est tergum? ...",
+        "a": [
+            "tergum est pars corporis posterior"
+        ]
+    },
+    {
+        "q": "8. Ubi est fr\u0101ter M\u0101rc\u012b? ...",
+        "a": [
+            "fr\u0101ter eius dom\u012b est in lect\u014d"
+        ]
+    },
+    {
+        "q": "9. C\u016br Qu\u012bntus in l\u016bdum \u012bre n\u014dn potest? ...",
+        "a": [
+            "... quia aegr\u014dtat"
+        ]
+    },
+    {
+        "q": "10. Quid magister puer\u014ds iubet? ...",
+        "a": [
+            "magister e\u014ds libr\u014ds aper\u012bre iubet"
+        ]
+    },
+    {
+        "q": "11. C\u016br M\u0101rcus librum Tit\u012b habet? ...",
+        "a": [
+            "... quod Titus m\u0101lum M\u0101rc\u012b habet"
+        ]
+    },
+    {
+        "q": "12. C\u016br Titus n\u014dn potest m\u0101lum reddere M\u0101rc\u014d? ...",
+        "a": [
+            "... quia m\u0101lum in ventre Tit\u012b est"
+        ]
+    }
+]

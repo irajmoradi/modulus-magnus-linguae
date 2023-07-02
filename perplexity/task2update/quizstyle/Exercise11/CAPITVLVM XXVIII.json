@@ -1,0 +1,167 @@
+[
+    {
+        "q": "1. 'Am\u0101|bat' est indic\u0101t\u012bvus imperfect\u012b; 'am\u0101|ret' n\u014dn indic\u0101t\u012bvus, sed # imperfect\u012b est.",
+        "a": [
+            "coni\u016bnct\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Tac\u0113|bat', 'leg|\u0113bat', 'dormi|\u0113bat' est indic\u0101t\u012bvus imperfect\u012b: 'tac\u0113|ret', 'leg|eret', 'dorm\u012b|ret' # # est.",
+        "a": [
+            "coni\u016bnct\u012bvus",
+            "imperfect\u012b"
+        ]
+    },
+    {
+        "q": "3. Coni\u016bnct\u012bvus imperfect\u012b: singul\u0101ris: pers. 1 -rem, 2 -#, 3 -#; pl\u016br\u0101lis: 1 -#, 2 -#, 3 -#.",
+        "a": [
+            "r\u0113s",
+            "ret",
+            "r\u0113mus",
+            "r\u0113tis",
+            "rent"
+        ]
+    },
+    {
+        "q": "4. Pers.1\tvoc\u0101#\tvoc\u0101#\t\tvid\u0113#\tvid\u0113#",
+        "a": [
+            "rem",
+            "r\u0113mus",
+            "rem",
+            "r\u0113mus"
+        ]
+    },
+    {
+        "q": "5. Pers.2\tvoc\u0101#\t\tvoc\u0101#\t\tvid\u0113#\t\tvid\u0113#",
+        "a": [
+            "r\u0113s",
+            "r\u0113tis",
+            "r\u0113s",
+            "r\u0113tis"
+        ]
+    },
+    {
+        "q": "6. Pers.3\tvoc\u0101#\t\tvoc\u0101#\t\tvid\u0113#\t\tvid\u0113#",
+        "a": [
+            "ret",
+            "rent",
+            "ret",
+            "rent"
+        ]
+    },
+    {
+        "q": "7. Pers.1\td\u016bc#\td\u016bc#\t\taud\u012b#\taud\u012b#",
+        "a": [
+            "erem",
+            "er\u0113mus",
+            "rem",
+            "r\u0113mus"
+        ]
+    },
+    {
+        "q": "8. Pers.2\td\u016bc#\t\td\u016bc#\t\taud\u012b#\t\taud\u012b#",
+        "a": [
+            "er\u0113s",
+            "er\u0113tis",
+            "r\u0113s",
+            "r\u0113tis"
+        ]
+    },
+    {
+        "q": "9. Pers.3\td\u016bc#\t\td\u016bc#\t\taud\u012b#\t\taud\u012b#",
+        "a": [
+            "eret",
+            "erent",
+            "ret",
+            "rent"
+        ]
+    },
+    {
+        "q": "10. Coni\u016bnct\u012bvus imperfect\u012b verb\u012b 'esse': singul\u0101ris: pers. 1 essem, 2 es#, 3 es#; pl\u016br\u0101lis: pers. 1 es#, 2 es#, 3 es#.",
+        "a": [
+            "s\u0113s",
+            "set",
+            "s\u0113mus",
+            "s\u0113tis",
+            "sent"
+        ]
+    },
+    {
+        "q": "11. 'Am\u0101|b\u0101tur' est indic\u0101t\u012bvus imperfect\u012b pass\u012bv\u012b; 'am\u0101|r\u0113tur' # imperfect\u012b pass\u012bv\u012b est.",
+        "a": [
+            "coni\u016bnct\u012bvus"
+        ]
+    },
+    {
+        "q": "12. 'Ten\u0113|b\u0101tur', 'leg|\u0113b\u0101tur', 'p\u016bni|\u0113b\u0101tur' est indic\u0101t\u012bvus imperfect\u012b pass\u012bv\u012b; 'ten\u0113|r\u0113tur', 'leg|er\u0113tur', 'p\u016bn\u012b|r\u0113tur' # # # est.",
+        "a": [
+            "coni\u016bnct\u012bvus",
+            "imperfect\u012b",
+            "pass\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "13. Coni\u016bnct\u012bvus imperfect\u012b pass\u012bv\u012b: singul\u0101ris: pers. 1 -rer, 2 -#, 3 -#; pl\u016br\u0101lis: pers. 1 -#, 2 -#, 3 -#.",
+        "a": [
+            "r\u0113ris",
+            "r\u0113tur",
+            "r\u0113mur",
+            "r\u0113min\u012b",
+            "rentur"
+        ]
+    },
+    {
+        "q": "14. Pers.1\tvoc\u0101#\t\tvoc\u0101#\t\tvid\u0113#\t\tvid\u0113#",
+        "a": [
+            "rer",
+            "r\u0113mur",
+            "rer",
+            "r\u0113mur"
+        ]
+    },
+    {
+        "q": "15. Pers.2\tvoc\u0101#\tvoc\u0101#\t\tvid\u0113#\tvid\u0113#",
+        "a": [
+            "r\u0113ris",
+            "r\u0113min\u012b",
+            "r\u0113ris",
+            "r\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "16. Pers.3\tvoc\u0101#\tvoc\u0101#\t\tvid\u0113#\tvid\u0113#",
+        "a": [
+            "r\u0113tur",
+            "rentur",
+            "r\u0113tur",
+            "rentur"
+        ]
+    },
+    {
+        "q": "17. Pers.1\td\u016bc#\t\td\u016bc#\t\taud\u012b#\t\taud\u012b#",
+        "a": [
+            "erer",
+            "er\u0113mur",
+            "rer",
+            "r\u0113mur"
+        ]
+    },
+    {
+        "q": "18. Pers.2\td\u016bc#\td\u016bc#\t\taud\u012b#\taud\u012b#",
+        "a": [
+            "er\u0113ris",
+            "er\u0113min\u012b",
+            "r\u0113ris",
+            "r\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "19. Pers.3\td\u016bc#\td\u016bc#\t\taud\u012b#\taud\u012b#",
+        "a": [
+            "er\u0113tur",
+            "erentur",
+            "r\u0113tur",
+            "rentur"
+        ]
+    }
+]

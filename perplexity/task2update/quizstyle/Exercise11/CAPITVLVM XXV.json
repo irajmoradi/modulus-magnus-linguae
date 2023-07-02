@@ -1,0 +1,144 @@
+[
+    {
+        "q": "1. acc\u0113dere, ac#isse",
+        "a": [
+            "cess"
+        ]
+    },
+    {
+        "q": "2. c\u014dnscendere, c\u014dn#isse",
+        "a": [
+            "scend"
+        ]
+    },
+    {
+        "q": "3. c\u014dnspicere, c\u014dn#isse, c\u014dn#um esse",
+        "a": [
+            "spex",
+            "spect"
+        ]
+    },
+    {
+        "q": "4. c\u014dnstituere, c\u014dn#isse, c\u014dn#um esse",
+        "a": [
+            "stitu",
+            "stit\u016bt"
+        ]
+    },
+    {
+        "q": "5. d\u0113serere, d\u0113#isse, d\u0113#um esse",
+        "a": [
+            "seru",
+            "sert"
+        ]
+    },
+    {
+        "q": "6. gerere, #isse, #um esse",
+        "a": [
+            "gess",
+            "gest"
+        ]
+    },
+    {
+        "q": "7. iacere, #isse, #um esse",
+        "a": [
+            "i\u0113c",
+            "iact"
+        ]
+    },
+    {
+        "q": "8. incipere, #isse, #um esse",
+        "a": [
+            "coep",
+            "coept"
+        ]
+    },
+    {
+        "q": "9. interficere, inter#isse, inter#um esse",
+        "a": [
+            "f\u0113c",
+            "fect"
+        ]
+    },
+    {
+        "q": "10. iub\u0113re, #isse, #um esse",
+        "a": [
+            "iuss",
+            "iuss"
+        ]
+    },
+    {
+        "q": "11. obl\u012bv\u012bsc\u012b, ob#um esse",
+        "a": [
+            "l\u012bt"
+        ]
+    },
+    {
+        "q": "12. occ\u012bdere, oc#isse, oc#um esse",
+        "a": [
+            "c\u012bd",
+            "c\u012bs"
+        ]
+    },
+    {
+        "q": "13. petere, #isse, #um esse",
+        "a": [
+            "pet\u012bv|peti",
+            "pet\u012bt"
+        ]
+    },
+    {
+        "q": "14. profic\u012bsc\u012b, pro#um esse",
+        "a": [
+            "fect"
+        ]
+    },
+    {
+        "q": "15. quaerere, #isse, #um esse",
+        "a": [
+            "quaes\u012bv|quaesi",
+            "quaes\u012bt"
+        ]
+    },
+    {
+        "q": "16. reddere, red#isse, red#um esse",
+        "a": [
+            "did",
+            "dit"
+        ]
+    },
+    {
+        "q": "17. regere, #isse, #um esse",
+        "a": [
+            "r\u0113x",
+            "r\u0113ct"
+        ]
+    },
+    {
+        "q": "18. relinquere, re#isse, re#um esse",
+        "a": [
+            "l\u012bqu",
+            "lict"
+        ]
+    },
+    {
+        "q": "19. reper\u012bre, #isse, #um esse",
+        "a": [
+            "repper",
+            "repert"
+        ]
+    },
+    {
+        "q": "20. sequ\u012b, #um esse",
+        "a": [
+            "sec\u016bt"
+        ]
+    },
+    {
+        "q": "21. trahere, #isse, #um esse",
+        "a": [
+            "tr\u0101x",
+            "tract"
+        ]
+    }
+]

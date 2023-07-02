@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. I\u016blius ad v\u012bllam #; quattuor serv\u012b cum e\u014d #.",
+        "a": [
+            "advenit",
+            "adveniunt"
+        ]
+    },
+    {
+        "q": "2. Aemilia \u0113 perist\u0233l\u014d # et in \u0101trium intrat.",
+        "a": [
+            "exit"
+        ]
+    },
+    {
+        "q": "3. Aemilia ad virum suum #.",
+        "a": [
+            "adit"
+        ]
+    },
+    {
+        "q": "4. I\u016blia ab Aemili\u0101 #; etiam puer\u012b #.",
+        "a": [
+            "abit",
+            "abeunt"
+        ]
+    },
+    {
+        "q": "5. Serv\u012b in \u0101trium intrant et r\u016brsus #.",
+        "a": [
+            "exeunt"
+        ]
+    },
+    {
+        "q": "6. Multae f\u0113minae ad tabernam # et r\u016brsus #.",
+        "a": [
+            "adeunt",
+            "abeunt"
+        ]
+    },
+    {
+        "q": "7. Quid # in saccul\u014d? In saccul\u014d numm\u012b #.",
+        "a": [
+            "inest",
+            "\u012bnsunt"
+        ]
+    },
+    {
+        "q": "8. Quot serv\u012b sunt in \u0101tri\u014d? Duo serv\u012b #, c\u0113ter\u012b #.",
+        "a": [
+            "adsunt",
+            "absunt"
+        ]
+    },
+    {
+        "q": "9. M\u0113dus n\u014dn #, M\u0113dus #.",
+        "a": [
+            "adest",
+            "abest"
+        ]
+    }
+]

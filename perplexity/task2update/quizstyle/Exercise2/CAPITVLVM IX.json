@@ -1,0 +1,117 @@
+[
+    {
+        "q": "1. P\u0101stor in # est cum # et centum #.",
+        "a": [
+            "camp\u014d",
+            "cane",
+            "ovibus"
+        ]
+    },
+    {
+        "q": "2. \u016ana ovis # est, c\u0113terae sunt #.",
+        "a": [
+            "nigra",
+            "albae"
+        ]
+    },
+    {
+        "q": "3. # ovibus su\u012bs aquam et # dat.",
+        "a": [
+            "P\u0101stor",
+            "cibum"
+        ]
+    },
+    {
+        "q": "4. Cibus ovium est #; ov\u0113s herbam #, et aquam # \u0113 #.",
+        "a": [
+            "herba",
+            "edunt",
+            "bibunt",
+            "r\u012bv\u014d"
+        ]
+    },
+    {
+        "q": "5. Cibus p\u0101st\u014dris est #; p\u0101stor p\u0101nem #.",
+        "a": [
+            "p\u0101nis",
+            "\u0113st"
+        ]
+    },
+    {
+        "q": "6. Post campum # sunt; inter mont\u0113s sunt #.",
+        "a": [
+            "mont\u0113s",
+            "vall\u0113s"
+        ]
+    },
+    {
+        "q": "7. In camp\u014d est parvus #, in qu\u014d \u016bna # est.",
+        "a": [
+            "collis",
+            "arbor"
+        ]
+    },
+    {
+        "q": "8. In # multae arbor\u0113s sunt.",
+        "a": [
+            "silv\u0101"
+        ]
+    },
+    {
+        "q": "9. In silv\u012bs et in montibus sunt #, qu\u012b ov\u0113s edunt.",
+        "a": [
+            "lup\u012b"
+        ]
+    },
+    {
+        "q": "10. # l\u016bcet; n\u016blla n\u016bb\u0113s in # est.",
+        "a": [
+            "S\u014dl",
+            "cael\u014d"
+        ]
+    },
+    {
+        "q": "11. Caelum est # terram.",
+        "a": [
+            "supr\u0101"
+        ]
+    },
+    {
+        "q": "12. In # sunt camp\u012b et silvae, mont\u0113s et vall\u0113s.",
+        "a": [
+            "terr\u0101"
+        ]
+    },
+    {
+        "q": "13. S\u014dl #; n\u016blla # ante s\u014dlem est.",
+        "a": [
+            "l\u016bcet",
+            "n\u016bb\u0113s"
+        ]
+    },
+    {
+        "q": "14. # arbore n\u014dn s\u014dl, sed # est.",
+        "a": [
+            "Sub",
+            "umbra"
+        ]
+    },
+    {
+        "q": "15. P\u0101stor ad arborem it: p\u0101stor umbram #.",
+        "a": [
+            "petit"
+        ]
+    },
+    {
+        "q": "16. P\u0101stor ov\u0113s su\u0101s ad arborem #.",
+        "a": [
+            "d\u016bcit"
+        ]
+    },
+    {
+        "q": "17. Iam p\u0101stor et ov\u0113s sub arbore #.",
+        "a": [
+            "iacent"
+        ]
+    }
+]

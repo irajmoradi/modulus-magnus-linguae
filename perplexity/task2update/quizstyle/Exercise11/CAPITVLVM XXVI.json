@@ -1,0 +1,84 @@
+[
+    {
+        "q": "1. accidere, ac#isse",
+        "a": [
+            "cid"
+        ]
+    },
+    {
+        "q": "2. capere, #isse, #um esse",
+        "a": [
+            "c\u0113p",
+            "capt"
+        ]
+    },
+    {
+        "q": "3. c\u014dns\u012bdere, c\u014dn#isse",
+        "a": [
+            "s\u0113d"
+        ]
+    },
+    {
+        "q": "4. -ficere, -#isse, -#um esse",
+        "a": [
+            "f\u0113c",
+            "fect"
+        ]
+    },
+    {
+        "q": "5. f\u012bgere, #isse, #um esse",
+        "a": [
+            "f\u012bx",
+            "f\u012bx"
+        ]
+    },
+    {
+        "q": "6. inven\u012bre, in#isse, in#um esse",
+        "a": [
+            "v\u0113n",
+            "vent"
+        ]
+    },
+    {
+        "q": "7. iungere, #isse, #um esse",
+        "a": [
+            "i\u016bnx",
+            "i\u016bnct"
+        ]
+    },
+    {
+        "q": "8. iuv\u0101re, #isse, #um esse",
+        "a": [
+            "i\u016bv",
+            "i\u016bt"
+        ]
+    },
+    {
+        "q": "9. mergere, #isse, #um esse",
+        "a": [
+            "mers",
+            "mers"
+        ]
+    },
+    {
+        "q": "10. mov\u0113re, #isse, #um esse",
+        "a": [
+            "m\u014dv",
+            "m\u014dt"
+        ]
+    },
+    {
+        "q": "11. -spicere, -#isse, -#um esse",
+        "a": [
+            "spex",
+            "spect"
+        ]
+    },
+    {
+        "q": "12. \u016brere, #isse, #um esse",
+        "a": [
+            "uss",
+            "ust"
+        ]
+    }
+]

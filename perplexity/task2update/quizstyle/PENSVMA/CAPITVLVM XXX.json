@@ -1,0 +1,102 @@
+[
+    {
+        "a": [
+            "eris"
+        ],
+        "q": "Syra: \"Iam dorm\u012b, Qu\u012bnte! Cum bene dorm\u012bv#, val\u0113bis.\" "
+    },
+    {
+        "a": [
+            "eris",
+            "er\u014d"
+        ],
+        "q": "Qu\u012bntus: \"N\u014dn dormiam antequam t\u016b mihi f\u0101bulam n\u0101rr\u0101v#. Cum f\u0101bulam aud\u012bv#, bene dormiam."
+    },
+    {
+        "a": [
+            "er\u014d",
+            "erit"
+        ],
+        "q": "Cum bene dorm\u012bv#, brev\u012b s\u0101nus er\u014d, nisi medicus m\u0113 nec\u0101v#!\""
+    },
+    {
+        "a": [
+            "erint"
+        ],
+        "q": "Patria salva erit s\u012b m\u012blit\u0113s nostr\u012b fortiter pugn\u0101v#. "
+    },
+    {
+        "a": [
+            "eritis"
+        ],
+        "q": "Dux: \"Nisi v\u014ds fortiter pugn\u0101v#, m\u012blit\u0113s, host\u0113s castra nostra expugn\u0101bunt.\""
+    },
+    {
+        "a": [
+            "erimus"
+        ],
+        "q": "M\u012blit\u0113s: \"Num quid n\u014db\u012bs dabitur, s\u012b fortiter pugn\u0101v#?\""
+    },
+    {
+        "a": [
+            "indu",
+            "ind\u016bt"
+        ],
+        "q": "Verba: induere, #isse, #um;"
+    },
+    {
+        "a": [
+            "l\u0113g",
+            "l\u0113ct"
+        ],
+        "q": "\u0113ligere, \u0113#isse, \u0113#um;"
+    },
+    {
+        "a": [
+            "cox",
+            "coct"
+        ],
+        "q": "coquere, #isse, #um;"
+    },
+    {
+        "a": [
+            "str\u0101v",
+            "str\u0101t"
+        ],
+        "q": "sternere, #isse, #um;"
+    },
+    {
+        "a": [
+            "f\u016bd",
+            "f\u016bs"
+        ],
+        "q": "fundere, #isse, #um;"
+    },
+    {
+        "a": [
+            "miscu",
+            "mixt"
+        ],
+        "q": "misc\u0113re, #isse, #um;"
+    },
+    {
+        "a": [
+            "haus",
+            "haust"
+        ],
+        "q": "exhaur\u012bre, ex#isse, ex#um;"
+    },
+    {
+        "a": [
+            "vert",
+            "vers"
+        ],
+        "q": "revert\u012b, re#isse/ re#um esse. "
+    },
+    {
+        "a": [
+            "\u016bs"
+        ],
+        "q": "\u016bt\u012b, #um esse."
+    }
+]

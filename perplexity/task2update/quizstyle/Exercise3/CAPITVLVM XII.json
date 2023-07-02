@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. M\u0101rc\u014d et Qu\u012bnt\u014d \u016bna # est: I\u016blia.",
+        "a": [
+            "soror"
+        ]
+    },
+    {
+        "q": "2. I\u016bliae duo # sunt: M\u0101rcus et Qu\u012bntus.",
+        "a": [
+            "fr\u0101tr\u0113s"
+        ]
+    },
+    {
+        "q": "3. Fr\u0101ter Aemiliae, cui # est 'Aemilius', # l\u012bber\u014drum est.",
+        "a": [
+            "n\u014dmen",
+            "avunculus"
+        ]
+    },
+    {
+        "q": "4. 'P\u016bblius' # est; alia # sunt 'L\u016bcius', 'M\u0101rcus', 'Qu\u012bntus', 'Sextus', 'Titus'.",
+        "a": [
+            "praen\u014dmen",
+            "praen\u014dmina"
+        ]
+    },
+    {
+        "q": "5. 'Paulus' n\u014dn praen\u014dmen, sed # est.",
+        "a": [
+            "cogn\u014dmen"
+        ]
+    },
+    {
+        "q": "6. Aemilia # est quod fr\u0101ter eius procul ab e\u0101 abest.",
+        "a": [
+            "tr\u012bstis"
+        ]
+    },
+    {
+        "q": "7. L\u012bber\u012b: \"Ubi est avunculus noster?\" I\u016blius: \"Avunculus # est in Germ\u0101ni\u0101.\"",
+        "a": [
+            "vester"
+        ]
+    },
+    {
+        "q": "8. # R\u014dm\u0101nus p\u012blum et # et sc\u016btum # [= portat].",
+        "a": [
+            "M\u012bles",
+            "gladium",
+            "fert"
+        ]
+    },
+    {
+        "q": "9. # et gladius et # sunt # m\u012blitis R\u014dm\u0101n\u012b.",
+        "a": [
+            "Sc\u016btum",
+            "p\u012blum",
+            "arma"
+        ]
+    },
+    {
+        "q": "10. M\u012bles est vir # [= qu\u012b arma fert].",
+        "a": [
+            "arm\u0101tus"
+        ]
+    }
+]

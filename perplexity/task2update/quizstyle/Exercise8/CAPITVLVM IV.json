@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. I\u016blius: \"D\u0101vum voc#, M\u0113de!\"",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus D\u0101vum voc#: \"D\u0101ve, ven#!\" D\u0101vus ven#.",
+        "a": [
+            "at",
+            "\u012b",
+            "it"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \"Sal\u016bt# dominum!\" D\u0101vus dominum sal\u016bt#.",
+        "a": [
+            "\u0101",
+            "at"
+        ]
+    },
+    {
+        "q": "4. Dominus: \"Tac# et aud#, serve!\" Servus tac# et aud#.",
+        "a": [
+            "\u0113",
+            "\u012b",
+            "et",
+            "it"
+        ]
+    },
+    {
+        "q": "5. Dominus: \"Respond#, serve!\" Servus respond#.",
+        "a": [
+            "\u0113",
+            "et"
+        ]
+    },
+    {
+        "q": "6. Dominus: \"Sacculum tuum in m\u0113ns\u0101 p\u014dn#!\" Servus sacculum suum in m\u0113ns\u0101 p\u014dn#.",
+        "a": [
+            "e",
+            "it"
+        ]
+    },
+    {
+        "q": "7. Servus: \"Vid#, domine: sacculus meus vacuus est.\" Dominus sacculum vacuum vid#.",
+        "a": [
+            "\u0113",
+            "et"
+        ]
+    },
+    {
+        "q": "6. Dominus: \"S\u016bm# sacculum tuum et disc\u0113d#!\" Servus sacculum suum s\u016bm# et disc\u0113d#.",
+        "a": [
+            "e",
+            "e",
+            "it",
+            "it"
+        ]
+    }
+]

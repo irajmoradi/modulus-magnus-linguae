@@ -1,0 +1,60 @@
+[
+    {
+        "q": "1. N\u014dmina d\u012bviduntur in V #, qu\u0101rum genet\u012bvus singul\u0101ris d\u0113sinit in [1] -#, [2] -#, [3] -#, [4] -#, [5] -#.  ",
+        "a": [
+            "d\u0113cl\u012bn\u0101ti\u014dn\u0113s",
+            "ae",
+            "\u012b",
+            "is",
+            "\u016bs",
+            "\u0113\u012b"
+        ]
+    },
+    {
+        "q": "2. D\u0113cl\u012bn\u0101 haec n\u014dmina: via, annus, \u014dvum, le\u014d, pars, \u014ds, lacus, r\u0113s!",
+        "a": []
+    },
+    {
+        "q": "3. Verba in IV # d\u012bviduntur, qu\u0101rum \u012bnf\u012bn\u012bt\u012bvus (praes. \u0101ct.) d\u0113sinit in [1] -#, [2] -#, [3] -#, [4] -#. ",
+        "a": [
+            "coniug\u0101ti\u014dn\u0113s",
+            "\u0101re",
+            "\u0113re",
+            "ere",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "4. D\u0113cl\u012bn\u0101 haec verba: laud\u014d, claud\u014d, aude\u014d, audi\u014d, n\u016bnti\u014d, rapi\u014d!",
+        "a": []
+    },
+    {
+        "q": "5. Adverbia, praepositi\u014dn\u0113s, coni\u016bncti\u014dn\u0113s, interiecti\u014dn\u0113s sunt part\u0113s \u014dr\u0101ti\u014dnis # [= quae n\u014dn d\u0113cl\u012bnantur]; sed multa adverbia comparantur, ut celeriter, celer#, celer#.",
+        "a": [
+            "ind\u0113cl\u012bn\u0101bil\u0113s",
+            "ius",
+            "rim\u0113"
+        ]
+    },
+    {
+        "q": "6. Voc\u0101bula quae idem significant # vocantur, ut 'f\u0113mina' et 'mulier', 'gladius' et '\u0113nsis', '\u014dr\u0101re' et 'rog\u0101re', 'fortasse' et ",
+        "a": [
+            "syn\u014dnyma"
+        ]
+    },
+    {
+        "q": "'#'.",
+        "a": [
+            "forsitan"
+        ]
+    },
+    {
+        "q": "7. Verba an\u014dmala [= quae exempl\u012bs n\u014dn conveniunt]: d\u0113mere, #isse, #um esse; adicere, ad#isse, ad#um esse.",
+        "a": [
+            "d\u0113mps",
+            "d\u0113mpt",
+            "i\u0113c",
+            "iect"
+        ]
+    }
+]

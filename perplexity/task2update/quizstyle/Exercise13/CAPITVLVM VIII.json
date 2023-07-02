@@ -1,0 +1,82 @@
+[
+    {
+        "q": "1. Qu# f\u0113mina cum M\u0113d\u014d ambulat? F\u0113mina qu# cum M\u0113d\u014d ambulat est L\u0233dia. E# f\u0113mina ambulat cum M\u0113d\u014d.",
+        "a": [
+            "ae",
+            "ae",
+            "a"
+        ]
+    },
+    {
+        "q": "2. C# f\u0113minae am\u012bcus est M\u0113dus? L\u0233dia est f\u0113mina c# am\u012bcus est M\u0113dus. M\u0113dus e# f\u0113minae am\u012bcus est.",
+        "a": [
+            "uius",
+            "uius",
+            "ius"
+        ]
+    },
+    {
+        "q": "3. Qu# f\u0113minam amat M\u0113dus? F\u0113mina qu# M\u0113dus amat est L\u0233dia. E# f\u0113minam amat M\u0113dus.",
+        "a": [
+            "am",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "4. C# f\u0113minae M\u0113dus \u0101nulum dat? F\u0113mina c# M\u0113dus \u0101nulum dat est L\u0233dia. E# f\u0113minae M\u0113dus \u0101nulum dat.",
+        "a": [
+            "ui",
+            "ui",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "5. \u0100 qu# f\u0113min\u0101 M\u0113dus am\u0101tur? F\u0113mina \u0101 qu# M\u0113dus am\u0101tur est L\u0233dia. Ab e# f\u0113min\u0101 am\u0101tur M\u0113dus.",
+        "a": [
+            "\u0101",
+            "\u0101",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "6. Qu# ancillae absunt? Ancillae qu# absunt sunt D\u0113lia et Syra. E# ancillae absunt.",
+        "a": [
+            "ae",
+            "ae",
+            "ae"
+        ]
+    },
+    {
+        "q": "7. Qu# ancill\u0101rum Aemilia domina est? D\u0113lia et Syra sunt ancillae qu# domina est Aemilia. Ea domina e# ancill\u0101rum est.",
+        "a": [
+            "\u0101rum",
+            "\u0101rum",
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "8. Qu# ancill\u0101s vocat Aemilia? Ancillae qu# Aemilia vocat sunt D\u0113lia et Syra. E# ancill\u0101s vocat domina.",
+        "a": [
+            "\u0101s",
+            "\u0101s",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "9. Qu# ancill\u012bs Aemilia m\u0101la dat? Ancillae qu# Aemilia m\u0101la dat sunt D\u0113lia et Syra. I# ancill\u012bs domina m\u0101la dat. ",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. \u0100 qu# ancill\u012bs domina sal\u016bt\u0101tur? Ancillae \u0101 qu# sal\u016bt\u0101tur domina sunt D\u0113lia et Syra. Ab i# ancill\u012bs domina sal\u016bt\u0101tur.",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    }
+]

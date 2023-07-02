@@ -1,0 +1,124 @@
+[
+    {
+        "q": "1. D\u0101vus et Ursus, qu\u012b dominum vehunt, iam fess\u012b #.",
+        "a": [
+            "sunt"
+        ]
+    },
+    {
+        "q": "2. Syrus et L\u0113ander sacc\u014ds vehunt; # n\u014dndum fess\u012b #.",
+        "a": [
+            "i\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "3. D\u0101vus: \"N\u014ds fess\u012b #. N\u014dnne v\u014ds fess\u012b #, Syre et L\u0113ander?\"",
+        "a": [
+            "sumus",
+            "estis"
+        ]
+    },
+    {
+        "q": "4. Syrus: \"# fess\u012b n\u014dn #. C\u016br # fess\u012b #, D\u0101ve et Urse?\"",
+        "a": [
+            "N\u014ds",
+            "sumus",
+            "v\u014ds",
+            "estis"
+        ]
+    },
+    {
+        "q": "5. Ursus: \"N\u014ds fess\u012b #, quia dominus gravis #.\"",
+        "a": [
+            "sumus",
+            "est"
+        ]
+    },
+    {
+        "q": "6. D\u0101vus: \"St! Dominus dormit; # quoque fessus #.\"",
+        "a": [
+            "is",
+            "est"
+        ]
+    },
+    {
+        "q": "7. Ursus: \"# qu\u012b vehitur fessus esse n\u014dn pot#.\"",
+        "a": [
+            "Is",
+            "est"
+        ]
+    },
+    {
+        "q": "8. Serv\u012b, qu\u012b dominum port\u0101re iam n\u014dn pos#, lect\u012bcam in vi\u0101 p\u014dnunt. Dominus excit\u0101tur.",
+        "a": [
+            "sunt"
+        ]
+    },
+    {
+        "q": "9. I\u016blius: \"C\u016br h\u012bc consistimus? Ubi #?\"",
+        "a": [
+            "sumus"
+        ]
+    },
+    {
+        "q": "10. D\u0101vus: \"In monte #. Iam t\u0113 port\u0101re n\u014dn pos#, domine.\"",
+        "a": [
+            "sumus",
+            "sumus"
+        ]
+    },
+    {
+        "q": "11. I\u016blius: \"Quid m\u0113 port\u0101re n\u014dn pot#?\"",
+        "a": [
+            "estis"
+        ]
+    },
+    {
+        "q": "12. D\u0101vus: \"T\u0113 port\u0101re n\u014dn pos#, quia nimis gravis #.\"",
+        "a": [
+            "sumus",
+            "es"
+        ]
+    },
+    {
+        "q": "13. I\u016blius: \"Ego gravis n\u014dn #, nec lect\u012bca gravis #.\"",
+        "a": [
+            "sum",
+            "est"
+        ]
+    },
+    {
+        "q": "14. Ursus: \"Sine t\u0113 lect\u012bca gravis n\u014dn #. T\u016bne apud lect\u012bcam ambul\u0101re pot#?\"",
+        "a": [
+            "est",
+            "es"
+        ]
+    },
+    {
+        "q": "15. I\u016blius: \"Fessus #: ambul\u0101re n\u014dn pos#.\"",
+        "a": [
+            "sum",
+            "sum"
+        ]
+    },
+    {
+        "q": "16. D\u0101vus: \"# n\u014dn tam fessus # quam n\u014ds #.\"",
+        "a": [
+            "T\u016b",
+            "es",
+            "sumus"
+        ]
+    },
+    {
+        "q": "17. I\u016blius: \"V\u0113rum d\u012bcis: ego n\u014dn tam fessus # quam v\u014ds #, sed # dominus #, # serv\u012b #!\"",
+        "a": [
+            "sum",
+            "estis",
+            "ego",
+            "sum",
+            "v\u014ds",
+            "estis"
+        ]
+    }
+]

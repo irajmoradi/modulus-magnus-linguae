@@ -1,0 +1,129 @@
+[
+    {
+        "q": "1. N\u014dm. \tdomin|#\tdomin|#\t\t\tverb|#\tverb|#",
+        "a": [
+            "us",
+            "\u012b",
+            "um",
+            "a"
+        ]
+    },
+    {
+        "q": "2. Acc. \t\tdomin|#\tdomin|#\t\tverb|#\tverb|#",
+        "a": [
+            "um",
+            "\u014ds",
+            "um",
+            "a"
+        ]
+    },
+    {
+        "q": "3. Gen. \tdomin|#\t \tdomin|#\t\tverb|#\t\tverb|#",
+        "a": [
+            "\u012b",
+            "\u014drum",
+            "\u012b",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "4. Dat. \t\tdomin|#\tdomin|#\t\tverb|#\t\tverb|#",
+        "a": [
+            "\u014d",
+            "\u012bs",
+            "\u014d",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "5. Abl. \t\tdomin|#\tdomin|#\t\tverb|#\t\tverb|#",
+        "a": [
+            "\u014d",
+            "\u012bs",
+            "\u014d",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. Voc. \tdomin|#",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "7. 'Domin|e' # singul\u0101ris est.",
+        "a": [
+            "voc\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'Domin|\u012b' # singul\u0101ris est aut # pl\u016br\u0101lis. ",
+        "a": [
+            "genet\u012bvus",
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "9. 'Domin|\u012bs' et 'verb|\u012bs' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "10. 'Domin|\u014d' et 'verb|\u014d' # aut # singul\u0101ris est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "11. 'Domin|\u014drum' et 'verb|\u014drum' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "12. 'Domin|\u014ds' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "13. 'Domin|um' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "14. 'Domin|us' # # est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "15. 'Verb|a' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "16. 'Verb|\u012b' # singul\u0101ris est.",
+        "a": [
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "17. 'Verb|um' # aut # # est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    }
+]

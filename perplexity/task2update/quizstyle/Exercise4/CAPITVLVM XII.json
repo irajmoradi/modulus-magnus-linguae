@@ -1,0 +1,110 @@
+[
+    {
+        "q": "1. Quis est fr\u0101ter M\u0101rc\u012b? ...",
+        "a": [
+            "Qu\u012bntus est fr\u0101ter M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "2. Quae soror M\u0101rc\u012b est? ...",
+        "a": [
+            "soror M\u0101rc\u012b est I\u016blia"
+        ]
+    },
+    {
+        "q": "3. Quot fr\u0101tr\u0113s sunt I\u016bliae? ...",
+        "a": [
+            "I\u016bliae duo fr\u0101tr\u0113s sunt"
+        ]
+    },
+    {
+        "q": "4. M\u0101rc\u014d quot sor\u014dr\u0113s sunt? ...",
+        "a": [
+            "M\u0101rc\u014d \u016bna soror est"
+        ]
+    },
+    {
+        "q": "5. Quot f\u012bli\u012b et quot f\u012bliae I\u016bli\u014d sunt? ...",
+        "a": [
+            "I\u016bli\u014d sunt duo f\u012bli\u012b et \u016bna f\u012blia"
+        ]
+    },
+    {
+        "q": "6. Quod n\u014dmen est f\u012bliae? ...",
+        "a": [
+            "F\u012bliae n\u014dmen est I\u016blia"
+        ]
+    },
+    {
+        "q": "7. F\u012bli\u012bs quae n\u014dmina sunt? ...",
+        "a": [
+            "f\u012bli\u012bs n\u014dmina sunt M\u0101rcus et Qu\u012bntus"
+        ]
+    },
+    {
+        "q": "8. Quod n\u014dmen m\u0101tr\u012b est? ...",
+        "a": [
+            "m\u0101tr\u012b n\u014dmen est Aemilia"
+        ]
+    },
+    {
+        "q": "9. Quod cogn\u014dmen est I\u016bli\u014d? ...",
+        "a": [
+            "e\u012b cogn\u014dmen est Balbus"
+        ]
+    },
+    {
+        "q": "10. Num 'Qu\u012bntus' cogn\u014dmen est? ...",
+        "a": [
+            "'Qu\u012bntus' n\u014dn cogn\u014dmen, sed praen\u014dmen est"
+        ]
+    },
+    {
+        "q": "11. Quot n\u014dmina vir\u014d R\u014dm\u0101n\u014d sunt? ...",
+        "a": [
+            "vir\u014d R\u014dm\u0101n\u014d tria n\u014dmina sunt"
+        ]
+    },
+    {
+        "q": "12. Quid est praen\u014dmen? ...",
+        "a": [
+            "praen\u014dmen est n\u014dmen pr\u012bmum"
+        ]
+    },
+    {
+        "q": "13. Quis est avunculus M\u0101rc\u012b? ...",
+        "a": [
+            "Aemilius avunculus M\u0101rc\u012b est"
+        ]
+    },
+    {
+        "q": "14. Quot fr\u0101tr\u0113s sunt Aemiliae? ...",
+        "a": [
+            "Aemiliae \u016bnus fr\u0101ter est"
+        ]
+    },
+    {
+        "q": "15. C\u016br Aemilia tr\u012bstis est? ...",
+        "a": [
+            "tr\u012bstis est quod fr\u0101ter eius abest"
+        ]
+    },
+    {
+        "q": "16. Ubi est fr\u0101ter Aemiliae? ...",
+        "a": [
+            "fr\u0101ter eius in Germ\u0101ni\u0101 est"
+        ]
+    },
+    {
+        "q": "17. Estne Aemilius merc\u0101tor R\u014dm\u0101nus? ...",
+        "a": [
+            "n\u014dn merc\u0101tor, sed m\u012bles est"
+        ]
+    },
+    {
+        "q": "18. Quid m\u012bles R\u014dm\u0101nus fert? ...",
+        "a": [
+            "m\u012bles R\u014dm\u0101nus arma fert"
+        ]
+    }
+]

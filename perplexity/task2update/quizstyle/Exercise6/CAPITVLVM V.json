@@ -1,0 +1,123 @@
+[
+    {
+        "q": "1. M\u0113dus servus est; dominus # est I\u016blius.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus et D\u0101vus serv\u012b sunt; dominus # est I\u016blius.",
+        "a": [
+            "e\u014drum"
+        ]
+    },
+    {
+        "q": "3. Serv\u012b dominum suum vident et # sal\u016btant.",
+        "a": [
+            "eum"
+        ]
+    },
+    {
+        "q": "4. Dominus serv\u014ds su\u014ds videt et # sal\u016btat.",
+        "a": [
+            "e\u014ds"
+        ]
+    },
+    {
+        "q": "5. Syra ancilla est; domina # est Aemilia.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "6. Syra et D\u0113lia ancillae sunt; domina # est Aemilia.",
+        "a": [
+            "e\u0101rum"
+        ]
+    },
+    {
+        "q": "7. Ancillae dominam suam vident et # sal\u016btant.",
+        "a": [
+            "eam"
+        ]
+    },
+    {
+        "q": "8. Domina ancill\u0101s su\u0101s videt et # sal\u016btat.",
+        "a": [
+            "e\u0101s"
+        ]
+    },
+    {
+        "q": "9. Estne s\u014dla Aemilia? # s\u014dla n\u014dn est, l\u012bber\u012b cum # sunt.",
+        "a": [
+            "Ea",
+            "e\u0101"
+        ]
+    },
+    {
+        "q": "10. Estne s\u014dlus I\u016blius? Neque # s\u014dlus est, serv\u012b cum # sunt.",
+        "a": [
+            "is",
+            "e\u014d"
+        ]
+    },
+    {
+        "q": "11. Suntne ancillae cum Aemili\u0101? # cum domin\u0101 n\u014dn sunt.",
+        "a": [
+            "Eae"
+        ]
+    },
+    {
+        "q": "12. I\u016blia in perist\u0233l\u014d est; m\u0101ter # cum # est.",
+        "a": [
+            "eius",
+            "e\u0101"
+        ]
+    },
+    {
+        "q": "13. Ubi sunt puer\u012b? # quoque in perist\u0233l\u014d sunt.",
+        "a": [
+            "I\u012b|E\u012b"
+        ]
+    },
+    {
+        "q": "14. L\u012bber\u012b s\u014dl\u012b n\u014dn sunt: m\u0101ter # cum # est neque # ab # disc\u0113dit. ",
+        "a": [
+            "e\u014drum",
+            "i\u012bs|e\u012bs",
+            "ea",
+            "i\u012bs|e\u012bs"
+        ]
+    },
+    {
+        "q": "15. Hortus pulcher est, in # sunt multae rosae.",
+        "a": [
+            "e\u014d"
+        ]
+    },
+    {
+        "q": "16. Estne pulchrum perist\u0233lum? # quoque pulchrum est; in # parvus hortus est. ",
+        "a": [
+            "Id",
+            "e\u014d"
+        ]
+    },
+    {
+        "q": "17. V\u012blla magna est; in # sunt multa cubicula.",
+        "a": [
+            "e\u0101"
+        ]
+    },
+    {
+        "q": "18. Serv\u012b in cubicul\u012bs dormiunt; cubicula # n\u014dn magna sunt.",
+        "a": [
+            "e\u014drum"
+        ]
+    },
+    {
+        "q": "19. Suntne parva cubicula l\u012bber\u014drum? # quoque parva sunt.",
+        "a": [
+            "Ea"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q": "1. \u012anf\u012bn\u012bt\u012bv\u012b: voc\u0101|re, voc\u0101v|isse, voc\u0101t|um esse: voc\u0101- thema # est, voc\u0101v- thema #, voc\u0101t- # #.",
+        "a": [
+            "praesentis",
+            "perfect\u012b",
+            "thema",
+            "sup\u012bn\u012b"
+        ]
+    },
+    {
+        "q": "2. \u012anf\u012bn\u012bt\u012bv\u012b: terr\u0113|re, terru|isse, territ|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+        "a": [
+            "terr\u0113",
+            "terru",
+            "territ"
+        ]
+    },
+    {
+        "q": "3. \u012anf\u012bn\u012bt\u012bv\u012b: d\u012bc|ere, d\u012bx|isse, dict|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+        "a": [
+            "d\u012bc",
+            "d\u012bx",
+            "dict"
+        ]
+    },
+    {
+        "q": "4. \u012anf\u012bn\u012bt\u012bv\u012b: p\u016bn\u012b|re, p\u016bn\u012bv|isse, p\u016bn\u012bt|um esse: thema praesentis: #-, thema perfect\u012b: #-, thema sup\u012bn\u012b: #-.",
+        "a": [
+            "p\u016bn\u012b",
+            "p\u016bn\u012bv",
+            "p\u016bn\u012bt"
+        ]
+    }
+]

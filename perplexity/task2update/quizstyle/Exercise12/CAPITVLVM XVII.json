@@ -1,0 +1,153 @@
+[
+    {
+        "q": "1. 'Laud|or', 'laud\u0101|mur' est pers\u014dna # verb\u012b pass\u012bv\u012b.",
+        "a": [
+            "pr\u012bma"
+        ]
+    },
+    {
+        "q": "2. 'Laud\u0101|ris', 'laud\u0101|min\u012b' est pers\u014dna # verb\u012b pass\u012bv\u012b.",
+        "a": [
+            "secunda"
+        ]
+    },
+    {
+        "q": "3. 'Laud\u0101|tur', 'lauda|ntur' est pers\u014dna # verb\u012b pass\u012bv\u012b.",
+        "a": [
+            "tertia"
+        ]
+    },
+    {
+        "q": "4. Pers\u014dnae verb\u012b pass\u012bv\u012b: pers\u014dna tertia: -tur, -ntur; pers\u014dna secunda: -#, -#; pers\u014dna pr\u012bma: -#, -#.",
+        "a": [
+            "ris",
+            "min\u012b",
+            "or",
+            "mur"
+        ]
+    },
+    {
+        "q": "5. Pers.1\tvocor\t\tvoc#\t\tvid#\t\tvid#",
+        "a": [
+            "\u0101mur",
+            "eor",
+            "\u0113mur"
+        ]
+    },
+    {
+        "q": "6. Pers.2\tvoc#\t\tvoc#\t\tvid#\t\tvid#",
+        "a": [
+            "\u0101ris",
+            "\u0101min\u012b",
+            "\u0113ris",
+            "\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "7. Pers.3\tvoc#\t\tvoc#\t\tvid#\t\tvid#",
+        "a": [
+            "\u0101tur",
+            "antur",
+            "\u0113tur",
+            "entur"
+        ]
+    },
+    {
+        "q": "8. Pers.1\td\u016bc#\t\td\u016bc#\t\taud#\t\taud#",
+        "a": [
+            "or",
+            "imur",
+            "ior",
+            "\u012bmur"
+        ]
+    },
+    {
+        "q": "9. Pers.2\td\u016bc#\t\td\u016bc#\t\taud#\t\taud#",
+        "a": [
+            "eris",
+            "imin\u012b",
+            "\u012bris",
+            "\u012bmin\u012b"
+        ]
+    },
+    {
+        "q": "10. Pers.3\td\u016bc#\t\tduc#\t\taud#\t\taud#",
+        "a": [
+            "itur",
+            "untur",
+            "\u012btur",
+            "iuntur"
+        ]
+    },
+    {
+        "q": "11. 'Laet|or', 'laet\u0101|mur' est pers\u014dna # verb\u012b d\u0113p\u014dnentis.",
+        "a": [
+            "pr\u012bma"
+        ]
+    },
+    {
+        "q": "12. 'Laet\u0101|ris', 'laet\u0101|min\u012b' est pers\u014dna # verb\u012b d\u0113p\u014dnentis.",
+        "a": [
+            "secunda"
+        ]
+    },
+    {
+        "q": "13. 'Laet\u0101|tur', 'laeta|ntur' est pers\u014dna # verb\u012b d\u0113p\u014dnentis.",
+        "a": [
+            "tertia"
+        ]
+    },
+    {
+        "q": "14. Pers.1\tc\u014dnor\t\tc\u014dn#\t\tver#\t\tver#",
+        "a": [
+            "\u0101mur",
+            "eor",
+            "\u0113mur"
+        ]
+    },
+    {
+        "q": "15. Pers.2\tc\u014dn#\t\tc\u014dn#\t\tver#\t\tver#",
+        "a": [
+            "\u0101ris",
+            "\u0101min\u012b",
+            "\u0113ris",
+            "\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "16. Pers.3\tc\u014dn#\t\tc\u014dn#\t\tver#\t\tver#",
+        "a": [
+            "\u0101tur",
+            "antur",
+            "\u0113tur",
+            "entur"
+        ]
+    },
+    {
+        "q": "17. Pers.1\tloqu#\t\tloqu#\t\tpart#\t\tpart#",
+        "a": [
+            "or",
+            "imur",
+            "ior",
+            "\u012bmur"
+        ]
+    },
+    {
+        "q": "18. Pers.2\tloqu#\tloqu#\t\tpart#\t\tpart#",
+        "a": [
+            "eris",
+            "imin\u012b",
+            "\u012bris",
+            "\u012bmin\u012b"
+        ]
+    },
+    {
+        "q": "19. Pers.3\tloqu#\tloqu#\t\tpart#\t\tpart#",
+        "a": [
+            "itur",
+            "untur",
+            "\u012btur",
+            "iuntur"
+        ]
+    }
+]

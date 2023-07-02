@@ -1,0 +1,94 @@
+[
+    {
+        "a": [
+            "maritimum",
+            "\u014dr\u0101",
+            "portum"
+        ],
+        "q": "Brundisium est oppidum # (in # maritim\u0101 situm) quod magnum # habet."
+    },
+    {
+        "a": [
+            "locus",
+            "n\u0101v\u0113s"
+        ],
+        "q": "Portus est # qu\u014d # ad terram ad\u012bre possunt."
+    },
+    {
+        "a": [
+            "ventus",
+            "tranquillum"
+        ],
+        "q": "Cum n\u016bllus # flat, mare # est. "
+    },
+    {
+        "a": [
+            "Tempest\u0101s",
+            "turbat",
+            "fl\u016bct\u016bs"
+        ],
+        "q": "# est magnus ventus qu\u012b mare # et alt\u014ds # facit."
+    },
+    {
+        "a": [
+            "nauta",
+            "pupp\u012b",
+            "gubernat"
+        ],
+        "q": "Gubern\u0101tor est # qu\u012b in # n\u0101vis sed\u0113ns n\u0101vem #."
+    },
+    {
+        "a": [
+            "ori\u0113ns",
+            "occid\u0113ns",
+            "septentri\u014dn\u0113s"
+        ],
+        "q": "Part\u0113s cael\u012b sunt # et #, # et mer\u012bdi\u0113s."
+    },
+    {
+        "a": [
+            "oritur",
+            "occidit"
+        ],
+        "q": "Ori\u0113ns est ea cael\u012b pars unde s\u014dl #, occid\u0113ns est ea pars qu\u014d s\u014dl #."
+    },
+    {
+        "a": [
+            "c\u014dnscendunt",
+            "profic\u012bscuntur"
+        ],
+        "q": "M\u0113dus et L\u0233dia n\u0101vem # atque ex Itali\u0101 #."
+    },
+    {
+        "a": [
+            "secundus",
+            "v\u0113l\u012bs",
+            "\u0113greditur",
+            "oritur",
+            "fl\u0101re",
+            "fit"
+        ],
+        "q": "Ventus # est, n\u0101vis pl\u0113n\u012bs # ex port\u016b # [= exit]; sed in alt\u014d mar\u012b tempest\u0101s #: magnus ventus # incipit, t\u014dtum mare turbidum #."
+    },
+    {
+        "a": [
+            "hauriunt",
+            "merc\u0113s"
+        ],
+        "q": "Nautae aquam \u0113 n\u0101ve # et # in mare iaciunt."
+    },
+    {
+        "a": [
+            "invocat",
+            "Serv\u0101"
+        ],
+        "q": "M\u0113dus Nept\u016bnum #: \"\u014c Nept\u016bne! # m\u0113!\" "
+    },
+    {
+        "a": [
+            "iact\u0101tur",
+            "v\u0113r\u014d"
+        ],
+        "q": "N\u0101vis fl\u016bctibus # nec # [= sed n\u014dn] mergitur."
+    }
+]

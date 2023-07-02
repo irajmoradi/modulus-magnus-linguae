@@ -1,0 +1,73 @@
+[
+    {
+        "q": "1. I\u016blia magnum saccum port# n\u014dn potest.",
+        "a": [
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "2. Magnus saccus \u0101 parv\u0101 puell\u0101 port# n\u014dn potest.",
+        "a": [
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "3. Homin\u0113s de\u014ds neque vid# neque aud# possunt.",
+        "a": [
+            "\u0113re",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "4. De\u012b neque vid# neque aud# possunt ab hominibus. \t",
+        "a": [
+            "\u0113r\u012b",
+            "\u012br\u012b"
+        ]
+    },
+    {
+        "q": "5. N\u0113m\u014d pisc\u0113s numer# potest: pisc\u0113s numer# n\u014dn possunt.",
+        "a": [
+            "\u0101re",
+            "\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "6. Qu\u012b pec\u016bniam habet cibum em# potest.",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "7. Sine pec\u016bni\u0101 cibus em# n\u014dn potest.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus et Qu\u012bntus n\u014dn possunt lect\u012bcam veh#.",
+        "a": [
+            "ere"
+        ]
+    },
+    {
+        "q": "9. \u0100 parv\u012bs puer\u012bs lect\u012bca veh# n\u014dn potest.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "10. Canis \u014dstium neque aper# neque claud# potest.",
+        "a": [
+            "\u012bre",
+            "ere"
+        ]
+    },
+    {
+        "q": "11. \u014cstium \u0101 cane neque aper# neque claud# potest.",
+        "a": [
+            "\u012br\u012b",
+            "\u012b"
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "a": [
+            "\u012bnsula",
+            "n\u014dn"
+        ],
+        "q": "Sicilia # est. Italia \u012bnsula # est."
+    },
+    {
+        "a": [
+            "fluvius",
+            "oppidum"
+        ],
+        "q": "Rh\u0113nus # est. Brundisium # est."
+    },
+    {
+        "a": [
+            "\u012bnsulae",
+            "parva"
+        ],
+        "q": "Sicilia et Sardinia # magnae sunt. Melita \u012bnsula # est."
+    },
+    {
+        "a": [
+            "\u012bnsula",
+            "\u012bnsula",
+            "magna"
+        ],
+        "q": "Britannia n\u014dn # parva, sed # # est."
+    },
+    {
+        "a": [
+            "oppidum",
+            "parvum",
+            "oppidum"
+        ],
+        "q": "Brundisium n\u014dn # #, sed # magnum est."
+    },
+    {
+        "a": [
+            "ne",
+            "n\u014dn",
+            "sed"
+        ],
+        "q": "Est# Brundisium in Graeci\u0101? Brundisium # est in Graeci\u0101, # in Itali\u0101."
+    },
+    {
+        "a": [
+            "Ubi",
+            "Graecum",
+            "quoque"
+        ],
+        "q": "# est Sparta? Sparta est in Graeci\u0101. Sparta oppidum # est. Delph\u012b # oppidum Graecum est."
+    },
+    {
+        "a": [
+            "\u012bnsulae",
+            "multae"
+        ],
+        "q": "Euboea, Naxus, Lesbos, Chios # Graecae sunt. In Graeci\u0101 sunt # \u012bnsulae."
+    },
+    {
+        "a": [
+            "numerus",
+            "Quid"
+        ],
+        "q": "Quid est III? III # est. # est A? A littera est."
+    },
+    {
+        "a": [
+            "litterae"
+        ],
+        "q": "A, B, C # Lat\u012bnae sunt."
+    },
+    {
+        "a": [
+            "Num",
+            "n\u014dn",
+            "Lat\u012bna",
+            "Graeca"
+        ],
+        "q": "# \u00b5 littera Lat\u012bna est? \u00b5 # littera #, sed littera # est."
+    },
+    {
+        "a": [
+            "voc\u0101bulum"
+        ],
+        "q": "'\u012ansula' # Lat\u012bnum est."
+    }
+]

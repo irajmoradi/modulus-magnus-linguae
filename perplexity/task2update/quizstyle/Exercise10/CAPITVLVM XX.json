@@ -1,0 +1,84 @@
+[
+    {
+        "q": "1. Cui Aemilia in \u014dsti\u014d occurrit? ...",
+        "a": [
+            "Aemilia Syrae et I\u016bliae in \u014dsti\u014d occurrit"
+        ]
+    },
+    {
+        "q": "2. C\u016br Syra et I\u016blia ex hort\u014d exeunt? ...",
+        "a": [
+            "... quia imbrem exspectant"
+        ]
+    },
+    {
+        "q": "3. Estne caelum ser\u0113num? ...",
+        "a": [
+            "caelum n\u016bbibus \u0101tr\u012bs oper\u012btur"
+        ]
+    },
+    {
+        "q": "4. Qu\u014d tum it I\u016blius? ...",
+        "a": [
+            "I\u016blius \u0101trium intrat"
+        ]
+    },
+    {
+        "q": "5. S\u014dlusne I\u016blius in \u0101trium it? ...",
+        "a": [
+            "Aemilia et Syra et I\u016blia eum sequuntur"
+        ]
+    },
+    {
+        "q": "6. In \u0101tri\u014dne colloquuntur coniug\u0113s? ...",
+        "a": [
+            "coniug\u0113s in \u0101tri\u014d silent"
+        ]
+    },
+    {
+        "q": "7. Quid silent\u0113s aspiciunt? ...",
+        "a": [
+            "silent\u0113s imbrem cadentem aspiciunt"
+        ]
+    },
+    {
+        "q": "8. Quis silentium e\u014drum animadvertit? ...",
+        "a": [
+            "I\u016blia silentium parentum animadvertit"
+        ]
+    },
+    {
+        "q": "9. Quid Aemilia I\u016bliae interrogant\u012b respondet? ...",
+        "a": [
+            "Aemilia respondet 's\u0113 c\u014dgit\u0101re d\u0113 miser\u012bs naut\u012bs'"
+        ]
+    },
+    {
+        "q": "10. C\u016br miser\u012b sunt l\u012bber\u012b naut\u0101rum? ...",
+        "a": [
+            "... quia patr\u0113s e\u014drum post magnam tempest\u0101tem n\u014dn revertentur"
+        ]
+    },
+    {
+        "q": "11. Quand\u014d I\u016blius \u0101 v\u012bll\u0101 profic\u012bsc\u0113tur? ...",
+        "a": [
+            "I\u016blius cr\u0101s R\u014dmam \u012bbit"
+        ]
+    },
+    {
+        "q": "12. Quam saepe I\u016blius R\u014dm\u0101 ad v\u012bllam revert\u0113tur? ..",
+        "a": []
+    },
+    {
+        "q": "13. C\u016br I\u016blia patre su\u014d car\u0113re n\u014dn vult? ...",
+        "a": [
+            "terti\u014d qu\u014dque di\u0113 revert\u0113tur"
+        ]
+    },
+    {
+        "q": "14. Utrum I\u016blia vult, fr\u0101trem an sor\u014drem? ...",
+        "a": [
+            "I\u016blia patrem suum d\u012bligit"
+        ]
+    }
+]

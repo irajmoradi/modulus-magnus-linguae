@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. I\u016blius pater est. Aemilia est #.",
+        "a": [
+            "m\u0101ter"
+        ]
+    },
+    {
+        "q": "2. I\u016blia f\u012blia est. M\u0101rcus et Qu\u012bntus sunt #.",
+        "a": [
+            "f\u012bli\u012b"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus et Qu\u012bntus et I\u016blia sunt tr\u0113s #.",
+        "a": [
+            "l\u012bber\u012b"
+        ]
+    },
+    {
+        "q": "4. I\u016blia n\u014dn m\u0101ter, sed # est.",
+        "a": [
+            "f\u012blia"
+        ]
+    },
+    {
+        "q": "5. N\u014dn pater, sed # est M\u0101rcus.",
+        "a": [
+            "f\u012blius"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus f\u012blius I\u016bli\u012b est: I\u016blius est pater M\u0101rc#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntus f\u012blius I\u016bli\u012b est: I\u016blius est pater Qu\u012bnt#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "8. I\u016blia f\u012blia I\u016bli\u012b est: I\u016blius est pater I\u016bli#.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus et Qu\u012bntus f\u012bli\u012b Aemiliae sunt: Aemilia est m\u0101ter M\u0101rc# et Qu\u012bnt#.",
+        "a": [
+            "\u012b",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "10. I\u016blia f\u012blia Aemiliae est: Aemilia est m\u0101ter I\u016bli#.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "11. I\u016blia est f\u012blia I\u016bli# et Aemili#.",
+        "a": [
+            "\u012b",
+            "ae"
+        ]
+    },
+    {
+        "q": "12. I\u016blius est pater M\u0101rc# et Qu\u012bnt# et I\u016bli# .",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ae"
+        ]
+    },
+    {
+        "q": "13. M\u0101ter M\u0101rc# et Qu\u012bnt# et I\u016bli# est Aemilia.",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ae"
+        ]
+    }
+]

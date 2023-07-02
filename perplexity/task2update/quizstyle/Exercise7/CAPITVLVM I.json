@@ -1,0 +1,110 @@
+[
+    {
+        "q": "1. Estne Aegyptus in \u0100fric\u0101? ...",
+        "a": [
+            "Aegyptus in \u0100fric\u0101 est"
+        ]
+    },
+    {
+        "q": "2. Estne Hisp\u0101nia in \u0100fric\u0101? ...",
+        "a": [
+            "Hisp\u0101nia in \u0100fric\u0101 n\u014dn est"
+        ]
+    },
+    {
+        "q": "3. Ubi est Hisp\u0101nia? ...",
+        "a": [
+            "Hisp\u0101nia in Eur\u014dp\u0101 est"
+        ]
+    },
+    {
+        "q": "4. Num Arabia in Eur\u014dp\u0101 est? ...",
+        "a": [
+            "Arabia n\u014dn est in Eur\u014dp\u0101"
+        ]
+    },
+    {
+        "q": "5. Ubi est Arabia? ...",
+        "a": [
+            "Arabia in Asi\u0101 est"
+        ]
+    },
+    {
+        "q": "6. Ubi est Sparta? ...",
+        "a": [
+            "Sparta est in Graeci\u0101"
+        ]
+    },
+    {
+        "q": "7. Num Sparta \u012bnsula est? ...",
+        "a": [
+            "Sparta \u012bnsula n\u014dn est"
+        ]
+    },
+    {
+        "q": "8. Quid est Sparta? ...",
+        "a": [
+            "Sparta oppidum est"
+        ]
+    },
+    {
+        "q": "9. Num Euboea oppidum est? ...",
+        "a": [
+            "Euboea n\u014dn est oppidum"
+        ]
+    },
+    {
+        "q": "10. Quid est Euboea? ...",
+        "a": [
+            "Euboea \u012bnsula est"
+        ]
+    },
+    {
+        "q": "11. Quid est T\u016bsculum? ...",
+        "a": [
+            "T\u016bsculum oppidum est"
+        ]
+    },
+    {
+        "q": "12. Num T\u016bsculum oppidum Graecum est? ...",
+        "a": [
+            "T\u016bsculum n\u014dn est oppidum Graecum"
+        ]
+    },
+    {
+        "q": "13. Num N\u012blus fluvius parvus est? ...",
+        "a": [
+            "N\u012blus fluvius parvus n\u014dn est"
+        ]
+    },
+    {
+        "q": "14. Estne Cr\u0113ta \u012bnsula Graeca? ...",
+        "a": [
+            "Cr\u0113ta \u012bnsula Graeca est"
+        ]
+    },
+    {
+        "q": "15. Suntne Rhodus et Naxus \u012bnsulae Graecae? ...",
+        "a": [
+            "Rhodus et Naxus \u012bnsulae Graecae sunt"
+        ]
+    },
+    {
+        "q": "16. Suntne multae \u012bnsulae in Graeci\u0101? ...",
+        "a": [
+            "in Graeci\u0101 multae \u012bnsulae sunt"
+        ]
+    },
+    {
+        "q": "17. Suntne mult\u012b fluvi\u012b in Arabi\u0101? ...",
+        "a": [
+            "n\u014dn mult\u012b fluvi\u012b sunt in Arabi\u0101|In Arabi\u0101 n\u014dn mult\u012b fluvi\u012b sunt"
+        ]
+    },
+    {
+        "q": "18. Quid est Tiberis? ...",
+        "a": [
+            "Tiberis fluvius est"
+        ]
+    }
+]

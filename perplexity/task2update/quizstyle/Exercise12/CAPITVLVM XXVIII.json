@@ -1,0 +1,59 @@
+[
+    {
+        "q": "1. discere, #isse",
+        "a": [
+            "didic"
+        ]
+    },
+    {
+        "q": "2. d\u012bvidere, #isse, #um esse",
+        "a": [
+            "d\u012bv\u012bs",
+            "d\u012bv\u012bs"
+        ]
+    },
+    {
+        "q": "3. \u0113icere, \u0113#isse, \u0113#um esse",
+        "a": [
+            "i\u0113c",
+            "iect"
+        ]
+    },
+    {
+        "q": "4. mor\u012b, #um esse",
+        "a": [
+            "mortu"
+        ]
+    },
+    {
+        "q": "5. n\u0101sc\u012b, #um esse",
+        "a": [
+            "n\u0101t"
+        ]
+    },
+    {
+        "q": "6. persu\u0101d\u0113re, per#isse",
+        "a": [
+            "su\u0101s"
+        ]
+    },
+    {
+        "q": "7. pr\u014dmere, #isse, #um esse",
+        "a": [
+            "pr\u014dmps",
+            "pr\u014dmpt"
+        ]
+    },
+    {
+        "q": "8. surgere, #isse",
+        "a": [
+            "surr\u0113x"
+        ]
+    },
+    {
+        "q": "9. v\u012bvere, #isse",
+        "a": [
+            "v\u012bx"
+        ]
+    }
+]

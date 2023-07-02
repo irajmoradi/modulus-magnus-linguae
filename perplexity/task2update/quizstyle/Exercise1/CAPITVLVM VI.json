@@ -1,0 +1,139 @@
+[
+    {
+        "q": "1. # Fl\u0101minia est # R\u014dmam et Ar\u012bminum.",
+        "a": [
+            "Via",
+            "inter"
+        ]
+    },
+    {
+        "q": "2. V\u012blla I\u016bli\u012b # T\u016bsculum est, neque # \u0101 R\u014dm\u0101.",
+        "a": [
+            "prope",
+            "procul"
+        ]
+    },
+    {
+        "q": "3. Ab oppid\u014d # v\u012bllam n\u014dn longa via est.",
+        "a": [
+            "ad"
+        ]
+    },
+    {
+        "q": "4. I\u016blius ab oppid\u014d ad v\u012bllam #.",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "5. V\u012blla est # eum, oppidum # eum est.",
+        "a": [
+            "ante",
+            "post"
+        ]
+    },
+    {
+        "q": "6. Dominus et quattuor serv\u012b ad v\u012bllam #.",
+        "a": [
+            "eunt"
+        ]
+    },
+    {
+        "q": "7. Serv\u012b in vi\u0101 #; dominus in # est neque ambulat.",
+        "a": [
+            "ambulant",
+            "lect\u012bc\u0101"
+        ]
+    },
+    {
+        "q": "8. Duo serv\u012b lect\u012bcam cum domin\u014d #.",
+        "a": [
+            "portant"
+        ]
+    },
+    {
+        "q": "9. Syrus et L\u0113ander du\u014ds # in # portant.",
+        "a": [
+            "sacc\u014ds",
+            "umer\u012bs"
+        ]
+    },
+    {
+        "q": "10. # venit I\u016blius? Ab oppid\u014d venit. ",
+        "a": [
+            "Unde"
+        ]
+    },
+    {
+        "q": "11. # it I\u016blius? Ad v\u012bllam it.",
+        "a": [
+            "Qu\u014d"
+        ]
+    },
+    {
+        "q": "12. Duo serv\u012b dominum ab oppid\u014d ad v\u012bllam # [= portant].",
+        "a": [
+            "vehunt"
+        ]
+    },
+    {
+        "q": "13. Dominus s\u014dlus n\u014dn est, # quattuor serv\u012b # eum sunt.",
+        "a": [
+            "nam",
+            "apud"
+        ]
+    },
+    {
+        "q": "14. M\u0113dus numm\u014ds I\u016bli\u012b habet; # is n\u014dn est cum domin\u014d.",
+        "a": [
+            "itaque"
+        ]
+    },
+    {
+        "q": "15. M\u0113dus dominum \u012br\u0101tum #.",
+        "a": [
+            "timet"
+        ]
+    },
+    {
+        "q": "16. M\u0113dus servus # est. D\u0101vus # [= sed D.] servus bonus est.",
+        "a": [
+            "malus",
+            "autem"
+        ]
+    },
+    {
+        "q": "17. D\u0101vus M\u0113dum n\u014dn amat: D\u0101vus # M\u0113d\u012b n\u014dn est.",
+        "a": [
+            "am\u012bcus"
+        ]
+    },
+    {
+        "q": "18. D\u0101vus et M\u0113dus n\u014dn am\u012bc\u012b, sed # sunt.",
+        "a": [
+            "inim\u012bc\u012b"
+        ]
+    },
+    {
+        "q": "19. Via Lat\u012bna n\u014dn tam # est quam via Appia.",
+        "a": [
+            "longa"
+        ]
+    },
+    {
+        "q": "20. In # R\u014dm\u0101n\u014d ant\u012bqu\u014d sunt # [XII] #.",
+        "a": [
+            "m\u016br\u014d",
+            "duodecim",
+            "portae"
+        ]
+    },
+    {
+        "q": "21. # T\u016bsculum m\u016brus n\u014dn # longus est # circum R\u014dmam.",
+        "a": [
+            "Circum",
+            "tam",
+            "quam"
+        ]
+    }
+]

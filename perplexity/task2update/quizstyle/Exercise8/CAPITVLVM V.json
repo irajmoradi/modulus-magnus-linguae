@@ -1,0 +1,82 @@
+[
+    {
+        "q": "1. Aemilia # perist\u0233l# est # l\u012bber#, sed # vir# su#.",
+        "a": [
+            "in",
+            "\u014d",
+            "cum",
+            "\u012bs",
+            "sine",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. I\u016blia ros\u0101s # hort# videt et # Aemili# disc\u0113dit.",
+        "a": [
+            "in",
+            "\u014d",
+            "ab",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "3. Puer\u012b # Aemili# sunt neque # e# disc\u0113dunt.",
+        "a": [
+            "cum",
+            "\u0101",
+            "ab",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "4. I\u016blia # hort# venit # qu\u012bnque ros#.",
+        "a": [
+            "ex",
+            "\u014d",
+            "cum",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "5. R\u012bdent puer\u012b. I\u016blia # \u016bn# ros# # i# disc\u0113dit.",
+        "a": [
+            "cum",
+            "\u0101",
+            "\u0101",
+            "ab",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. # v\u012bll# magnum \u0101trium est # impluvi#.",
+        "a": [
+            "In",
+            "\u0101",
+            "cum",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "7. # \u0101tri# puer\u012b aquam s\u016bmunt # impluvi# ros\u0101sque # aqu# p\u014dnunt. ",
+        "a": [
+            "In",
+            "\u014d",
+            "ex",
+            "\u014d",
+            "in",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "8. I\u016blius # oppid# est # quattuor serv#, sed # Aemili#.",
+        "a": [
+            "in",
+            "\u014d",
+            "cum",
+            "\u012bs",
+            "sine",
+            "\u0101"
+        ]
+    }
+]

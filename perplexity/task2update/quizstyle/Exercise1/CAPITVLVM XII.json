@@ -1,0 +1,98 @@
+[
+    {
+        "q": "1. I\u016blius tr\u0113s l\u012bber\u014ds habet = I\u016bli\u014d # # #\t",
+        "a": [
+            "tr\u0113s",
+            "l\u012bber\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "2. Aemiliae \u016bnus fr\u0101ter est = # # # #",
+        "a": [
+            "Aemilia",
+            "\u016bnum",
+            "fr\u0101trem",
+            "habet"
+        ]
+    },
+    {
+        "q": "3. D\u0101vus mult\u014ds am\u012bc\u014ds habet = # # # #",
+        "a": [
+            "D\u0101v\u014d",
+            "mult\u012b",
+            "am\u012bc\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "4. Homin\u012b improb\u014d pauc\u012b sunt am\u012bc\u012b = # # # # #",
+        "a": [
+            "hom\u014d",
+            "improbus",
+            "pauc\u014ds",
+            "habet",
+            "am\u012bc\u014ds"
+        ]
+    },
+    {
+        "q": "5. Hom\u014d du\u014ds ocul\u014ds et du\u0101s aur\u0113s habet = # # # # # # #",
+        "a": [
+            "homin\u012b",
+            "duo",
+            "ocul\u012b",
+            "et",
+            "duae",
+            "aur\u0113s",
+            "sunt"
+        ]
+    },
+    {
+        "q": "6. Corpor\u012b h\u016bm\u0101n\u014d quattuor membra sunt = # # # # #",
+        "a": [
+            "corpus",
+            "h\u016bm\u0101num",
+            "quattuor",
+            "membra",
+            "habet"
+        ]
+    },
+    {
+        "q": "7. Homin\u0113s \u0101l\u0101s n\u014dn habent = # # # # ",
+        "a": [
+            "hominibus",
+            "\u0101lae",
+            "n\u014dn",
+            "sunt"
+        ]
+    },
+    {
+        "q": "8. Mercuri\u014d \u0101lae in pedibus sunt = # # # # #",
+        "a": [
+            "Mercurius",
+            "\u0101l\u0101s",
+            "in",
+            "pedibus",
+            "habet"
+        ]
+    },
+    {
+        "q": "9. Vir R\u014dm\u0101nus tria n\u014dmina habet = # # # # #",
+        "a": [
+            "vir\u014d",
+            "R\u014dm\u0101n\u014d",
+            "tria",
+            "n\u014dmina",
+            "sunt"
+        ]
+    },
+    {
+        "q": "10. R\u014dm\u0101n\u012bs mult\u012b de\u012b sunt = # # # #",
+        "a": [
+            "R\u014dm\u0101n\u012b",
+            "mult\u014ds",
+            "de\u014ds",
+            "habent"
+        ]
+    }
+]

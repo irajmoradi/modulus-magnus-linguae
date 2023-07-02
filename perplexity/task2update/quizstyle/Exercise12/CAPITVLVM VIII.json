@@ -1,0 +1,82 @@
+[
+    {
+        "q": "1. Qu# R\u014dmam it? Servus R\u014dmam it. Qu# servus? Servus qu# R\u014dmam it est M\u0113dus, servus improbus. Is servus R\u014dmam it.",
+        "a": [
+            "is",
+            "\u012b|is",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "2. C# servus est M\u0113dus? M\u0113dus est servus I\u016bli\u012b. Dominus c# servus R\u014dmam it est I\u016blius. I\u016blius est dominus e# serv\u012b.",
+        "a": [
+            "uius",
+            "uius",
+            "ius"
+        ]
+    },
+    {
+        "q": "3. Qu# servum I\u016blius vocat? M\u0113dus est servus qu# I\u016blius vocat. E# servum vocat dominus.",
+        "a": [
+            "em",
+            "em",
+            "um"
+        ]
+    },
+    {
+        "q": "4. C# serv\u014d I\u016blius nummum dat? D\u0101vus est servus c# I\u016blius nummum dat. E# serv\u014d dominus nummum dat.",
+        "a": [
+            "ui",
+            "ui",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "5. \u0100 qu# serv\u014d am\u0101tur L\u0233dia? Servus \u0101 qu# L\u0233dia am\u0101tur est M\u0113dus. Ab e# serv\u014d am\u0101tur L\u0233dia.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. Qu# serv\u012b I\u016blium vehunt? Serv\u012b qu# I\u016blium vehunt sunt Ursus et D\u0101vus. I# serv\u012b I\u016blium vehunt.",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "7. Qu# serv\u014drum I\u016blius dominus est? Serv\u012b qu# dominus est I\u016blius sunt M\u0113dus, D\u0101vus, Syrus, c\u0113ter\u012b. I\u016blius est dominus e# serv\u014drum.",
+        "a": [
+            "\u014drum",
+            "\u014drum",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "8. Qu# serv\u014ds vocat I\u016blius? Serv\u012b qu# I\u016blius vocat sunt D\u0101vus et Syrus. E# serv\u014ds vocat dominus.",
+        "a": [
+            "\u014ds",
+            "\u014ds",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "9. Qu# serv\u012bs I\u016blius numm\u014ds dat? D\u0101vus et Syrus sunt serv\u012b qu# I\u016blius numm\u014ds dat. I# serv\u012bs dominus numm\u014ds dat.",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. \u0100 qu# serv\u012bs I\u016blius vehitur? Ursus et D\u0101vus sunt serv\u012b \u0101 qu# I\u016blius vehitur. Ab i# serv\u012bs dominus vehitur.",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    }
+]

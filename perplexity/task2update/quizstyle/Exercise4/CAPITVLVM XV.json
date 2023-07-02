@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. L\u0113ander saccum port#; item Syrus saccum port#.",
+        "a": [
+            "at",
+            "at"
+        ]
+    },
+    {
+        "q": "2. D\u0101vus et Ursus lect\u012bcam cum domin\u014d port#.",
+        "a": [
+            "ant"
+        ]
+    },
+    {
+        "q": "3. L\u0113ander: \"Saccus quem t\u016b port#, Syre, levior est quam is quem ego port#.\"",
+        "a": [
+            "\u0101s",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "4. D\u0101vus: \"Sacc\u012b qu\u014ds v\u014ds port#, Syre et L\u0113ander, levi\u014dr\u0113s sunt quam lect\u012bca quam n\u014ds port#.\"",
+        "a": [
+            "\u0101tis",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "5. I\u016blia can#. Puer\u012b n\u014dn can#, sed r\u012bd#, quod I\u016bliam canere aud#, nam puer\u012b eam male canere put#. ",
+        "a": [
+            "it",
+            "unt",
+            "ent",
+            "iunt",
+            "ant"
+        ]
+    },
+    {
+        "q": "6. I\u016blia: \"C\u016br v\u014ds r\u012bd#, puer\u012b, cum m\u0113 canere aud#? N\u014dnne m\u0113 bene canere put#?\"\t",
+        "a": [
+            "\u0113tis",
+            "\u012btis",
+            "\u0101tis"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \"N\u014ds r\u012bd# cum t\u0113 canere aud#, I\u016blia, quia t\u0113 male canere put#!\"",
+        "a": [
+            "\u0113mus",
+            "\u012bmus",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "8. Qu\u012bntus: \"Ego n\u014dn r\u012bd# cum t\u0113 canere aud#.\"",
+        "a": [
+            "e\u014d",
+            "i\u014d"
+        ]
+    },
+    {
+        "q": "9. I\u016blia: \"Aud#ne, M\u0101rce? Qu\u012bntus n\u014dn r\u012bd# cum m\u0113 canere aud#. C\u016br t\u016b n\u014dn r\u012bd#, Qu\u012bnte? T\u016bne m\u0113 bene canere put#?\"",
+        "a": [
+            "\u012bs",
+            "et",
+            "it",
+            "\u0113s",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "10. Qu\u012bntus: \"Ego put# t\u0113 v\u014dcem satis pulchram hab\u0113re. N\u014dn male can#, ut parva puella.\"",
+        "a": [
+            "\u014d",
+            "is"
+        ]
+    },
+    {
+        "q": "11. I\u016blia: \"Ego bene can#, at v\u014ds male can#!\"",
+        "a": [
+            "\u014d",
+            "itis"
+        ]
+    },
+    {
+        "q": "12. Qu\u012bntus: \"N\u014dn male can#, ut magn\u012b puer\u012b!\"",
+        "a": [
+            "imus"
+        ]
+    }
+]

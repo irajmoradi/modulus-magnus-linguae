@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Ubi est R\u014dma? ",
+        "a": [
+            "R\u014dma in Itali\u0101 est"
+        ]
+    },
+    {
+        "q": "2. Estne Sparta in Itali\u0101? ",
+        "a": [
+            "Sparta in Itali\u0101 n\u014dn est"
+        ]
+    },
+    {
+        "q": "3. Ubi est Italia? ",
+        "a": [
+            "Itali\u0101 est in Eur\u014dp\u0101"
+        ]
+    },
+    {
+        "q": "4. Ubi sunt Syria et Arabia? ",
+        "a": [
+            "Syria et Arabia in Asi\u0101 sunt"
+        ]
+    },
+    {
+        "q": "5. Estne Aegyptus in Asi\u0101? ",
+        "a": [
+            "Aegyptus in Asi\u0101 n\u014dn est"
+        ]
+    },
+    {
+        "q": "6. Ubi sunt Sparta et Delph\u012b? ",
+        "a": [
+            "In Graeci\u0101 sunt"
+        ]
+    },
+    {
+        "q": "7. Ubi est Brundisium? ",
+        "a": [
+            "Brundisium est in Itali\u0101"
+        ]
+    },
+    {
+        "q": "8. Quid est Brundisium? ",
+        "a": [
+            "Brundisium oppidum est"
+        ]
+    },
+    {
+        "q": "9. Num Cr\u0113ta oppidum est? ",
+        "a": [
+            "Cr\u0113ta oppidum n\u014dn est"
+        ]
+    },
+    {
+        "q": "10. Estne Britannia \u012bnsula parva? ",
+        "a": [
+            "Britanni\u0101 n\u014dn \u012bnsula parva, sed \u012bnsula magna est"
+        ]
+    },
+    {
+        "q": "11. Quid est Tiberis? ",
+        "a": [
+            "Tiberis fluvius est"
+        ]
+    },
+    {
+        "q": "12. Quid est D? ",
+        "a": [
+            "D littera Latina est"
+        ]
+    },
+    {
+        "q": "13. Num \u0394 littera Lat\u012bna est? ",
+        "a": [
+            "\u0394 n\u014dn est littera Lat\u012bna, sed littera Graeca"
+        ]
+    },
+    {
+        "q": "14. Estne II magnus numerus? ",
+        "a": [
+            "II n\u014dn magnus numerus, sed parvus numerus est"
+        ]
+    }
+]

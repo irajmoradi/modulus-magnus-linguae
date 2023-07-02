@@ -1,0 +1,58 @@
+[
+    {
+        "q": "1. Laud\u0101, laud\u0101|te est imper\u0101t\u012bvus praesentis; laud\u0101|t\u014d, laud\u0101|t\u014dte imper\u0101t\u012bvus # est.",
+        "a": [
+            "fut\u016br\u012b"
+        ]
+    },
+    {
+        "q": "2. Laud\u0101|t\u014d est # fut\u016br\u012b singul\u0101ris; laud\u0101|t\u014dte # # # est.",
+        "a": [
+            "imper\u0101t\u012bvus",
+            "imper\u0101t\u012bvus",
+            "fut\u016br\u012b",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "3. Imper\u0101t\u012bvus fut\u016br\u012b d\u0113sinit in -t\u014d, -t\u014dte [1, 2, 4] aut -it\u014d,-it\u014dte [3], quod ad thema # adicitur.",
+        "a": [
+            "praesentis"
+        ]
+    },
+    {
+        "q": "4. Imper\u0101t\u012bvus: praes\u0113ns: am\u0101, am\u0101te; fut\u016brum: am\u0101#, am\u0101#.",
+        "a": [
+            "t\u014d",
+            "t\u014dte"
+        ]
+    },
+    {
+        "q": "5. Imper\u0101t\u012bvus: praes\u0113ns: mon\u0113, mon\u0113te; fut\u016brum: mon\u0113#, mon\u0113#.",
+        "a": [
+            "t\u014d",
+            "t\u014dte"
+        ]
+    },
+    {
+        "q": "6. Imper\u0101t\u012bvus: praes\u0113ns: lege, legite; fut\u016brum: leg#,  leg#.",
+        "a": [
+            "it\u014d",
+            "it\u014dte"
+        ]
+    },
+    {
+        "q": "7. Imper\u0101t\u012bvus: praes\u0113ns: aud\u012b, aud\u012bte; fut\u016brum: aud\u012b#, aud\u012b#.",
+        "a": [
+            "t\u014d",
+            "t\u014dte"
+        ]
+    },
+    {
+        "q": "8. Imper\u0101t\u012bvus: praes\u0113ns: es, este; fut\u016brum: es#, es#.",
+        "a": [
+            "t\u014d",
+            "t\u014dte"
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "q": "1. Sextus, f\u012blius Corn\u0113li\u012b, est discipulus probus, qu\u012b magistr\u014d p\u0101r#, bene comput#, pulchr\u0113 scr\u012bb# neque in l\u016bd\u014d dorm#.",
+        "a": [
+            "et",
+            "at",
+            "it",
+            "it"
+        ]
+    },
+    {
+        "q": "2. Itaque Sextus saepe \u0101 magistr\u014d laud#, numquam reprehend#.",
+        "a": [
+            "\u0101tur",
+            "itur"
+        ]
+    },
+    {
+        "q": "3. Ante v\u012bgint\u012b ann\u014ds Corn\u0113lius, pater Sext\u012b, ipse puer #, qu\u012b R\u014dmae habit#.",
+        "a": [
+            "erat",
+            "\u0101bat"
+        ]
+    },
+    {
+        "q": "4. Tunc is discipulus tam probus # quam f\u012blius eius nunc #.",
+        "a": [
+            "erat",
+            "est"
+        ]
+    },
+    {
+        "q": "5. Corn\u0113lius magistr\u014d p\u0101r#, bene comput#, pulchr\u0113 scr\u012bb# neque in l\u016bd\u014d dorm#.",
+        "a": [
+            "\u0113bat",
+            "\u0101bat",
+            "\u0113bat",
+            "i\u0113bat"
+        ]
+    },
+    {
+        "q": "6. Omnia verba magistr\u012b \u0101 discipul\u014d industri\u014d aud#.",
+        "a": [
+            "i\u0113bantur"
+        ]
+    },
+    {
+        "q": "7. Itaque Corn\u0113lius saepe \u0101 magistr\u014d laud#, numquam reprehend#.",
+        "a": [
+            "\u0101b\u0101tur",
+            "\u0113b\u0101tur"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus et Titus discipul\u012b improb\u012b sunt, qu\u012b in l\u016bd\u014d dorm#, male comput#, foed\u0113 scr\u012bb# nec magistr\u014d p\u0101r#.",
+        "a": [
+            "iunt",
+            "ant",
+            "unt",
+            "ent"
+        ]
+    },
+    {
+        "q": "9. Itaque saepe \u0101 magistr\u014d reprehend# ac verber#.",
+        "a": [
+            "untur",
+            "antur"
+        ]
+    },
+    {
+        "q": "10. Ante v\u012bgint\u012b ann\u014ds I\u016blius, pater M\u0101rc\u012b, et Fabius, pater Tit\u012b, ips\u012b puer\u012b #, qu\u012b R\u014dmae habit#.",
+        "a": [
+            "erant",
+            "\u0101bant"
+        ]
+    },
+    {
+        "q": "11. Tunc i\u012b discipul\u012b tam improb\u012b # quam f\u012bli\u012b e\u014drum nunc #.",
+        "a": [
+            "erant",
+            "sunt"
+        ]
+    },
+    {
+        "q": "12. I\u016blius et Fabius male comput#, foed\u0113 scr\u012bb#, nec magistr\u014d p\u0101r#.",
+        "a": [
+            "\u0101bant",
+            "\u0113bant",
+            "\u0113bant"
+        ]
+    },
+    {
+        "q": "13.In l\u016bd\u014d I\u016blius et Fabius aut dorm# aut cl\u0101m# et r\u012bd#.",
+        "a": [
+            "i\u0113bant",
+            "\u0101bant",
+            "\u0113bant"
+        ]
+    },
+    {
+        "q": "14. V\u014dx magistr\u012b ab ill\u012bs discipul\u012bs n\u014dn aud#.",
+        "a": [
+            "i\u0113b\u0101tur"
+        ]
+    },
+    {
+        "q": "15. I\u016blius et Fabius magistrum suum n\u014dn tim#, quamquam saepe ab e\u014d reprehend# ac verber#.",
+        "a": [
+            "\u0113bant",
+            "\u0113bantur",
+            "\u0101bantur"
+        ]
+    },
+    {
+        "q": "16. In ill\u014d l\u016bd\u014d magister \u0101 discipul\u012bs n\u014dn tim#, sed discipul\u012b improbissim\u012b \u0101 magistr\u014d tim#!",
+        "a": [
+            "\u0113b\u0101tur",
+            "\u0113bantur"
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "q": "1. Bis # sunt quattuor [2x2=4].",
+        "a": [
+            "b\u012bna"
+        ]
+    },
+    {
+        "q": "2. Bis # sunt sex [2x3=6].",
+        "a": [
+            "terna"
+        ]
+    },
+    {
+        "q": "3. Ter # sunt duodecim [3x4=12].",
+        "a": [
+            "quaterna"
+        ]
+    },
+    {
+        "q": "4. Quater # sunt v\u012bgint\u012b [4x5=20].",
+        "a": [
+            "qu\u012bna"
+        ]
+    },
+    {
+        "q": "5. Qu\u012bnqui\u0113s # sunt tr\u012bgint\u0101 [5x6=30].",
+        "a": [
+            "s\u0113na"
+        ]
+    },
+    {
+        "q": "6. Deci\u0113s # sunt centum [10x10=100].",
+        "a": [
+            "d\u0113na"
+        ]
+    },
+    {
+        "q": "7. Legi\u014dn\u0113s R\u014dm\u0101nae in # [X] cohort\u0113s d\u012bviduntur.",
+        "a": [
+            "d\u0113n\u0101s"
+        ]
+    },
+    {
+        "q": "8. In singul\u012bs legi\u014dnibus sunt # [IV] vel # [V] vel # [VI] m\u012blia m\u012blitum.",
+        "a": [
+            "quaterna",
+            "qu\u012bna",
+            "s\u0113na"
+        ]
+    },
+    {
+        "q": "9. In # lect\u012bs # [I] aut # [II] aut # [III] conv\u012bvae accubant.",
+        "a": [
+            "singul\u012bs",
+            "singul\u012b",
+            "b\u012bn\u012b",
+            "tern\u012b"
+        ]
+    },
+    {
+        "q": "10. Homin\u0113s # digit\u014ds habent, nam in utr\u0101que man\u016b # digit\u012b sunt.",
+        "a": [
+            "d\u0113n\u014ds",
+            "qu\u012bn\u012b"
+        ]
+    },
+    {
+        "q": "11. Hominibus # man\u016bs sunt et # ped\u0113s.",
+        "a": [
+            "b\u012bnae",
+            "b\u012bn\u012b"
+        ]
+    }
+]

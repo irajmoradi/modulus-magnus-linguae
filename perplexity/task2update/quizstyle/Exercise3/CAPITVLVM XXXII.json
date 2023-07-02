@@ -1,0 +1,49 @@
+[
+    {
+        "q": "1. I\u016blius # # # [= serv\u014ds interrogat] ubi numm\u012b sint.",
+        "a": [
+            "\u0101|ab",
+            "serv\u012bs",
+            "quaerit"
+        ]
+    },
+    {
+        "q": "2. R\u0113x # # # [= naut\u0101s interrog\u0101vit] ubi esset Ar\u012b\u014dn.",
+        "a": [
+            "\u0101|ab",
+            "naut\u012bs",
+            "quaes\u012bvit|quaesiit"
+        ]
+    },
+    {
+        "q": "3. Syra # # # [= Aemiliam interrog\u0101bat] quid medicus d\u012bceret. ",
+        "a": [
+            "ab",
+            "Aemili\u0101",
+            "quaer\u0113bat"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus # # # [= Syram rogat] ut sibi f\u0101bulam n\u0101rret.",
+        "a": [
+            "\u0101|ab",
+            "Syr\u0101",
+            "petit"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus # # # [= am\u012bcam \u014dr\u0101vit] ut s\u0113cum ven\u012bret.",
+        "a": [
+            "ab",
+            "am\u012bc\u0101",
+            "pet\u012bvit|petiit"
+        ]
+    },
+    {
+        "q": "6. \u201cS\u012b nihil # # [= \u0101 m\u0113 petis], nihil tibi neg\u014d!\u201d",
+        "a": [
+            "m\u0113",
+            "rog\u0101s|\u014dr\u0101s"
+        ]
+    }
+]

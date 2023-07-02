@@ -1,0 +1,85 @@
+[
+    {
+        "q": "1. # serv\u012b sunt in famili\u0101 I\u016bli\u012b? # [C] serv\u012b.",
+        "a": [
+            "Quot",
+            "Centum"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus et D\u0101vus # [II] serv\u012b sunt.",
+        "a": [
+            "duo"
+        ]
+    },
+    {
+        "q": "3. Syra et D\u0113lia sunt # [II] ancillae.",
+        "a": [
+            "duae"
+        ]
+    },
+    {
+        "q": "4. T\u016bsculum et Brundisium # [II] oppida sunt.",
+        "a": [
+            "duo"
+        ]
+    },
+    {
+        "q": "5. # l\u012bber\u012b in famili\u0101 sunt? # [III] l\u012bber\u012b.",
+        "a": [
+            "Quot",
+            "Tr\u0113s"
+        ]
+    },
+    {
+        "q": "5. In famili\u0101 n\u014dn # [II] f\u012bliae, sed # [I] f\u012blia est.",
+        "a": [
+            "duae",
+            "\u016bna"
+        ]
+    },
+    {
+        "q": "7. In famili\u0101 n\u014dn # [I] f\u012blius, sed # [II] f\u012bli\u012b sunt.",
+        "a": [
+            "\u016bnus",
+            "duo"
+        ]
+    },
+    {
+        "q": "8. 'Vir', 'puer', 'puella' # [III] voc\u0101bula sunt.",
+        "a": [
+            "tria"
+        ]
+    },
+    {
+        "q": "9. Rh\u0113nus et D\u0101nuvius et Tiberis # [III] fluvi\u012b sunt: # [II] fluvi\u012b magn\u012b et # [I] fluvius parvus.",
+        "a": [
+            "tr\u0113s",
+            "duo",
+            "\u016bnus"
+        ]
+    },
+    {
+        "q": "10. Brundisium et Sparta et Delph\u012b # [III] oppida sunt: # [II] oppida magna et # [I] oppidum parvum.",
+        "a": [
+            "tria",
+            "duo",
+            "\u016bnum"
+        ]
+    },
+    {
+        "q": "11. Sardinia et Sicilia et Melita sunt # [III] \u012bnsulae: # [II] \u012bnsulae magnae et # [I] \u012bnsula parva.",
+        "a": [
+            "tr\u0113s",
+            "duae",
+            "\u016bna"
+        ]
+    },
+    {
+        "q": "12. In Graeci\u0101 # \u012bnsulae sunt? In Graeci\u0101 sunt # [M] \u012bnsulae parvae magnaeque.",
+        "a": [
+            "quot",
+            "m\u012blle"
+        ]
+    }
+]

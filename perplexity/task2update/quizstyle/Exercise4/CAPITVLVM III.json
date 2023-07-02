@@ -1,0 +1,81 @@
+[
+    {
+        "q": "1. Aemilia Qu\u012bntum #: \"Quis m\u0113 vocat?\"",
+        "a": [
+            "interrogat"
+        ]
+    },
+    {
+        "q": "2. Qu\u012bntus #: \"I\u016blia # vocat.\"",
+        "a": [
+            "respondet",
+            "t\u0113"
+        ]
+    },
+    {
+        "q": "3. Aemilia #: \"# I\u016blia pl\u014drat?\"",
+        "a": [
+            "interrogat",
+            "C\u016br"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus #: \"I\u016blia pl\u014drat, # M\u0101rcus # pulsat.\"",
+        "a": [
+            "respondet",
+            "quia",
+            "eam"
+        ]
+    },
+    {
+        "q": "5. Aemilia: \"M\u0101rcus puer # est! Ubi est I\u016blius?\"",
+        "a": [
+            "improbus"
+        ]
+    },
+    {
+        "q": "6. Qu\u012bntus: \"Pater n\u014dn # est, sed M\u0101rcus # est.\"",
+        "a": [
+            "h\u012bc",
+            "h\u012bc"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntus I\u016blium vocat; I\u016blius # [: Qu\u012bntum] n\u014dn #.",
+        "a": [
+            "eum",
+            "audit"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus: \"Pater # neque t\u0113 audit.\"",
+        "a": [
+            "dormit"
+        ]
+    },
+    {
+        "q": "9. I\u016blius Qu\u012bntum n\u014dn audit # venit.",
+        "a": [
+            "neque"
+        ]
+    },
+    {
+        "q": "10. Aemilia M\u0101rcum #: tuxtax!",
+        "a": [
+            "verberat"
+        ]
+    },
+    {
+        "q": "11. M\u0101rcus pl\u014drat. I\u016blius M\u0101rcum #; iam I\u016blius n\u014dn #.",
+        "a": [
+            "audit",
+            "dormit"
+        ]
+    },
+    {
+        "q": "12. M\u0101rcus n\u014dn puer #, sed puer improbus est.",
+        "a": [
+            "probus"
+        ]
+    }
+]

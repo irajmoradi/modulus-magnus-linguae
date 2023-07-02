@@ -1,0 +1,61 @@
+[
+    {
+        "q": "1. In perist\u0233l\u014d Aemilia virum suum #.",
+        "a": [
+            "exspectat|expectat"
+        ]
+    },
+    {
+        "q": "2. I\u016blia in cubicul\u014d su\u014d rosam ante n\u0101sum #.",
+        "a": [
+            "tenet"
+        ]
+    },
+    {
+        "q": "3. I\u016blia n\u014dn r\u012bdet, sed #: in # eius sunt #.",
+        "a": [
+            "lacrimat",
+            "ocul\u012bs",
+            "lacrimae"
+        ]
+    },
+    {
+        "q": "4. I\u016blia # ante ocul\u014ds tenet et # in specul\u014d videt.",
+        "a": [
+            "speculum",
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "5. Syra \u014dstium pulsat. I\u016blia: \"Intr\u0101!\" Syra \u014dstium # et in cubiculum intrat.",
+        "a": [
+            "aperit"
+        ]
+    },
+    {
+        "q": "6. Syra \u014dstium post s\u0113 #.",
+        "a": [
+            "claudit"
+        ]
+    },
+    {
+        "q": "7. I\u016blia: \"Num n\u0101sus meus foedus est?\" Syra: \"# n\u0101sus tuus # est.\"",
+        "a": [
+            "Imm\u014d",
+            "f\u014drm\u014dsus"
+        ]
+    },
+    {
+        "q": "8. I\u016blia s\u0113 # et Syra lacrim\u0101s eius videt.",
+        "a": [
+            "vertit"
+        ]
+    },
+    {
+        "q": "9. Syra: \"# ocul\u014ds! # laeta!\"",
+        "a": [
+            "Terg\u0113",
+            "Es"
+        ]
+    }
+]

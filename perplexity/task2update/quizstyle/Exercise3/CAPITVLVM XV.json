@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. Qu\u014d it M\u0101rcus? ...",
+        "a": [
+            "M\u0101rcus ad l\u016bdum it"
+        ]
+    },
+    {
+        "q": "2. Quis est Diod\u014drus? ...",
+        "a": [
+            "Diod\u014drus est l\u016bd\u012b magister"
+        ]
+    },
+    {
+        "q": "3. C\u016br M\u0101rcus magistrum suum metuit? ...",
+        "a": [
+            "... quia magister eius sev\u0113rus est"
+        ]
+    },
+    {
+        "q": "4. Qu\u014dmodo magister discipul\u014ds improb\u014ds p\u016bnit? ...",
+        "a": [
+            "magister discipul\u014ds virg\u0101 verberat"
+        ]
+    },
+    {
+        "q": "5. Cui discipul\u012b p\u0101rent? ...",
+        "a": [
+            "discipul\u012b magistr\u014d su\u014d p\u0101rent"
+        ]
+    },
+    {
+        "q": "6. Quis discipulus pr\u012bmus ad l\u016bdum advenit? ...",
+        "a": [
+            "Sextus pr\u012bmus advenit"
+        ]
+    },
+    {
+        "q": "7. Quid facit Sextus cum magister intrat? ...",
+        "a": [
+            "Sextus \u0113 sell\u0101 surgit"
+        ]
+    },
+    {
+        "q": "8. C\u016br \u012br\u0101tus est magister? ...",
+        "a": [
+            "... quod c\u0113ter\u012b puer\u012b n\u014dndum adsunt"
+        ]
+    },
+    {
+        "q": "9. Estne Sextus discipulus improbus? ...",
+        "a": [
+            "Sextus discipulus probus est"
+        ]
+    },
+    {
+        "q": "10. Quid facit Titus antequam l\u016bdum intrat? ...",
+        "a": [
+            "Titus i\u0101nuam pulsat"
+        ]
+    },
+    {
+        "q": "11. Quid magister eum facere iubet? ...",
+        "a": [
+            "magister eum c\u014dns\u012bdere iubet"
+        ]
+    },
+    {
+        "q": "12. C\u016br Titus librum suum n\u014dn habet? ...",
+        "a": [
+            "... quia M\u0101rcus eius librum habet"
+        ]
+    },
+    {
+        "q": "13. T\u016bne magister/magistra an discipulus/discipula es? ...",
+        "a": [
+            "discipulus/a sum"
+        ]
+    }
+]

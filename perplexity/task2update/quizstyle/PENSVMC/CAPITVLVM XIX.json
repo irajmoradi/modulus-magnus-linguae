@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Quae est coni\u016bnx Iovis? ",
+        "a": [
+            "I\u016bn\u014d coni\u016bnx est Iovis"
+        ]
+    },
+    {
+        "q": "2. Num Iuppiter bonus mar\u012btus est? ",
+        "a": [
+            "Imm\u014d malus mar\u012btus est Iuppiter"
+        ]
+    },
+    {
+        "q": "3. Cuius f\u012blius est Cup\u012bd\u014d? ",
+        "a": [
+            "Est f\u012blius Veneris et M\u0101rtis"
+        ]
+    },
+    {
+        "q": "4. Estne Qu\u012bntus m\u0101ior quam M\u0101rcus? ",
+        "a": [
+            "Qu\u012bntus minor est quam"
+        ]
+    },
+    {
+        "q": "5. Ubi parent\u0113s I\u016bli\u012b habit\u0101bant? ",
+        "a": [
+            "Parent\u0113s I\u016bli\u012b R\u014dmae habit\u0101bant"
+        ]
+    },
+    {
+        "q": "6. C\u016br I\u016blius tunc miser erat? ",
+        "a": [
+            "Quia Aemiliam am\u0101bat neque ab e\u0101 am\u0101bat"
+        ]
+    },
+    {
+        "q": "7. C\u016br Aemilia I\u016blium n\u014dn am\u0101bat? ",
+        "a": [
+            "Quia alium virum am\u0101bat"
+        ]
+    },
+    {
+        "q": "8. Num I\u016blius Aemiliam propter pec\u016bniam am\u0101bat? ",
+        "a": [
+            "N\u014dn ita, nam Aemilia virg\u014d pauper erat"
+        ]
+    },
+    {
+        "q": "9. C\u016br Aemilia nunc be\u0101ta est? ",
+        "a": [
+            "Quia bonum mar\u012btum habet"
+        ]
+    },
+    {
+        "q": "10. Hodi\u0113ne Aemilia minus pulchra est quam tunc? ",
+        "a": [
+            "Aemilia hodi\u0113 tam pulchra est quam tunc erat"
+        ]
+    }
+]

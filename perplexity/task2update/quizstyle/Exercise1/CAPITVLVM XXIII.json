@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. Magister epistulam [scr\u012bbit] # = Epistula \u0101 magistr\u014d [scr\u012bbitur] # est.   \t",
+        "a": [
+            "scr\u012bpsit",
+            "scr\u012bpta"
+        ]
+    },
+    {
+        "q": "2. Magister tabell\u0101rium ad I\u016blium [mittit] # = Tabell\u0101rius ad I\u016blium [mittitur] # est \u0101 magistr\u014d.",
+        "a": [
+            "m\u012bsit",
+            "missus"
+        ]
+    },
+    {
+        "q": "3. Tabell\u0101rius epistulam ad I\u016blium [fert] # = Epistula ad I\u016blium [fertur] # est \u0101 tabell\u0101ri\u014d.",
+        "a": [
+            "tulit",
+            "l\u0101ta"
+        ]
+    },
+    {
+        "q": "4. Canis i\u0101nit\u014dris pallium tabell\u0101ri\u012b [scindit] # = Pallium tabell\u0101ri\u012b \u0101 cane i\u0101nit\u014dris [scinditur] # est.",
+        "a": [
+            "scidit",
+            "scissum"
+        ]
+    },
+    {
+        "q": "5. I\u016blius signum [rumpit] # = Signum \u0101 I\u016bli\u014d [rumpitur] # est.",
+        "a": [
+            "r\u016bpit",
+            "ruptum"
+        ]
+    },
+    {
+        "q": "6. I\u016blius litter\u0101s [legit] # = Litterae \u0101 I\u016bli\u014d [leguntur] # sunt.\t",
+        "a": [
+            "l\u0113git",
+            "l\u0113ctae"
+        ]
+    },
+    {
+        "q": "7. I\u016blius n\u016bllum verbum [d\u012bcit] # = N\u016bllum verbum \u0101 I\u016bli\u014d [d\u012bcitur] # est.",
+        "a": [
+            "d\u012bxit",
+            "dictum"
+        ]
+    },
+    {
+        "q": "8. Aemilia epistulam [s\u016bmit] # = Epistula ab Aemili\u0101 [s\u016bmitur] # est.",
+        "a": [
+            "s\u016bmpsit",
+            "s\u016bmpta"
+        ]
+    },
+    {
+        "q": "9. Culter medic\u012b puerum [terret] # = Puer cultr\u014d medic\u012b [terr\u0113tur] # est.",
+        "a": [
+            "terruit",
+            "territus"
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "q": "1. I\u016blius agricol\u0101s interrogat d\u0113 r\u0113bus # [< r\u016bs].",
+        "a": [
+            "r\u016bstic\u012bs"
+        ]
+    },
+    {
+        "q": "2. # s\u014dlis efficit ut v\u012bnum bonum f\u012bat.",
+        "a": [
+            "Calor"
+        ]
+    },
+    {
+        "q": "3. Nihil v\u012bne\u012bs magis # quam s\u014dl et calor, neque # [= \u016blla r\u0113s] i\u012bs magis # quam imber et #.",
+        "a": [
+            "pr\u014ddest",
+            "quidquam|quicquam",
+            "nocet",
+            "fr\u012bgus"
+        ]
+    },
+    {
+        "q": "4. Solum n\u014dn \u016bmidum, sed # est.",
+        "a": [
+            "siccum"
+        ]
+    },
+    {
+        "q": "5. # est magnus numerus b\u0113sti\u0101rum quae simul p\u0101scuntur.",
+        "a": [
+            "Grex"
+        ]
+    },
+    {
+        "q": "6. P\u0101stor c\u016brat # ov\u0113s \u0113 grege aberrent # \u0101 lup\u014d rapiantur.",
+        "a": [
+            "n\u0113",
+            "n\u0113ve"
+        ]
+    },
+    {
+        "q": "7. Servus qu\u012b officium suum neglegit # [= improbus] est.",
+        "a": [
+            "n\u0113quam"
+        ]
+    },
+    {
+        "q": "8. P\u0101stor ov\u0113s, quae fr\u016bmentum # [<> m\u0101t\u016brum] carpere volunt, ab agr\u012bs # d\u0113bet.",
+        "a": [
+            "imm\u0101t\u016brum",
+            "prohib\u0113re"
+        ]
+    },
+    {
+        "q": "9. Canis cavet # \u016blla ovis \u0113 grege aberret.",
+        "a": [
+            "n\u0113"
+        ]
+    },
+    {
+        "q": "10. I\u016blius, quamquam sev\u0113rus ex\u012bstim\u0101tur, tamen # n\u014dn est.",
+        "a": [
+            "inh\u016bm\u0101nus"
+        ]
+    }
+]

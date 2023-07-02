@@ -1,0 +1,95 @@
+[
+    {
+        "q": "1. 'Serv|um' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est. 'Serv|\u014ds' quoque # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Serv|\u014ds' n\u014dn acc\u016bs\u0101t\u012bvus singul\u0101ris, sed # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "3. 'Serv|um' est acc\u016bs\u0101t\u012bvus #.",
+        "a": [
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "4. 'Ancill|am' acc\u016bs\u0101t\u012bvus est. 'Ancill|\u0101s' quoque # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "5. 'Ancill|am' # # est; 'ancill|\u0101s' est # #.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris",
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "6. 'Cubicul|um' n\u014dmin\u0101t\u012bvus et # est. 'Cubicul|a' quoque # et # est. \t",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'Cubicul|um' n\u014dmin\u0101t\u012bvus et acc\u016bs\u0101t\u012bvus # est.",
+        "a": [
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "8. 'Cubicul|a' est # et # #.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "9. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: servus, acc\u016bs\u0101t\u012bvus: serv#.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "10. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: serv\u012b, acc\u016bs\u0101t\u012bvus: serv#.",
+        "a": [
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "11. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: ancilla, acc\u016bs\u0101t\u012bvus: ancill#.",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "12. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: ancillae, acc\u016bs\u0101t\u012bvus: ancill#.",
+        "a": [
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "13. Singul\u0101ris: n\u014dmin\u0101t\u012bvus et acc\u016bs\u0101t\u012bvus: cubicul#.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "14. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus et accus\u0101t\u012bvus: cubicul#.",
+        "a": [
+            "a"
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "q": "1. 'Voc|\u014d', 'voc\u0101|mus' # pr\u012bma est.",
+        "a": [
+            "pers\u014dna"
+        ]
+    },
+    {
+        "q": "2. 'Voc\u0101|s', 'voc\u0101|tis' # # est.",
+        "a": [
+            "pers\u014dna",
+            "secunda"
+        ]
+    },
+    {
+        "q": "3. 'Voca|t', 'voca|nt' # # est.",
+        "a": [
+            "pers\u014dna",
+            "tertia"
+        ]
+    },
+    {
+        "q": "4. 'Voc|\u014d' pers\u014dna # singul\u0101ris est; 'voc\u0101|mus' est # # pl\u016br\u0101lis.",
+        "a": [
+            "pr\u012bma",
+            "pers\u014dna",
+            "pr\u012bma"
+        ]
+    },
+    {
+        "q": "5. 'Voc\u0101|s' # secunda # est; 'voc\u0101|tis' est # # #.",
+        "a": [
+            "pers\u014dna",
+            "singul\u0101ris",
+            "pers\u014dna",
+            "secunda",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "6. 'Voca|t' pers\u014dna # # est; 'voca|nt' est # # #.",
+        "a": [
+            "tertia",
+            "singul\u0101ris",
+            "pers\u014dna",
+            "tertia",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "7. Pers.1\tam#\tam#\tvid#\tvid#\taud#\taud#\t",
+        "a": [
+            "\u014d",
+            "\u0101mus",
+            "e\u014d",
+            "\u0113mus",
+            "i\u014d",
+            "\u012bmus"
+        ]
+    },
+    {
+        "q": "8. Pers.2\tam#\tam#\t\tvid#\tvid#\t\taud#\taud#",
+        "a": [
+            "\u0101s",
+            "\u0101tis",
+            "\u0113s",
+            "\u0113tis",
+            "\u012bs",
+            "\u012btis"
+        ]
+    },
+    {
+        "q": "9. Pers.3\tam#\tam#\t\tvid#\tvid#\t\taud#\taud#",
+        "a": [
+            "at",
+            "ant",
+            "et",
+            "ent",
+            "it",
+            "iunt"
+        ]
+    },
+    {
+        "q": "10. Pers.1\td\u016bc#\td\u016bc#\tfac#\tfac#\ts#\ts#",
+        "a": [
+            "\u014d",
+            "imus",
+            "i\u014d",
+            "imus",
+            "um",
+            "umus"
+        ]
+    },
+    {
+        "q": "11. Pers.2\td\u016bc#\td\u016bc#\t\tfac#\tfac#\t\tes\tes#",
+        "a": [
+            "is",
+            "itis",
+            "is",
+            "itis",
+            "tis"
+        ]
+    },
+    {
+        "q": "12. Pers.3\td\u016bc#\td\u016bc#\t\tfac#\tfac#\t\tes#\ts#",
+        "a": [
+            "it",
+            "unt",
+            "it",
+            "iunt",
+            "t",
+            "unt"
+        ]
+    }
+]

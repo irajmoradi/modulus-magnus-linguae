@@ -1,0 +1,121 @@
+[
+    {
+        "q": "1. # [XXX] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "tr\u012bgint\u0101",
+            "tr\u012bc\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "2. # [XL] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "quadr\u0101gint\u0101",
+            "quadr\u0101g\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "3. # [L] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "qu\u012bnqu\u0101gint\u0101",
+            "qu\u012bnqu\u0101g\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "4. # [LX] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "sex\u0101gint\u0101",
+            "sex\u0101g\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "5. # [LXX] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "septu\u0101gint\u0101",
+            "septu\u0101g\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "6. # [LXXX] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "oct\u014dgint\u0101",
+            "oct\u014dg\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "7. # [XC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "n\u014dn\u0101gint\u0101",
+            "n\u014dn\u0101g\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "8. # [C] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "centum",
+            "cent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "9. # [CC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "ducent\u012bs",
+            "ducent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "10. # [CCC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "trecent\u012bs",
+            "trecent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "11. # [CCCC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "quadringent\u012bs",
+            "quadringent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "12. # [D] ann\u012bs post = # ann\u014d post",
+        "a": [
+            "qu\u012bngent\u012bs",
+            "qu\u012bngent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "13. # [DC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "sescent\u012bs|sexcent\u012bs",
+            "sescent\u0113sim\u014d|sexcent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "14. # [DCC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "septingent\u012bs",
+            "septingent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "15. # [DCCC] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "octingent\u012bs",
+            "octingent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "16. # [CM] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "n\u014dngent\u012bs",
+            "n\u014dngent\u0113sim\u014d"
+        ]
+    },
+    {
+        "q": "17. # [M] ann\u012bs post = # ann\u014d post.",
+        "a": [
+            "m\u012blle",
+            "m\u012bll\u0113sim\u014d"
+        ]
+    }
+]

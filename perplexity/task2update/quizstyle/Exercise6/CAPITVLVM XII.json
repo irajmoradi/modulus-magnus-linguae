@@ -1,0 +1,61 @@
+[
+    {
+        "q": "1. Gladius long# n\u014dn tam lev# est quam gladius brev#.",
+        "a": [
+            "us",
+            "is",
+            "is"
+        ]
+    },
+    {
+        "q": "2. Hasta brev# n\u014dn tam grav# est quam hasta long#.",
+        "a": [
+            "is",
+            "is",
+            "a"
+        ]
+    },
+    {
+        "q": "3. Saccus L\u0113andr\u012b magn# et grav# est, saccus Syr\u012b est parv# et lev#.",
+        "a": [
+            "us",
+            "is",
+            "us",
+            "is"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus est puer crass#, M\u0101rcus puer tenu# est.",
+        "a": [
+            "us",
+            "is"
+        ]
+    },
+    {
+        "q": "5. Aemilia n\u014dn laet#, sed tr\u012bst# est.",
+        "a": [
+            "a",
+            "is"
+        ]
+    },
+    {
+        "q": "6. Capillus Aemiliae n\u014dn brev#, sed long# est.",
+        "a": [
+            "is",
+            "us"
+        ]
+    },
+    {
+        "q": "7. Haec l\u012bnea long# et tenu# est: ",
+        "a": [
+            "a",
+            "is"
+        ]
+    },
+    {
+        "q": "8. Haec l\u012bnea brev# est: ",
+        "a": [
+            "is"
+        ]
+    }
+]

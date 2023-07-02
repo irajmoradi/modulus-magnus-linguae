@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Ubi habitant m\u012blit\u0113s R\u014dm\u0101n\u012b? ...",
+        "a": [
+            "m\u012blit\u0113s in castr\u012bs habitant"
+        ]
+    },
+    {
+        "q": "2. Ubi sunt castra in quibus Aemilius habitat? ...",
+        "a": [
+            "castra eius sunt prope f\u012bnem imperi\u012b R\u014dm\u0101n\u012b"
+        ]
+    },
+    {
+        "q": "3. C\u016br n\u016bll\u012b puer\u012b in castr\u012bs habitant? ...",
+        "a": [
+            "... quia puer\u012b m\u012blit\u0101re n\u014dn possunt"
+        ]
+    },
+    {
+        "q": "4. Quid est circum castra R\u014dm\u0101na? ...",
+        "a": [
+            "circum castra est v\u0101llum et fossa"
+        ]
+    },
+    {
+        "q": "5. Quam altum et quam longum est v\u0101llum castr\u014drum? ...",
+        "a": [
+            "v\u0101llum est decem ped\u0113s altum et duo m\u012blia passuum longum"
+        ]
+    },
+    {
+        "q": "6. Quot portae in castra d\u016bcunt? ...",
+        "a": [
+            "duae portae in castra d\u016bcunt"
+        ]
+    },
+    {
+        "q": "7. Quam l\u0101ta via est inter du\u0101s port\u0101s? ...",
+        "a": [
+            "ea via centum ped\u0113s l\u0101ta est"
+        ]
+    },
+    {
+        "q": "8. Cum castra oppugnantur, quid agunt R\u014dm\u0101n\u012b? ...",
+        "a": [
+            "R\u014dm\u0101n\u012b castra d\u0113fendunt"
+        ]
+    },
+    {
+        "q": "9. Quibus arm\u012bs v\u0101llum d\u0113fenditur? ...",
+        "a": [
+            "v\u0101llum p\u012bl\u012bs et gladi\u012bs d\u0113fenditur"
+        ]
+    },
+    {
+        "q": "10. Quid facit m\u012bles fortis qu\u012b ab hoste petitur? ...",
+        "a": [
+            "m\u012bles fortis s\u0113 d\u0113fendit et impetum in hostem facit"
+        ]
+    },
+    {
+        "q": "11. Qu\u014d fugiunt Germ\u0101n\u012b? ...",
+        "a": [
+            "Germ\u0101n\u012b in silv\u0101s fugiunt"
+        ]
+    },
+    {
+        "q": "12. C\u016br p\u012bla Germ\u0101n\u014drum procul iac\u012b n\u014dn possunt? ...",
+        "a": [
+            "... quod nimis longa et gravia sunt"
+        ]
+    },
+    {
+        "q": "13. C\u016br Germ\u0101nia \u0101 R\u014dm\u0101n\u012bs n\u014dn expugn\u0101tur? ...",
+        "a": [
+            "n\u014dn modo arm\u012bs, sed etiam fl\u016bminibus et montibus d\u0113fenditur Germ\u0101nia"
+        ]
+    },
+    {
+        "q": "14. Num R\u014dma ab hostibus expugn\u0101r\u012b potest? ...",
+        "a": [
+            "R\u014dma ab hostibus expugn\u0101r\u012b n\u014dn potest"
+        ]
+    }
+]

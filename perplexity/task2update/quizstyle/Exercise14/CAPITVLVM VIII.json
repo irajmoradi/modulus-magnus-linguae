@@ -1,0 +1,84 @@
+[
+    {
+        "q": "1. Qu# est Capua? Capua est oppidum. Qu# oppidum prope v\u012bllam I\u016bli\u012b est? T\u016bsculum est oppidum qu# prope v\u012bllam est. I# oppidum est prope v\u012bllam.",
+        "a": [
+            "id",
+            "od",
+            "od",
+            "d"
+        ]
+    },
+    {
+        "q": "2. Qu# emit M\u0113dus? \u014crn\u0101mentum emit. Qu# \u014drn\u0101mentum emit M\u0113dus? \u014crn\u0101mentum qu# M\u0113dus emit est \u0101nulus gemm\u0101tus. I# \u014drn\u0101mentum emit M\u0113dus.",
+        "a": [
+            "id",
+            "od",
+            "od",
+            "d"
+        ]
+    },
+    {
+        "q": "3. FAMILIA ROMANA est titulus capitul\u012b. C# capitul\u012b? Capitulum c# titulus est F. R. est capitulum secundum. Titulus e# capitul\u012b est F. R.",
+        "a": [
+            "uius",
+            "uius",
+            "ius"
+        ]
+    },
+    {
+        "q": "4. C# capitul\u014d titulus datur IMPERIVM ROMANVM? Capitulum c# hic titulus datur est capitulum pr\u012bmum. E# capitul\u014d datur hic titulus. ",
+        "a": [
+            "ui",
+            "ui",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "5. L\u0233dia \u014drn\u0101ment\u014d su\u014d d\u0113lect\u0101tur. Qu# \u014drn\u0101ment\u014d? \u014crn\u0101mentum qu# L\u0233dia d\u0113lect\u0101tur est \u0101nulus. E# \u014drn\u0101ment\u014d d\u0113lect\u0101tur L\u0233dia.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. Qu# voc\u0101bula neutra sunt? Neutra sunt voc\u0101bula qu# '-um' habent. E# voc\u0101bula neutra sunt. ",
+        "a": [
+            "ae",
+            "ae",
+            "a"
+        ]
+    },
+    {
+        "q": "7. Qu# \u014drn\u0101menta v\u0113ndit Alb\u012bnus? \u014crn\u0101menta qu# Alb\u012bnus v\u0113ndit sunt \u0101nul\u012b et margar\u012btae. E# \u014drn\u0101menta v\u0113ndit Alb\u012bnus.",
+        "a": [
+            "ae",
+            "ae",
+            "a"
+        ]
+    },
+    {
+        "q": "8. Qu# voc\u0101bul\u014drum pl\u016br\u0101lis '-a' habet? Voc\u0101bula qu# pl\u016br\u0101lis '-a' habet neutra sunt. Pl\u016br\u0101lis e# voc\u0101bul\u014drum '-a' habet.",
+        "a": [
+            "\u014drum",
+            "\u014drum",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "9. Qu# oppid\u012bs fluvi\u012b Padus et Tiberis aquam dant? Oppida qu# i\u012b fluvi\u012b aquam dant sunt Placentia et \u014cstia et c\u0113tera multa. I# oppid\u012bs fluvi\u012b Padus et Tiberis aquam dant.",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. Qu# verb\u012bs d\u0113lect\u0101tur I\u016blia? Verba qu# I\u016blia d\u0113lect\u0101tur sunt \"Ecce puella pulchra!\" I# verb\u012bs d\u0113lect\u0101tur puella.",
+        "a": [
+            "ibus",
+            "ibus",
+            "\u012bs"
+        ]
+    }
+]

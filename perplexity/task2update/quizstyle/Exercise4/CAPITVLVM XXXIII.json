@@ -1,0 +1,81 @@
+[
+    {
+        "q": "1. Qu\u012bntus Syram hort\u0101tur ad n\u0101rrand#: puer Syram hort\u0101tur ad f\u0101bul# n\u0101rrand#.",
+        "a": [
+            "um",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "2. Syra f\u012bnem n\u0101rrand# facit quia fessa est n\u0101rrand#: f\u012bnem facit f\u0101bul# n\u0101rrand# (= f\u0101bulam n\u0101rrand\u012b) quia fessa est f\u0101bul# n\u0101rrand# (= f\u0101bulam n\u0101rrand\u014d).",
+        "a": [
+            "\u012b",
+            "\u014d",
+            "ae",
+            "ae",
+            "\u0101",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "3. Aemilius tempus ad scr\u012bbend# n\u014dn habet: n\u016bllum tempus habet ad epistul\u0101s scr\u012bbend#.",
+        "a": [
+            "um",
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "4. Aemilia industria est in scr\u012bbend#: industria est in epistul\u012bs scr\u012bbend#.",
+        "a": [
+            "\u014d",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "5. Exercitia necess\u0101ria sunt ad discend#: necess\u0101ria sunt n\u014dn modo ad grammaticam discend#, sed etiam ad voc\u0101bula discend#.",
+        "a": [
+            "um",
+            "am",
+            "a"
+        ]
+    },
+    {
+        "q": "6. Sextus studi\u014dsus est legend#: studi\u014dsus est libr\u014drum legend# (= libr\u014ds legend\u012b).",
+        "a": [
+            "\u012b",
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "7. P\u0101stor canem s\u0113cum habet ovium c\u016bst\u014ddiend# caus\u0101 (= ov\u0113s c\u016bst\u014ddiend\u012b caus\u0101).",
+        "a": [
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "8. Canis necess\u0101rius est ad ov\u0113s c\u016bst\u014ddiend#.",
+        "a": [
+            "\u0101s"
+        ]
+    },
+    {
+        "q": "9. P\u0101stor ipse negleg\u0113ns est in ovibus c\u016bst\u014ddiend#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "10. Equit\u0113s mittuntur ad host\u0113s persequend#.",
+        "a": [
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "11. M\u0113dus cupidus est patri# vidend# (= patriam vidend\u012b).",
+        "a": [
+            "ae",
+            "ae"
+        ]
+    }
+]

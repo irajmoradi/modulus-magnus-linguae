@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Puer qu\u012b n\u014dndum # [= loqu\u012b] potest # d\u012bcitur.",
+        "a": [
+            "f\u0101r\u012b",
+            "\u012bnf\u0101ns"
+        ]
+    },
+    {
+        "q": "2. \u012anf\u0101ns qu\u012b ambul\u0101re n\u014dndum potest in # iacet.",
+        "a": [
+            "c\u016bn\u012bs"
+        ]
+    },
+    {
+        "q": "3. # [= parvus] \u012bnf\u0101ns mult\u0101s h\u014dr\u0101s dormit; # enim \u012bnfant\u012b n\u014dn minus # est quam cibus.",
+        "a": [
+            "Parvulus",
+            "somnus",
+            "necess\u0101rius"
+        ]
+    },
+    {
+        "q": "4. \u012anf\u0101ns qu\u012b cib\u014d # magn\u0101 v\u014dce #; ita parvulus \u012bnf\u0101ns cibum # [= poscit].",
+        "a": [
+            "caret",
+            "v\u0101git",
+            "postulat"
+        ]
+    },
+    {
+        "q": "5. Parvulus \u012bnf\u0101ns n\u014dn p\u0101ne, sed # v\u012bvit.",
+        "a": [
+            "lacte"
+        ]
+    },
+    {
+        "q": "6. N\u014dn omn\u0113s m\u0101tr\u0113s \u012bnfant\u0113s su\u014ds ipsae # volunt.",
+        "a": [
+            "alere"
+        ]
+    },
+    {
+        "q": "7. Mult\u012b \u012bnfant\u0113s n\u014dn \u0101 m\u0101tribus su\u012bs, sed \u0101 # aluntur. ",
+        "a": [
+            "n\u016btr\u012bcibus"
+        ]
+    },
+    {
+        "q": "8. N\u016btr\u012bx est # [= f\u0113mina] quae n\u014dn suum, sed # \u012bnfantem alit.",
+        "a": [
+            "mulier",
+            "ali\u0113num"
+        ]
+    },
+    {
+        "q": "9. \u012anf\u0101ns pr\u012bma verba discit antequam pr\u012bm\u014ds # facere potest.",
+        "a": [
+            "grad\u016bs"
+        ]
+    },
+    {
+        "q": "10. I\u016blius et Aemilia # novum \u012bnfantem hab\u0113bunt.",
+        "a": [
+            "mox"
+        ]
+    }
+]

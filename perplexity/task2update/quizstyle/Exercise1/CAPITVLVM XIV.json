@@ -1,0 +1,63 @@
+[
+    {
+        "q": "1. Duo puer\u012b in hortum eunt, # puer ambulat, # currit.",
+        "a": [
+            "alter",
+            "alter"
+        ]
+    },
+    {
+        "q": "2. # \u0113 du\u014dbus puer\u012bs currit? Qu\u012bntus currit. # ambulat? M\u0101rcus ambulat. ",
+        "a": [
+            "Uter",
+            "Uter"
+        ]
+    },
+    {
+        "q": "3. I\u016blius: \"Curre, M\u0101rce!\" Iam # puer currit, et M\u0101rcus et Qu\u012bntus; # puer ambulat, nec M\u0101rcus nec Qu\u012bntus.",
+        "a": [
+            "uterque",
+            "neuter"
+        ]
+    },
+    {
+        "q": "4. Aemilia et L\u0233dia sunt duae f\u0113minae: # f\u0113mina R\u014dm\u0101na est, # Graeca.",
+        "a": [
+            "altera",
+            "altera"
+        ]
+    },
+    {
+        "q": "5. # \u0113 du\u0101bus f\u0113min\u012bs est Graeca? L\u0233dia est Graeca.",
+        "a": [
+            "Utra"
+        ]
+    },
+    {
+        "q": "6. # f\u0113mina pulchra est, et Aemilia et L\u0233dia; # f\u0113mina foeda est, nec Aemilia nec L\u0233dia.",
+        "a": [
+            "Utraque",
+            "neutra"
+        ]
+    },
+    {
+        "q": "7. N\u012blus et Rh\u0113nus sunt duo fl\u016bmina: # fl\u016bmen in \u0100fric\u0101 est, # in Eur\u014dp\u0101.",
+        "a": [
+            "alterum",
+            "alterum"
+        ]
+    },
+    {
+        "q": "8. # \u0113 du\u014dbus fl\u016bminibus in \u0100fric\u0101 est, N\u012blusne an Rh\u0113nus? N\u012blus in \u0100fric\u0101 est.",
+        "a": [
+            "Utrum"
+        ]
+    },
+    {
+        "q": "9. # fl\u016bmen magnum est, et N\u012blus et Rh\u0113nus; # fl\u016bmen parvum est, nec N\u012blus nec Rh\u0113nus.",
+        "a": [
+            "Utrumque",
+            "neutrum"
+        ]
+    }
+]

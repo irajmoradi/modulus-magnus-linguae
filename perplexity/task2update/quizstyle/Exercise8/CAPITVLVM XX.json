@@ -1,0 +1,73 @@
+[
+    {
+        "q": "1. I\u016blius et Aemilia in vi\u0101 ante tabernam c\u014dnsistunt, quia fl\u014dr\u0113s emere #. ",
+        "a": [
+            "volunt"
+        ]
+    },
+    {
+        "q": "2. Tabern\u0101rius ros\u0101s et l\u012blia ali\u014dsque fl\u014dr\u0113s i\u012bs ostendit et \"Qu\u014ds fl\u014dr\u0113s #?\" inquit.",
+        "a": [
+            "vultis"
+        ]
+    },
+    {
+        "q": "3. I\u016blius: \"N\u014dn r\u014ds\u0101s, sed l\u012blia #.\" ",
+        "a": [
+            "volumus"
+        ]
+    },
+    {
+        "q": "4. Tabern\u0101rius: \"C\u016br v\u014ds ros\u0101s n\u014dn #?\"",
+        "a": [
+            "vultis"
+        ]
+    },
+    {
+        "q": "5. I\u016blius: \"N\u014ds ros\u0101s tu\u0101s emere #, quia in hort\u014d nostr\u014d multae sunt rosae.\"",
+        "a": [
+            "n\u014dlumus"
+        ]
+    },
+    {
+        "q": "6. Aemilia: \"Sed hae rosae pulchri\u014dr\u0113s sunt. Ego ros\u0101s #, l\u012blia #.\" Aemilia d\u012bcit 's\u0113 ros\u0101s #, l\u012blia #.'",
+        "a": [
+            "vol\u014d",
+            "n\u014dl\u014d",
+            "velle",
+            "n\u014dlle"
+        ]
+    },
+    {
+        "q": "7. I\u016blius: \"S\u012b t\u016b l\u012blia n\u014dn #, ego nec ros\u0101s nec l\u012blia emere #.\"",
+        "a": [
+            "v\u012bs",
+            "vol\u014d"
+        ]
+    },
+    {
+        "q": "8. I\u016blius, qu\u012b n\u016bll\u014ds fl\u014dr\u0113s emere #, \u0101 tabern\u0101 abit.",
+        "a": [
+            "vult"
+        ]
+    },
+    {
+        "q": "9. Aemilia \"# m\u0113 relinquere\" inquit eumque sequitur.",
+        "a": [
+            "N\u014dl\u012b"
+        ]
+    },
+    {
+        "q": "10. Tabern\u0101rius: \"Man\u0113te! # ab\u012bre!\" ",
+        "a": [
+            "N\u014dl\u012bte"
+        ]
+    },
+    {
+        "q": "11. Homin\u0113s qu\u012b fl\u014dr\u0113s emere # ad tabernam adeunt, qu\u012b fl\u014dr\u0113s emere # \u0101 tabern\u0101 abeunt.",
+        "a": [
+            "volunt",
+            "n\u014dlunt"
+        ]
+    }
+]

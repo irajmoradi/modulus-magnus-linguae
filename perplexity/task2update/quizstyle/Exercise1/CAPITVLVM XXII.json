@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. \u0100nulus ex aur\u014d factus = \u0101nulus aur#.",
+        "a": [
+            "eus"
+        ]
+    },
+    {
+        "q": "2. Baculum \u0113 lign\u014d factum = baculum lign#.",
+        "a": [
+            "eum"
+        ]
+    },
+    {
+        "q": "3. Cat\u0113na ex ferr\u014d facta = cat\u0113na ferr#.",
+        "a": [
+            "ea"
+        ]
+    },
+    {
+        "q": "4. Numm\u012b ex aur\u014d fact\u012b = numm\u012b aur#.",
+        "a": [
+            "e\u012b"
+        ]
+    },
+    {
+        "q": "5. Stilus ferreus = stilus # # #.",
+        "a": [
+            "ex|\u0113",
+            "ferr\u014d",
+            "factus"
+        ]
+    },
+    {
+        "q": "6. P\u014dculum aureum = p\u014dculum # # #.",
+        "a": [
+            "ex",
+            "aur\u014d",
+            "factum"
+        ]
+    },
+    {
+        "q": "7. For\u0113s ligneae = for\u0113s # # #.",
+        "a": [
+            "ex|\u0113",
+            "lign\u014d",
+            "factae"
+        ]
+    }
+]

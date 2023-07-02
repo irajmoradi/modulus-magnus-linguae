@@ -1,0 +1,59 @@
+[
+    {
+        "q": "1. In # pr\u012bm\u0101 sunt tr\u0113s #: I\u016blia, M\u0101rcus, Qu\u012bntus.",
+        "a": [
+            "scaen\u0101",
+            "pers\u014dnae"
+        ]
+    },
+    {
+        "q": "2. I\u016blia #: \"Lalla, lalla!\" I\u016blia # est.",
+        "a": [
+            "cantat",
+            "laeta"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus laetus n\u014dn est, M\u0101rcus # est.",
+        "a": [
+            "\u012br\u0101tus"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus I\u016bliam #.",
+        "a": [
+            "pulsat"
+        ]
+    },
+    {
+        "q": "5. # I\u016blia n\u014dn cantat, sed #.",
+        "a": [
+            "Iam",
+            "pl\u014drat"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus #: \"Hahahae!\"",
+        "a": [
+            "r\u012bdet"
+        ]
+    },
+    {
+        "q": "7. I\u016blia: \"Ubi est m\u0101ter?\" I\u016blia Aemiliam n\u014dn #.",
+        "a": [
+            "videt"
+        ]
+    },
+    {
+        "q": "8. I\u016blia Aemiliam #: \"Mamma!\"",
+        "a": [
+            "vocat"
+        ]
+    },
+    {
+        "q": "9. Aemilia #.",
+        "a": [
+            "venit"
+        ]
+    }
+]

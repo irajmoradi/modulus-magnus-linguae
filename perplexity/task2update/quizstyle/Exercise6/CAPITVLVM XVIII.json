@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. Titus n\u014dn tam stultus nec tam pig# est quam M\u0101rcus.",
+        "a": [
+            "er"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus stultior et pig# est quam c\u0113ter\u012b discipul\u012b.",
+        "a": [
+            "rior"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus discipulus stultissimus et pig# est.",
+        "a": [
+            "errimus"
+        ]
+    },
+    {
+        "q": "4. \u0100nulus sine gemm\u0101 n\u014dn tam pulch# est quam \u0101nulus gemm\u0101tus.",
+        "a": [
+            "er"
+        ]
+    },
+    {
+        "q": "5. \u0100nulus quem M\u0113dus emit pulch# est quam c\u0113ter\u012b \u0101nul\u012b Alb\u012bn\u012b.",
+        "a": [
+            "rior"
+        ]
+    },
+    {
+        "q": "6. M\u0113dus \u0101nulum Alb\u012bn\u012b pulch# emit. \t",
+        "a": [
+            "errimum"
+        ]
+    },
+    {
+        "q": "7. Capillus Sext\u012b et Tit\u012b n\u014dn tam nig# est quam M\u0101rc\u012b.",
+        "a": [
+            "er"
+        ]
+    },
+    {
+        "q": "8. Capillus M\u0101rc\u012b nig# est quam c\u0113ter\u014drum puer\u014drum.",
+        "a": [
+            "rior"
+        ]
+    },
+    {
+        "q": "9. Capillus M\u0101rc\u012b nig# est.",
+        "a": [
+            "errimus"
+        ]
+    }
+]

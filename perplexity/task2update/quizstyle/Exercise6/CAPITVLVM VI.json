@@ -1,0 +1,54 @@
+[
+    {
+        "q": "1. Qu\u014d it M\u0113dus? M\u0113dus R\u014dm# it, nam am\u012bca eius R\u014dm# habitat.",
+        "a": [
+            "am",
+            "ae"
+        ]
+    },
+    {
+        "q": "2. Unde venit Corn\u0113lius? Corn\u0113lius R\u014dm# venit.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "3. Qu\u014d it Corn\u0113lius? Corn\u0113lius T\u016bscul# it, nam is T\u016bscul# habitat.",
+        "a": [
+            "um",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. Unde venit M\u0113dus? M\u0113dus T\u016bscul# venit.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus T\u016bscul# R\u014dm# it.",
+        "a": [
+            "\u014d",
+            "am"
+        ]
+    },
+    {
+        "q": "6. Corn\u0113lius R\u014dm# T\u016bscul# it.",
+        "a": [
+            "\u0101",
+            "um"
+        ]
+    },
+    {
+        "q": "7. Iam M\u0113dus R\u014dm# apud am\u012bcam suam est.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "8. Ubi est Corn\u0113lius? T\u016bscul# est apud familiam suam.",
+        "a": [
+            "\u012b"
+        ]
+    }
+]

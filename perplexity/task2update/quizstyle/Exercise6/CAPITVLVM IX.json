@@ -1,0 +1,71 @@
+[
+    {
+        "q": "1. Servus improbus \u0101 domin\u014d su\u014d abit = Servus improbus # # #",
+        "a": [
+            "dominum",
+            "suum",
+            "relinquit"
+        ]
+    },
+    {
+        "q": "2. Serv\u012b prob\u012b domin\u014ds su\u014ds n\u014dn relinquunt = Serv\u012b prob\u012b # # # # #",
+        "a": [
+            "\u0101|ab",
+            "domin\u012bs",
+            "su\u012bs",
+            "n\u014dn",
+            "abeunt"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus et L\u0233dia \u0101 tabern\u0101 abeunt = M\u0113dus et L\u0233dia # #",
+        "a": [
+            "tabernam",
+            "relinquunt"
+        ]
+    },
+    {
+        "q": "4. I\u016blia ab Aemili\u0101 et puer\u012bs abit = I\u016blia # # # #",
+        "a": [
+            "Aemiliam",
+            "et",
+            "puer\u014ds",
+            "relinquit"
+        ]
+    },
+    {
+        "q": "5. Ovis nigra p\u0101st\u014drem suum relinquit = Ovis nigra # # # #",
+        "a": [
+            "\u0101",
+            "p\u0101st\u014dre",
+            "su\u014d",
+            "abit"
+        ]
+    },
+    {
+        "q": "6. Canis \u0101 p\u0101st\u014dre n\u014dn abit = Canis # # #",
+        "a": [
+            "p\u0101st\u014drem",
+            "n\u014dn",
+            "relinquit"
+        ]
+    },
+    {
+        "q": "7. P\u0101stor ov\u0113s alb\u0101s relinquit = P\u0101stor # # # #",
+        "a": [
+            "ab",
+            "ovibus",
+            "alb\u012bs",
+            "abit"
+        ]
+    },
+    {
+        "q": "8. Lupus ab ove et cane abit = Lupus # # # #",
+        "a": [
+            "ovem",
+            "et",
+            "canem",
+            "relinquit"
+        ]
+    }
+]

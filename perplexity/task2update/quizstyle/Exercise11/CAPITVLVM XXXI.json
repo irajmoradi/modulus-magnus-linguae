@@ -1,0 +1,24 @@
+[
+    {
+        "q": "1. 'Lauda|nd|us -a -um' est #, quod est adiect\u012bvum pr\u012bmae et secundae d\u0113cl\u012bn\u0101ti\u014dnis.",
+        "a": [
+            "gerund\u012bvum"
+        ]
+    },
+    {
+        "q": "2. Gerund\u012bvum (n\u014dm. sing. masc.) d\u0113sinit in -nd|us [1, 2] aut -end|us [3, 4], quod ad thema praesentis adicitur: lauda|#, mone|#, leg|#, audi|#.",
+        "a": [
+            "ndus",
+            "ndus",
+            "endus",
+            "endus"
+        ]
+    },
+    {
+        "q": "3. Gerund\u012bvum cum verb\u014d 'esse' coni\u016bnctum significat id quod fier\u012b oportet: epistula scr\u012bb# # = epistulam scr\u012bb\u012b oportet.",
+        "a": [
+            "enda",
+            "est"
+        ]
+    }
+]

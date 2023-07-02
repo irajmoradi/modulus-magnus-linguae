@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Brev|is -e posit\u012bvus est; brevior -ius # est; brevissim|us",
+        "a": [
+            "compar\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": " -a -um est #.",
+        "a": [
+            "superl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. Pos.\t\talt#\t\t\talt#\t\t\talt#",
+        "a": [
+            "us",
+            "a",
+            "um"
+        ]
+    },
+    {
+        "q": "3. Comp.\talt#\t\t\talt#\t\t\talt#",
+        "a": [
+            "ior",
+            "ior",
+            "ius"
+        ]
+    },
+    {
+        "q": "4. Sup.\t\talt#\t\talt#\t\talt#\t",
+        "a": [
+            "issimus",
+            "issima",
+            "issimum"
+        ]
+    },
+    {
+        "q": "5. Pos.\t\tbrev# \t\t\tbrev#\t\t\tbrev#",
+        "a": [
+            "is",
+            "is",
+            "e"
+        ]
+    },
+    {
+        "q": "6. Comp.\tbrev#\t\t\tbrev#\t\t\tbrev#",
+        "a": [
+            "ior",
+            "ior",
+            "ius"
+        ]
+    },
+    {
+        "q": "7. Sup.\t\tbrev#\t\tbrev#\t\tbrev#",
+        "a": [
+            "issimus",
+            "issima",
+            "issimum"
+        ]
+    }
+]

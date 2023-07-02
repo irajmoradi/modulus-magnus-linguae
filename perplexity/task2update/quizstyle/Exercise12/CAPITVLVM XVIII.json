@@ -1,0 +1,84 @@
+[
+    {
+        "q": "1. Quot# I\u016blia 'la' cantat? I\u016blia 'la' cantat",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "qu\u012bnqu#: \"La-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "sex#: \"La-la-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "sept#: \"La-la-la-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "oct#: \"La-la-la-la-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "nov#: \"La-la-la-la-la-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "dec#: \"La-la-la-la-la-la-la-la-la-la.\"",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus, qu\u012b eandem syllabam tot# aud\u012bre n\u014dn vult, puellam cantantem pulsat.",
+        "a": [
+            "i\u0113s|i\u0113ns"
+        ]
+    },
+    {
+        "q": "3. Tum Qu\u012bntus M\u0101rcum pulsat. Quot#? # [1x] tantum, nam M\u0101rcus item Qu\u012bntum # pulsat.",
+        "a": [
+            "i\u0113s|i\u0113ns",
+            "Semel",
+            "semel"
+        ]
+    },
+    {
+        "q": "4. Quot# I\u016bliam pulsat M\u0101rcus? M\u0101rcus I\u016bliam # [2x] pulsat.",
+        "a": [
+            "i\u0113s|i\u0113ns",
+            "bis"
+        ]
+    },
+    {
+        "q": "5. I\u016blia # [3x] m\u0101trem vocat: \"Mamma! Mam-ma! Ma-am-ma!\" ",
+        "a": [
+            "ter"
+        ]
+    },
+    {
+        "q": "6. Magister M\u0101rcum interrogat # [4x]: \"Quot sunt XXX et X? XXX et VII? XXX et VIII? XXX et IX?\" ",
+        "a": [
+            "quater"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus # [1x] r\u0113ct\u0113 et # [3x] pr\u0101v\u0113 respondet.",
+        "a": [
+            "semel",
+            "ter"
+        ]
+    }
+]

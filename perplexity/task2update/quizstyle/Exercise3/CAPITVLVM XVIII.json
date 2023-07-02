@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Quot sunt litterae Lat\u012bnae? ...",
+        "a": [
+            "litterae Lat\u012bnae sunt v\u012bgint\u012b tr\u0113s"
+        ]
+    },
+    {
+        "q": "2. Quot sunt v\u014dc\u0101l\u0113s et quot c\u014dnsonant\u0113s? ...",
+        "a": [
+            "sex sunt v\u014dc\u0101l\u0113s, septendecim c\u014dnsonant\u0113s"
+        ]
+    },
+    {
+        "q": "3. Estne B v\u014dc\u0101lis an c\u014dnson\u0101ns? ...",
+        "a": [
+            "littera B c\u014dnson\u0101ns est"
+        ]
+    },
+    {
+        "q": "4. Suntne v\u014dc\u0101l\u0113s an c\u014dnsonant\u0113s litterae E et O? ...",
+        "a": [
+            "litterae E et O v\u014dc\u0101l\u0113s sunt"
+        ]
+    },
+    {
+        "q": "5. In quibus voc\u0101bul\u012bs reperiuntur litterae Y et Z? ...",
+        "a": [
+            "Y et Z in voc\u0101bul\u012bs Graec\u012bs reperiuntur"
+        ]
+    },
+    {
+        "q": "6. Quid est zephyrus? ...",
+        "a": [
+            "zephyrus est ventus qu\u012b ab occidente flat"
+        ]
+    },
+    {
+        "q": "7. Num K littera frequ\u0113ns est in lingu\u0101 Lat\u012bn\u0101? ...",
+        "a": [
+            "K littera r\u0101ra est in lingu\u0101 Lat\u012bn\u0101"
+        ]
+    },
+    {
+        "q": "8. Quid est 'Kaes\u014d'? ...",
+        "a": [
+            "'Kaes\u014d' est praen\u014dmen r\u0101rissimum"
+        ]
+    },
+    {
+        "q": "9. In voc\u0101bul\u014d 'familia' quot litterae et quot syllabae sunt? ... ",
+        "a": [
+            "in voc\u0101bul\u014d 'familia' septem litterae et quattuor syllabae sunt"
+        ]
+    },
+    {
+        "q": "10. Utrum voc\u0101bulum r\u0101rius est 'dominus' an 'erus'? ... ",
+        "a": [
+            "'erus' est voc\u0101bulum mult\u014d r\u0101rius quam 'dominus'"
+        ]
+    },
+    {
+        "q": "11. Qu\u014ds libr\u014ds magister legere potest? ...",
+        "a": [
+            "magister et libr\u014ds Lat\u012bn\u014ds et Graec\u014ds legere potest"
+        ]
+    },
+    {
+        "q": "12. Qu\u014dmodo parvus discipulus legit? ...",
+        "a": [
+            "parvus discipulus quamque litteram cuiusque voc\u0101bul\u012b legit"
+        ]
+    },
+    {
+        "q": "13. Quid scr\u012bbunt discipul\u012b? ...",
+        "a": [
+            "scr\u012bbunt id quod magister dictat"
+        ]
+    },
+    {
+        "q": "14. Omn\u0113sne discipul\u012b r\u0113ct\u0113 scr\u012bbunt? ...",
+        "a": [
+            "Sextus tantum r\u0113ct\u0113 scr\u012bbit"
+        ]
+    }
+]

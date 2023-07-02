@@ -1,0 +1,34 @@
+[
+    {
+        "q": "1. \u201cQu\u012bn ambul\u0101mus?\u201d = \u201cAmbul#!\u201d",
+        "a": [
+            "\u0113mus"
+        ]
+    },
+    {
+        "q": "2. \u201cQu\u012bn gaud\u0113mus?\u201d = \u201cGaud#!\u201d",
+        "a": [
+            "e\u0101mus"
+        ]
+    },
+    {
+        "q": "3. \u201cQu\u012bn bibimus atque canimus?\u201d = \u201cBib# atque can#!\u201d",
+        "a": [
+            "\u0101mus",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "4. \u201cQu\u012bn p\u014dcula exhaur\u012bmus?\u201d = \u201cP\u014dcula exhaur#!\u201d",
+        "a": [
+            "iamus"
+        ]
+    },
+    {
+        "q": "5. \u201cQu\u012bn equ\u014ds c\u014dnscendimus ac profic\u012bscimur?\u201d = \u201cEqu\u014ds c\u014dnscend# ac profisc\u012bsc#!\u201d",
+        "a": [
+            "\u0101mus",
+            "\u0101mur"
+        ]
+    }
+]

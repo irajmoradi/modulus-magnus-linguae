@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Quid puer\u012b discunt in l\u016bd\u014d? ",
+        "a": [
+            "Pueri litter\u0101s et numer\u014ds discunt"
+        ]
+    },
+    {
+        "q": "2. C\u016br Sextus \u0101 magistr\u014d laud\u0101tur? ",
+        "a": [
+            "Quia semper r\u0113ct\u0113 respondet"
+        ]
+    },
+    {
+        "q": "3. C\u016br M\u0101rcus reprehenditur? ",
+        "a": [
+            "Quia pr\u0101v\u0113 respondet"
+        ]
+    },
+    {
+        "q": "4. Estne facile id quod Titus interrog\u0101tur? ",
+        "a": [
+            "N\u014dn facile, sed difficile est"
+        ]
+    },
+    {
+        "q": "5. C\u016br Titus n\u014dn statim respondet? ",
+        "a": [
+            "Quia XLVIII numerus difficilis est"
+        ]
+    },
+    {
+        "q": "6. Uter r\u0113ct\u0113 respondet, Titusne an Sextus? ",
+        "a": [
+            "Sextsus est discipulus qu\u012b rect\u0113 respondet"
+        ]
+    },
+    {
+        "q": "7. Quot sunt \u016bnd\u0113tr\u012bgint\u0101 et novem? ",
+        "a": [
+            "Sunt duod\u0113 quadr\u0101gint\u0101"
+        ]
+    },
+    {
+        "q": "8. Tr\u0113s s\u0113sterti\u012b quot sunt ass\u0113s? ",
+        "a": [
+            "Tr\u0113s s\u0113sterti\u012b sunt duodecim ass\u0113s"
+        ]
+    },
+    {
+        "q": "9. Quot d\u0113n\u0101ri\u012b sunt oct\u014dgint\u0101 s\u0113sterti\u012b? ",
+        "a": [
+            "Oct\u014dgint\u0101 s\u0113sterti\u012b sunt v\u012bgint\u012b d\u0113n\u0101ri\u012b"
+        ]
+    },
+    {
+        "q": "10. Num facil\u0113s sunt numer\u012b R\u014dm\u0101n\u012b? ",
+        "a": [
+            "N\u014dn facil\u0113s, sed difficil\u0113s sunt nummer\u012b R\u014dm\u0101n\u012b"
+        ]
+    },
+    {
+        "q": "11. T\u016bne \u0101 magistr\u014d tu\u014d laud\u0101ris? ",
+        "a": [
+            "\u0100 magistr\u014d laudor"
+        ]
+    }
+]

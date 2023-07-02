@@ -1,0 +1,70 @@
+[
+    {
+        "q": "1. M\u0113dus n\u014dn est f\u012blius I\u016bli\u012b, M\u0113dus # I\u016bli\u012b est.",
+        "a": [
+            "servus"
+        ]
+    },
+    {
+        "q": "2. D\u0113lia n\u014dn est f\u012blia Aemiliae, D\u0113lia # Aemiliae est.",
+        "a": [
+            "ancilla"
+        ]
+    },
+    {
+        "q": "3. I\u016blius # M\u0113d\u012b est. Aemilia # D\u0113liae est. \t",
+        "a": [
+            "dominus",
+            "domina"
+        ]
+    },
+    {
+        "q": "4. D\u0101vus et M\u0113dus n\u014dn sunt domin\u012b, sed #. ",
+        "a": [
+            "serv\u012b"
+        ]
+    },
+    {
+        "q": "5. Syra et D\u0113lia n\u014dn sunt dominae, sed #.",
+        "a": [
+            "ancillae"
+        ]
+    },
+    {
+        "q": "6. I\u016blius dominus D\u0101v\u012b est: I\u016blius est dominus serv#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "7. I\u016blius dominus D\u0101v\u012b et M\u0113d\u012b est: I\u016blius est dominus serv#.",
+        "a": [
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "8. Aemilia domina Syrae est: Aemilia est domina ancill#.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "9. Aemilia domina Syrae et D\u0113liae est: Aemilia est domina ancill#.",
+        "a": [
+            "\u0101rum"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus, Qu\u012bntus I\u016bliaque n\u014dn serv\u012b, sed # sunt.",
+        "a": [
+            "l\u012bber\u012b"
+        ]
+    },
+    {
+        "q": "11. I\u016blius dominus serv# est et pater l\u012bber#.",
+        "a": [
+            "\u014drum",
+            "\u014drum"
+        ]
+    }
+]

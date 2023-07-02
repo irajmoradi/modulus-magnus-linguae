@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. Quid est toga? ...",
+        "a": [
+            "toga est vest\u012bmentum R\u014dm\u0101num"
+        ]
+    },
+    {
+        "q": "2. Utrum bracchium vir\u014d tog\u0101t\u014d n\u016bdum est? ... \t",
+        "a": [
+            "bracchium dextrum e\u012b n\u016bdum est"
+        ]
+    },
+    {
+        "q": "3. C\u016br m\u012bles R\u014dm\u0101nus togam n\u014dn gerit? ...",
+        "a": [
+            "... quia vir tog\u0101tus m\u012blit\u0101re n\u014dn potest"
+        ]
+    },
+    {
+        "q": "4. Quid m\u012bles man\u016b sinistr\u0101 gerit? ...",
+        "a": [
+            "man\u016b sinistr\u0101 m\u012bles sc\u016btum gerit"
+        ]
+    },
+    {
+        "q": "5. C\u016br M\u0101rcus calce\u014ds poscit? ...",
+        "a": [
+            "calce\u014ds poscit quia ped\u0113s e\u012b fr\u012bgent"
+        ]
+    },
+    {
+        "q": "6. Qu\u014d eunt D\u0101vus et M\u0101rcus? ...",
+        "a": [
+            "D\u0101vus et M\u0101rcus in \u0101trium eunt"
+        ]
+    },
+    {
+        "q": "7. Qu\u012b sunt in \u0101tri\u014d? ...",
+        "a": [
+            "ill\u012bc sunt parent\u0113s M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "8. Quid est ante parent\u0113s? ...",
+        "a": [
+            "ante e\u014ds p\u0101nis et m\u0101la sunt"
+        ]
+    },
+    {
+        "q": "9. Qu\u014d it Aemilia? ...",
+        "a": [
+            "Aemilia ad Qu\u012bntum it"
+        ]
+    },
+    {
+        "q": "10. Quid m\u0101ter f\u012bli\u014d aegr\u014dtant\u012b dat? ...",
+        "a": [
+            "f\u012bli\u014d aegr\u014d p\u0101nem et m\u0101lum dat"
+        ]
+    },
+    {
+        "q": "11. Quid pater dat f\u012bli\u014d valent\u012b? ...",
+        "a": [
+            "e\u012b pater p\u0101nem et duo m\u0101la dat"
+        ]
+    },
+    {
+        "q": "12. Qu\u0101s r\u0113s M\u0101rcus s\u0113cum fert? ...",
+        "a": [
+            "librum, tabulam, stilum s\u0113cum fert"
+        ]
+    },
+    {
+        "q": "13. Quis cum puer\u012bs \u012bre solet? ...",
+        "a": [
+            "M\u0113dus cum i\u012bs \u012bre solet"
+        ]
+    },
+    {
+        "q": "14. Quid d\u012bcit puer disc\u0113d\u0113ns? ...",
+        "a": [
+            "puer disc\u0113d\u0113ns \"Val\u0113!\" inquit"
+        ]
+    },
+    {
+        "q": "15. Quid pater respondet? ...",
+        "a": [
+            "\"val\u0113, M\u0101rce!\" respondet pater"
+        ]
+    }
+]

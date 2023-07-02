@@ -1,0 +1,78 @@
+[
+    {
+        "q": "1. Vir\u012b R\u014dm\u0101n\u012b togam #.",
+        "a": [
+            "gerunt"
+        ]
+    },
+    {
+        "q": "2. M\u012bles gladium gerit man\u016b #, sc\u016btum man\u016b #.",
+        "a": [
+            "dextr\u0101|dexter\u0101",
+            "sinistr\u0101"
+        ]
+    },
+    {
+        "q": "3. Vir # [= togam ger\u0113ns] m\u012blit\u0101re n\u014dn potest.",
+        "a": [
+            "tog\u0101tus"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus, cui ped\u0113s fr\u012bgent, # induit.",
+        "a": [
+            "calce\u014ds"
+        ]
+    },
+    {
+        "q": "5. D\u0101vus puerum #cum ven\u012bre iubet: \"Ven\u012b m\u0113#!\"",
+        "a": [
+            "s\u0113",
+            "cum"
+        ]
+    },
+    {
+        "q": "6. In \u0101tri\u014d # l\u012bber\u014ds su\u014ds exspectant.",
+        "a": [
+            "parent\u0113s"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntus, qu\u012b # \u0113sse solet, hodi\u0113 # \u0113sse potest.",
+        "a": [
+            "multum",
+            "nihil"
+        ]
+    },
+    {
+        "q": "8. D\u0101vus M\u0101rc\u014d librum et # et # et r\u0113gulam affert.",
+        "a": [
+            "tabulam",
+            "stilum"
+        ]
+    },
+    {
+        "q": "9. I\u016blius: \"Hodi\u0113 M\u0113dus #cum \u012bre n\u014dn potest, M\u0101rce.\"",
+        "a": [
+            "t\u0113"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus librum et tabulam et c\u0113ter\u0101s # M\u0101rc\u012b ferre solet.",
+        "a": [
+            "r\u0113s"
+        ]
+    },
+    {
+        "q": "11. M\u0101rcus ipse nihil ferre solet # m\u0101lum.",
+        "a": [
+            "praeter"
+        ]
+    },
+    {
+        "q": "12. F\u012blius disc\u0113d\u0113ns \"#, pater!\" inquit.",
+        "a": [
+            "Val\u0113"
+        ]
+    }
+]

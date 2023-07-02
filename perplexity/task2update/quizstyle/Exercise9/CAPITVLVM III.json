@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. # I\u016bliam pulsat? M\u0101rcus I\u016bliam pulsat.",
+        "a": [
+            "Quis"
+        ]
+    },
+    {
+        "q": "2. # M\u0101rcum videt? Qu\u012bntus M\u0101rcum videt.",
+        "a": [
+            "Quis"
+        ]
+    },
+    {
+        "q": "3. # Qu\u012bntus pulsat? M\u0101rcum Qu\u012bntus pulsat.",
+        "a": [
+            "Quem"
+        ]
+    },
+    {
+        "q": "4. # Aemiliam vocat? I\u016blia Aemiliam vocat.",
+        "a": [
+            "Quis"
+        ]
+    },
+    {
+        "q": "5. # Aemilia interrogat? Qu\u012bntum Aemilia interrogat.",
+        "a": [
+            "Quem"
+        ]
+    },
+    {
+        "q": "6. # respondet? Qu\u012bntus respondet.",
+        "a": [
+            "Quis"
+        ]
+    },
+    {
+        "q": "7. # vocat Qu\u012bntus? I\u016blium vocat Qu\u012bntus.",
+        "a": [
+            "Quem"
+        ]
+    },
+    {
+        "q": "8. # verberat I\u016blius? M\u0101rcum verberat I\u016blius.",
+        "a": [
+            "Quem"
+        ]
+    }
+]

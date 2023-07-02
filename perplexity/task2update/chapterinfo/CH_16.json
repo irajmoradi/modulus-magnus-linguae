@@ -1,0 +1,1222 @@
+{
+    "id": 15,
+    "name": "CAPITVLVM XVI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Italia inter duo maria #. ",
+                    "a": [
+                        "interest"
+                    ]
+                },
+                {
+                    "q": "2. Id mare quod supr\u0101 Italiam # est 'mare #' # [= vel] 'mare Hadri\u0101ticum' # [= n\u014dmin\u0101tur].",
+                    "a": [
+                        "situm",
+                        "Superum",
+                        "s\u012bve",
+                        "appell\u0101tur"
+                    ]
+                },
+                {
+                    "q": "3. \u012anfr\u0101 Italiam situm est mare # s\u012bve T\u016bscum.",
+                    "a": [
+                        "\u012anferum"
+                    ]
+                },
+                {
+                    "q": "4. In Tiber\u012b fl\u016bmine n\u014dn multum, sed # aquae est.",
+                    "a": [
+                        "paulum"
+                    ]
+                },
+                {
+                    "q": "5. Itaque magnae # R\u014dmam ad\u012bre n\u014dn possunt.",
+                    "a": [
+                        "n\u0101v\u0113s"
+                    ]
+                },
+                {
+                    "q": "6. \u014cstia est oppidum # quod magnum # habet.",
+                    "a": [
+                        "maritimum",
+                        "portum"
+                    ]
+                },
+                {
+                    "q": "7. In # maritim\u0101 mult\u012b sunt port\u016bs.",
+                    "a": [
+                        "\u014dr\u0101"
+                    ]
+                },
+                {
+                    "q": "8. \u014cs fl\u016bminis est # qu\u014d fl\u016bmen in mare #.",
+                    "a": [
+                        "locus",
+                        "\u012bnfluit"
+                    ]
+                },
+                {
+                    "q": "9. R\u0113s qu\u0101s merc\u0101t\u014dr\u0113s emunt ac v\u0113ndunt '#' d\u012bcuntur.",
+                    "a": [
+                        "merc\u0113s"
+                    ]
+                },
+                {
+                    "q": "10. Cum n\u016bllus # flat, mare # est.",
+                    "a": [
+                        "ventus",
+                        "tranquillum"
+                    ]
+                },
+                {
+                    "q": "11. Cum magnus ventus #, mare # est.",
+                    "a": [
+                        "flat",
+                        "turbidum"
+                    ]
+                },
+                {
+                    "q": "12. # est magnus ventus.",
+                    "a": [
+                        "Tempest\u0101s"
+                    ]
+                },
+                {
+                    "q": "13. Tempest\u0101s mare # atque alt\u014ds # facit, qu\u012b n\u0101vem aqu\u0101 # possunt. ",
+                    "a": [
+                        "turbat",
+                        "fl\u016bct\u016bs",
+                        "impl\u0113re"
+                    ]
+                },
+                {
+                    "q": "14. N\u0101vis quae aqu\u0101 impl\u0113tur in mare # cum naut\u012bs.",
+                    "a": [
+                        "mergitur"
+                    ]
+                },
+                {
+                    "q": "15. Itaque # tempest\u0101t\u0113s metuunt nec mar\u012b turbid\u014d # volunt.",
+                    "a": [
+                        "nautae",
+                        "n\u0101vig\u0101re"
+                    ]
+                },
+                {
+                    "q": "16. Is qu\u012b n\u0101vig\u0101re vult ventum secundum # [= exspectat].",
+                    "a": [
+                        "opper\u012btur"
+                    ]
+                },
+                {
+                    "q": "17. Ventus # est ventus qu\u012b \u0101 terg\u014d flat.",
+                    "a": [
+                        "secundus"
+                    ]
+                },
+                {
+                    "q": "18. Vent\u014d secund\u014d n\u0101v\u0113s \u0113 port\u016b # [= exeunt].",
+                    "a": [
+                        "\u0113grediuntur"
+                    ]
+                },
+                {
+                    "q": "19. # n\u0101vium vent\u014d implentur.",
+                    "a": [
+                        "V\u0113la"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Inter quae maria sita est Italia? ...",
+                    "a": [
+                        "Italia inter maria Superum et \u012anferum sita est"
+                    ]
+                },
+                {
+                    "q": "2. C\u016br magnae n\u0101v\u0113s R\u014dmam ad\u012bre n\u014dn possunt? ...",
+                    "a": [
+                        "... quia Tiberis parvum fl\u016bmen est"
+                    ]
+                },
+                {
+                    "q": "3. Ubi sita est \u014cstia? ...",
+                    "a": [
+                        "\u014cstia sita est ad \u014dstium Tiberis"
+                    ]
+                },
+                {
+                    "q": "4. Quid d\u012bcitur locus qu\u014d fl\u016bmen in mare \u012bnfluit? ...",
+                    "a": [
+                        "'\u014dstium' fl\u016bminis d\u012bcitur"
+                    ]
+                },
+                {
+                    "q": "5. In quod mare Tiberis \u012bnfluit? ...",
+                    "a": [
+                        "Tiberis in mare \u012anferum \u012bnfluit"
+                    ]
+                },
+                {
+                    "q": "6. Ubi sita sunt oppida Brundisium, Puteol\u012b, Genua? ...",
+                    "a": [
+                        "in \u014dr\u0101 maritim\u0101 sita sunt"
+                    ]
+                },
+                {
+                    "q": "7. Quid est portus? ...",
+                    "a": [
+                        "portus est locus qu\u014d n\u0101v\u0113s ad terram ad\u012bre possunt"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014dmodo merc\u0113s ex \u0100fric\u0101 in Italiam vehuntur? ...",
+                    "a": [
+                        "n\u0101vibus merc\u0113s ex \u0100fric\u0101 in Italiam vehuntur"
+                    ]
+                },
+                {
+                    "q": "9. Num merc\u0113s tantum vehuntur n\u0101vibus? ...",
+                    "a": [
+                        "etiam homin\u0113s n\u0101vibus vehuntur"
+                    ]
+                },
+                {
+                    "q": "10. Quid facit is qu\u012b n\u0101vig\u0101re vult? ...",
+                    "a": [
+                        "adit nautam qu\u012b n\u0101vem habet"
+                    ]
+                },
+                {
+                    "q": "11. Quand\u014d tranquillum est mare? ...",
+                    "a": [
+                        "mare tranquillum est cum n\u016bllus ventus flat"
+                    ]
+                },
+                {
+                    "q": "12. Quid est tempest\u0101s? ...",
+                    "a": [
+                        "tempest\u0101s est magnus ventus"
+                    ]
+                },
+                {
+                    "q": "13. C\u016br nautae tempest\u0101t\u0113s metuunt? ...",
+                    "a": [
+                        "... quod tempest\u0101t\u0113s mare turbant"
+                    ]
+                },
+                {
+                    "q": "14. Quid nautae in port\u016b opperiuntur? ...",
+                    "a": [
+                        "ventum secundum opperiuntur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Vent# secund# n\u0101v\u0113s \u0113 port\u016b \u0113grediuntur. \t",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "2. N\u0101v\u0113s pl\u0113n# v\u0113l# per mare vehuntur.",
+                    "a": [
+                        "\u012bs",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "3. Nautae nec mar# tranquill# nec mar# turbid# n\u0101vig\u0101re volunt.",
+                    "a": [
+                        "\u012b",
+                        "\u014d",
+                        "\u012b",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101rcus fenestr# apert# dormit, Qu\u012bntus fenestr# claus# cubat. ",
+                    "a": [
+                        "\u0101",
+                        "\u0101",
+                        "\u0101",
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "5. Puer ocul# claus# in lect\u014d cubat.",
+                    "a": [
+                        "\u012bs",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "6. M\u0101rcus surgit ac ped# n\u016bd# ante lectum stat. ",
+                    "a": [
+                        "ibus",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "7. Man# sordid# n\u014dn oportet cibum s\u016bmere.",
+                    "a": [
+                        "ibus",
+                        "\u012bs"
+                    ]
+                },
+                {
+                    "q": "8. Tit# incert# magister Sextum interrogat.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "9. Patr# v\u012bv# f\u012blius pec\u016bni\u014dsus n\u014dn est.",
+                    "a": [
+                        "e",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "10. L\u016bn# pl\u0113n# nox obsc\u016bra n\u014dn est.",
+                    "a": [
+                        "\u0101",
+                        "\u0101"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla: \nver\u0113r\u012b = tim\u0113re \nver\u0113tur = timet, verentur = timent \nver\u0113ns = tim\u0113ns\n",
+            "questions": [
+                {
+                    "q": "1. In port\u016b necesse est ventum opper#.",
+                    "a": [
+                        "\u012br\u012b"
+                    ]
+                },
+                {
+                    "q": "2. Nautae ventum secundum opper#.",
+                    "a": [
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "3. M\u0113dus, qu\u012b dominum sev\u0113rum ver#, ex Itali\u0101 in Graeciam profic\u012bsc# vult.",
+                    "a": [
+                        "\u0113tur",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "4. Vent\u014d secund\u014d n\u0101vis \u0113 port\u016b \u0113gred#.",
+                    "a": [
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "5. S\u014dl or#; M\u0113dus et L\u0233dia s\u014dlem or# intu#.",
+                    "a": [
+                        "itur",
+                        "ientem",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "6. M\u0113dus laet# quia cum am\u012bc\u0101 su\u0101 profic\u012bsc#.",
+                    "a": [
+                        "\u0101tur",
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "7. L\u0233dia R\u014dm\u0101 profic\u012bsc# laet# n\u014dn potest; d\u0113 ocul\u012bs eius lacrimae l\u0101b#.",
+                    "a": [
+                        "\u0113ns",
+                        "\u0101r\u012b",
+                        "untur"
+                    ]
+                },
+                {
+                    "q": "8. M\u0113dus am\u012bcam suam tr\u012bstem complect# atque c\u014dns\u014dl#.",
+                    "a": [
+                        "itur",
+                        "\u0101tur"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012bntus ocul\u012bs claus\u012bs cultrum medic\u012b opper#.",
+                    "a": [
+                        "\u012btur"
+                    ]
+                },
+                {
+                    "q": "10. Parent\u0113s f\u012blium v\u012bvere laet#.",
+                    "a": [
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "11. Ov\u0113s p\u0101st\u014drem suum sequ#; canis ov\u0113s sequ#.",
+                    "a": [
+                        "untur",
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "12. Omn\u0113s nautae Nept\u016bnum, deum maris, ver#.",
+                    "a": [
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "13. Ocul\u012b h\u016bm\u0101n\u012b s\u014dlem intu# n\u014dn possunt.",
+                    "a": [
+                        "\u0113r\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exemplum: \nI\u016blius numm\u014ds numerat Aemili\u0101 spectante (= dum Aemilia \nspectat).\n",
+            "questions": [
+                {
+                    "q": "1. S\u014dl# orient# n\u0101vis profic\u012bscitur mult# homin# spectant#.",
+                    "a": [
+                        "e",
+                        "e",
+                        "\u012bs",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "2. Magistr# recitant# discipul\u012b dormiunt.",
+                    "a": [
+                        "\u014d",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcus r\u012bdet pl\u014drant# sor\u014dr#!",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "4. S\u014dl# l\u016bcent# p\u0101stor umbram petit.",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. P\u0101stor# dormient# ovis abit, sed p\u0101stor l\u0101trant# can# excit\u0101tur. ",
+                    "a": [
+                        "e",
+                        "e",
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "6. C\u0113ter# tacent# et audient# medicus Qu\u012bntum ocul\u014ds claudere iubet.",
+                    "a": [
+                        "\u012bs",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. Gall# canent# excit\u0101tur puer.",
+                    "a": [
+                        "\u014d",
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # est pars n\u0101vis posterior.",
+                    "a": [
+                        "Puppis"
+                    ]
+                },
+                {
+                    "q": "2. Ill\u012bc sedet #, is est nauta qu\u012b n\u0101vem #.",
+                    "a": [
+                        "gubern\u0101tor",
+                        "gubernat"
+                    ]
+                },
+                {
+                    "q": "3. # est ea pars cael\u012b unde s\u014dl h\u014dr\u0101 pr\u012bm\u0101 #.",
+                    "a": [
+                        "Ori\u0113ns",
+                        "oritur"
+                    ]
+                },
+                {
+                    "q": "4. # est ea cael\u012b pars qu\u014d s\u014dl h\u014dr\u0101 duodecim\u0101 #.",
+                    "a": [
+                        "Occid\u0113ns",
+                        "occidit"
+                    ]
+                },
+                {
+                    "q": "5. Ori\u0113ns et occid\u0113ns part\u0113s cael\u012b # sunt.",
+                    "a": [
+                        "contr\u0101riae"
+                    ]
+                },
+                {
+                    "q": "6. Ea cael\u012b pars ubi s\u014dl mer\u012bdi\u0113 stat appell\u0101tur '#'.",
+                    "a": [
+                        "mer\u012bdi\u0113s"
+                    ]
+                },
+                {
+                    "q": "7. Pars contr\u0101ria d\u012bcitur '#' \u0101 septem st\u0113ll\u012bs quae # in e\u0101 parte cael\u012b stant.",
+                    "a": [
+                        "septentri\u014dn\u0113s",
+                        "semper"
+                    ]
+                },
+                {
+                    "q": "8. Nautae ad occidentem n\u0101vigant\u012b mer\u012bdi\u0113s \u0101 # est, \u0101 # septentri\u014dn\u0113s, ori\u0113ns \u0101 terg\u014d.",
+                    "a": [
+                        "sinistr\u0101",
+                        "dextr\u0101|dexter\u0101"
+                    ]
+                },
+                {
+                    "q": "9. Vent\u014d secund\u014d atque cael\u014d # multae n\u0101v\u0113s # [= \u016bn\u014d tempore] \u0113 port\u016b \u0113grediuntur.",
+                    "a": [
+                        "ser\u0113n\u014d",
+                        "simul"
+                    ]
+                },
+                {
+                    "q": "10. M\u0113dus et L\u0233dia n\u0101vem # et ex Itali\u0101 #.",
+                    "a": [
+                        "c\u014dnscendunt",
+                        "profic\u012bscuntur"
+                    ]
+                },
+                {
+                    "q": "11. L\u0233dia M\u0113dum in puppim ascendentem #.",
+                    "a": [
+                        "sequitur"
+                    ]
+                },
+                {
+                    "q": "12. L\u0233dia tr\u012bstis est, sed M\u0113dus # [= gaudet] nec iam dominum #. ",
+                    "a": [
+                        "laet\u0101tur",
+                        "ver\u0113tur"
+                    ]
+                },
+                {
+                    "q": "13. M\u0113dus faciem L\u0233diae # [= spectat]: d\u0113 ocul\u012bs eius lacrimae #. ",
+                    "a": [
+                        "intu\u0113tur",
+                        "l\u0101buntur"
+                    ]
+                },
+                {
+                    "q": "14. M\u0113dus am\u012bcam suam # eamque mult\u012bs verb\u012bs #.",
+                    "a": [
+                        "complectitur",
+                        "c\u014dns\u014dl\u0101tur"
+                    ]
+                },
+                {
+                    "q": "15. Parvae r\u0113s quae procul absunt ocul\u012bs # n\u014dn possunt.",
+                    "a": [
+                        "cern\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "Ubi sedet gubern\u0101tor et quid agit? ...",
+                    "a": [
+                        "in pupp\u012b sedet et n\u0101vem gubernat"
+                    ]
+                },
+                {
+                    "q": "Quid est puppis? ...",
+                    "a": [
+                        "puppis est pars n\u0101vis posterior"
+                    ]
+                },
+                {
+                    "q": "Quae sunt quattuor part\u0113s cael\u012b? ...",
+                    "a": [
+                        "ori\u0113ns et occid\u0113ns, mer\u012bdi\u0113s et septentri\u014dn\u0113s"
+                    ]
+                },
+                {
+                    "q": "Quae d\u012bcitur ea cael\u012b pars unde s\u014dl oritur? ...",
+                    "a": [
+                        "ori\u0113ns d\u012bcitur"
+                    ]
+                },
+                {
+                    "q": "Pars contr\u0101ria quae est? ...",
+                    "a": [
+                        "occid\u0113ns est pars contr\u0101ria"
+                    ]
+                },
+                {
+                    "q": "Unde M\u0113dus et L\u0233dia n\u0101vem c\u014dnscendunt? ...",
+                    "a": [
+                        "ex port\u016b \u014csti\u0113ns\u012b"
+                    ]
+                },
+                {
+                    "q": "Qu\u014d profic\u012bscuntur? ...",
+                    "a": [
+                        "in Graeciam profic\u012bscuntur"
+                    ]
+                },
+                {
+                    "q": "C\u016br in Graeciam \u012bre volunt? ...",
+                    "a": [
+                        "... quod Graecia patria e\u014drum est"
+                    ]
+                },
+                {
+                    "q": "Quid s\u0113cum ferunt in n\u0101ve? ...",
+                    "a": [
+                        "omn\u0113s r\u0113s su\u0101s s\u0113cum ferunt"
+                    ]
+                },
+                {
+                    "q": "Quid M\u0113dus et L\u0233dia \u0113 n\u0101ve spectant? ...",
+                    "a": [
+                        "s\u014dlem orientem spectant"
+                    ]
+                },
+                {
+                    "q": "C\u016br homin\u0113s in port\u016b vix cern\u012b possunt? ...",
+                    "a": [
+                        "... quia procul absunt"
+                    ]
+                },
+                {
+                    "q": "Num tr\u012bstis est M\u0113dus? ...",
+                    "a": [
+                        "imm\u014d M\u0113dus laet\u0101tur"
+                    ]
+                },
+                {
+                    "q": "C\u016br L\u0233dia n\u014dn laet\u0101tur? ...",
+                    "a": [
+                        "... quod am\u012bc\u0101s su\u0101s relinquit"
+                    ]
+                },
+                {
+                    "q": "Qu\u014dmodo M\u0113dus am\u012bcam suam c\u014dns\u014dl\u0101tur? ...",
+                    "a": [
+                        "M\u0113dus eam complectitur et verb\u012bs c\u014dns\u014dl\u0101tur"
+                    ]
+                },
+                {
+                    "q": "Quam in partem n\u0101vigant? ...",
+                    "a": [
+                        "in mer\u012bdiem n\u0101vigant"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: Puer aeger multum aquae bibit et paulum cib\u012b \u0113st.\n",
+            "questions": [
+                {
+                    "q": "1. In Tiber\u012b n\u014dn multum, sed paulum aqu# est.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius multum pec\u016bni# habet.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "3. Ov\u0113s multum herb# edunt.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "4. P\u0101stor n\u014dn paulum p\u0101n# s\u0113cum fert.",
+                    "a": [
+                        "is"
+                    ]
+                },
+                {
+                    "q": "5. In corde et in v\u0113n\u012bs multum sanguin# est.",
+                    "a": [
+                        "is"
+                    ]
+                },
+                {
+                    "q": "6. Post paulum tempor# discipul\u012b dormiunt.",
+                    "a": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu\u012bntus, qu\u012b mult# \u0113sse solet, hodi\u0113 paul# \u0113st.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u012bntus mult# crassior est quam M\u0101rcus et paul# crassior quam I\u016blia.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "3. N\u0101vis profic\u012bscitur; paul# post terra cern\u012b n\u014dn potest.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "4. N\u016bb\u0113s oriuntur, nec mult# post tempest\u0101s oritur.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "5. Iam fl\u016bct\u016bs mult# alti\u014dr\u0113s sunt quam paul# ante.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "6. Nautae mult# aquae \u0113 n\u0101ve hauriunt.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. N\u0101vis paul# levior fit.",
+                    "a": [
+                        "\u014d"
+                    ]
+                },
+                {
+                    "q": "8. D\u0101nuvius fl\u016bmen mult# longius est quam Tiberis et paul# longius quam Rh\u0113nus.",
+                    "a": [
+                        "\u014d",
+                        "\u014d"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dum gubern\u0101tor # [<> tacet], M\u0113dus caelum spectat.",
+                    "a": [
+                        "loquitur"
+                    ]
+                },
+                {
+                    "q": "2. Ab occidente n\u016bb\u0113s oriuntur n\u014dn albae, sed #.",
+                    "a": [
+                        "\u0101trae"
+                    ]
+                },
+                {
+                    "q": "3. Nauta deum Nept\u016bnum #: \"\u014c Nept\u016bne!\"",
+                    "a": [
+                        "invocat"
+                    ]
+                },
+                {
+                    "q": "4. Paul\u014d post # caelum et mare ill\u016bstrat, et statim magnus # aud\u012btur.",
+                    "a": [
+                        "fulgur",
+                        "tonitrus"
+                    ]
+                },
+                {
+                    "q": "5. Simul tempest\u0101s oritur; mare turbidum # [= esse incipit].",
+                    "a": [
+                        "fit"
+                    ]
+                },
+                {
+                    "q": "6. N\u0101vis fl\u016bctibus # ac # [= prope n\u014dn] gubern\u0101r\u012b potest.",
+                    "a": [
+                        "iact\u0101tur",
+                        "vix"
+                    ]
+                },
+                {
+                    "q": "7. Necesse est aquam # et merc\u0113s iacere. \t",
+                    "a": [
+                        "haur\u012bre"
+                    ]
+                },
+                {
+                    "q": "8. Gubern\u0101tor Nept\u016bnum invocat # tim\u014drem [= quia timet]. ",
+                    "a": [
+                        "propter"
+                    ]
+                },
+                {
+                    "q": "9. L\u0233dia Chr\u012bstum invocat: \"\u014c Chr\u012bste! # n\u014ds!\"",
+                    "a": [
+                        "Serv\u0101"
+                    ]
+                },
+                {
+                    "q": "10. M\u0113dus L\u0233diam l\u0101bentem sustin\u0113re #, nec # [= sed n\u014dn] ipse st\u0101re potest.",
+                    "a": [
+                        "c\u014dn\u0101tur",
+                        "v\u0113r\u014d"
+                    ]
+                },
+                {
+                    "q": "11. L\u0233dia # [= r\u016brsus] Chr\u012bstum invocat: \"\u014c Chr\u012bste! Iub\u0113 mare tranquillum #!\"",
+                    "a": [
+                        "iterum",
+                        "fier\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid M\u0113dus in occidente videt? ...",
+                    "a": [
+                        "n\u016bb\u0113s \u0101tr\u0101s videt"
+                    ]
+                },
+                {
+                    "q": "2. Quid gubern\u0101tor opper\u012btur? ...",
+                    "a": [
+                        "gubern\u0101tor tempest\u0101tem opper\u012btur"
+                    ]
+                },
+                {
+                    "q": "3. C\u016br Nept\u016bnum invocant nautae? ...",
+                    "a": [
+                        "... quia Nept\u016bnus deus maris est"
+                    ]
+                },
+                {
+                    "q": "4. C\u016br n\u0101vis gubern\u0101r\u012b vix potest? ...",
+                    "a": [
+                        "... quod magna tempest\u0101s mare turbat"
+                    ]
+                },
+                {
+                    "q": "5. Quid nautae \u0113 n\u0101ve hauriunt? ...",
+                    "a": [
+                        "nautae aquam \u0113 n\u0101ve hauriunt"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br merc\u0113s in mare iaciuntur? ...",
+                    "a": [
+                        "... quod n\u0101vis nimis gravis est"
+                    ]
+                },
+                {
+                    "q": "7. Ubi est merc\u0101tor cuius merc\u0113s iaciuntur? ...",
+                    "a": [
+                        "merc\u0101tor ipse quoque n\u0101ve vehitur"
+                    ]
+                },
+                {
+                    "q": "8. Quem dominum L\u0233dia invocat? ...",
+                    "a": [
+                        "L\u0233dia I\u0113sum Chr\u012bstum invocat"
+                    ]
+                },
+                {
+                    "q": "9. Quid tum agit M\u0113dus? ...",
+                    "a": [
+                        "M\u0113dus L\u0233diam interrogat"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br M\u0113dus loqu\u012b n\u014dn potest? ...",
+                    "a": [
+                        "... quia \u014ds eius aqu\u0101 impl\u0113tur"
+                    ]
+                },
+                {
+                    "q": "11. C\u016br nautae aquam haur\u012bre d\u0113sinunt? ...",
+                    "a": [
+                        "... quod ventus cadit"
+                    ]
+                },
+                {
+                    "q": "12. Mergiturne n\u0101vis? ...",
+                    "a": [
+                        "n\u0101vis serv\u0101tur, n\u014dn mergitur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Tim\u0113|re' verbum \u0101ct\u012bvum est; 'tim\u0113|r\u012b' verbum # est.",
+                    "a": [
+                        "pass\u012bvum"
+                    ]
+                },
+                {
+                    "q": "2. 'Ver\u0113|r\u012b' est verbum #; 'ver\u0113|r\u012b' et 'l\u0101b|\u012b' verba # sunt.",
+                    "a": [
+                        "d\u0113p\u014dn\u0113ns",
+                        "d\u0113p\u014dnentia"
+                    ]
+                },
+                {
+                    "q": "3. \u012anf\u012bn\u012bt\u012bvus verb\u012b d\u0113p\u014dnentis n\u014dn in -re d\u0113sinit, sed in -r\u012b/-\u012b ut \u012bnf\u012bn\u012bt\u012bvus verb\u012b #.",
+                    "a": [
+                        "pass\u012bv\u012b"
+                    ]
+                },
+                {
+                    "q": "4. \u012anf\u012bn\u012bt\u012bvus: c\u014dn#, intu#, loqu#, opper#.",
+                    "a": [
+                        "\u0101r\u012b",
+                        "\u0113r\u012b",
+                        "\u012b",
+                        "\u012br\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Pers\u014dna tertia verb\u012b d\u0113p\u014dnentis n\u014dn in -t, -nt d\u0113sinit, sed in -tur, -ntur ut pers\u014dna tertia verb\u012b #.",
+                    "a": [
+                        "pass\u012bv\u012b"
+                    ]
+                },
+                {
+                    "q": "6. Pers\u014dna tertia: singul\u0101ris: c\u014dn#, intu#, loqu#, opper#; pl\u016br\u0101lis: c\u014dn#, intu#, loqu#, opper#.",
+                    "a": [
+                        "\u0101tur",
+                        "\u0113tur",
+                        "itur",
+                        "\u012btur",
+                        "antur",
+                        "entur",
+                        "untur",
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "7. Participium verb\u012b d\u0113p\u014dnentis d\u0113sinit in -ns ut participium verb\u012b #.",
+                    "a": [
+                        "\u0101ct\u012bv\u012b"
+                    ]
+                },
+                {
+                    "q": "8. Participium: n\u014dm. sing. c\u014dn#, intu#, loqu#, opper#.",
+                    "a": [
+                        "\u0101ns",
+                        "\u0113ns",
+                        "\u0113ns",
+                        "i\u0113ns"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "entur",
+                        "iuntur"
+                    ],
+                    "q": "Nautae, qu\u012b Nept\u016bnum ver#, tempest\u0101tem opper#."
+                },
+                {
+                    "a": [
+                        "untur"
+                    ],
+                    "q": "M\u0113dus et L\u0233dia ex Itali\u0101 profic\u012bsc#. "
+                },
+                {
+                    "a": [
+                        "itur"
+                    ],
+                    "q": "L\u0233dia M\u0113dum in puppim ascendentem sequ#."
+                },
+                {
+                    "a": [
+                        "itur",
+                        "\u0113tur",
+                        "untur",
+                        "itur"
+                    ],
+                    "q": "Dum nauta loqu#, M\u0113dus occidentem intu#, unde n\u016bb\u0113s \u0101trae ori#. Simul tempest\u0101s or#. "
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u0101r\u012b"
+                    ],
+                    "q": "Merc\u0101tor tr\u012bstis merc\u0113s su\u0101s in mare l\u0101b# videt; n\u0113m\u014d eum c\u014dns\u014dl# potest."
+                },
+                {
+                    "a": [
+                        "itur",
+                        "\u0101r\u012b"
+                    ],
+                    "q": "Qu\u012b ab am\u012bc\u012bs profic\u012bsc# laet# n\u014dn potest."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "maritimum",
+                        "\u014dr\u0101",
+                        "portum"
+                    ],
+                    "q": "Brundisium est oppidum # (in # maritim\u0101 situm) quod magnum # habet."
+                },
+                {
+                    "a": [
+                        "locus",
+                        "n\u0101v\u0113s"
+                    ],
+                    "q": "Portus est # qu\u014d # ad terram ad\u012bre possunt."
+                },
+                {
+                    "a": [
+                        "ventus",
+                        "tranquillum"
+                    ],
+                    "q": "Cum n\u016bllus # flat, mare # est. "
+                },
+                {
+                    "a": [
+                        "Tempest\u0101s",
+                        "turbat",
+                        "fl\u016bct\u016bs"
+                    ],
+                    "q": "# est magnus ventus qu\u012b mare # et alt\u014ds # facit."
+                },
+                {
+                    "a": [
+                        "nauta",
+                        "pupp\u012b",
+                        "gubernat"
+                    ],
+                    "q": "Gubern\u0101tor est # qu\u012b in # n\u0101vis sed\u0113ns n\u0101vem #."
+                },
+                {
+                    "a": [
+                        "ori\u0113ns",
+                        "occid\u0113ns",
+                        "septentri\u014dn\u0113s"
+                    ],
+                    "q": "Part\u0113s cael\u012b sunt # et #, # et mer\u012bdi\u0113s."
+                },
+                {
+                    "a": [
+                        "oritur",
+                        "occidit"
+                    ],
+                    "q": "Ori\u0113ns est ea cael\u012b pars unde s\u014dl #, occid\u0113ns est ea pars qu\u014d s\u014dl #."
+                },
+                {
+                    "a": [
+                        "c\u014dnscendunt",
+                        "profic\u012bscuntur"
+                    ],
+                    "q": "M\u0113dus et L\u0233dia n\u0101vem # atque ex Itali\u0101 #."
+                },
+                {
+                    "a": [
+                        "secundus",
+                        "v\u0113l\u012bs",
+                        "\u0113greditur",
+                        "oritur",
+                        "fl\u0101re",
+                        "fit"
+                    ],
+                    "q": "Ventus # est, n\u0101vis pl\u0113n\u012bs # ex port\u016b # [= exit]; sed in alt\u014d mar\u012b tempest\u0101s #: magnus ventus # incipit, t\u014dtum mare turbidum #."
+                },
+                {
+                    "a": [
+                        "hauriunt",
+                        "merc\u0113s"
+                    ],
+                    "q": "Nautae aquam \u0113 n\u0101ve # et # in mare iaciunt."
+                },
+                {
+                    "a": [
+                        "invocat",
+                        "Serv\u0101"
+                    ],
+                    "q": "M\u0113dus Nept\u016bnum #: \"\u014c Nept\u016bne! # m\u0113!\" "
+                },
+                {
+                    "a": [
+                        "iact\u0101tur",
+                        "v\u0113r\u014d"
+                    ],
+                    "q": "N\u0101vis fl\u016bctibus # nec # [= sed n\u014dn] mergitur."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae n\u0101v\u0113s R\u014dmam ad\u012bre possunt? ",
+                    "a": [
+                        "Parvae tantum n\u0101v\u0113s R\u014dmam ad\u012bre possunt"
+                    ]
+                },
+                {
+                    "q": "2. Quid est '\u014dstium' fl\u016bminis? ",
+                    "a": [
+                        "Est locus qu\u014d fl\u016bmen in mare \u012bnfluit"
+                    ]
+                },
+                {
+                    "q": "3. Num Tiberis in mare Superum \u012bnfluit? ",
+                    "a": [
+                        "Tiberis n\u014dn in mare superum, sed in mare Inferum \u012bnfluit"
+                    ]
+                },
+                {
+                    "q": "4. Quand\u014d n\u0101v\u0113s \u0113 port\u016b \u0113grediuntur? ",
+                    "a": [
+                        "Vent\u014d secund\u014d n\u0101v\u0113s \u0113 port\u016b \u0113grediuntur"
+                    ]
+                },
+                {
+                    "q": "5. Ubi sedet gubern\u0101tor et quid agit? ",
+                    "a": [
+                        "Gubern\u0101tor in puppi sed\u0113ns n\u0101vem gubernat"
+                    ]
+                },
+                {
+                    "q": "6. Quae sunt quattuor part\u0113s cael\u012b? ",
+                    "a": [
+                        "Sunt ori\u0113ns et occid\u0113ns, mer\u012bdi\u0113s et septentri\u014dn\u0113s"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u0101s r\u0113s M\u0113dus et L\u0233dia s\u0113cum ferunt? ",
+                    "a": [
+                        "Omn\u0113s r\u0113s su\u0101s s\u0113cum ferunt"
+                    ]
+                },
+                {
+                    "q": "8. Qu\u014d M\u0113dus cum am\u012bc\u0101 su\u0101 \u012bre vult? ",
+                    "a": [
+                        "In Graeciam"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br tr\u012bstis est L\u0233dia? ",
+                    "a": [
+                        "Quod amic\u0101s su\u0101s relinguit"
+                    ]
+                },
+                {
+                    "q": "10. Quem deum invocant nautae? ",
+                    "a": [
+                        "Deum Nept\u016bnum"
+                    ]
+                },
+                {
+                    "q": "11. C\u016br merc\u0113s in mare iaciuntur? ",
+                    "a": [
+                        "Quod n\u0101vis nimis gravis est"
+                    ]
+                },
+                {
+                    "q": "12. Num n\u0101vis e\u014drum mergitur? ",
+                    "a": [
+                        "N\u0101vis serv\u0101tur, n\u014dn mergitur"
+                    ]
+                }
+            ]
+        }
+    ]
+}

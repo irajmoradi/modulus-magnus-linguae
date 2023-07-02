@@ -1,0 +1,77 @@
+[
+    {
+        "q": "1. # duo lib# Lat\u012bn\u012b: liber # [<> novus] et liber #.",
+        "a": [
+            "Ecce",
+            "r\u012b",
+            "ant\u012bquus",
+            "novus"
+        ]
+    },
+    {
+        "q": "2. Numerus lib# Lat\u012bn\u014drum magnus est.",
+        "a": [
+            "r\u014drum"
+        ]
+    },
+    {
+        "q": "3. 'LINGVA LATINA' est # lib# tu\u012b Lat\u012bn\u012b.",
+        "a": [
+            "titulus",
+            "r\u012b"
+        ]
+    },
+    {
+        "q": "4. In LINGVA LATINA sunt multae # (p\u0101g. 1, 2, 3, c\u0113terae) et multa capitul# (cap. I et II et III et #).",
+        "a": [
+            "p\u0101ginae",
+            "a",
+            "c\u0113tera"
+        ]
+    },
+    {
+        "q": "5. Numerus capitul# est magnus.",
+        "a": [
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "6. IMPERIVM ROMANVM est capitul# pr\u012bmum.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "7. Titulus capitul# pr\u012bm\u012b est 'IMPERIVM ROMANVM'.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "8. In capitul\u014d pr\u012bm\u014d mult# voc\u0101bul# sunt.",
+        "a": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "9. Numerus voc\u0101bul# magnus est.",
+        "a": [
+            "\u014drum"
+        ]
+    },
+    {
+        "q": "10. 'R\u014dma' est voc\u0101bul# pr\u012bmum capitul# pr\u012bm#.",
+        "a": [
+            "um",
+            "\u012b",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "11. P est littera pr\u012bma voc\u0101bul# pr\u012bm\u012b.",
+        "a": [
+            "\u012b"
+        ]
+    }
+]

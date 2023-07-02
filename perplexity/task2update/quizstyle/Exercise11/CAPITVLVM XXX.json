@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. Utrum preti\u014dsius est, aurumne an argentum? ...",
+        "a": [
+            "aurum preti\u014dsius est quam argentum"
+        ]
+    },
+    {
+        "q": "2. Num conv\u012bvae I\u016bli\u012b \u0113 v\u0101s\u012bs aure\u012bs c\u0113nant? ...",
+        "a": [
+            "n\u014dn \u0113 v\u0101s\u012bs aure\u012bs, sed \u0113 v\u0101s\u012bs argente\u012bs c\u0113nant conv\u012bvae"
+        ]
+    },
+    {
+        "q": "3. In qu\u014d lect\u014d accumbit dominus conv\u012bvi\u012b? ...",
+        "a": [
+            "dominus conv\u012bvi\u012b in lect\u014d medi\u014d accumbit"
+        ]
+    },
+    {
+        "q": "4. Quid conv\u012bv\u012bs I\u016bli\u012b app\u014dnitur? ...",
+        "a": [
+            "conv\u012bv\u012bs app\u014dnuntur \u014dva, pisc\u0113s, holera, car\u014d, c\u0113tera"
+        ]
+    },
+    {
+        "q": "5. Quid est caput c\u0113nae? ...",
+        "a": [
+            "caput c\u0113nae est porcus"
+        ]
+    },
+    {
+        "q": "6. Qu\u0101r\u0113 Oront\u0113s salem carn\u012b aspergit? ...",
+        "a": [
+            "Oront\u0113s salem carn\u012b aspergit ut sitim augeat"
+        ]
+    },
+    {
+        "q": "7. Quid ministr\u012b in p\u014dcula fundunt? ...",
+        "a": [
+            "v\u012bnum et calidam in p\u014dcula fundunt ministr\u012b"
+        ]
+    },
+    {
+        "q": "8. Quid p\u014dtat Oront\u0113s? ...",
+        "a": [
+            "Oront\u0113s v\u012bnum merum p\u014dtat"
+        ]
+    },
+    {
+        "q": "9. In qu\u014d lect\u014d accubant l\u012bbert\u012bn\u012b? ...",
+        "a": [
+            "l\u012bbert\u012bn\u012b in lect\u014d \u012bm\u014d accubant"
+        ]
+    },
+    {
+        "q": "10. Quid est Falernum? ...",
+        "a": [
+            "Falernum est v\u012bnum optimum ex agr\u014d Falern\u014d"
+        ]
+    },
+    {
+        "q": "11. Qu\u014dmodo Paula v\u012bnum suum dulce facit? ...",
+        "a": [
+            "Paula v\u012bn\u014d su\u014d mel miscet"
+        ]
+    },
+    {
+        "q": "12. Quid I\u016blius Orontem interrogat? ...",
+        "a": [
+            "I\u016blius Orontem interrogat \u2018utrum v\u012bnum melius sit, Falernum an Alb\u0101num?\u2019"
+        ]
+    },
+    {
+        "q": "13. C\u016br Oront\u0113s sententiam suam d\u012bcere n\u014dn vult? ...",
+        "a": [
+            "Oront\u0113s sententiam suam d\u012bcere n\u014dn vult antequam utrumque gust\u0101verit"
+        ]
+    },
+    {
+        "q": "14. Quid tum I\u016blius pr\u014dferr\u012b iubet? ...",
+        "a": [
+            "I\u016blius tum Falernum pr\u014dferr\u012b iubet"
+        ]
+    },
+    {
+        "q": "15. Utrum v\u012bnum conv\u012bv\u012bs magis placet? ...",
+        "a": [
+            "v\u012bnum Falernum conv\u012bv\u012bs magis placet quam Alb\u0101num"
+        ]
+    }
+]

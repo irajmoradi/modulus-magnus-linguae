@@ -1,0 +1,36 @@
+[
+    {
+        "q": "1. I\u016blia: \u201cMan\u0113 h# apud n\u014ds, pater! N\u014dl\u012b h# ab\u012bre!\u201d",
+        "a": [
+            "\u012bc",
+            "inc"
+        ]
+    },
+    {
+        "q": "2. I\u016blius: \u201cCr\u0101s necesse erit m\u0113 h# R\u014dmam profic\u012bsc\u012b, sed brev\u012b h# ad v\u014ds red\u012bb\u014d.\u201d",
+        "a": [
+            "inc",
+            "\u016bc"
+        ]
+    },
+    {
+        "q": "3. I\u016blia: \u201cQu\u0101r\u0113 r\u016brsus R\u014dmam \u012bbis? Necesse n\u014dn est toti\u0113s ill# \u012bre nec tot di\u0113s ill# man\u0113re.\u201d",
+        "a": [
+            "\u016bc",
+            "\u012bc"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \u201cR\u014dmae v\u012bvere m\u0113 n\u014dn d\u0113lectat; itaque post pauc\u014ds di\u0113s ill# disc\u0113dam atque h# revertar.\u201d",
+        "a": [
+            "inc",
+            "\u016bc"
+        ]
+    },
+    {
+        "q": "5. I\u016blia: \u201cQuod d\u014dnum mihi ill# affer\u0113s?\u201d",
+        "a": [
+            "inc"
+        ]
+    }
+]

@@ -1,0 +1,1256 @@
+[
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll~ habitant cum liber\u012bs et serv\u012bs.",
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 58.07549285888672
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101te habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 83.23497009277344
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101s habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 57.054710388183594
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u014ds habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 68.8221664428711
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll\u0101 habit~ cum liber\u012bs et serv\u012bs.",
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 58.07551956176758
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habit\u0101te cum liber\u012bs et serv\u012bs.",
+                "perplexity": 65.60916137695312
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habit\u0101s cum liber\u012bs et serv\u012bs.",
+                "perplexity": 60.510597229003906
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habit\u014ds cum liber\u012bs et serv\u012bs.",
+                "perplexity": 67.91221618652344
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber~ et serv\u012bs.",
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 58.07549285888672
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u0101te et serv\u012bs.",
+                "perplexity": 94.1619644165039
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u0101s et serv\u012bs.",
+                "perplexity": 69.66314697265625
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u014ds et serv\u012bs.",
+                "perplexity": 70.08869934082031
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv~.",
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+                "perplexity": 58.07549285888672
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u0101te.",
+                "perplexity": 105.9024658203125
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u0101s.",
+                "perplexity": 87.9187240600586
+            },
+            {
+                "evalsentence": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u014ds.",
+                "perplexity": 61.884185791015625
+            }
+        ]
+    },
+    {
+        "question": "Dominus mult~ serv\u014ds et mult\u0101s ancill\u0101s habet.",
+        "answer": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 46.4661750793457
+            },
+            {
+                "evalsentence": "Dominus mult\u0101te serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 69.98907470703125
+            },
+            {
+                "evalsentence": "Dominus mult\u0101s serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 43.73405838012695
+            },
+            {
+                "evalsentence": "Dominus multit serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 91.86341094970703
+            }
+        ]
+    },
+    {
+        "question": "Dominus mult\u014ds serv~ et mult\u0101s ancill\u0101s habet.",
+        "answer": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 46.4661750793457
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds servite et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 121.19449615478516
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serviunt et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 81.81085205078125
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds servit et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 68.80619049072266
+            }
+        ]
+    },
+    {
+        "question": "Dominus mult\u014ds serv\u014ds et mult~ ancill\u0101s habet.",
+        "answer": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 46.46615219116211
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et multite ancill\u0101s habet.",
+                "perplexity": 128.85760498046875
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et multiunt ancill\u0101s habet.",
+                "perplexity": 171.67074584960938
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et multit ancill\u0101s habet.",
+                "perplexity": 134.8128204345703
+            }
+        ]
+    },
+    {
+        "question": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill~ habet.",
+        "answer": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancill\u0101s habet.",
+                "perplexity": 46.46615219116211
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancillite habet.",
+                "perplexity": 188.7685089111328
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancilliunt habet.",
+                "perplexity": 200.1819610595703
+            },
+            {
+                "evalsentence": "Dominus mult\u014ds serv\u014ds et mult\u0101s ancillit habet.",
+                "perplexity": 193.10179138183594
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l~ est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 54.431732177734375
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233lite est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 69.97396087646484
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233liunt est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 77.58171081542969
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233lit est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 87.77897644042969
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est cum M\u0101rc~ et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 54.43172073364258
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rcite et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 96.15723419189453
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rciunt et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 90.27960205078125
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rcit et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 94.73694610595703
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt~ et I\u016bli\u0101.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 54.431732177734375
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bntite et I\u016bli\u0101.",
+                "perplexity": 83.02091979980469
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bntiunt et I\u016bli\u0101.",
+                "perplexity": 78.834228515625
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bntit et I\u016bli\u0101.",
+                "perplexity": 86.05638885498047
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli~.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bli\u0101.",
+                "perplexity": 54.431705474853516
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bliite.",
+                "perplexity": 82.0478286743164
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bliiunt.",
+                "perplexity": 98.79100799560547
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum M\u0101rc\u014d et Qu\u012bnt\u014d et I\u016bliit.",
+                "perplexity": 79.69750213623047
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult~ ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48667907714844
+            },
+            {
+                "evalsentence": "I\u016blia multite ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 169.81228637695312
+            },
+            {
+                "evalsentence": "I\u016blia multiunt ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 182.62513732910156
+            },
+            {
+                "evalsentence": "I\u016blia multit ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 172.2571258544922
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult\u0101s ros~ in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48667907714844
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s rosite in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 193.31875610351562
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s rosiunt in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 177.8094024658203
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s rosit in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 177.83059692382812
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult\u0101s ros\u0101s in hort~ videt et ab Aemili\u0101 disc\u0113dit.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48667907714844
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hortite videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 141.55519104003906
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hortiunt videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 137.76258850097656
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hortit videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 151.65162658691406
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult\u0101s ros\u0101s in hort\u014d vid~ et ab Aemili\u0101 disc\u0113dit.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48663330078125
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d vidite et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 116.06765747070312
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d vidiunt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 109.12894439697266
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d vidit et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 81.83098602294922
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili~ disc\u0113dit.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48667907714844
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemiliite disc\u0113dit.",
+                "perplexity": 175.88868713378906
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemiliiunt disc\u0113dit.",
+                "perplexity": 125.67182922363281
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemiliit disc\u0113dit.",
+                "perplexity": 160.10784912109375
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113d~.",
+        "answer": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dit.",
+                "perplexity": 91.48667907714844
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dite.",
+                "perplexity": 102.60802459716797
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113diunt.",
+                "perplexity": 97.26560974121094
+            },
+            {
+                "evalsentence": "I\u016blia mult\u0101s ros\u0101s in hort\u014d videt et ab Aemili\u0101 disc\u0113dent.",
+                "perplexity": 102.02738952636719
+            }
+        ]
+    },
+    {
+        "question": "Iam Aemilia puell~ n\u014dn videt, neque puer\u012b eam vident.",
+        "answer": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 57.27577590942383
+            },
+            {
+                "evalsentence": "Iam Aemilia puell\u014d n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 61.65094757080078
+            },
+            {
+                "evalsentence": "Iam Aemilia puellet n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 80.2836685180664
+            },
+            {
+                "evalsentence": "Iam Aemilia puellent n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 87.38032531738281
+            }
+        ]
+    },
+    {
+        "question": "Iam Aemilia puellam n\u014dn vid~, neque puer\u012b eam vident.",
+        "answer": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 57.27577590942383
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn vid\u014d, neque puer\u012b eam vident.",
+                "perplexity": 74.48859405517578
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn vident, neque puer\u012b eam vident.",
+                "perplexity": 60.880645751953125
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn vid\u012bte, neque puer\u012b eam vident.",
+                "perplexity": 63.40461349487305
+            }
+        ]
+    },
+    {
+        "question": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vid~.",
+        "answer": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vident.",
+                "perplexity": 57.27577590942383
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vid\u012b.",
+                "perplexity": 60.749542236328125
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vid\u0101.",
+                "perplexity": 86.45365905761719
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam n\u014dn videt, neque puer\u012b eam vid\u012bte.",
+                "perplexity": 65.42587280273438
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc~ I\u016bliam!\"",
+        "answer": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc\u0101te I\u016bliam!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc\u0101te I\u016bliam!\"",
+                "perplexity": 74.94155883789062
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc\u012b I\u016bliam!\"",
+                "perplexity": 106.71342468261719
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc\u0101 I\u016bliam!\"",
+                "perplexity": 102.40913391113281
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rce et Qu\u012bnte! Voc\u012bte I\u016bliam!\"",
+                "perplexity": 89.03095245361328
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bli~ vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942596435547
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bli\u012b vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 33.2728157043457
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bli\u0101 vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 30.435440063476562
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bli\u012bte vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 40.89704895019531
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bliam voc~ : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942596435547
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam voc\u012b : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 30.739620208740234
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam voc\u0101 : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 33.08110809326172
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam voc\u012bte : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 31.276329040527344
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven~!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942596435547
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u0101!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 33.26411437988281
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012bte!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.910442352294922
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Venite!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 33.32002639770508
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer~ vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942024230957
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia pueriunt vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 41.60271453857422
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puerit vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 43.270259857177734
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puerite vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 40.008644104003906
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds voc~ : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942596435547
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vociunt : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 38.54216766357422
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocit : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 32.41508483886719
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocite : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 38.555274963378906
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven~ \"",
+        "answer": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Ven\u012bte \"",
+                "perplexity": 29.41942596435547
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Veniunt \"",
+                "perplexity": 32.222557067871094
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Venit \"",
+                "perplexity": 33.65193557739258
+            },
+            {
+                "evalsentence": "Puer\u012b I\u016bliam vocant : \"I\u016blia! Ven\u012b!\" et I\u016blia puer\u014ds vocat : \"M\u0101rce et Qu\u012bnte! Venite \"",
+                "perplexity": 33.34713363647461
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia puer\u014ds n\u014dn aud~, sed puer\u012b I\u016bliam audiunt.",
+        "answer": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 37.39839553833008
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audiunt, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 22.960798263549805
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audite, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 33.80251693725586
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn aud\u0113, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 37.356910705566406
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bli~ audiunt.",
+        "answer": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 37.39840316772461
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliat audiunt.",
+                "perplexity": 57.41547775268555
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliunt audiunt.",
+                "perplexity": 67.14530944824219
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bli\u0113 audiunt.",
+                "perplexity": 49.094364166259766
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam aud~.",
+        "answer": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audiunt.",
+                "perplexity": 37.39842224121094
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audat.",
+                "perplexity": 43.62191390991211
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam audunt.",
+                "perplexity": 39.73778533935547
+            },
+            {
+                "evalsentence": "I\u016blia puer\u014ds n\u014dn audit, sed puer\u012b I\u016bliam aud\u0113.",
+                "perplexity": 39.98457336425781
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"C\u016br puer\u012b n\u014dn ven~?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+        "answer": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 51.039608001708984
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn venat?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 68.23363494873047
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn venunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 67.18073272705078
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn ven\u0113?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 69.2908706665039
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort~ venit cum V ros\u012bs pulchr\u012bs.",
+        "answer": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 51.039608001708984
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hortat venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 76.20993041992188
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hortunt venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 80.26361083984375
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u0113 venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 65.94092559814453
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros~ pulchr\u012bs.",
+        "answer": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 51.03963088989258
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V rosat pulchr\u012bs.",
+                "perplexity": 78.19914245605469
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V rosunt pulchr\u012bs.",
+                "perplexity": 78.23323059082031
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u0113 pulchr\u012bs.",
+                "perplexity": 64.05379486083984
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr~.",
+        "answer": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u012bs.",
+                "perplexity": 51.03963088989258
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchrat.",
+                "perplexity": 79.0265121459961
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchrunt.",
+                "perplexity": 86.89904022216797
+            },
+            {
+                "evalsentence": "I\u016blia: \"C\u016br puer\u012b n\u014dn veniunt?\" I\u016blia ex hort\u014d venit cum V ros\u012bs pulchr\u0113.",
+                "perplexity": 69.30280303955078
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"Vid~ ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+        "answer": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 66.43529510498047
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vidat ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 71.209716796875
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vidunt ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 72.0970230102539
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vidit ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 68.67098236083984
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"Vid\u0113 ros~ me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+        "answer": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 66.4353256225586
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 rosite me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 96.79280853271484
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 rosiunt me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 78.95916748046875
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 rosit me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 78.52893829345703
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid~, puer\u012b!\"",
+        "answer": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vid\u0113te, puer\u012b!\"",
+                "perplexity": 66.4353256225586
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vidite, puer\u012b!\"",
+                "perplexity": 91.9749984741211
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vidiunt, puer\u012b!\"",
+                "perplexity": 71.5804214477539
+            },
+            {
+                "evalsentence": "I\u016blia: \"Vid\u0113 ros\u0101s me\u0101s, m\u0101ter! Vidit, puer\u012b!\"",
+                "perplexity": 102.6009292602539
+            }
+        ]
+    },
+    {
+        "question": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine ros~ pulchra n\u014dn est!\"",
+        "answer": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine ros\u012bs pulchra n\u014dn est!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine ros\u012bs pulchra n\u014dn est!\"",
+                "perplexity": 38.2402458190918
+            },
+            {
+                "evalsentence": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine rosite pulchra n\u014dn est!\"",
+                "perplexity": 56.85346984863281
+            },
+            {
+                "evalsentence": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine rosiunt pulchra n\u014dn est!\"",
+                "perplexity": 59.46356964111328
+            },
+            {
+                "evalsentence": "M\u0101rcus: \"Rosae pulchrae sunt, puella sine rosit pulchra n\u014dn est!\"",
+                "perplexity": 59.622169494628906
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia cum \u016bn~ ros\u0101 disc\u0113dit.",
+        "answer": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+                "perplexity": 245.4312744140625
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bnite ros\u0101 disc\u0113dit.",
+                "perplexity": 437.6009521484375
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bniunt ros\u0101 disc\u0113dit.",
+                "perplexity": 605.2274780273438
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bnit ros\u0101 disc\u0113dit.",
+                "perplexity": 852.048095703125
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia cum \u016bn\u0101 ros~ disc\u0113dit.",
+        "answer": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+                "perplexity": 245.4312744140625
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 rosite disc\u0113dit.",
+                "perplexity": 425.96636962890625
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 rosiunt disc\u0113dit.",
+                "perplexity": 421.8639831542969
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 rosit disc\u0113dit.",
+                "perplexity": 492.07177734375
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113d~.",
+        "answer": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dit.",
+                "perplexity": 245.4312744140625
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dite.",
+                "perplexity": 214.71116638183594
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113diunt.",
+                "perplexity": 222.94619750976562
+            },
+            {
+                "evalsentence": "I\u016blia cum \u016bn\u0101 ros\u0101 disc\u0113dent.",
+                "perplexity": 274.2962341308594
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b r\u012bd~.",
+        "answer": "Puer\u012b r\u012bdent.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b r\u012bdent.",
+                "perplexity": 1049.5303955078125
+            },
+            {
+                "evalsentence": "Puer\u012b r\u012bd\u014d.",
+                "perplexity": 377.44342041015625
+            },
+            {
+                "evalsentence": "Puer\u012b r\u012bdet.",
+                "perplexity": 1354.06494140625
+            },
+            {
+                "evalsentence": "Puer\u012b r\u012bd\u012bte.",
+                "perplexity": 285.38336181640625
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"Tac~, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+        "answer": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 57.185585021972656
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u012b, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 73.9803237915039
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0101, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 83.43850708007812
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u012bte, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 68.81353759765625
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bm~ ros\u0101s et disc\u0113dite!\"",
+        "answer": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 57.185585021972656
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bm\u012b ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 70.65788269042969
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bm\u0101 ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 70.319580078125
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bm\u012bte ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 61.115108489990234
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros~ et disc\u0113dite!\"",
+        "answer": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 57.185585021972656
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u012b et disc\u0113dite!\"",
+                "perplexity": 84.10411071777344
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101 et disc\u0113dite!\"",
+                "perplexity": 75.69987487792969
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u012bte et disc\u0113dite!\"",
+                "perplexity": 86.61177825927734
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113d~!\"",
+        "answer": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113dite!\"",
+                "perplexity": 57.185585021972656
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113d\u012b!\"",
+                "perplexity": 69.39105987548828
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113d\u0101!\"",
+                "perplexity": 75.71702575683594
+            },
+            {
+                "evalsentence": "Aemilia: \"Tac\u0113te, puer\u012b! S\u016bmite ros\u0101s et disc\u0113d\u012bte!\"",
+                "perplexity": 53.962745666503906
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros~ s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.26280212402344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u012b s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 44.599082946777344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101 s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 41.04676818847656
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u012bte s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 50.503353118896484
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bm~ et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.262821197509766
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bm\u012b et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 33.745426177978516
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bm\u0101 et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 34.87816619873047
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bm\u012bte et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 38.77177047729492
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113d~ ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.262821197509766
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113d\u012b ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 43.2542724609375
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113d\u0101 ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 46.51355743408203
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113d\u012bte ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 50.316871643066406
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri~ aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.26280212402344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u012b aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 40.892906188964844
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u0101 aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 38.26044464111328
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u012bte aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 56.05807113647461
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aqu~ s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.26280212402344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aqu\u012b s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 44.78467559814453
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aqu\u0101 s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 40.4753303527832
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aqu\u012bte s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 51.58113479614258
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bm~ ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.262821197509766
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bm\u012b ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 53.205848693847656
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bm\u0101 ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 55.97318649291992
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bm\u012bte ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 59.296119689941406
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi~ et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.262821197509766
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u012b et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 45.12077713012695
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u0101 et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 43.36821365356445
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u012bte et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 54.84321212768555
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros~ in aqu\u0101 p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.26280212402344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u012b in aqu\u0101 p\u014dnunt.",
+                "perplexity": 45.638893127441406
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101 in aqu\u0101 p\u014dnunt.",
+                "perplexity": 41.044830322265625
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u012bte in aqu\u0101 p\u014dnunt.",
+                "perplexity": 57.314544677734375
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu~ p\u014dnunt.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.26280212402344
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u012b p\u014dnunt.",
+                "perplexity": 43.375709533691406
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u012bte p\u014dnunt.",
+                "perplexity": 52.86602020263672
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aquite p\u014dnunt.",
+                "perplexity": 53.6328125
+            }
+        ]
+    },
+    {
+        "question": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dn~.",
+        "answer": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnunt.",
+                "perplexity": 39.262794494628906
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dniunt.",
+                "perplexity": 42.893310546875
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnit.",
+                "perplexity": 39.56523513793945
+            },
+            {
+                "evalsentence": "Puer\u012b ros\u0101s s\u016bmunt et disc\u0113dunt ; in \u0101tri\u014d aquam s\u016bmunt ex impluvi\u014d et ros\u0101s in aqu\u0101 p\u014dnite.",
+                "perplexity": 46.19654846191406
+            }
+        ]
+    }
+]

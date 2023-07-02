@@ -1,0 +1,38 @@
+[
+    {
+        "q": "1. Syra Qu\u012bntum laet\u0101r\u012b iubet: \u201cLaet#, Qu\u012bnte!\u201d",
+        "a": [
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "2. Qu\u012bntus Syram s\u0113 c\u014dns\u014dl# et s\u0113cum loqu# iubet: \u201cC\u014dns\u014dl# m\u0113, Syra! Loqu# m\u0113cum!\u201d",
+        "a": [
+            "\u0101r\u012b",
+            "\u012b",
+            "\u0101re",
+            "ere"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus L\u0233diam s\u0113 comit# iubet: \u201cComit# m\u0113, L\u0233dia!\u201d",
+        "a": [
+            "\u0101r\u012b",
+            "\u0101re"
+        ]
+    },
+    {
+        "q": "4. Nauta M\u0113dum caelum intu# iubet: \u201cIntu# caelum!\u201d",
+        "a": [
+            "\u0113r\u012b",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus nautam ventum secundum opper# iubet: \u201cVentum secundum opper#, nauta!\u201d",
+        "a": [
+            "\u012br\u012b",
+            "\u012bre"
+        ]
+    }
+]

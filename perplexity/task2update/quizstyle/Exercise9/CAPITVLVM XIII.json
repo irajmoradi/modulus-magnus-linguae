@@ -1,0 +1,48 @@
+[
+    {
+        "q": "1. Ant\u012bqu\u012bs temporibus M\u0101rtius m\u0113nsis pr\u012bmus #.",
+        "a": [
+            "erat"
+        ]
+    },
+    {
+        "q": "2. September, qu\u012b nunc m\u0113nsis n\u014dnus #, tunc m\u0113nsis septimus #.",
+        "a": [
+            "est",
+            "erat"
+        ]
+    },
+    {
+        "q": "3. Tunc R\u014dma urbs n\u014dn tam pulchra # quam nunc #.",
+        "a": [
+            "erat",
+            "est"
+        ]
+    },
+    {
+        "q": "4. Tunc R\u014dm\u0101n\u012b pauci\u014dres # quam nunc #.",
+        "a": [
+            "erant",
+            "sunt"
+        ]
+    },
+    {
+        "q": "5. Ante tempora I\u016bli\u012b Caesaris m\u0113ns\u012b septim\u014d n\u014dmen # Qu\u012bnt\u012blis.",
+        "a": [
+            "erat"
+        ]
+    },
+    {
+        "q": "6. In Galli\u0101 I\u016blius Caesar dux exercit\u016bs R\u014dm\u0101n\u012b #.",
+        "a": [
+            "erat"
+        ]
+    },
+    {
+        "q": "7. Tunc Gall\u012b host\u0113s R\u014dm\u0101n\u014drum #, neque enim pr\u014dvincia R\u014dm\u0101na # Gallia.",
+        "a": [
+            "erant",
+            "erat"
+        ]
+    }
+]

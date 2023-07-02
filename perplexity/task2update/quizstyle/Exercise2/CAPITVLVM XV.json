@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Diod\u014drus # M\u0101rc\u012b est; M\u0101rcus # Diod\u014dr\u012b est.",
+        "a": [
+            "magister",
+            "discipulus"
+        ]
+    },
+    {
+        "q": "2. Diod\u014drus puer\u014ds # verberat; e\u014d mod\u014d magister discipul\u014ds improb\u014ds # solet.",
+        "a": [
+            "virg\u0101",
+            "p\u016bn\u012bre"
+        ]
+    },
+    {
+        "q": "3. Diod\u014drus enim magister # est.",
+        "a": [
+            "sev\u0113rus"
+        ]
+    },
+    {
+        "q": "4. Sextus pr\u012bmus ad # advenit.",
+        "a": [
+            "l\u016bdum"
+        ]
+    },
+    {
+        "q": "5. Magister intr\u0101ns discipulum sal\u016btat eumque # iubet: \"Salv\u0113, Sexte! #!\"",
+        "a": [
+            "c\u014dns\u012bdere",
+            "C\u014dns\u012bde"
+        ]
+    },
+    {
+        "q": "6. # [= deinde] Sextus in # su\u0101 c\u014dns\u012bdit.",
+        "a": [
+            "Tum",
+            "sell\u0101"
+        ]
+    },
+    {
+        "q": "7. Discipulus # [= tac\u0113ns] ante magistrum sedet.",
+        "a": [
+            "tacitus"
+        ]
+    },
+    {
+        "q": "8. Sextus iam adest, # [= sed] c\u0113ter\u012b discipul\u012b # adsunt.",
+        "a": [
+            "at",
+            "n\u014dndum"
+        ]
+    },
+    {
+        "q": "9. Magister \u012br\u0101tus #: \"\u014c, discipul\u014ds improb\u014ds...!\"",
+        "a": [
+            "excl\u0101mat"
+        ]
+    },
+    {
+        "q": "10. Titus # [= \u014dstium] pulsat # l\u016bdum intrat.",
+        "a": [
+            "i\u0101nuam",
+            "antequam"
+        ]
+    },
+    {
+        "q": "11. Titus n\u014dn # intrat, sed pr\u012bmum i\u0101nuam pulsat.",
+        "a": [
+            "statim"
+        ]
+    }
+]

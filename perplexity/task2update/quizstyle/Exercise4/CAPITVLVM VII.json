@@ -1,0 +1,41 @@
+[
+    {
+        "q": "1. I\u016blia in cubicul# su# est.",
+        "a": [
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. Syra in cubicul# I\u016bliae intrat.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "3. Syra: \"Ven\u012b in hort#, I\u016blia! In hort# sunt rosae.\"",
+        "a": [
+            "um",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "4. In v\u012bll# Aemilia virum suum exspectat.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "5. I\u016blius in v\u012bll# intrat; iam I\u016blius in \u0101tri# est.",
+        "a": [
+            "am",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. Aemilia in \u0101tri# intrat.",
+        "a": [
+            "um"
+        ]
+    }
+]

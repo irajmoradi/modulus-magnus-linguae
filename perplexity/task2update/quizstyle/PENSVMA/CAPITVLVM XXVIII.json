@@ -1,0 +1,90 @@
+[
+    {
+        "a": [
+            "ret",
+            "ret",
+            "eret",
+            "erent",
+            "rent"
+        ],
+        "q": "Servus dominum \u014dr\u0101bat n\u0113 s\u0113 verber\u0101#, sed dominus imper\u0101vit ut tac\u0113# et surg#, tum ali\u012bs serv\u012bs imper\u0101vit ut eum prehend# et ten\u0113#."
+    },
+    {
+        "a": [
+            "ret",
+            "set"
+        ],
+        "q": "M\u0113dus \u0101 domin\u014d f\u016bgit, ut am\u012bcam suam vid\u0113# et semper cum e\u0101 es#."
+    },
+    {
+        "a": [
+            "rem",
+            "sem"
+        ],
+        "q": "M\u0113dus: \"\u0100 domin\u014d f\u016bg\u012b, ut am\u012bcam meam vid\u0113# et semper cum e\u0101 es#.\""
+    },
+    {
+        "a": [
+            "erentur"
+        ],
+        "q": "M\u012bn\u014ds imper\u0101vit ut Daedalus et \u012acarus in labyrinthum incl\u016bd#."
+    },
+    {
+        "a": [
+            "er\u0113mur"
+        ],
+        "q": "\u012acarus: \"Quis imper\u0101vit ut n\u014ds incl\u016bd#?\""
+    },
+    {
+        "a": [
+            "erer",
+            "er\u0113ris"
+        ],
+        "q": "Daedalus: \"M\u012bn\u014ds imper\u0101vit ut ego incl\u016bd# et ut t\u016b m\u0113cum incl\u016bd#.\""
+    },
+    {
+        "a": [
+            "d\u012bv\u012bs",
+            "d\u012bv\u012bs"
+        ],
+        "q": "Verba: d\u012bvidere, #isse, #um;"
+    },
+    {
+        "a": [
+            "i\u0113c",
+            "iect"
+        ],
+        "q": "\u0113icere, \u0113#isse, \u0113#um;"
+    },
+    {
+        "a": [
+            "pr\u014dmps",
+            "pr\u014dmpt"
+        ],
+        "q": "pr\u014dmere, #isse, #um;"
+    },
+    {
+        "a": [
+            "v\u012bx"
+        ],
+        "q": "v\u012bvere, #isse;"
+    },
+    {
+        "a": [
+            "didic"
+        ],
+        "q": "discere, #isse;"
+    },
+    {
+        "a": [
+            "su\u0101s"
+        ],
+        "q": "persu\u0101d\u0113re, per#isse;"
+    },
+    {
+        "a": [
+            "surr\u0113x"
+        ],
+        "q": "surgere, #isse."
+    }
+]

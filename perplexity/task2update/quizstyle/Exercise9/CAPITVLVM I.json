@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Quid est B? ...",
+        "a": [
+            "B littera est"
+        ]
+    },
+    {
+        "q": "2. Quid est II? ...",
+        "a": [
+            "II numerus est"
+        ]
+    },
+    {
+        "q": "3. Quid est 'fluvius'? ...",
+        "a": [
+            "'Fluvius' voc\u0101bulum est"
+        ]
+    },
+    {
+        "q": "4. Num C littera Graeca est? ...",
+        "a": [
+            "C n\u014dn est littera Graeca, sed littera Lat\u012bna"
+        ]
+    },
+    {
+        "q": "5. Num 'fluvius' voc\u0101bulum Graecum est? ...",
+        "a": [
+            "'Fluvius' n\u014dn est voc\u0101bulum Graecum, sed Lat\u012bnum"
+        ]
+    },
+    {
+        "q": "6. Estne D littera Lat\u012bna? ...",
+        "a": [
+            "D est littera Lat\u012bna"
+        ]
+    },
+    {
+        "q": "7. Quid est 'delta'? ...",
+        "a": [
+            "'Delta' littera Graeca est"
+        ]
+    },
+    {
+        "q": "8. Suntne A et B litterae Lat\u012bnae? ...",
+        "a": [
+            "A et B litterae Lat\u012bnae sunt"
+        ]
+    },
+    {
+        "q": "9. Num 'gamma' et 'delta' litterae Lat\u012bnae sunt? ...",
+        "a": [
+            "'Gamma' et 'delta' n\u014dn litterae Lat\u012bnae, sed litterae Graecae sunt"
+        ]
+    },
+    {
+        "q": "10. Num C littera pr\u012bma est? ...",
+        "a": [
+            "C n\u014dn littera pr\u012bma, sed littera tertia est"
+        ]
+    },
+    {
+        "q": "11. Num A littera secunda est? ...",
+        "a": [
+            "A n\u014dn littera secunda, sed littera pr\u012bma est"
+        ]
+    },
+    {
+        "q": "12. Estne B littera secunda? ...",
+        "a": [
+            "B littera secunda est"
+        ]
+    }
+]

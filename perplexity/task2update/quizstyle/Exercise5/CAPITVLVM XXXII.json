@@ -1,0 +1,73 @@
+[
+    {
+        "q": "1. Dominus serv\u014ds monet ut lab\u014drent # [= n\u0113ve] qui\u0113scant.",
+        "a": [
+            "neu"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus gladium #, n\u0113 # [= sine arm\u012bs] occ\u012bd\u0101tur, sed gubern\u0101tor e\u012b # [<> persu\u0101det] n\u0113 praed\u014dnibus #.",
+        "a": [
+            "\u0113d\u016bcit",
+            "inermis",
+            "dissu\u0101det",
+            "resistat"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \u201c# ego v\u012bvam, n\u0113m\u014d tibi noc\u0113bit, L\u0233dia!\u201d",
+        "a": [
+            "D\u014dnec"
+        ]
+    },
+    {
+        "q": "4. # [= interim] L\u0233dia, genibus #, Deum prec\u0101tur: \u201cPater noster, qu\u012b es in cael\u012bs! F\u012bat # tua!\u201d",
+        "a": [
+            "Intere\u0101",
+            "flex\u012bs",
+            "volunt\u0101s"
+        ]
+    },
+    {
+        "q": "5. Gubern\u0101tor praed\u014dnibus magnam pec\u016bniam # vult, namque is l\u012bbert\u0101tem omnibus r\u0113bus #.",
+        "a": [
+            "offerre",
+            "praefert"
+        ]
+    },
+    {
+        "q": "6. S\u012b ipse satis pec\u016bniae n\u014dn habet, am\u012bc\u012b eum \u0113 servit\u016bte # possunt; hanc # [= beneficium] ab am\u012bc\u012bs su\u012bs petet.",
+        "a": [
+            "redimere",
+            "gr\u0101tiam"
+        ]
+    },
+    {
+        "q": "7. Hoc audi\u0113ns merc\u0101tor du\u014ds vers\u016bs # [<> obl\u012bv\u012bscitur] qu\u014ds scr\u012bpsit # qu\u012bdam R\u014dm\u0101nus.",
+        "a": [
+            "remin\u012bscitur",
+            "po\u0113ta"
+        ]
+    },
+    {
+        "q": "8. Gubern\u0101tor n\u014dmen po\u0113tae obl\u012btus est, sed merc\u0101tor n\u014dmen eius # [= memori\u0101 tenet]. ",
+        "a": [
+            "meminit"
+        ]
+    },
+    {
+        "q": "9. V\u0113rus am\u012bcus numquam am\u012bc\u014d su\u014d #, sed v\u0113ra # r\u0113s r\u0101ra est.",
+        "a": [
+            "deest",
+            "am\u012bcitia"
+        ]
+    },
+    {
+        "q": "10. Qu\u012b tibi # habet [= gr\u0101tus est] pr\u014d benefici\u014d, n\u014dn s\u014dlum tibi gr\u0101ti\u0101s #, sed etiam gr\u0101tiam # d\u0113bet.",
+        "a": [
+            "gr\u0101tiam",
+            "agere",
+            "referre"
+        ]
+    }
+]

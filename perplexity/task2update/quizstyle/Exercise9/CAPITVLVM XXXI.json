@@ -1,0 +1,85 @@
+[
+    {
+        "q": "1. \u012anfant\u0113s # [= invalid\u014ds] exp\u014dnere # inh\u016bm\u0101nus erat.",
+        "a": [
+            "d\u0113bil\u0113s",
+            "m\u014ds"
+        ]
+    },
+    {
+        "q": "2. Quod # [= d\u0113] conv\u012bvi\u012bs Chr\u012bsti\u0101n\u014drum n\u0101rr\u0101tur # falsus est.",
+        "a": [
+            "super",
+            "r\u016bmor"
+        ]
+    },
+    {
+        "q": "3. Paris \u012bnf\u0101ns inventus \u0101 p\u0101st\u014dribus cum l\u012bber\u012bs e\u014drum # est.",
+        "a": [
+            "\u0113duc\u0101tus"
+        ]
+    },
+    {
+        "q": "4. Paris iuvenis Helenam \u0101 mar\u012bt\u014d #, # [= nam] ea f\u0113mina erat omnium pulcherrima.",
+        "a": [
+            "abd\u016bxit",
+            "namque"
+        ]
+    },
+    {
+        "q": "5. Nestor # [<> adul\u0113sc\u0113ns] ad # [XC] annum v\u012bxit.",
+        "a": [
+            "senex",
+            "n\u014dn\u0101g\u0113simum"
+        ]
+    },
+    {
+        "q": "6. Oront\u0113s p\u014dculum suum # [= \u0101 fund\u014d] exhausit.",
+        "a": [
+            "funditus"
+        ]
+    },
+    {
+        "q": "7. \u201c# amat valeat!\u201d cantat Oront\u0113s.",
+        "a": [
+            "Quisquis"
+        ]
+    },
+    {
+        "q": "8. Oront\u0113s # est, quia # [= nimis multum] v\u012bn\u012b bibit.",
+        "a": [
+            "\u0113brius",
+            "nimium"
+        ]
+    },
+    {
+        "q": "9. Itaque ab \u014dv\u014d \u016bsque ad m\u0101la # [= loquitur].",
+        "a": [
+            "f\u0101bul\u0101tur"
+        ]
+    },
+    {
+        "q": "10. Aemilia t\u0101l\u0113s # [= r\u0113s stult\u0101s] aud\u012bre n\u014dn vult.",
+        "a": [
+            "n\u016bg\u0101s"
+        ]
+    },
+    {
+        "q": "11. V\u012bnum novum n\u014dn tam bonum est quam v\u012bnum #.",
+        "a": [
+            "vetus"
+        ]
+    },
+    {
+        "q": "12. # dux imper\u0101vit m\u012blitibus faciendum est.",
+        "a": [
+            "Quidquid|Quicquid"
+        ]
+    },
+    {
+        "q": "13. Senex # [<> validus] pugn\u0101re n\u014dn potest.",
+        "a": [
+            "invalidus"
+        ]
+    }
+]

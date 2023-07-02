@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. Quid Alb\u012bnus v\u0113ndit? ",
+        "a": [
+            "Alb\u012bnus \u014drn\u0101menta v\u0113ndit"
+        ]
+    },
+    {
+        "q": "2. \u0100 qu\u014d Aemilia \u014drn\u0101menta accipit? ",
+        "a": [
+            "Aemilia \u014drn\u0101menta accipit \u0101 vir\u014d su\u014d"
+        ]
+    },
+    {
+        "q": "3. Ambulatne M\u0113dus cum domin\u014d su\u014d? ",
+        "a": [
+            "M\u0113dus n\u014dn cum domin\u014d su\u014d, sed cum am\u012bc\u0101 su\u0101 ambulat"
+        ]
+    },
+    {
+        "q": "4. Ubi M\u0113dus et L\u0233dia c\u014dnsistunt? ",
+        "a": [
+            "M\u0113dus et L\u0233dia ante tabernam Alb\u012bn\u012b c\u014dnsistunt"
+        ]
+    },
+    {
+        "q": "5. C\u016br M\u0113dus margar\u012bt\u0101s n\u014dn emit? ",
+        "a": [
+            "Quia L\u0233dia mult\u0101s margar\u012bt\u0101s habet"
+        ]
+    },
+    {
+        "q": "6. C\u016br L\u0233dia n\u016bllum \u0101nulum habet? ",
+        "a": [
+            "N\u016bllum \u0101nulum habet, quia pec\u016bni\u014dsa n\u014dn est"
+        ]
+    },
+    {
+        "q": "7. Estne vacuus sacculus M\u0113d\u012b? ",
+        "a": [
+            "Vacuus n\u014dn est, in saccul\u014d eius sunt n\u014dn\u0101gint\u0101 s\u0113sterti\u012b"
+        ]
+    },
+    {
+        "q": "8. Quot s\u0113sterti\u012bs c\u014dnstat \u0101nulus gemm\u0101tus? ",
+        "a": [
+            "\u0100nulus gemm\u0101tus c\u014dnstat centum s\u0113sterti\u012bs"
+        ]
+    },
+    {
+        "q": "9. Ad quem digitum \u0101nulus convenit? ",
+        "a": [
+            "\u0100nulus ad digitum qu\u0101rtum convenit"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "q": "1. 'Serv|us' voc\u0101bulum mascul\u012bnum est. 'Ancill|a' voc\u0101bulum # est. 'Oppid|um' voc\u0101bulum # est.",
+        "a": [
+            "f\u0113min\u012bnum",
+            "neutrum"
+        ]
+    },
+    {
+        "q": "2. 'Puer' n\u014dn est voc\u0101bulum f\u0113min\u012bnum, sed #.",
+        "a": [
+            "mascul\u012bnum"
+        ]
+    },
+    {
+        "q": "3. 'Serv|us' et 'domin|us' voc\u0101bula # sunt; 'fluvi|us' quoque # # est.",
+        "a": [
+            "mascul\u012bna",
+            "voc\u0101bulum",
+            "mascul\u012bnum"
+        ]
+    },
+    {
+        "q": "4. 'Ancill|a' et 'domin|a' voc\u0101bula # sunt; '\u012bnsul|a' quoque # # est.",
+        "a": [
+            "f\u0113min\u012bna",
+            "voc\u0101bulum",
+            "f\u0113min\u012bnum"
+        ]
+    },
+    {
+        "q": "5. 'Oppid|um' et 'imperi|um' voc\u0101bula # sunt; 'exempl|um' quoque # # est.",
+        "a": [
+            "neutra",
+            "voc\u0101bulum",
+            "neutrum"
+        ]
+    },
+    {
+        "q": "6. Mascul\u012bnum: vir R\u014dm\u0101n#.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "7. F\u0113min\u012bnum: f\u0113min# R\u014dm\u0101n#.",
+        "a": [
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "8. Neutrum: imperi# R\u014dm\u0101n#.",
+        "a": [
+            "um",
+            "um"
+        ]
+    }
+]

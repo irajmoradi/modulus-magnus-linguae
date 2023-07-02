@@ -1,0 +1,88 @@
+[
+    {
+        "q": "1. M\u0101rcus \u0101 patre verber\u0101tus n\u014dn est, quia iam verber\u0101t# # \u0101 magistr\u014d, sed in cubiculum incl\u016bsus est.",
+        "a": [
+            "us",
+            "erat"
+        ]
+    },
+    {
+        "q": "2. Puer enim n\u014dn modo malus discipulus fu# et in l\u016bd\u014d dorm\u012bv#, sed etiam in vi\u0101 pugn\u0101v# et falsum d\u012bx# (= ment\u012bt# #).",
+        "a": [
+            "erat",
+            "erat",
+            "erat",
+            "erat",
+            "us",
+            "erat"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus: \u201cT\u016b m\u0113 in cubiculum incl\u016bsist\u012b, pater, ets\u012b iam \u0101 magistr\u014d verber\u0101t# #! N\u014dnne satis p\u016bn\u012bt# # \u0101 magistr\u014d?\u201d",
+        "a": [
+            "us",
+            "eram",
+            "us",
+            "eram"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \u201cEgo t\u0113 incl\u016bs\u012b, ets\u012b iam \u0101 magistr\u014d verber\u0101t# #, quia n\u014dn modo malus discipulus fu# et in l\u016bd\u014d dorm\u012bv#, sed etiam in vi\u0101 pugn\u0101v# ac falsum d\u012bx#. Cert\u0113 n\u014dn satis p\u016bn\u012bt# # \u0101 magistr\u014d!\u201d ",
+        "a": [
+            "us",
+            "er\u0101s",
+            "er\u0101s",
+            "er\u0101s",
+            "er\u0101s",
+            "er\u0101s",
+            "us",
+            "er\u0101s"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus (ad Qu\u012bntum): \u201cPater m\u0113 in cubiculum incl\u016bsit, quia n\u014dn s\u014dlum\tmalus discipulus fu# et in l\u016bd\u014d dorm\u012bv#, sed etiam in vi\u0101 pugn\u0101v# ac falsum d\u012bx#.\u201d",
+        "a": [
+            "eram",
+            "eram",
+            "eram",
+            "eram"
+        ]
+    },
+    {
+        "q": "6. Her\u012b magister puer\u014ds verber\u0101vit, quia mal\u012b discipul\u012b fu# et in l\u016bd\u014d dorm\u012bv#.",
+        "a": [
+            "erant",
+            "erant"
+        ]
+    },
+    {
+        "q": "7. Mal\u012b discipul\u012b bon\u012bs: \u201cHer\u012b magister n\u014ds verber\u0101vit, quia mal\u012b discipul\u012b fu# et in l\u016bd\u014d dorm\u012bv#; at v\u014ds laud\u0101vit, quia bon\u012b discipul\u012b fu# atque omnia verba eius aud\u012bv#.\u201d",
+        "a": [
+            "er\u0101mus",
+            "er\u0101mus",
+            "er\u0101tis",
+            "er\u0101tis"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus et Titus Sextum puls\u0101v\u0113runt, quia ab e\u014d \u2018barbar\u012b\u2019 appell\u0101t# #.",
+        "a": [
+            "\u012b",
+            "erant"
+        ]
+    },
+    {
+        "q": "9. I\u016blius: \u201cC\u016br Sextum puls\u0101vistis? V\u014dsne ab e\u014d puls\u0101t# #?\u201d",
+        "a": [
+            "\u012b",
+            "er\u0101tis"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus: \u201cSextum puls\u0101vimus, quod ab e\u014d \u2018barbar\u012b\u2019 appell\u0101t# #.\u201d",
+        "a": [
+            "\u012b",
+            "er\u0101mus"
+        ]
+    }
+]

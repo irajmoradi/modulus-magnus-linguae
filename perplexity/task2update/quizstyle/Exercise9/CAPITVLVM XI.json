@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. Servus I\u016bli\u012b T\u016bsculum it atque medicum #.",
+        "a": [
+            "arcessit"
+        ]
+    },
+    {
+        "q": "2. Servus cum medic\u014d ad v\u012bllam # [= r\u016brsus venit].",
+        "a": [
+            "revenit"
+        ]
+    },
+    {
+        "q": "3. Medicus interrogat: \"Quis # [= aeger est]?\"",
+        "a": [
+            "aegr\u014dtat"
+        ]
+    },
+    {
+        "q": "4. Medicus linguam Qu\u012bnt\u012b # [= aspicit].",
+        "a": [
+            "spectat"
+        ]
+    },
+    {
+        "q": "5. Medicus digitum in pedem puer\u012b imp\u014dnit: medicus pedem eius #.",
+        "a": [
+            "tangit"
+        ]
+    },
+    {
+        "q": "6. Qu\u012bntus digitum medic\u012b in pede su\u014d #.",
+        "a": [
+            "sentit"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntus: \"Ei! P\u0113s #!\" Qu\u012bntus 'pedem dol\u0113re' #.",
+        "a": [
+            "dolet",
+            "d\u012bcit"
+        ]
+    },
+    {
+        "q": "8. Medicus puerum ocul\u014ds claudere iubet, et # s\u016bmit.",
+        "a": [
+            "cultrum"
+        ]
+    },
+    {
+        "q": "9. Medicus cultrum ad bracchium Qu\u012bnt\u012b #.",
+        "a": [
+            "app\u014dnit"
+        ]
+    },
+    {
+        "q": "10. Puer sanguinem # bracchi\u014d fluere sentit; capill\u012b #, cor #. ",
+        "a": [
+            "d\u0113",
+            "horrent",
+            "palpitat"
+        ]
+    },
+    {
+        "q": "11. Qu\u012bntus # iacet # [= neque] ocul\u014ds aperit; itaque Syra eum mortuum esse #.",
+        "a": [
+            "qui\u0113tus",
+            "nec",
+            "putat"
+        ]
+    },
+    {
+        "q": "12. M\u0101ter # [= laeta est] quod f\u012blius v\u012bvit.",
+        "a": [
+            "gaudet"
+        ]
+    },
+    {
+        "q": "13. Aemilia sanguinem d\u0113 bracchi\u014d Qu\u012bnt\u012b #.",
+        "a": [
+            "d\u0113terget"
+        ]
+    },
+    {
+        "q": "14. I\u016blius: \"Iam f\u012blius # [= meus et tuus] n\u014dn # [= s\u014dlum] pede, sed etiam bracchi\u014d aeger est.\"",
+        "a": [
+            "noster",
+            "modo"
+        ]
+    }
+]

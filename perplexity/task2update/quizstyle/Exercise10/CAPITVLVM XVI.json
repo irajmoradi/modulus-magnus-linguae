@@ -1,0 +1,72 @@
+[
+    {
+        "q": "1. Dum gubern\u0101tor # [<> tacet], M\u0113dus caelum spectat.",
+        "a": [
+            "loquitur"
+        ]
+    },
+    {
+        "q": "2. Ab occidente n\u016bb\u0113s oriuntur n\u014dn albae, sed #.",
+        "a": [
+            "\u0101trae"
+        ]
+    },
+    {
+        "q": "3. Nauta deum Nept\u016bnum #: \"\u014c Nept\u016bne!\"",
+        "a": [
+            "invocat"
+        ]
+    },
+    {
+        "q": "4. Paul\u014d post # caelum et mare ill\u016bstrat, et statim magnus # aud\u012btur.",
+        "a": [
+            "fulgur",
+            "tonitrus"
+        ]
+    },
+    {
+        "q": "5. Simul tempest\u0101s oritur; mare turbidum # [= esse incipit].",
+        "a": [
+            "fit"
+        ]
+    },
+    {
+        "q": "6. N\u0101vis fl\u016bctibus # ac # [= prope n\u014dn] gubern\u0101r\u012b potest.",
+        "a": [
+            "iact\u0101tur",
+            "vix"
+        ]
+    },
+    {
+        "q": "7. Necesse est aquam # et merc\u0113s iacere. \t",
+        "a": [
+            "haur\u012bre"
+        ]
+    },
+    {
+        "q": "8. Gubern\u0101tor Nept\u016bnum invocat # tim\u014drem [= quia timet]. ",
+        "a": [
+            "propter"
+        ]
+    },
+    {
+        "q": "9. L\u0233dia Chr\u012bstum invocat: \"\u014c Chr\u012bste! # n\u014ds!\"",
+        "a": [
+            "Serv\u0101"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus L\u0233diam l\u0101bentem sustin\u0113re #, nec # [= sed n\u014dn] ipse st\u0101re potest.",
+        "a": [
+            "c\u014dn\u0101tur",
+            "v\u0113r\u014d"
+        ]
+    },
+    {
+        "q": "11. L\u0233dia # [= r\u016brsus] Chr\u012bstum invocat: \"\u014c Chr\u012bste! Iub\u0113 mare tranquillum #!\"",
+        "a": [
+            "iterum",
+            "fier\u012b"
+        ]
+    }
+]

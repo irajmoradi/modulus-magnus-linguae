@@ -1,0 +1,53 @@
+[
+    {
+        "q": "1. Corn\u0113lius: \u201cUtinam ego tot serv\u014ds hab\u0113# quot I\u016blius habet. S\u012b tot serv\u014ds hab\u0113#, numquam s\u014dlus ambul\u0101#.\u201d  ",
+        "a": [
+            "rem",
+            "rem",
+            "rem"
+        ]
+    },
+    {
+        "q": "2. Sextus: \u201cUtinam ego linguam Graecam sc\u012b# ac doctus es# ut magister; mult\u014ds libr\u014ds Graec\u014ds leg#, s\u012b eam linguam sc\u012b#.\u201d",
+        "a": [
+            "rem",
+            "sem",
+            "erem",
+            "rem"
+        ]
+    },
+    {
+        "q": "3. Dominus: \u201c\u0112brius es!\u201d Servus: \u201cN\u014dn sum, sed utinam ita es#!\u201d",
+        "a": [
+            "sem"
+        ]
+    },
+    {
+        "q": "4. Daedalus: \u201cNisi ego ill\u0101s \u0101l\u0101s f\u0113c#, \u012acarus etiamnunc v\u012bv#. Utinam n\u0113 \u0101l\u0101s f\u0113c#! Utinam f\u012blius meus v\u012bv#!\u201d",
+        "a": [
+            "issem",
+            "eret",
+            "issem",
+            "eret"
+        ]
+    },
+    {
+        "q": "5. L\u0113ander: \u201cUtinam ego l\u012bber es# et t\u016b l\u012bbera es#, D\u0113lia! S\u012b n\u014ds l\u012bber\u012b es#, in Graeciam \u012b#.\u201d",
+        "a": [
+            "sem",
+            "s\u0113s",
+            "s\u0113mus",
+            "r\u0113mus"
+        ]
+    },
+    {
+        "q": "6. Qu\u012bntus: \u201cDole\u014d quia arborem ascend\u012b. Nisi arborem ascend#, nunc s\u0101nus es# neque h\u012bc cub\u0101#. Utinam n\u0113 eam arborem ascend#! Utinam s\u0101nus es#!\u201d",
+        "a": [
+            "issem",
+            "sem",
+            "rem",
+            "issem",
+            "sem"
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. Quid agunt M\u0101rcus et Qu\u012bntus? ...",
+        "a": [
+            "I\u016blium exspectant"
+        ]
+    },
+    {
+        "q": "2. Estne Aemilia apud f\u012bli\u014ds? ...",
+        "a": [
+            "Aemilia apud e\u014ds n\u014dn est"
+        ]
+    },
+    {
+        "q": "3. C\u016br Aemilia laeta n\u014dn est? ...",
+        "a": [
+            "... quia vir eius abest"
+        ]
+    },
+    {
+        "q": "4. Ubi est I\u016blia? ...",
+        "a": [
+            "I\u016blia in cubicul\u014d su\u014d est"
+        ]
+    },
+    {
+        "q": "5. Quid I\u016blia ante n\u0101sum tenet? ...",
+        "a": [
+            "I\u016blia rosam ante n\u0101sum tenet"
+        ]
+    },
+    {
+        "q": "6. R\u012bdetne I\u016blia? ...",
+        "a": [
+            "I\u016blia n\u014dn r\u012bdet, sed lacrimat"
+        ]
+    },
+    {
+        "q": "7. C\u016br I\u016blia lacrimat? ...",
+        "a": [
+            "... quia puer\u012b improb\u012b eam r\u012bdent"
+        ]
+    },
+    {
+        "q": "8. Quid I\u016blia in specul\u014d videt? ...",
+        "a": [
+            "I\u016blia s\u0113 in specul\u014d videt"
+        ]
+    },
+    {
+        "q": "9. Estne f\u014drm\u014dsus n\u0101sus I\u016bliae? ...",
+        "a": [
+            "n\u0101sus eius f\u014drm\u014dsus n\u014dn est"
+        ]
+    },
+    {
+        "q": "10. Quis in cubiculum eius intrat? ...",
+        "a": [
+            "Syra in cubiculum intrat"
+        ]
+    },
+    {
+        "q": "11. C\u016br Syra lacrim\u0101s I\u016bliae n\u014dn videt? ...",
+        "a": [
+            "... quia I\u016blia s\u0113 n\u014dn vertit"
+        ]
+    },
+    {
+        "q": "12. Quid I\u016blia ante Syram tenet? ...",
+        "a": [
+            "speculum tenet ante Syram"
+        ]
+    },
+    {
+        "q": "13. C\u016br Syra ocul\u014ds claudit et tacet? ...",
+        "a": [
+            "... quia n\u0101sum suum foedum videt"
+        ]
+    }
+]

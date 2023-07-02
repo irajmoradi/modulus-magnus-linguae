@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. # m\u0113nsis # [I] est.",
+        "a": [
+            "I\u0101nu\u0101rius",
+            "pr\u012bmus"
+        ]
+    },
+    {
+        "q": "2. # m\u0113nsis # [II].",
+        "a": [
+            "Febru\u0101rius",
+            "secundus"
+        ]
+    },
+    {
+        "q": "3. # m\u0113nsis # [III].",
+        "a": [
+            "M\u0101rtius",
+            "tertius"
+        ]
+    },
+    {
+        "q": "4. # m\u0113nsis # [IV].",
+        "a": [
+            "Apr\u012blis",
+            "qu\u0101rtus"
+        ]
+    },
+    {
+        "q": "5. # m\u0113nsis # [V].",
+        "a": [
+            "M\u0101ius",
+            "qu\u012bntus"
+        ]
+    },
+    {
+        "q": "6. # m\u0113nsis # [VI].",
+        "a": [
+            "I\u016bnius",
+            "sextus"
+        ]
+    },
+    {
+        "q": "7. # m\u0113nsis # [VII].",
+        "a": [
+            "I\u016blius",
+            "septimus"
+        ]
+    },
+    {
+        "q": "8. # m\u0113nsis # [VIII].",
+        "a": [
+            "Augustus",
+            "oct\u0101vus"
+        ]
+    },
+    {
+        "q": "9. # m\u0113nsis # [IX].",
+        "a": [
+            "September",
+            "n\u014dnus"
+        ]
+    },
+    {
+        "q": "10. # m\u0113nsis # [X].",
+        "a": [
+            "Oct\u014dber",
+            "decimus"
+        ]
+    },
+    {
+        "q": "11. # m\u0113nsis # [XI].",
+        "a": [
+            "November",
+            "\u016bndecimus"
+        ]
+    },
+    {
+        "q": "12. # m\u0113nsis # [XII].",
+        "a": [
+            "December",
+            "duodecimus"
+        ]
+    }
+]

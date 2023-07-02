@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Quoti\u0113s M\u0101rcus eandem litteram scr\u012bbit? ...",
+        "a": [
+            "M\u0101rcus litteram H deci\u0113s scr\u012bbit"
+        ]
+    },
+    {
+        "q": "2. Quoti\u0113s scr\u012bbit t\u014dtam sententiam? ...",
+        "a": [
+            "t\u014dtam sententiam semel scr\u012bbit"
+        ]
+    },
+    {
+        "q": "3. Quid Titus in tabul\u0101 M\u0101rc\u012b animadvertit? ...",
+        "a": [
+            "Titus du\u0101s litter\u0101s deesse animadvertit"
+        ]
+    },
+    {
+        "q": "4. C\u016br Titus n\u016bllum verbum facit? ...",
+        "a": [
+            "... quia M\u0101rcus stilum in corpus eius premit"
+        ]
+    },
+    {
+        "q": "5. Qu\u014dmodo M\u0101rcus voc\u0101bulum HOCVLOS corrigit? ...",
+        "a": [
+            "stilum vertit et litteram H d\u0113let"
+        ]
+    },
+    {
+        "q": "6. Semperne dom\u012b est pater M\u0101rc\u012b? ...",
+        "a": [
+            "pater eius saepe abest"
+        ]
+    },
+    {
+        "q": "7. Stil\u014dne in c\u0113r\u0101 scr\u012bbit magister? ...",
+        "a": [
+            "magister n\u014dn stil\u014d in tabul\u0101, sed calam\u014d in chart\u0101 scr\u012bbit"
+        ]
+    },
+    {
+        "q": "8. Ubi pap\u0233rus reper\u012btur? ...",
+        "a": [
+            "pap\u0233rus in Aegypt\u014d reper\u012btur"
+        ]
+    },
+    {
+        "q": "9. Ad quem magister epistulam scr\u012bbit? ...",
+        "a": [
+            "epistulam scr\u012bbit ad patrem M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "10. Quid magister in epistul\u0101 su\u0101 scr\u012bbit? ...",
+        "a": [
+            "scr\u012bbit 'M\u0101rcum discipulum improbum esse'"
+        ]
+    },
+    {
+        "q": "11. Quid magister poscit \u0101 discipul\u012bs? ...",
+        "a": [
+            "magister merc\u0113dem poscit"
+        ]
+    },
+    {
+        "q": "12. Quid est merc\u0113s? ...",
+        "a": [
+            "merc\u0113s est pec\u016bnia quam magister \u0101 patribus discipul\u014drum accipit"
+        ]
+    },
+    {
+        "q": "13. Quand\u014d discipul\u012b merc\u0113dem afferre solent? ...",
+        "a": [
+            "kalend\u012bs cuiusque m\u0113nsis"
+        ]
+    },
+    {
+        "q": "14. Quid magister addit antequam epistulam signat? ...",
+        "a": [
+            "addit 'M\u0101rcum merc\u0113dem ad diem n\u014dn afferre'"
+        ]
+    }
+]

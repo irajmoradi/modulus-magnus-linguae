@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. III # R\u014dm\u0101nus est. I et II # # sunt.",
+        "a": [
+            "numerus",
+            "numer\u012b",
+            "R\u014dm\u0101n\u012b"
+        ]
+    },
+    {
+        "q": "2. 'N\u014dn' # Lat\u012bnum est. 'N\u014dn' et 'sed' # # sunt.",
+        "a": [
+            "voc\u0101bulum",
+            "voc\u0101bula",
+            "Lat\u012bna"
+        ]
+    },
+    {
+        "q": "3. 'Gamma' # Graeca est. 'Gamma' et 'delta' # # sunt.",
+        "a": [
+            "littera",
+            "litterae",
+            "Graecae"
+        ]
+    },
+    {
+        "q": "4. A et B litterae # sunt. C quoque # # est.",
+        "a": [
+            "Lat\u012bnae",
+            "littera",
+            "Lat\u012bna"
+        ]
+    },
+    {
+        "q": "5. 'In' et 'num' # Lat\u012bna sunt. 'Et' quoque # # est.",
+        "a": [
+            "voc\u0101bula",
+            "voc\u0101bulum",
+            "Lat\u012bnum"
+        ]
+    },
+    {
+        "q": "6. # [I] et # [II] numer\u012b sunt. # [III] quoque # est.",
+        "a": [
+            "\u016anus|\u016anum",
+            "duo",
+            "Tr\u0113s",
+            "numerus"
+        ]
+    },
+    {
+        "q": "7. In voc\u0101bul\u014d 'Lat\u012bna' sunt # [VI] litterae et # [III] #: syllaba # La-, # -t\u012b-, # -na.",
+        "a": [
+            "sex",
+            "tr\u0113s",
+            "syllabae",
+            "pr\u012bma",
+            "secunda",
+            "tertia"
+        ]
+    },
+    {
+        "q": "8. In capitul\u014d pr\u012bm\u014d sunt # [M] voc\u0101bula.",
+        "a": [
+            "m\u012blle"
+        ]
+    }
+]

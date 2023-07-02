@@ -1,0 +1,63 @@
+[
+    {
+        "q": "1. D\u0113lia: \"Ego laeta #. N\u014dnne t\u016b laeta #, Syra?\"",
+        "a": [
+            "sum",
+            "es"
+        ]
+    },
+    {
+        "q": "2. Syra: \"# laeta n\u014dn #. C\u016br t\u016b laeta #, D\u0113lia?\"",
+        "a": [
+            "Ego",
+            "sum",
+            "es"
+        ]
+    },
+    {
+        "q": "3. D\u0113lia: \"Laeta #, quia L\u0113ander m\u0113 amat: # am\u012bcus meus #; # am\u012bca eius #.\"",
+        "a": [
+            "sum",
+            "is",
+            "est",
+            "ego",
+            "sum"
+        ]
+    },
+    {
+        "q": "4. D\u0113lia am\u012bcum habe#, itaque # laeta #.",
+        "a": [
+            "t",
+            "ea",
+            "est"
+        ]
+    },
+    {
+        "q": "5. D\u0113lia: \"N\u014dnne t\u016b am\u012bcum hab\u0113#, Syra?\"",
+        "a": [
+            "s"
+        ]
+    },
+    {
+        "q": "6. Syra: \"Ego am\u012bcum n\u014dn habe#.\"",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "7. D\u0113lia: \"C\u016br am\u012bcum n\u014dn hab\u0113#?\"",
+        "a": [
+            "s"
+        ]
+    },
+    {
+        "q": "8. Syra: \"Am\u012bcum n\u014dn habe#, quia f\u014drm\u014dsa n\u014dn #. # am\u012bcum hab\u0113#, quia f\u0113mina f\u014drm\u014dsa #.\"",
+        "a": [
+            "\u014d",
+            "sum",
+            "T\u016b",
+            "s",
+            "es"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "q": "1. M\u0113dus: \u201cDominus \u0101 m\u0113 postul\u0101bat ut semper industrius es#.\u201d",
+        "a": [
+            "sem"
+        ]
+    },
+    {
+        "q": "2. L\u0233dia: \u201cAm\u012bcae meae m\u0113 \u014dr\u0101bant ut R\u014dmae s\u0113cum man\u0113#, sed t\u016b mihi persu\u0101sist\u012b ut t\u0113cum ven\u012b#.\u201d",
+        "a": [
+            "rem",
+            "rem"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus: \u201cGaude\u014d quod am\u012bcae tuae tibi persu\u0101d\u0113re n\u014dn potu\u0113runt ut R\u014dmae man\u0113# n\u0113ve m\u0113cum ven\u012b#.\u201d",
+        "a": [
+            "r\u0113s",
+            "r\u0113s"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \u201cN\u014dnne v\u014ds monueram, f\u012bli\u012b, n\u0113 arborem ascend#?\u201d",
+        "a": [
+            "er\u0113tis"
+        ]
+    },
+    {
+        "q": "5. Qu\u012bntus: \u201cCert\u0113 n\u014ds monuer\u0101s ut caut\u012b es# n\u0113ve arborem ascend#, sed M\u0101rcus mihi persu\u0101sit ut arborem ascend#.\u201d",
+        "a": [
+            "s\u0113mus",
+            "er\u0113mus",
+            "erem"
+        ]
+    },
+    {
+        "q": "6. I\u016blius: \u201cQu\u014dmodo M\u0101rcus tibi persu\u0101d\u0113re potuit ut arborem ascend#, s\u012b ego t\u0113 monueram ut cautus es# n\u0113ve id fac#?\u201d",
+        "a": [
+            "er\u0113s",
+            "s\u0113s",
+            "er\u0113s"
+        ]
+    },
+    {
+        "q": "7. L\u0233dia: \u201cLaet\u0101min\u012b, nautae! Chr\u012bstus c\u016br\u0101vit ut v\u014ds salv\u012b es# atque \u0113 m\u0101xim\u014d per\u012bcul\u014d serv\u0101#.\u201d",
+        "a": [
+            "s\u0113tis",
+            "r\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "8. Nauta: \u201cFortasse Chr\u012bstus c\u016br\u0101vit ut t\u016b serv\u0101#, at cert\u0113 Nept\u016bnus c\u016br\u0101vit ut ego serv\u0101#!\u201d",
+        "a": [
+            "r\u0113ris",
+            "rer"
+        ]
+    },
+    {
+        "q": "9. L\u0233dia: \u201cChr\u012bstus c\u016br\u0101vit ut n\u014ds omn\u0113s serv\u0101#.\u201d",
+        "a": [
+            "r\u0113mur"
+        ]
+    }
+]

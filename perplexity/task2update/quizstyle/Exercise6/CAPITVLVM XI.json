@@ -1,0 +1,94 @@
+[
+    {
+        "q": "1. Puer dorm#. Medicus puer# dorm# videt.",
+        "a": [
+            "it",
+            "um",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "2. Medicus: \"Puer dorm#.\" Medicus 'puer# dorm#' d\u012bcit.",
+        "a": [
+            "it",
+            "um",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "3. Lingu# puer\u012b rubr# est. Medicus lingu# eius rubr# es# videt.",
+        "a": [
+            "a",
+            "a",
+            "am",
+            "am",
+            "se"
+        ]
+    },
+    {
+        "q": "4. Medicus: \"Lingu# eius rubr# est.\" Medicus 'lingu# eius rubr# es#' d\u012bcit.",
+        "a": [
+            "a",
+            "a",
+            "am",
+            "am",
+            "se"
+        ]
+    },
+    {
+        "q": "5. P\u0113s dol#. Qu\u012bntus ped# dol# sentit.",
+        "a": [
+            "et",
+            "em",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "6. Qu\u012bntus: \"P\u0113s dol#!\" Qu\u012bntus 'ped# dol#' d\u012bcit.",
+        "a": [
+            "et",
+            "em",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "7. Serv\u012b cl\u0101m# et r\u012bd#. Aemilia serv# cl\u0101m# et r\u012bd# audit.",
+        "a": [
+            "ant",
+            "ent",
+            "\u014ds",
+            "\u0101re",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "8. Aemilia: \"Serv\u012b cl\u0101m# et r\u012bd#!\" Aemilia 'serv# cl\u0101m# et r\u012bd#' d\u012bcit.",
+        "a": [
+            "ant",
+            "ent",
+            "\u014ds",
+            "\u0101re",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "9. Saccul# D\u0101v\u012b vacu# est. I\u016blius saccul# vacu# es# videt.",
+        "a": [
+            "us",
+            "us",
+            "um",
+            "um",
+            "se"
+        ]
+    },
+    {
+        "q": "10. I\u016blius: \"Saccul# D\u0101v\u012b vacu# est.\" I\u016blius d\u012bcit 'saccul# D\u0101v\u012b vacu# es#'.",
+        "a": [
+            "us",
+            "us",
+            "um",
+            "um",
+            "se"
+        ]
+    }
+]

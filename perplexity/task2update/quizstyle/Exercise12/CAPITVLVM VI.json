@@ -1,0 +1,60 @@
+[
+    {
+        "q": "1. 'Am\u0101|tur', 'ama|ntur' n\u014dn verbum \u0101ct\u012bvum, sed # est.",
+        "a": [
+            "pass\u012bvum"
+        ]
+    },
+    {
+        "q": "2. 'Ama|t', 'ama|nt' n\u014dn verbum pass\u012bvum, sed # est.",
+        "a": [
+            "\u0101ct\u012bvum"
+        ]
+    },
+    {
+        "q": "3. 'Vide|t', 'vide|nt' quoque verbum # est; 'vid\u0113|tur', 'vide|ntur' est verbum #.",
+        "a": [
+            "\u0101ct\u012bvum",
+            "pass\u012bvum"
+        ]
+    },
+    {
+        "q": "4. 'P\u014dn|it', 'p\u014dn|unt' \u0101ct\u012bvum est; 'p\u014dn|itur', 'p\u014dn|untur' # est.",
+        "a": [
+            "pass\u012bvum"
+        ]
+    },
+    {
+        "q": "5. 'Audi|t', 'audi|unt' # est; 'aud\u012b|tur', 'audi|untur' est #.",
+        "a": [
+            "\u0101ct\u012bvum",
+            "pass\u012bvum"
+        ]
+    },
+    {
+        "q": "6. \u0100ct\u012bvum: singul\u0101ris: voc#, tim#, veh#, aud#; pl\u016br\u0101lis: voc#, tim#, veh#, aud#.",
+        "a": [
+            "at",
+            "et",
+            "it",
+            "it",
+            "ant",
+            "ent",
+            "unt",
+            "iunt"
+        ]
+    },
+    {
+        "q": "7. Pass\u012bvum: singul\u0101ris: voc#, tim#, veh#, aud#; pl\u016br\u0101lis: voc#, tim#, veh#, aud#.",
+        "a": [
+            "\u0101tur",
+            "\u0113tur",
+            "itur",
+            "\u012btur",
+            "antur",
+            "entur",
+            "untur",
+            "iuntur"
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "q": "1. Aemilia, quae ex\u012bre vult, Syrae in \u014dsti\u014d #.",
+        "a": [
+            "occurrit"
+        ]
+    },
+    {
+        "q": "2. Syra # cum I\u016bli\u0101 ex hort\u014d venit.",
+        "a": [
+            "\u016bn\u0101"
+        ]
+    },
+    {
+        "q": "3. I\u016blius et Aemilia # [= tacent]; I\u016blia # parentum animadvertit et \"C\u016br sil\u0113tis?\" inquit.",
+        "a": [
+            "silent",
+            "silentium"
+        ]
+    },
+    {
+        "q": "4. I\u016blius # R\u014dmam \u012bbit et mox # [= ad domum suam] # [= red\u012bbit].",
+        "a": [
+            "cr\u0101s",
+            "domum",
+            "revert\u0113tur"
+        ]
+    },
+    {
+        "q": "5. Parent\u0113s l\u012bber\u014ds su\u014ds # [= amant].",
+        "a": [
+            "d\u012bligunt"
+        ]
+    },
+    {
+        "q": "6. Serm\u014d \u012bnfantium I\u016bliam n\u014dn #.",
+        "a": [
+            "decet"
+        ]
+    },
+    {
+        "q": "7. Qu\u012b per imbrem ambulat # fit.",
+        "a": [
+            "\u016bmidus"
+        ]
+    },
+    {
+        "q": "8. Nautae merc\u0113s ex terr\u012bs ali\u0113n\u012bs in Italiam #.",
+        "a": [
+            "advehunt"
+        ]
+    }
+]

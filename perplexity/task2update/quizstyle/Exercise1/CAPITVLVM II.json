@@ -1,0 +1,40 @@
+[
+    {
+        "q": "1. M\u0101rcus puer R\u014dm\u0101nus est; I\u016blia est # R\u014dm\u0101na.",
+        "a": [
+            "puella"
+        ]
+    },
+    {
+        "q": "2. I\u016blius est vir R\u014dm\u0101nus; Aemilia # R\u014dm\u0101na est.",
+        "a": [
+            "f\u0113mina"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus n\u014dn puella, sed # est.",
+        "a": [
+            "puer"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus et Qu\u012bntus sunt #, n\u014dn puellae.",
+        "a": [
+            "puer\u012b"
+        ]
+    },
+    {
+        "q": "5. I\u016blius et M\u0113dus n\u014dn puer\u012b, sed # sunt; D\u0101vus quoque # est.",
+        "a": [
+            "vir\u012b",
+            "vir"
+        ]
+    },
+    {
+        "q": "6. N\u014dn vir\u012b, sed # sunt Aemilia et D\u0113lia; Syra quoque # est.",
+        "a": [
+            "f\u0113minae",
+            "f\u0113mina"
+        ]
+    }
+]

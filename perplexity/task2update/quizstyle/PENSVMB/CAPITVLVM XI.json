@@ -1,0 +1,85 @@
+[
+    {
+        "a": [
+            "Corpus",
+            "membra",
+            "bracchia",
+            "cr\u016bra"
+        ],
+        "q": "# hum\u0101num habet quattuor # : duo # et duo #."
+    },
+    {
+        "a": [
+            "man\u016bs",
+            "ped\u0113s"
+        ],
+        "q": "In bracchi\u012bs duae # sunt, in cr\u016bribus duo #."
+    },
+    {
+        "a": [
+            "caput"
+        ],
+        "q": "Super collum est #."
+    },
+    {
+        "a": [
+            "aur\u0113s",
+            "\u014ds"
+        ],
+        "q": "In capite sunt duo ocul\u012b, duae #, \u016bnus n\u0101sus, \u016bnum #."
+    },
+    {
+        "a": [
+            "lingua"
+        ],
+        "q": "In \u014dre sunt dent\u0113s et #."
+    },
+    {
+        "a": [
+            "pectus",
+            "cor"
+        ],
+        "q": "Sub coll\u014d est #. In pectore sunt pulm\u014dn\u0113s et #."
+    },
+    {
+        "a": [
+            "sanguis",
+            "v\u0113n\u0101s",
+            "fluit"
+        ],
+        "q": "In corde et in v\u0113n\u012bs # est. Sanguis per # ad cor #."
+    },
+    {
+        "a": [
+            "sedet",
+            "stat"
+        ],
+        "q": "Aemilia apud lectum Qu\u012bnt\u012b #, Syra apud lectum #."
+    },
+    {
+        "a": [
+            "s\u0101nus"
+        ],
+        "q": "Qu\u012bntus n\u014dn #, sed aeger est."
+    },
+    {
+        "a": [
+            "arcessit"
+        ],
+        "q": "Syrus medicum ex oppid\u014d #."
+    },
+    {
+        "a": [
+            "app\u014dnit",
+            "tangit"
+        ],
+        "q": "Medicus digitum ad pedem puer\u012b # : medicus pedem eius #."
+    },
+    {
+        "a": [
+            "sentit",
+            "dolet"
+        ],
+        "q": "Qu\u012bntus, qu\u012b digitum medic\u012b in pede # : \"Ei! P\u0113s #!\""
+    }
+]

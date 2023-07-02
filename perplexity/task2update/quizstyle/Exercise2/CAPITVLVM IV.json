@@ -1,0 +1,44 @@
+[
+    {
+        "q": "1. Quot sunt II et II? II et II sunt #.",
+        "a": [
+            "quattuor"
+        ]
+    },
+    {
+        "q": "2. Quot sunt III et III? III et III sunt #.",
+        "a": [
+            "sex"
+        ]
+    },
+    {
+        "q": "3. Quot sunt IV et IV? IV et IV sunt #.",
+        "a": [
+            "oct\u014d"
+        ]
+    },
+    {
+        "q": "4. Quot sunt V et V? V et V sunt #.",
+        "a": [
+            "decem"
+        ]
+    },
+    {
+        "q": "5. Quot sunt II et III? II et III sunt #.",
+        "a": [
+            "qu\u012bnque"
+        ]
+    },
+    {
+        "q": "6. Quot sunt III et IV? III et IV sunt #.",
+        "a": [
+            "septem"
+        ]
+    },
+    {
+        "q": "7. Quot sunt IV et V? IV et V sunt #.",
+        "a": [
+            "novem"
+        ]
+    }
+]

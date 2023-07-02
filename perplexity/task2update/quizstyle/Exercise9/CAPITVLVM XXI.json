@@ -1,0 +1,116 @@
+[
+    {
+        "q": "1. I\u016blius: \u201cM\u0101rcus intr\u0101vit.\u201d I\u016blius \u2018M\u0101rc# intr\u0101v#\u2019 d\u012bcit.",
+        "a": [
+            "um",
+            "isse"
+        ]
+    },
+    {
+        "q": "2. I\u016blius: \u201cPuer\u012b in vi\u0101 pugn\u0101v\u0113runt et hum\u012b iacu\u0113runt.\u201d I\u016blius d\u012bcit \u2018puer#  in vi\u0101 pugn\u0101v# et hum\u012b iacu#.\u2019",
+        "a": [
+            "\u014ds",
+            "isse",
+            "isse"
+        ]
+    },
+    {
+        "q": "3. Syra: \u201cI\u016blia \u0101 M\u0101rc\u014d puls\u0101ta est.\u201d Syra d\u012bcit \u2018I\u016bli# \u0101 M\u0101rc\u014d puls\u0101t# #.\u2019",
+        "a": [
+            "am",
+            "am",
+            "esse"
+        ]
+    },
+    {
+        "q": "4. Sextus: \u201cMagistr\u014d p\u0101ru\u012b.\u201d Sextus d\u012bcit \u2018# magistr\u014d p\u0101ru#.\u2019   ",
+        "a": [
+            "s\u0113",
+            "isse"
+        ]
+    },
+    {
+        "q": "5. Sextus: \u201c\u0100 magistr\u014d laud\u0101tus sum.\u201d Sextus \u2018# \u0101 magistr\u014d laud\u0101t# #\u2019 d\u012bcit.",
+        "a": [
+            "s\u0113",
+            "um",
+            "esse"
+        ]
+    },
+    {
+        "q": "6. D\u0101vus: \u201cQu\u012bntus t\u014dtam noctem vigil\u0101vit nec h\u014dram dorm\u012bvit.\u201d D\u0101vus d\u012bcit \u2018Qu\u012bnt# t\u014dtam noctem vigil\u0101v# nec h\u014dram dorm\u012bv#.\u2019",
+        "a": [
+            "um",
+            "isse",
+            "isse"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \u201cEgo bene dorm\u012bv\u012b, sed \u0101 D\u0101v\u014d excit\u0101tus sum.\u201d M\u0101rcus d\u012bcit '# bene dorm\u012bv#, sed \u0101 D\u0101v\u014d excit\u0101t# #.\u2019",
+        "a": [
+            "s\u0113",
+            "isse",
+            "um",
+            "esse"
+        ]
+    },
+    {
+        "q": "8. I\u016blia. \u201c\u0100 Syr\u0101 excit\u0101ta sum.\u201d I\u016blia d\u012bcit \u2018# \u0101 Syr\u0101 excit\u0101t# #.\u2019",
+        "a": [
+            "s\u0113",
+            "am",
+            "esse"
+        ]
+    },
+    {
+        "q": "9. Aemilia: \u201cDiscipul\u012b \u0101 magistr\u014d laud\u0101t\u012b sunt.\u201d Aemilia d\u012bcit \u2018discipul# \u0101 magistr\u014d laud\u0101t# #.\u2019 ",
+        "a": [
+            "\u014ds",
+            "\u014ds",
+            "esse"
+        ]
+    },
+    {
+        "q": "10. I\u016blius: \u201cM\u0101rcus n\u014dn laud\u0101tus, sed p\u016bn\u012btus est \u0101 magistr\u014d.\u201d I\u016blius d\u012bcit \u2018M\u0101rc# n\u014dn laud\u0101t#, sed p\u016bn\u012bt# # \u0101 magistr\u014d.\u2019",
+        "a": [
+            "um",
+            "um",
+            "um",
+            "esse"
+        ]
+    },
+    {
+        "q": "11. Aemilia: \u201cM\u0101rcus pulchr\u0113 scr\u012bpsit.\u201d Aemilia \u2018M\u0101rc# pulchr\u0113 scr\u012bps#\u2019 d\u012bcit.",
+        "a": [
+            "um",
+            "isse"
+        ]
+    },
+    {
+        "q": "12. I\u016blius: \u201cEae litterae n\u014dn \u0101 M\u0101rc\u014d scr\u012bptae sunt.\u201d I\u016blius d\u012bcit \u2018e# litter# n\u014dn \u0101 M\u0101rc\u014d scr\u012bpt# #.\u2019",
+        "a": [
+            "\u0101s",
+            "\u0101s",
+            "\u0101s",
+            "esse"
+        ]
+    },
+    {
+        "q": "13. I\u016blius: \u201cM\u0101rcus puer improbus fuit.\u201d I\u016blius \u2018M\u0101rc# puer# improb# fu#\u2019 d\u012bcit.",
+        "a": [
+            "um",
+            "um",
+            "um",
+            "isse"
+        ]
+    },
+    {
+        "q": "14. Magister: \u201cEpistula mea iam scr\u012bpta et sign\u0101ta est.\u201d Magister d\u012bcit \u2018epistul# su# iam scr\u012bpt# et sign\u0101t# esse.\u2019",
+        "a": [
+            "am",
+            "am",
+            "am",
+            "am"
+        ]
+    }
+]

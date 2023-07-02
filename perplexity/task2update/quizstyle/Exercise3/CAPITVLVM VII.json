@@ -1,0 +1,61 @@
+[
+    {
+        "q": "1. I\u016blia in cubicul\u014d su\u014d est; ante # est speculum.",
+        "a": [
+            "eam"
+        ]
+    },
+    {
+        "q": "2. I\u016blia speculum ante # tenet et # in specul\u014d videt.",
+        "a": [
+            "s\u0113",
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "3. I\u016blia # interrogat: \"Estne foedus n\u0101sus meus?\"",
+        "a": [
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "4. Syra intrat; I\u016blia # post # in specul\u014d videt.",
+        "a": [
+            "eam",
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "5. Syra I\u016bliam ante # videt; I\u016blia ante # est.",
+        "a": [
+            "s\u0113",
+            "eam"
+        ]
+    },
+    {
+        "q": "6. I\u016blia # vertit, et Syra # interrogat: \"Quid est, I\u016blia?\"",
+        "a": [
+            "s\u0113",
+            "eam"
+        ]
+    },
+    {
+        "q": "7. I\u016blius intrat neque \u014dstium post # claudit.",
+        "a": [
+            "s\u0113"
+        ]
+    },
+    {
+        "q": "8. I\u016blius intrat et \u014dsti\u0101rius \u014dstium post # claudit.",
+        "a": [
+            "eum"
+        ]
+    },
+    {
+        "q": "9. Dominus servum ad # vocat et # interrogat.",
+        "a": [
+            "s\u0113",
+            "eum"
+        ]
+    }
+]

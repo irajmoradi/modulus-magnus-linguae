@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Num Nept\u016bnus hom\u014d est? ",
+        "a": [
+            "N\u014dn hom\u014d, sed deus est Nept\u016bnus"
+        ]
+    },
+    {
+        "q": "2. Quis est Mercurius? ",
+        "a": [
+            "Mercurius est deus merc\u0101t\u014drum et n\u016bntius de\u014drum"
+        ]
+    },
+    {
+        "q": "3. Quid agunt merc\u0101t\u014dr\u0113s? ",
+        "a": [
+            "Merc\u0101t\u014dr\u0113s emunt et v\u0113ndunt"
+        ]
+    },
+    {
+        "q": "4. Num necesse est margar\u012bt\u0101s hab\u0113re? .",
+        "a": [
+            "Id necesse n\u014dn est"
+        ]
+    },
+    {
+        "q": "5. Quid est \u014dceanus Atlanticus? ",
+        "a": [
+            "\u014cceanus est magnum mare"
+        ]
+    },
+    {
+        "q": "6. C\u016br aquila \u0101 parv\u012bs avibus tim\u0113tur? ",
+        "a": [
+            "Quia aquila parv\u0101s av\u0113s capere vult"
+        ]
+    },
+    {
+        "q": "7. Ubi sunt n\u012bd\u012b avium? ",
+        "a": [
+            "In arboribus sunt"
+        ]
+    },
+    {
+        "q": "8. Quid est in n\u012bd\u012bs? ",
+        "a": [
+            "In n\u012bd\u012bs sunt \u014dva aut pull\u012b"
+        ]
+    },
+    {
+        "q": "9. Quae b\u0113stiae \u014dva pariunt? ",
+        "a": [
+            "Av\u0113s \u014dva aut pull\u012b"
+        ]
+    },
+    {
+        "q": "10. Quid agunt puer\u012b in hort\u014d? ",
+        "a": [
+            "Puer\u012b n\u012bd\u014ds quaerunt"
+        ]
+    },
+    {
+        "q": "11. C\u016br r\u0101mus Qu\u012bntum sustin\u0113re n\u014dn potest? ",
+        "a": [
+            "Quia Qu\u012bntus puer crassus est"
+        ]
+    }
+]

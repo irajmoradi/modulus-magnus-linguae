@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Bonus discipulus magistrum sal\u016bta# cum eum vide# et \u0101 magistr\u014d sal\u016bt\u0101# cum ab e\u014d vid\u0113#.",
+        "a": [
+            "t",
+            "t",
+            "tur",
+            "tur"
+        ]
+    },
+    {
+        "q": "2. Sextus: \"Ego magistrum sal\u016bt# cum eum vide# et \u0101 magistr\u014d sal\u016bt# cum ab e\u014d vide#.\"",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "or",
+            "or"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus: \"Ego numquam \u0101 magistr\u014d sal\u016bt#.\"",
+        "a": [
+            "or"
+        ]
+    },
+    {
+        "q": "4. Sextus: \"T\u016b n\u014dn sal\u016bt\u0101# \u0101 magistr\u014d cum ab e\u014d vid\u0113#, quia ipse magistrum n\u014dn sal\u016bt\u0101# cum eum vid\u0113#.\"",
+        "a": [
+            "ris",
+            "ris",
+            "s",
+            "s"
+        ]
+    },
+    {
+        "q": "5. Bon\u012b discipul\u012b magistrum sal\u016bta# cum eum vide# et \u0101 magistr\u014d sal\u016bta# cum ab e\u014d vide#.\t",
+        "a": [
+            "nt",
+            "nt",
+            "ntur",
+            "ntur"
+        ]
+    },
+    {
+        "q": "6. Sextus et Titus: \"N\u014ds magistrum sal\u016bt\u0101# cum eum vid\u0113# et \u0101 magistr\u014d sal\u016bt\u0101# cum ab e\u014d vid\u0113#.\"",
+        "a": [
+            "mus",
+            "mus",
+            "mur",
+            "mur"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus: \"V\u0113rum d\u012bcitis: v\u014ds magistrum sal\u016bt\u0101# cum eum vid\u0113# et \u0101 magistr\u014d sal\u016bt\u0101# cum ab e\u014d vid\u0113#, quia magister am\u012bcus patribus vestr\u012bs est!\"",
+        "a": [
+            "tis",
+            "tis",
+            "min\u012b",
+            "min\u012b"
+        ]
+    }
+]

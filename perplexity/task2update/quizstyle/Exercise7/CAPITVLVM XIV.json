@@ -1,0 +1,119 @@
+[
+    {
+        "q": "1. Ancilla can# et r\u012bd# \u0101 puell\u0101 dormi# n\u014dn aud\u012btur.",
+        "a": [
+            "\u0113ns",
+            "\u0113ns",
+            "ente|ent\u012b"
+        ]
+    },
+    {
+        "q": "2. Puella dormi# ancillam can# et r\u012bd# n\u014dn audit, sed servum cl\u0101m# audit. ",
+        "a": [
+            "\u0113ns",
+            "entem",
+            "entem",
+            "antem"
+        ]
+    },
+    {
+        "q": "3. Servus cl\u0101m# puellam dormi# excitat.",
+        "a": [
+            "\u0101ns",
+            "entem"
+        ]
+    },
+    {
+        "q": "4. Puella dormi# n\u014dn ab ancill\u0101 can# et r\u012bd#, sed \u0101 serv\u014d cl\u0101m# excit\u0101tur.",
+        "a": [
+            "\u0113ns",
+            "ente|ent\u012b",
+            "ente|ent\u012b",
+            "ante|ant\u012b"
+        ]
+    },
+    {
+        "q": "5. Puella v\u014dcem ancillae can# et r\u012bd# n\u014dn audit, sed v\u014dcem serv\u012b cl\u0101m# audit.",
+        "a": [
+            "entis",
+            "entis",
+            "antis"
+        ]
+    },
+    {
+        "q": "6. Ancillae can# et r\u012bd# \u0101 puell\u012bs dormi# n\u014dn audiuntur.",
+        "a": [
+            "ent\u0113s",
+            "ent\u0113s",
+            "entibus"
+        ]
+    },
+    {
+        "q": "7. Puellae dormi# ancill\u0101s can# et r\u012bd# n\u014dn audiunt, sed serv\u014ds cl\u0101m# audiunt.",
+        "a": [
+            "ent\u0113s",
+            "ent\u0113s",
+            "ent\u0113s",
+            "ant\u0113s"
+        ]
+    },
+    {
+        "q": "8. Serv\u012b cl\u0101m# puell\u0101s dormi# excitant.",
+        "a": [
+            "ant\u0113s",
+            "ent\u0113s"
+        ]
+    },
+    {
+        "q": "9. Puellae dormi# n\u014dn ab ancill\u012bs can# et r\u012bd#, sed \u0101 serv\u012bs cl\u0101m# excitantur.",
+        "a": [
+            "ent\u0113s",
+            "entibus",
+            "entibus",
+            "antibus"
+        ]
+    },
+    {
+        "q": "10. Puellae v\u014dc\u0113s ancill\u0101rum can# et r\u012bd# n\u014dn audiunt, sed v\u014dc\u0113s serv\u014drum cl\u0101m# audiunt.",
+        "a": [
+            "entium",
+            "entium",
+            "antium"
+        ]
+    },
+    {
+        "q": "11. D\u0101vus n\u014dn puer\u014d val#, sed puer\u014d aegr\u014dt# aquam dat.",
+        "a": [
+            "ent\u012b",
+            "ant\u012b"
+        ]
+    },
+    {
+        "q": "12. Servus domin\u014d imper# p\u0101ret. Serv\u012b domin\u012bs imper# p\u0101rent.",
+        "a": [
+            "ant\u012b",
+            "antibus"
+        ]
+    },
+    {
+        "q": "13. Qu\u012bntus nec cr\u016bs dol# nec bracchium dol# movet.",
+        "a": [
+            "\u0113ns",
+            "\u0113ns"
+        ]
+    },
+    {
+        "q": "14. Puer aegr\u014dt# membra dol# n\u014dn movet.",
+        "a": [
+            "\u0101ns",
+            "entia"
+        ]
+    },
+    {
+        "q": "15. Av\u0113s anim\u0101lia vol# sunt; ovis n\u014dn est animal vol#.",
+        "a": [
+            "antia",
+            "\u0101ns"
+        ]
+    }
+]

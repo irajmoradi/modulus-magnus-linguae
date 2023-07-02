@@ -1,0 +1,33 @@
+[
+    {
+        "q": "1. Pater f\u012blium suum v\u0113rum d\u012bcere iubet: \u201cV\u0113rum #, m\u012b f\u012bl\u012b!\u201d",
+        "a": [
+            "d\u012bc"
+        ]
+    },
+    {
+        "q": "2. P\u0101stor canem s\u0113 ad ovem d\u016bcere iubet: \u201c# m\u0113 ad ovem, canis!\u201d",
+        "a": [
+            "D\u016bc"
+        ]
+    },
+    {
+        "q": "3. Dominus servum officium facere iubet: \u201c# officium tuum!\u201d",
+        "a": [
+            "Fac"
+        ]
+    },
+    {
+        "q": "4. I\u016blius M\u0101rcum alterum m\u0101lum tunc \u0113sse, alterum s\u0113cum ferre iubet: \u201cAlterum m\u0101lum nunc #, alterum t\u0113cum #, M\u0101rce!\u201d",
+        "a": [
+            "\u0113s",
+            "fer"
+        ]
+    },
+    {
+        "q": "5. Syra I\u016bliam laetam esse iubet: \u201c# laeta, I\u016blia!\u201d",
+        "a": [
+            "Es"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Quot pers\u014dnae adsunt in scaen\u0101 secund\u0101? ...",
+        "a": [
+            "quattuor pers\u014dnae adsunt"
+        ]
+    },
+    {
+        "q": "2. Quem M\u0113dus acc\u016bsat? ...",
+        "a": [
+            "M\u0113dus D\u0101vum acc\u016bsat"
+        ]
+    },
+    {
+        "q": "3. Quid D\u0101vus in m\u0113ns\u0101 p\u014dnit? ...",
+        "a": [
+            "sacculum suum in m\u0113ns\u0101 p\u014dnit"
+        ]
+    },
+    {
+        "q": "4. Quot numm\u012b in saccul\u014d D\u0101v\u012b sunt? ...",
+        "a": [
+            "in saccul\u014d eius n\u016bll\u012b numm\u012b sunt"
+        ]
+    },
+    {
+        "q": "5. Estne D\u0101vus servus improbus? ...",
+        "a": [
+            "D\u0101vus servus probus est"
+        ]
+    },
+    {
+        "q": "6. C\u016br D\u0101vus laetus disc\u0113dit? ...",
+        "a": [
+            "laetus est quia nummum habet"
+        ]
+    },
+    {
+        "q": "7. Quid M\u0113dus videt in m\u0113ns\u0101? ...",
+        "a": [
+            "M\u0113dus baculum domin\u012b videt"
+        ]
+    },
+    {
+        "q": "8. Adestne M\u0113dus in scaen\u0101 terti\u0101? ...",
+        "a": [
+            "M\u0113dus n\u014dn adest, sed abest"
+        ]
+    },
+    {
+        "q": "9. C\u016br M\u0113dus abest? ...",
+        "a": [
+            "... quia pec\u016bniam domin\u012b habet"
+        ]
+    },
+    {
+        "q": "10. Num M\u0113dus servus probus est? ...",
+        "a": [
+            "M\u0113dus servus improbus est"
+        ]
+    }
+]

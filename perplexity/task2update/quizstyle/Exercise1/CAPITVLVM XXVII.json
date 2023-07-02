@@ -1,0 +1,55 @@
+[
+    {
+        "q": "1. Discipulus stil# in tabul\u0101 scr\u012bbit.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. Discipulus qu\u012b scr\u012bbit stil# et tabul# \u016btitur.",
+        "a": [
+            "\u014d",
+            "\u0101"
+        ]
+    },
+    {
+        "q": "3. M\u012bles gladi# et sc\u016bt# et ali# arm# pugnat.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "4. M\u012bles pugn\u0101ns gladi# et sc\u016bt# et ali# arm# \u016btitur.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "5. Qu\u012b in aliam terram it aut n\u0101v# aut curr# aut equ# vehitur.",
+        "a": [
+            "e",
+            "\u016b",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. Avis vol\u0101ns \u0101l# \u016btitur; hom\u014d ambul\u0101ns \u016btitur ped#.",
+        "a": [
+            "\u012bs",
+            "ibus"
+        ]
+    },
+    {
+        "q": "7. In loquend\u014d lingu# \u016btimur, aur# \u016btimur in audiend\u014d.",
+        "a": [
+            "\u0101",
+            "ibus"
+        ]
+    }
+]

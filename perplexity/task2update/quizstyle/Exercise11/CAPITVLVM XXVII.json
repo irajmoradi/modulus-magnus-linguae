@@ -1,0 +1,181 @@
+[
+    {
+        "q": "1. 'Intra|t' est tempus praes\u0113ns; 'intr|et' quoque tempus # est.",
+        "a": [
+            "praes\u0113ns"
+        ]
+    },
+    {
+        "q": "2. 'Intra|t' est indic\u0101t\u012bvus praesentis; 'intr|et' n\u014dn indic\u0101t\u012bvus, sed # praesentis est. ",
+        "a": [
+            "coni\u016bnct\u012bvus"
+        ]
+    },
+    {
+        "q": "3. 'Tace|t', 'claud|it', 'dormi|t' est indic\u0101t\u012bvus praesentis; 'tace|at', 'claud|at', 'dormi|at' # # est.",
+        "a": [
+            "coni\u016bnct\u012bvus",
+            "praesentis"
+        ]
+    },
+    {
+        "q": "4. Coni\u016bnct\u012bvus praesentis: pers. 3: [1] -et, -ent, [2, 3, 4] -#, -#; pers. 2: [1] -#, -#, [2, 3, 4] -#, -#; pers. 1: [1] -#, -# , [2, 3, 4] -#, -#.",
+        "a": [
+            "at",
+            "ant",
+            "\u0113s",
+            "\u0113tis",
+            "\u0101s",
+            "\u0101tis",
+            "em",
+            "\u0113mus",
+            "am",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "5. Pers.1\tvoc#\t\tvoc#\t\tvide#\t\tvide#",
+        "a": [
+            "em",
+            "\u0113mus",
+            "am",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "6. Pers.2\tvoc#\t\tvoc#\t\t\tvide#\t\tvide#",
+        "a": [
+            "\u0113s",
+            "\u0113tis",
+            "\u0101s",
+            "\u0101tis"
+        ]
+    },
+    {
+        "q": "7. Pers.2\tvoc#\t\tvoc#\t\t\tvide#\t\tvide#",
+        "a": [
+            "et",
+            "ent",
+            "at",
+            "ant"
+        ]
+    },
+    {
+        "q": "8. Pers.1\td\u016bc#\t\td\u016bc#\t\taudi#\t\taudi#",
+        "a": [
+            "am",
+            "\u0101mus",
+            "am",
+            "\u0101mus"
+        ]
+    },
+    {
+        "q": "9. Pers.2\td\u016bc#\t\td\u016bc#\t\t\taudi#\t\taudi#",
+        "a": [
+            "\u0101s",
+            "\u0101tis",
+            "\u0101s",
+            "\u0101tis"
+        ]
+    },
+    {
+        "q": "10. Pers.3\td\u016bc#\t\td\u016bc#\t\t\taudi#\t\taudi#",
+        "a": [
+            "at",
+            "ant",
+            "at",
+            "ant"
+        ]
+    },
+    {
+        "q": "11. Coni\u016bnct\u012bvus praesentis verb\u012b 'esse': singul\u0101ris: pers. 1 sim, 2 s#, 3 s#, pl\u016br\u0101lis: pers. 1 s#, 2 s#, 3 s#.",
+        "a": [
+            "\u012bs",
+            "it",
+            "\u012bmus",
+            "\u012btis",
+            "int"
+        ]
+    },
+    {
+        "q": "12. 'Am\u0101|tur' est indic\u0101t\u012bvus praesentis pass\u012bv\u012b; 'am|\u0113tur' # praesentis pass\u012bv\u012b est.",
+        "a": [
+            "coni\u016bnct\u012bvus"
+        ]
+    },
+    {
+        "q": "13. 'Ten\u0113|tur', 'scr\u012bb|itur', 'p\u016bn\u012b|tur' est indic\u0101t\u012bvus praesentis pass\u012bv\u012b; 'tene|\u0101tur', 'scr\u012bb|\u0101tur', 'p\u016bni|\u0101tur' # # # est.",
+        "a": [
+            "coni\u016bnct\u012bvus",
+            "praesentis",
+            "pass\u012bv\u012b"
+        ]
+    },
+    {
+        "q": "14. Coni\u016bnct\u012bvus praesentis pass\u012bv\u012b: pers. 3: [1] -\u0113tur, -entur, [2, 3, 4] -\u0101tur, -antur; pers. 2: [1] -#, -#, [2, 3, 4] -#, -#; pers. 1: [1] -#, -#, [2, 3, 4] -#, -#.",
+        "a": [
+            "\u0113ris",
+            "\u0113min\u012b",
+            "\u0101ris",
+            "\u0101min\u012b",
+            "er",
+            "\u0113mur",
+            "ar",
+            "\u0101mur"
+        ]
+    },
+    {
+        "q": "15. Pers.1\tvoc#\t\tvoc#\t\tvide#\t\tvide#",
+        "a": [
+            "er",
+            "\u0113mur",
+            "ar",
+            "\u0101mur"
+        ]
+    },
+    {
+        "q": "16. Pers.2\tvoc#\t\tvoc#\t\tvide#\tvide#",
+        "a": [
+            "\u0113ris",
+            "\u0113min\u012b",
+            "\u0101ris",
+            "\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "17. Pers.3\tvoc#\t\tvoc#\t\tvide#\tvide#",
+        "a": [
+            "\u0113tur",
+            "entur",
+            "\u0101tur",
+            "antur"
+        ]
+    },
+    {
+        "q": "18. Pers.1\td\u016bc#\t\td\u016bc#\t\taudi#\t\taudi#",
+        "a": [
+            "ar",
+            "\u0101mur",
+            "ar",
+            "\u0101mur"
+        ]
+    },
+    {
+        "q": "19. Pers.2\td\u016bc#\t\td\u016bc#\t\taudi#\taudi#",
+        "a": [
+            "\u0101ris",
+            "\u0101min\u012b",
+            "\u0101ris",
+            "\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "20. Pers.3\td\u016bc#\t\td\u016bc#\t\taudi#\taudi#",
+        "a": [
+            "\u0101tur",
+            "antur",
+            "\u0101tur",
+            "antur"
+        ]
+    }
+]

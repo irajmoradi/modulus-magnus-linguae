@@ -1,0 +1,57 @@
+[
+    {
+        "q": "1. In \u0100fric\u0101 sunt mult\u012b le\u014d#.",
+        "a": [
+            "n\u0113s"
+        ]
+    },
+    {
+        "q": "2. In \u0100fric\u0101 magnus numerus le\u014d# est.",
+        "a": [
+            "num"
+        ]
+    },
+    {
+        "q": "3. Mult\u012b hom# R\u014dmae habitant.",
+        "a": [
+            "in\u0113s"
+        ]
+    },
+    {
+        "q": "4. R\u014dmae habitat magnus numerus hom#.",
+        "a": [
+            "inum"
+        ]
+    },
+    {
+        "q": "5. Le\u014d n\u014dn est am\u012bcus hom#, neque hom\u014d am\u012bcus le\u014d# est.",
+        "a": [
+            "inis",
+            "nis"
+        ]
+    },
+    {
+        "q": "6. Hom\u014d le\u014d# timet, et hom# timet le\u014d.",
+        "a": [
+            "nem",
+            "inem"
+        ]
+    },
+    {
+        "q": "7. Le\u014d ab hom# tim\u0113tur, et hom# tim\u0113tur \u0101 le\u014d#.",
+        "a": [
+            "ine",
+            "\u014d",
+            "ne"
+        ]
+    },
+    {
+        "q": "8. Le\u014d# timentur ab hom#, et hom# \u0101 le\u014d# timentur.",
+        "a": [
+            "n\u0113s",
+            "inibus",
+            "in\u0113s",
+            "nibus"
+        ]
+    }
+]

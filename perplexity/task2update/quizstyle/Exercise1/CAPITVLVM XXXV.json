@@ -1,0 +1,85 @@
+[
+    {
+        "q": "1. Part\u0113s # sunt: n\u014dmen, pr\u014dn\u014dmen, verbum, adverbium, # [< coniungere], praepositi\u014d, #.",
+        "a": [
+            "\u014dr\u0101ti\u014dnis",
+            "coni\u016bncti\u014d",
+            "interiecti\u014d"
+        ]
+    },
+    {
+        "q": "2. 'Corn\u0113lius', 'Capua', 'Aetna' sunt n\u014dmina #, 'vir', 'oppidum', 'm\u014dns' n\u014dmina # sunt.",
+        "a": [
+            "propria",
+            "appell\u0101t\u012bva"
+        ]
+    },
+    {
+        "q": "3. # est vir qu\u012b - aut f\u0113mina quae - di\u012bs servit.",
+        "a": [
+            "Sacerd\u014ds"
+        ]
+    },
+    {
+        "q": "4. Adiect\u012bva quae # [< qu\u0101lis] significant n\u014dn modo d\u0113cl\u012bn\u0101r\u012b, sed etiam # possunt, ut 'celer', 'celerior', 'celerrimus' ",
+        "a": [
+            "qu\u0101lit\u0101tem",
+            "compar\u0101r\u012b"
+        ]
+    },
+    {
+        "q": "5. # compar\u0101ti\u014dnis sunt: #, compar\u0101t\u012bvus, superl\u0101t\u012bvus.",
+        "a": [
+            "Grad\u016bs",
+            "posit\u012bvus"
+        ]
+    },
+    {
+        "q": "6. # n\u014dminum sunt mascul\u012bnum, f\u0113min\u012bnum, neutrum.",
+        "a": [
+            "Genera"
+        ]
+    },
+    {
+        "q": "7. N\u014dmin\u0101t\u012bvus, acc\u016bs\u0101t\u012bvus, genet\u012bvus, c\u0113t. sunt # n\u014dminum.",
+        "a": [
+            "c\u0101s\u016bs"
+        ]
+    },
+    {
+        "q": "8. 'Ego', 't\u016b', 'n\u014ds', 'v\u014ds' sunt pr\u014dn\u014dmina #.",
+        "a": [
+            "pers\u014dn\u0101lia"
+        ]
+    },
+    {
+        "q": "9. 'Meus', 'tuus', 'suus', 'noster', 'vester' pr\u014dn\u014dmina # sunt.",
+        "a": [
+            "possess\u012bva"
+        ]
+    },
+    {
+        "q": "10. 'Hic', 'iste', 'ille', 'ipse' pr\u014dn\u014dmina # sunt.",
+        "a": [
+            "d\u0113m\u014dnstr\u0101t\u012bva"
+        ]
+    },
+    {
+        "q": "11. ... 'qu\u012b quae quod' est pr\u014dn\u014dmen #.",
+        "a": [
+            "rel\u0101t\u012bvum"
+        ]
+    },
+    {
+        "q": "12. 'Quis?' et 'uter?' sunt pr\u014dn\u014dmina #.",
+        "a": [
+            "interrog\u0101t\u012bva"
+        ]
+    },
+    {
+        "q": "13. Difficile est pr\u014dn\u014dmen 'hic haec hoc' # [= d\u0113cl\u012bn\u0101re].",
+        "a": [
+            "\u012bnflectere"
+        ]
+    }
+]

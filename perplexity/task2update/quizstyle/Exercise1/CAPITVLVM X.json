@@ -1,0 +1,117 @@
+[
+    {
+        "q": "1. Lupus et canis et ovis # sunt.",
+        "a": [
+            "b\u0113stiae"
+        ]
+    },
+    {
+        "q": "2. Vir\u012b et f\u0113minae # sunt.",
+        "a": [
+            "homin\u0113s"
+        ]
+    },
+    {
+        "q": "3. Lupus est b\u0113stia #; etiam # bestia fera est.",
+        "a": [
+            "fera",
+            "le\u014d"
+        ]
+    },
+    {
+        "q": "4. In \u0100fric\u0101 sunt mult\u012b le\u014dn\u0113s et aliae # [= b\u0113stiae ferae].",
+        "a": [
+            "ferae"
+        ]
+    },
+    {
+        "q": "5. # sunt b\u0113stiae quae in aqu\u0101 #.",
+        "a": [
+            "Pisc\u0113s",
+            "natant"
+        ]
+    },
+    {
+        "q": "6. # sunt b\u0113stiae quae in \u0101ere #.",
+        "a": [
+            "Av\u0113s",
+            "volant"
+        ]
+    },
+    {
+        "q": "7. # est magna avis fera quae parv\u0101s av\u0113s # et \u0113st.",
+        "a": [
+            "Aquila",
+            "capit"
+        ]
+    },
+    {
+        "q": "8. Avis quae volat \u0101l\u0101s #; piscis qu\u012b natat # movet.",
+        "a": [
+            "movet",
+            "caudam"
+        ]
+    },
+    {
+        "q": "9. Hom\u014d qu\u012b ambulat # movet.",
+        "a": [
+            "ped\u0113s"
+        ]
+    },
+    {
+        "q": "10. # hom\u014d ambulat, ped\u0113s moventur.",
+        "a": [
+            "Cum"
+        ]
+    },
+    {
+        "q": "11. Cum avis in # volat, # moventur.",
+        "a": [
+            "\u0101ere",
+            "\u0101lae"
+        ]
+    },
+    {
+        "q": "12. Avis \u0101l\u0101s habet, itaque avis vol\u0101re #.",
+        "a": [
+            "potest"
+        ]
+    },
+    {
+        "q": "13. Le\u014d vol\u0101re n\u014dn potest, # [= quia] \u0101l\u0101s n\u014dn habet.",
+        "a": [
+            "quod"
+        ]
+    },
+    {
+        "q": "14. Homin\u0113s, qu\u012b ped\u0113s habent, ambul\u0101re #. ",
+        "a": [
+            "possunt"
+        ]
+    },
+    {
+        "q": "15. Qu\u012b ambulat vest\u012bgia in terr\u0101 #.",
+        "a": [
+            "facit"
+        ]
+    },
+    {
+        "q": "16. N\u014dn s\u014dlum equus, sed etiam # hominem vehere potest. ",
+        "a": [
+            "asinus"
+        ]
+    },
+    {
+        "q": "17. Mercurius est # merc\u0101t\u014drum et # de\u014drum.",
+        "a": [
+            "deus",
+            "n\u016bntius"
+        ]
+    },
+    {
+        "q": "18. # est hom\u014d qu\u012b emit et v\u0113ndit.",
+        "a": [
+            "Merc\u0101tor"
+        ]
+    }
+]

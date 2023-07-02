@@ -1,0 +1,42 @@
+[
+    {
+        "q": "1. Puella pl\u014drat / ...n\u014dn r\u012bdet = Puella pl\u014drat # r\u012bdet.",
+        "a": [
+            "neque|nec"
+        ]
+    },
+    {
+        "q": "2. Aemilia I\u016blium / ...n\u016bllum alium virum amat = Aemilia I\u016blium # # alium virum amat.",
+        "a": [
+            "neque|nec",
+            "\u016bllum"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus ex Itali\u0101 profic\u012bscitur / ...numquam revert\u0113tur = M\u0113dus ex Itali\u0101 profic\u012bscitur # # revert\u0113tur.",
+        "a": [
+            "neque|nec",
+            "umquam"
+        ]
+    },
+    {
+        "q": "4. Syra n\u016bllam pec\u016bniam /...n\u016blla \u014drn\u0101menta habet = Syra n\u016bllam pec\u016bniam # # \u014drn\u0101menta habet.  ",
+        "a": [
+            "neque|nec",
+            "\u016blla"
+        ]
+    },
+    {
+        "q": "5. Puer vigilat / ...dorm\u012bre n\u014dn potest = Puer vigilat  # dorm\u012bre potest. ",
+        "a": [
+            "neque|nec"
+        ]
+    },
+    {
+        "q": "6. M\u0101ter \u012bnfantem suum bene c\u016brat / ...numquam eum relinquit = M\u0101ter \u012bnfantem suum bene c\u016brat  # # eum relinquit.",
+        "a": [
+            "neque|nec",
+            "umquam"
+        ]
+    }
+]

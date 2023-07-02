@@ -1,0 +1,50 @@
+[
+    {
+        "q": "1. adesse, #isse",
+        "a": [
+            "affu"
+        ]
+    },
+    {
+        "q": "2. agere, #isse, #um esse",
+        "a": [
+            "\u0113g",
+            "\u0101ct"
+        ]
+    },
+    {
+        "q": "3. flectere, #isse, #um esse",
+        "a": [
+            "flex",
+            "flex"
+        ]
+    },
+    {
+        "q": "4. offerre, #isse, #um esse",
+        "a": [
+            "obtul",
+            "obl\u0101t"
+        ]
+    },
+    {
+        "q": "5. redimere, red#isse, red#um esse",
+        "a": [
+            "\u0113m",
+            "\u0113mpt"
+        ]
+    },
+    {
+        "q": "6. tollere, #isse, #um esse",
+        "a": [
+            "sustul",
+            "subl\u0101t"
+        ]
+    },
+    {
+        "q": "7. vincere, #isse, #um esse",
+        "a": [
+            "v\u012bc",
+            "vict"
+        ]
+    }
+]

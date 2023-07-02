@@ -1,0 +1,107 @@
+[
+    {
+        "q": "1. M\u012blit\u0113s p\u012bl\u012bs et gladi\u012bs #. ",
+        "a": [
+            "pugnant"
+        ]
+    },
+    {
+        "q": "2. Puer\u012b n\u014dn arm\u012bs, sed # pugnant.",
+        "a": [
+            "pugn\u012bs"
+        ]
+    },
+    {
+        "q": "3. # est m\u012bles qu\u012b ex equ\u014d pugnat.",
+        "a": [
+            "Eques"
+        ]
+    },
+    {
+        "q": "4. Aemilius n\u014dn eques, sed # est.",
+        "a": [
+            "pedes"
+        ]
+    },
+    {
+        "q": "5. Gladius qu\u012b \u0101 pedite # n\u014dn est longus et #, sed # et levis.",
+        "a": [
+            "fertur",
+            "gravis",
+            "brevis"
+        ]
+    },
+    {
+        "q": "6. Gladius brevis n\u014dn gravis, sed # est.",
+        "a": [
+            "levis"
+        ]
+    },
+    {
+        "q": "7. Pedes hastam longam et gravem # [= port\u0101re] n\u014dn potest.",
+        "a": [
+            "ferre"
+        ]
+    },
+    {
+        "q": "8. Graec\u012b et R\u014dm\u0101n\u012b n\u014dn sunt homin\u0113s # ut Germ\u0101n\u012b # [= atque] Britann\u012b, qu\u012b Germ\u0101niam et Britanniam #.",
+        "a": [
+            "barbar\u012b",
+            "ac",
+            "incolunt"
+        ]
+    },
+    {
+        "q": "9. Pr\u014dvincia est # imperi\u012b R\u014dm\u0101n\u012b. ",
+        "a": [
+            "pars"
+        ]
+    },
+    {
+        "q": "10. D\u0101nuvius fl\u016bmen Germ\u0101niam ab imperi\u014d R\u014dm\u0101n\u014d #.",
+        "a": [
+            "d\u012bvidit"
+        ]
+    },
+    {
+        "q": "11. D\u0101nuvius est # imperi\u012b R\u014dm\u0101n\u012b.",
+        "a": [
+            "f\u012bnis"
+        ]
+    },
+    {
+        "q": "12. Graecia # Graec\u014drum est.",
+        "a": [
+            "patria"
+        ]
+    },
+    {
+        "q": "13. R\u014dm\u0101n\u012b # Germ\u0101n\u014ds pugnant; Germ\u0101n\u012b enim # R\u014dm\u0101n\u014drum sunt, ac # est inter R\u014dm\u0101n\u014ds et Germ\u0101n\u014ds.",
+        "a": [
+            "contr\u0101",
+            "host\u0113s",
+            "bellum"
+        ]
+    },
+    {
+        "q": "14. Host\u0113s exercitum R\u014dm\u0101num # [= timent].",
+        "a": [
+            "metuunt"
+        ]
+    },
+    {
+        "q": "15. Qu\u012b exercitu\u012b imperat # exercit\u016bs est.",
+        "a": [
+            "dux"
+        ]
+    },
+    {
+        "q": "16. Hisp\u0101n\u012b, qu\u012b in # R\u014dm\u0101n\u014d # [= m\u012blit\u0113s sunt], n\u014dn modo gladi\u014ds et p\u012bla, sed etiam # #que ferunt.",
+        "a": [
+            "exercit\u016b",
+            "m\u012blitant",
+            "arc\u016bs",
+            "sagitt\u0101s"
+        ]
+    }
+]

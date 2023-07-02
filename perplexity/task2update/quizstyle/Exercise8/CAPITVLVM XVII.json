@@ -1,0 +1,83 @@
+[
+    {
+        "q": "1. Nauta n\u014dn profic\u012bsc#, quia ventum secundum opper#.",
+        "a": [
+            "itur",
+            "\u012btur"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus: \"C\u016br n\u014dn profic\u012bsc#, nauta? Quid opper#?\"",
+        "a": [
+            "eris",
+            "\u012bris"
+        ]
+    },
+    {
+        "q": "3. Nauta: \"N\u014dn profic\u012bsc#, quia ventum secundum opper#.\"",
+        "a": [
+            "or",
+            "ior"
+        ]
+    },
+    {
+        "q": "4. Nautae n\u014dn profic\u012bsc#, quia ventum secundum opper#.",
+        "a": [
+            "untur",
+            "iuntur"
+        ]
+    },
+    {
+        "q": "5. M\u0113dus: \"C\u016br n\u014dn profic\u012bsc#, nautae? Quid opper#?\"",
+        "a": [
+            "imin\u012b",
+            "\u012bmin\u012b"
+        ]
+    },
+    {
+        "q": "6. Nautae: \"N\u014dn profic\u012bsc#, quia ventum secundum opper#.\"",
+        "a": [
+            "imur",
+            "\u012bmur"
+        ]
+    },
+    {
+        "q": "7. M\u0113dus laet# nec iam dominum ver#.",
+        "a": [
+            "\u0101tur",
+            "\u0113tur"
+        ]
+    },
+    {
+        "q": "8. M\u0113dus: \"Ego laet# nec iam dominum ver#. C\u016br t\u016b n\u014dn laet#, L\u0233dia? Quid ver#?\"",
+        "a": [
+            "or",
+            "eor",
+            "\u0101ris",
+            "\u0113ris"
+        ]
+    },
+    {
+        "q": "9. Nautae n\u014dn laet#, quia tempest\u0101tem ver#.",
+        "a": [
+            "antur",
+            "entur"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus: \"N\u014dnne vent\u014d secund\u014d laet#, nautae? C\u016br caelum intu#? Quid ver#?\"",
+        "a": [
+            "\u0101min\u012b",
+            "\u0113min\u012b",
+            "\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "11. Nautae: \"N\u014dn laet#, quia tempest\u0101tem ver#. N\u016bb\u0113s \u0101tr\u0101s procul in cael\u014d intu#.\"",
+        "a": [
+            "\u0101mur",
+            "\u0113mur",
+            "\u0113mur"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "q": "1. coquere, #isse, #um esse",
+        "a": [
+            "cox",
+            "coct"
+        ]
+    },
+    {
+        "q": "2. \u0113ligere, #isse, #um esse",
+        "a": [
+            "\u0113l\u0113g",
+            "\u0113l\u0113ct"
+        ]
+    },
+    {
+        "q": "3. exhaur\u012bre, ex#isse, ex#um esse",
+        "a": [
+            "haus",
+            "haust"
+        ]
+    },
+    {
+        "q": "4. fundere, #isse, #um esse  ",
+        "a": [
+            "f\u016bd",
+            "f\u016bs"
+        ]
+    },
+    {
+        "q": "5. induere, #isse, #um esse",
+        "a": [
+            "indu",
+            "ind\u016bt"
+        ]
+    },
+    {
+        "q": "6. misc\u0113re, #isse, #um esse",
+        "a": [
+            "miscu",
+            "mixt"
+        ]
+    },
+    {
+        "q": "7. revert\u012b, re#isse / re#um esse",
+        "a": [
+            "vert",
+            "vers"
+        ]
+    },
+    {
+        "q": "8. sternere, #isse, #um esse",
+        "a": [
+            "str\u0101v",
+            "str\u0101t"
+        ]
+    },
+    {
+        "q": "9. \u016bt\u012b, #um esse",
+        "a": [
+            "\u016bs"
+        ]
+    }
+]

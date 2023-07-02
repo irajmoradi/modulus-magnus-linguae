@@ -1,0 +1,98 @@
+[
+    {
+        "q": "1. 'Fluvi|us' singul\u0101ris est. 'Fluvi|\u012b' # est.",
+        "a": [
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "2. '\u012ansul|ae' pl\u016br\u0101lis est. '\u012ansul|a' # est.",
+        "a": [
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "3. 'Oppid|um' # est. 'Oppid|a' # est.",
+        "a": [
+            "singul\u0101ris",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "4. Singul\u0101ris: fluvius; pl\u016br\u0101lis: #.",
+        "a": [
+            "fluvi\u012b"
+        ]
+    },
+    {
+        "q": "5. Pl\u016br\u0101lis: \u012bnsulae; singul\u0101ris: #.",
+        "a": [
+            "\u012bnsula"
+        ]
+    },
+    {
+        "q": "6. Singul\u0101ris: oppidum; pl\u016br\u0101lis: #.",
+        "a": [
+            "oppida"
+        ]
+    },
+    {
+        "q": "7. Pl\u016br\u0101lis: numer\u012b; singul\u0101ris: #.",
+        "a": [
+            "numerus"
+        ]
+    },
+    {
+        "q": "8. Singul\u0101ris: littera; pl\u016br\u0101lis: #.",
+        "a": [
+            "litterae"
+        ]
+    },
+    {
+        "q": "9. Pl\u016br\u0101lis: voc\u0101bula; singul\u0101ris: #.",
+        "a": [
+            "voc\u0101bulum"
+        ]
+    },
+    {
+        "q": "10. Singul\u0101ris: \u012bnsula magna; pl\u016br\u0101lis: # #.",
+        "a": [
+            "\u012bnsulae",
+            "magnae"
+        ]
+    },
+    {
+        "q": "11. Pl\u016br\u0101lis: oppida magna; singul\u0101ris: # #.",
+        "a": [
+            "oppidum",
+            "magnum"
+        ]
+    },
+    {
+        "q": "12. Singul\u0101ris: numerus R\u014dm\u0101nus; pl\u016br\u0101lis: # #.",
+        "a": [
+            "numer\u012b",
+            "R\u014dm\u0101n\u012b"
+        ]
+    },
+    {
+        "q": "13. Pl\u016br\u0101lis: litterae Graecae; singul\u0101ris: # #.",
+        "a": [
+            "littera",
+            "Graeca"
+        ]
+    },
+    {
+        "q": "14. Singul\u0101ris: voc\u0101bulum Lat\u012bnum; pl\u016br\u0101lis: # #.",
+        "a": [
+            "voc\u0101bula",
+            "Lat\u012bna"
+        ]
+    },
+    {
+        "q": "15. Pl\u016br\u0101lis: exempla; singul\u0101ris: #.",
+        "a": [
+            "exemplum"
+        ]
+    }
+]

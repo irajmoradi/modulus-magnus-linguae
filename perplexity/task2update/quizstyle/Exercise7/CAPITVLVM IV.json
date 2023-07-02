@@ -1,0 +1,64 @@
+[
+    {
+        "q": "1. I\u016blius M\u0113dum interrogat: \"Ubi sunt numm\u012b me\u012b?\" M\u0113dus # verbum respondet.",
+        "a": [
+            "n\u016bllum"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus D\u0101vum #: \"In saccul\u014d D\u0101v\u012b sunt numm\u012b tu\u012b!\"",
+        "a": [
+            "acc\u016bsat"
+        ]
+    },
+    {
+        "q": "3. D\u0101vus: \"# sacculus meus.\" D\u0101vus sacculum suum in # p\u014dnit.",
+        "a": [
+            "Ecce",
+            "m\u0113ns\u0101"
+        ]
+    },
+    {
+        "q": "4. In saccul\u014d D\u0101v\u012b n\u016blla pec\u016bnia est: sacculus # est.",
+        "a": [
+            "vacuus"
+        ]
+    },
+    {
+        "q": "5. D\u0101vus servus # [= probus] est.",
+        "a": [
+            "bonus"
+        ]
+    },
+    {
+        "q": "6. I\u016blius \u016bnum nummum in saccul\u014d D\u0101v\u012b #.",
+        "a": [
+            "p\u014dnit"
+        ]
+    },
+    {
+        "q": "7. D\u0101vus laetus sacculum suum # et #.",
+        "a": [
+            "s\u016bmit",
+            "disc\u0113dit"
+        ]
+    },
+    {
+        "q": "8. Quid M\u0113dus videt in m\u0113ns\u0101? M\u0113dus # I\u016bli\u012b videt.",
+        "a": [
+            "baculum"
+        ]
+    },
+    {
+        "q": "9. M\u0113dus baculum, # in m\u0113ns\u0101 est, videt et disc\u0113dit.",
+        "a": [
+            "quod"
+        ]
+    },
+    {
+        "q": "10. M\u0113dus disc\u0113dit, quia # pec\u016bniam domin\u012b habet.",
+        "a": [
+            "is"
+        ]
+    }
+]

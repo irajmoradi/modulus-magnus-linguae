@@ -1,0 +1,1058 @@
+{
+    "id": 3,
+    "name": "CAPITVLVM IV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I = #.",
+                    "a": [
+                        "\u016bnus"
+                    ]
+                },
+                {
+                    "q": "2. II = #.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "3. III = #.",
+                    "a": [
+                        "tr\u0113s"
+                    ]
+                },
+                {
+                    "q": "4. IV = #.",
+                    "a": [
+                        "quattuor"
+                    ]
+                },
+                {
+                    "q": "5. V = #.",
+                    "a": [
+                        "qu\u012bnque"
+                    ]
+                },
+                {
+                    "q": "6. VI = #.",
+                    "a": [
+                        "sex"
+                    ]
+                },
+                {
+                    "q": "7. VII = #.",
+                    "a": [
+                        "septem"
+                    ]
+                },
+                {
+                    "q": "8. VIII = #.",
+                    "a": [
+                        "oct\u014d"
+                    ]
+                },
+                {
+                    "q": "9. IX = #.",
+                    "a": [
+                        "novem"
+                    ]
+                },
+                {
+                    "q": "10. X = #.",
+                    "a": [
+                        "decem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt II et II? II et II sunt #.",
+                    "a": [
+                        "quattuor"
+                    ]
+                },
+                {
+                    "q": "2. Quot sunt III et III? III et III sunt #.",
+                    "a": [
+                        "sex"
+                    ]
+                },
+                {
+                    "q": "3. Quot sunt IV et IV? IV et IV sunt #.",
+                    "a": [
+                        "oct\u014d"
+                    ]
+                },
+                {
+                    "q": "4. Quot sunt V et V? V et V sunt #.",
+                    "a": [
+                        "decem"
+                    ]
+                },
+                {
+                    "q": "5. Quot sunt II et III? II et III sunt #.",
+                    "a": [
+                        "qu\u012bnque"
+                    ]
+                },
+                {
+                    "q": "6. Quot sunt III et IV? III et IV sunt #.",
+                    "a": [
+                        "septem"
+                    ]
+                },
+                {
+                    "q": "7. Quot sunt IV et V? IV et V sunt #.",
+                    "a": [
+                        "novem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In saccul\u014d I\u016bli\u012b # est.",
+                    "a": [
+                        "pec\u016bnia"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius pec\u016bniam in saccul\u014d #.",
+                    "a": [
+                        "habet"
+                    ]
+                },
+                {
+                    "q": "3. In saccul\u014d # [: I\u016bli\u012b] mult\u012b # sunt.",
+                    "a": [
+                        "eius",
+                        "numm\u012b"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius pec\u016bniam #: \"I, II, III, IV, V, VI, VII, VIII, IX, X.\"",
+                    "a": [
+                        "numerat"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blius: \"Quid? Decem #?\"",
+                    "a": [
+                        "tantum"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius # pec\u016bniam suam numerat: \"I, II, III..... X.\"",
+                    "a": [
+                        "r\u016brsus"
+                    ]
+                },
+                {
+                    "q": "7. In # I\u016bli\u012b n\u014dn centum, sed # decem numm\u012b sunt.",
+                    "a": [
+                        "saccul\u014d",
+                        "tantum"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blius: \"Ubi est servus meus?\" I\u016blius servum # D\u0101vum n\u014dn videt. D\u0101vus #.",
+                    "a": [
+                        "suum",
+                        "abest"
+                    ]
+                },
+                {
+                    "q": "9. M\u0113dus n\u014dn abest; M\u0113dus #.",
+                    "a": [
+                        "adest"
+                    ]
+                },
+                {
+                    "q": "10. D\u0101vus venit. Iam duo serv\u012b #; c\u0113ter\u012b serv\u012b #.",
+                    "a": [
+                        "adsunt",
+                        "absunt"
+                    ]
+                },
+                {
+                    "q": "11. D\u0101vus dominum #: \"Salv\u0113, domine!\"",
+                    "a": [
+                        "sal\u016btat"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius D\u0101vum sal\u016btat: \"#, D\u0101ve! Ubi est pec\u016bnia mea?\"",
+                    "a": [
+                        "Salv\u0113"
+                    ]
+                },
+                {
+                    "q": "13. Davus n\u014dn respondet: D\u0101vus #.",
+                    "a": [
+                        "tacet"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot pers\u014dnae adsunt in scaen\u0101 pr\u012bm\u0101? ...",
+                    "a": [
+                        "tr\u0113s pers\u014dnae adsunt"
+                    ]
+                },
+                {
+                    "q": "2. Quot vir\u012b et quot f\u0113minae adsunt? ...",
+                    "a": [
+                        "duo vir\u012b et \u016bna f\u0113mina adsunt"
+                    ]
+                },
+                {
+                    "q": "3. Quid I\u016blius in saccul\u014d habet? ...",
+                    "a": [
+                        "I\u016blius pec\u016bniam habet in saccul\u014d"
+                    ]
+                },
+                {
+                    "q": "4. Centumne numm\u012b in saccul\u014d sunt? ...",
+                    "a": [
+                        "n\u014dn centum, sed decem tantum numm\u012b in saccul\u014d sunt"
+                    ]
+                },
+                {
+                    "q": "5. Adestne D\u0101vus? ...",
+                    "a": [
+                        "D\u0101vus n\u014dn adest"
+                    ]
+                },
+                {
+                    "q": "6. Quot serv\u012b adsunt? ...",
+                    "a": [
+                        "\u016bnus servus adest"
+                    ]
+                },
+                {
+                    "q": "7. Quis est servus qu\u012b adest? ...",
+                    "a": [
+                        "servus qu\u012b adest est M\u0113dus"
+                    ]
+                },
+                {
+                    "q": "8. Quem vocat M\u0113dus? ...",
+                    "a": [
+                        "M\u0113dus D\u0101vum vocat"
+                    ]
+                },
+                {
+                    "q": "9. Quem D\u0101vus sal\u016btat? ...",
+                    "a": [
+                        "D\u0101vus I\u016blium sal\u016btat"
+                    ]
+                },
+                {
+                    "q": "10. Quot serv\u012b iam adsunt? ...",
+                    "a": [
+                        "iam duo serv\u012b adsunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exempla: \nI\u016blius pec\u016bniam suam numerat.\nM\u0113dus pec\u016bniam eius [: I\u016bli\u012b] habet.\n",
+            "questions": [
+                {
+                    "q": "1. Ubi est pec\u016bnia I\u016bli\u012b? Pec\u016bnia # in saccul\u014d est.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius pec\u016bniam # in m\u0113ns\u0101 p\u014dnit.",
+                    "a": [
+                        "suam"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia pec\u016bniam # [: I\u016bli\u012b] videt.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "4. Adestne servus I\u016bli\u012b? Servus # adest.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blius servum # videt.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "6. D\u0101vus venit et dominum # sal\u016btat.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "7. D\u0101vus sacculum # in m\u0113ns\u0101 p\u014dnit.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "8. In saccul\u014d # pec\u016bnia n\u014dn est: sacculus # vacuus est.",
+                    "a": [
+                        "eius",
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "9. D\u0101vus n\u016bllam pec\u016bniam in saccul\u014d # habet.",
+                    "a": [
+                        "su\u014d"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blius \u016bnum nummum in saccul\u014d # [: D\u0101v\u012b] p\u014dnit.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blius: \"S\u016bme sacculum tuum!\" D\u0101vus sacculum # s\u016bmit.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "12. M\u0113dus n\u014dn # pec\u016bniam, sed I\u016bli\u012b in saccul\u014d # habet.",
+                    "a": [
+                        "suam",
+                        "su\u014d"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0113dus D\u0101vum vocat: \"D\u0101v#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "2. D\u0101vus M\u0113dum interrogat: \"Quid est, M\u0113d#?\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "3. M\u0113dus: \"St! Tac\u0113, D\u0101v#! Dominus adest.\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "4. Servus dominum sal\u016btat: \"Salv\u0113, domin#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. Dominus servum sal\u016btat: \"Salv\u0113, serv#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius: \"Ubi est pec\u016bnia mea, D\u0101v#?\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. D\u0101vus: \"Ecce sacculus meus, domin#.\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blius: \"Disc\u0113de, bon# serv#!\"",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blius M\u0113dum vocat: \"M\u0113d#! Ven\u012b, improb# serv#!\"",
+                    "a": [
+                        "e",
+                        "e",
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius M\u0113dum interrogat: \"Ubi sunt numm\u012b me\u012b?\" M\u0113dus # verbum respondet.",
+                    "a": [
+                        "n\u016bllum"
+                    ]
+                },
+                {
+                    "q": "2. M\u0113dus D\u0101vum #: \"In saccul\u014d D\u0101v\u012b sunt numm\u012b tu\u012b!\"",
+                    "a": [
+                        "acc\u016bsat"
+                    ]
+                },
+                {
+                    "q": "3. D\u0101vus: \"# sacculus meus.\" D\u0101vus sacculum suum in # p\u014dnit.",
+                    "a": [
+                        "Ecce",
+                        "m\u0113ns\u0101"
+                    ]
+                },
+                {
+                    "q": "4. In saccul\u014d D\u0101v\u012b n\u016blla pec\u016bnia est: sacculus # est.",
+                    "a": [
+                        "vacuus"
+                    ]
+                },
+                {
+                    "q": "5. D\u0101vus servus # [= probus] est.",
+                    "a": [
+                        "bonus"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius \u016bnum nummum in saccul\u014d D\u0101v\u012b #.",
+                    "a": [
+                        "p\u014dnit"
+                    ]
+                },
+                {
+                    "q": "7. D\u0101vus laetus sacculum suum # et #.",
+                    "a": [
+                        "s\u016bmit",
+                        "disc\u0113dit"
+                    ]
+                },
+                {
+                    "q": "8. Quid M\u0113dus videt in m\u0113ns\u0101? M\u0113dus # I\u016bli\u012b videt.",
+                    "a": [
+                        "baculum"
+                    ]
+                },
+                {
+                    "q": "9. M\u0113dus baculum, # in m\u0113ns\u0101 est, videt et disc\u0113dit.",
+                    "a": [
+                        "quod"
+                    ]
+                },
+                {
+                    "q": "10. M\u0113dus disc\u0113dit, quia # pec\u016bniam domin\u012b habet.",
+                    "a": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius: \"D\u0101vum voc#, M\u0113de!\"",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "2. M\u0113dus D\u0101vum voc#: \"D\u0101ve, ven#!\" D\u0101vus ven#.",
+                    "a": [
+                        "at",
+                        "\u012b",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "3. M\u0113dus: \"Sal\u016bt# dominum!\" D\u0101vus dominum sal\u016bt#.",
+                    "a": [
+                        "\u0101",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "4. Dominus: \"Tac# et aud#, serve!\" Servus tac# et aud#.",
+                    "a": [
+                        "\u0113",
+                        "\u012b",
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. Dominus: \"Respond#, serve!\" Servus respond#.",
+                    "a": [
+                        "\u0113",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "6. Dominus: \"Sacculum tuum in m\u0113ns\u0101 p\u014dn#!\" Servus sacculum suum in m\u0113ns\u0101 p\u014dn#.",
+                    "a": [
+                        "e",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "7. Servus: \"Vid#, domine: sacculus meus vacuus est.\" Dominus sacculum vacuum vid#.",
+                    "a": [
+                        "\u0113",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "6. Dominus: \"S\u016bm# sacculum tuum et disc\u0113d#!\" Servus sacculum suum s\u016bm# et disc\u0113d#.",
+                    "a": [
+                        "e",
+                        "e",
+                        "it",
+                        "it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot pers\u014dnae adsunt in scaen\u0101 secund\u0101? ...",
+                    "a": [
+                        "quattuor pers\u014dnae adsunt"
+                    ]
+                },
+                {
+                    "q": "2. Quem M\u0113dus acc\u016bsat? ...",
+                    "a": [
+                        "M\u0113dus D\u0101vum acc\u016bsat"
+                    ]
+                },
+                {
+                    "q": "3. Quid D\u0101vus in m\u0113ns\u0101 p\u014dnit? ...",
+                    "a": [
+                        "sacculum suum in m\u0113ns\u0101 p\u014dnit"
+                    ]
+                },
+                {
+                    "q": "4. Quot numm\u012b in saccul\u014d D\u0101v\u012b sunt? ...",
+                    "a": [
+                        "in saccul\u014d eius n\u016bll\u012b numm\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "5. Estne D\u0101vus servus improbus? ...",
+                    "a": [
+                        "D\u0101vus servus probus est"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br D\u0101vus laetus disc\u0113dit? ...",
+                    "a": [
+                        "laetus est quia nummum habet"
+                    ]
+                },
+                {
+                    "q": "7. Quid M\u0113dus videt in m\u0113ns\u0101? ...",
+                    "a": [
+                        "M\u0113dus baculum domin\u012b videt"
+                    ]
+                },
+                {
+                    "q": "8. Adestne M\u0113dus in scaen\u0101 terti\u0101? ...",
+                    "a": [
+                        "M\u0113dus n\u014dn adest, sed abest"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br M\u0113dus abest? ...",
+                    "a": [
+                        "... quia pec\u016bniam domin\u012b habet"
+                    ]
+                },
+                {
+                    "q": "10. Num M\u0113dus servus probus est? ...",
+                    "a": [
+                        "M\u0113dus servus improbus est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla: \nM\u0113dus D\u0101vum vocat: \"D\u0101v|e!\"\nServus dominum sal\u016btat: \"Salv\u0113, domin|e!\"\n",
+            "questions": [
+                {
+                    "q": "1. 'D\u0101v|e' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est.",
+                    "a": [
+                        "voc\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Domin|e' quoque # est.",
+                    "a": [
+                        "voc\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "3. N\u014dmin\u0101t\u012bvus: D\u0101vus. Voc\u0101t\u012bvus: D\u0101v#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "4. N\u014dmin\u0101t\u012bvus: dominus. Voc\u0101t\u012bvus: domin#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. Voc\u0101t\u012bvus: M\u0113de. N\u014dmin\u0101t\u012bvus: M\u0113d#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "6. N\u014dmin\u0101t\u012bvus: servus. Voc\u0101t\u012bvus: serv#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. N\u014dmin\u0101t\u012bvus: M\u0101rcus. Voc\u0101t\u012bvus: M\u0101rc#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. Voc\u0101t\u012bvus: Qu\u012bnte. N\u014dmin\u0101t\u012bvus: Qu\u012bnt#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "9. N\u014dmin\u0101t\u012bvus: -us. Voc\u0101t\u012bvus: -#.",
+                    "a": [
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Exempla: \nDominus: \"Sal\u016bt\u0101 m\u0113!\" Servus dominum sal\u016btat.\nDominus: \"Tac\u0113 et aud\u012b!\" Servus tacet et audit.\nDominus: \"Disc\u0113de, serve!\" Servus disc\u0113dit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Sal\u016btat' indic\u0101t\u012bvus est. 'Sal\u016bt\u0101' est #.",
+                    "a": [
+                        "imper\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Tacet' et 'audit' n\u014dn imper\u0101t\u012bvus, sed # est.",
+                    "a": [
+                        "indic\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "3. 'Tac\u0113' et 'aud\u012b' n\u014dn indic\u0101t\u012bvus, sed # est.",
+                    "a": [
+                        "imper\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "4. 'Disc\u0113de' quoque # est. 'Disc\u0113dit' # est.",
+                    "a": [
+                        "imper\u0101t\u012bvus",
+                        "indic\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "5. Indic\u0101t\u012bvus: vocat. Imper\u0101t\u012bvus: voc#.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "6. Indic\u0101t\u012bvus: videt. Imper\u0101t\u012bvus: vid#.",
+                    "a": [
+                        "\u0113"
+                    ]
+                },
+                {
+                    "q": "7. Imper\u0101t\u012bvus: p\u014dne. Indic\u0101t\u012bvus: p\u014dn#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Imper\u0101t\u012bvus: ven\u012b. Indic\u0101t\u012bvus: ven#. ",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "9. Indic\u0101t\u012bvus: audit. Imper\u0101t\u012bvus: aud#.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "10. Indic\u0101t\u012bvus: s\u016bmit. Imper\u0101t\u012bvus: s\u016bm#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "11. Indic\u0101t\u012bvus: -at. Imper\u0101t\u012bvus: -#.",
+                    "a": [
+                        "\u0101"
+                    ]
+                },
+                {
+                    "q": "12. Indic\u0101t\u012bvus: -et. Imper\u0101t\u012bvus: -#.",
+                    "a": [
+                        "\u0113"
+                    ]
+                },
+                {
+                    "q": "13. Imper\u0101t\u012bvus: -e. Indic\u0101t\u012bvus: -#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "14. Imper\u0101t\u012bvus. -\u012b. Indic\u0101t\u012bvus: -#.",
+                    "a": [
+                        "it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "est",
+                        "est"
+                    ],
+                    "q": "M\u0113dus ad#. D\u0101vus ab#."
+                },
+                {
+                    "a": [
+                        "at",
+                        "\u0101",
+                        "e"
+                    ],
+                    "q": "I\u016blius imper# : \"Voc# D\u0101vum, M\u0113d#!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e",
+                        "\u012b"
+                    ],
+                    "q": "M\u0113dus D\u0101vum voc# : \"D\u0101v#! Ven#!\""
+                },
+                {
+                    "a": [
+                        "it",
+                        "et"
+                    ],
+                    "q": "D\u0101vus ven# neque I\u016blium vid#."
+                },
+                {
+                    "a": [
+                        "\u0101"
+                    ],
+                    "q": "M\u0113dus: \"Sal\u016bt# dominum!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e"
+                    ],
+                    "q": "D\u0101vus dominum sal\u016bt# : \"Salv\u0113, domin#! Quid est?\""
+                },
+                {
+                    "a": [
+                        "\u0113",
+                        "e"
+                    ],
+                    "q": "Dominus: \"Tac#, serv#! Numm\u012b me\u012b ubi sunt?\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "et"
+                    ],
+                    "q": "Servus tac# neque respond#."
+                },
+                {
+                    "a": [
+                        "\u0113"
+                    ],
+                    "q": "I\u016blius: \"Respond#!\""
+                },
+                {
+                    "a": [
+                        "\u0101"
+                    ],
+                    "q": "D\u0101vus: \"Interrog# M\u0113dum!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e"
+                    ],
+                    "q": "I\u016blius M\u0113dum interrog# : \"Ubi est pec\u016bnia mea, M\u0113d#?\""
+                },
+                {
+                    "a": [
+                        "et"
+                    ],
+                    "q": "M\u0113dus: \"D\u0101vus pec\u016bniam tuam hab#.\""
+                },
+                {
+                    "a": [
+                        "e",
+                        "e"
+                    ],
+                    "q": "I\u016blius: \"P\u014dn# sacculum tuum in m\u0113ns\u0101, D\u0101v#!\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "it"
+                    ],
+                    "q": "D\u0101vus p\u0101r# : sacculum suum in m\u0113ns\u0101 p\u014dn#."
+                },
+                {
+                    "a": [
+                        "\u0113",
+                        "e"
+                    ],
+                    "q": "D\u0101vus: \"Vid#, domin# : sacculus meus vacuus est.\""
+                },
+                {
+                    "a": [
+                        "e",
+                        "e",
+                        "e",
+                        "e"
+                    ],
+                    "q": "I\u016blius: \"S\u016bm# sacculum tuum et disc\u0113d#, bon# serv#!\""
+                },
+                {
+                    "a": [
+                        "it",
+                        "it"
+                    ],
+                    "q": "D\u0101vus sacculum suum s\u016bm# et disc\u0113d#."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "pec\u016bnia"
+                    ],
+                    "q": "In saccul\u014d I\u016bli\u012b # est."
+                },
+                {
+                    "a": [
+                        "numerat",
+                        "quattuor",
+                        "qu\u012bnque",
+                        "septem",
+                        "oct\u014d",
+                        "novem",
+                        "decem"
+                    ],
+                    "q": "I\u016blius pec\u016bniam suam # : \"\u016anus, duo, tr\u0113s, #, #, sex, #, #, #, #.\""
+                },
+                {
+                    "a": [
+                        "saccul\u014d",
+                        "tantum"
+                    ],
+                    "q": "In # n\u014dn centum, sed # decem numm\u012b sunt."
+                },
+                {
+                    "a": [
+                        "sal\u016btat"
+                    ],
+                    "q": "D\u0101vus dominum # : \"Salv\u0113, domine!\""
+                },
+                {
+                    "a": [
+                        "imperat",
+                        "m\u0113ns\u0101"
+                    ],
+                    "q": "I\u016blius #: \"P\u014dne sacculum tuum in #!\""
+                },
+                {
+                    "a": [
+                        "suum",
+                        "p\u014dnit"
+                    ],
+                    "q": "D\u0101vus sacculum # in m\u0113ns\u0101 #."
+                },
+                {
+                    "a": [
+                        "vacuus",
+                        "eius",
+                        "n\u016blla"
+                    ],
+                    "q": "Sacculus D\u0101v\u012b # est, in saccul\u014d # [: D\u0101v\u012b] # pec\u016bnia est."
+                },
+                {
+                    "a": [
+                        "s\u016bmit"
+                    ],
+                    "q": "D\u0101vus sacculum suum # et disc\u0113dit."
+                },
+                {
+                    "a": [
+                        "is",
+                        "habet"
+                    ],
+                    "q": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia # [: M\u0113dus] pec\u016bniam I\u016bli\u012b #."
+                },
+                {
+                    "a": [
+                        "quod",
+                        "disc\u0113dit"
+                    ],
+                    "q": "I\u016blius baculum, # in m\u0113ns\u0101 est, s\u016bmit et #."
+                },
+                {
+                    "a": [
+                        "p\u0101ret"
+                    ],
+                    "q": "Dominus imperat, bonus servus #."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot numm\u012b sunt in saccul\u014d I\u016bli\u012b? ",
+                    "a": [
+                        "In saccul\u014d eius sunt decem numm\u012b"
+                    ]
+                },
+                {
+                    "q": "2. Adestne D\u0101vus in scaen\u0101 pr\u012bm\u0101? ",
+                    "a": [
+                        "D\u0101vus abest in scaen\u0101 pr\u012bm\u0101"
+                    ]
+                },
+                {
+                    "q": "3. Quis D\u0101vum vocat? ",
+                    "a": [
+                        "M\u0113dus D\u0101vum vocat"
+                    ]
+                },
+                {
+                    "q": "4. Suntne numm\u012b I\u016bli\u012b in saccul\u014d D\u0101v\u012b? ",
+                    "a": [
+                        "Numm\u012b I\u016bli\u012b n\u014dn sunt in saccul\u014d D\u0101v\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Quid I\u016blius p\u014dnit in saccul\u014d D\u0101v\u012b? ",
+                    "a": [
+                        "I\u016blius \u016bnum nummum in saccul\u014d D\u0101v\u012b p\u014dnit"
+                    ]
+                },
+                {
+                    "q": "6. Quot numm\u012b iam in saccul\u014d I\u016bli\u012b sunt? ",
+                    "a": [
+                        "Iam novem numm\u012b sunt in saccul\u014d I\u016bli\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Estne vacuus sacculus M\u0113d\u012b? ",
+                    "a": [
+                        "N\u014dn est, in saccul\u014d M\u0113d\u012b sunt numm\u012b I\u016bli\u012b"
+                    ]
+                },
+                {
+                    "q": "8. C\u016br M\u0113dus disc\u0113dit? ",
+                    "a": [
+                        "M\u0113dus disc\u0113dit, quia is pec\u016bniam I\u016bli\u012b in saccul\u014d su\u014d habet"
+                    ]
+                },
+                {
+                    "q": "9. Quem I\u016blius vocat? ",
+                    "a": [
+                        "I\u016blius M\u0113dum vocat"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br M\u0113dus I\u016blium n\u014dn audit? ",
+                    "a": [
+                        "M\u0113dus eum n\u014dn audit, quia abest"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+[
+    {
+        "q": "1. 'Grav|is -e' est adiect\u012bvum # d\u0113cl\u012bn\u0101ti\u014dnis.",
+        "a": [
+            "tertiae"
+        ]
+    },
+    {
+        "q": "2. N\u014dm.\tgrav|#\t\tgrav|#\t\tgrav|#\t\tgrav|#",
+        "a": [
+            "is",
+            "e",
+            "\u0113s",
+            "ia"
+        ]
+    },
+    {
+        "q": "3. Acc. \t\tgrav|#\t\tgrav|#\t\tgrav|#\t\tgrav|#",
+        "a": [
+            "em",
+            "e",
+            "\u0113s",
+            "ia"
+        ]
+    },
+    {
+        "q": "4. Gen.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+        "a": [
+            "is",
+            "is",
+            "ium",
+            "ium"
+        ]
+    },
+    {
+        "q": "5. Dat.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "6. Abl.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "7. Mascul\u012bnum et f\u0113min\u012bnum: 'grav|is' est # aut # singul\u0101ris, 'grav|em' # #, 'grav|\u0113s' # aut # pl\u016br\u0101lis.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "genet\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. Neutrum: 'grav|e' est # aut # singul\u0101ris, 'grav|ia' # aut # pl\u016br\u0101lis, 'grav|is' # singul\u0101ris.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus",
+            "genet\u012bvus"
+        ]
+    },
+    {
+        "q": "9. Grav|\u012b # aut # singul\u0101ris est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "10. 'Grav|ibus' # aut # pl\u016br\u0101lis est.",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "11. 'Grav|ium' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    }
+]

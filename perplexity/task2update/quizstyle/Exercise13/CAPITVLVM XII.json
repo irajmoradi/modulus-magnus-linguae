@@ -1,0 +1,108 @@
+[
+    {
+        "q": "1. Aemilius, qu\u012b m\u012bles fort# est, gladium brev# et lev# fert.",
+        "a": [
+            "is",
+            "em",
+            "em"
+        ]
+    },
+    {
+        "q": "2. M\u012blit\u012b fort# R\u014dm\u0101n# est gladius brev# et lev#. ",
+        "a": [
+            "\u012b",
+            "\u014d",
+            "is",
+            "is"
+        ]
+    },
+    {
+        "q": "3. M\u012bles R\u014dm\u0101n# gladi\u014d brev# et lev# arm\u0101tus est.",
+        "a": [
+            "us",
+            "\u012b",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. R\u014dm\u0101n\u012b, m\u012blit\u0113s fort#, gladi\u014ds brev# et lev# ferunt. ",
+        "a": [
+            "\u0113s",
+            "\u0113s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "5. M\u012blitibus fort# R\u014dm\u0101n# sunt gladi\u012b brev# et lev#.",
+        "a": [
+            "ibus",
+            "\u012bs",
+            "\u0113s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "6. M\u012blit\u0113s R\u014dm\u0101n# gladi\u012bs brev# et lev# arm\u0101t\u012b sunt.",
+        "a": [
+            "\u012b",
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "7. In \u0101nul\u014d Aemiliae est gemma magn# et grav#.",
+        "a": [
+            "a",
+            "is"
+        ]
+    },
+    {
+        "q": "8. Aemilia gemmam habet magn# et grav#.",
+        "a": [
+            "am",
+            "em"
+        ]
+    },
+    {
+        "q": "9. Aemilia gemm\u0101 magn# et grav# \u014drn\u0101tur.",
+        "a": [
+            "\u0101",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "10. Pretium gemmae magn# et grav# est s\u0113sterti\u012b centum.",
+        "a": [
+            "ae",
+            "is"
+        ]
+    },
+    {
+        "q": "11. Aemilia mult# gemm\u0101s grav# habet.",
+        "a": [
+            "\u0101s",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "12. Magnum est pretium gemm\u0101rum grav#.",
+        "a": [
+            "ium"
+        ]
+    },
+    {
+        "q": "13. '\u014cs' voc\u0101bulum n\u014dn long#, sed brev# est; in h\u014dc voc\u0101bul\u014d brev# duae litterae sunt.",
+        "a": [
+            "um",
+            "e",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "14. '\u014cs' et 'p\u0113s' voc\u0101bula n\u014dn long#, sed brev# sunt.",
+        "a": [
+            "a",
+            "ia"
+        ]
+    }
+]

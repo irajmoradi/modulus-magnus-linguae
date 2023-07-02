@@ -1,0 +1,75 @@
+[
+    {
+        "q": "1. M\u012blit\u0113s R\u014dm\u0101n\u012b in # habitant.",
+        "a": [
+            "castr\u012bs"
+        ]
+    },
+    {
+        "q": "2. Circum castra v\u0101llum et # est.",
+        "a": [
+            "fossa"
+        ]
+    },
+    {
+        "q": "3. V\u0101llum prope X ped\u0113s # est et duo # [MM] # longum.",
+        "a": [
+            "altum",
+            "m\u012blia",
+            "passuum"
+        ]
+    },
+    {
+        "q": "4. Via quae castra in du\u0101s part\u0113s # centum ped\u0113s # est.",
+        "a": [
+            "d\u012bvidit",
+            "l\u0101ta"
+        ]
+    },
+    {
+        "q": "5. Cum host\u0113s castra #, R\u014dm\u0101n\u012b # ascendunt.",
+        "a": [
+            "oppugnant",
+            "v\u0101llum"
+        ]
+    },
+    {
+        "q": "6. Host\u0113s castra # n\u014dn possunt, quia R\u014dm\u0101n\u012b castra #. ",
+        "a": [
+            "expugn\u0101re",
+            "d\u0113fendunt"
+        ]
+    },
+    {
+        "q": "7. Host\u0113s p\u012bla in castra # n\u014dn possunt.",
+        "a": [
+            "iacere"
+        ]
+    },
+    {
+        "q": "8. # [= equit\u0113s] in host\u0113s # facit.",
+        "a": [
+            "Equit\u0101tus",
+            "impetum"
+        ]
+    },
+    {
+        "q": "9. Host\u0113s arma ad terram iaciunt ac #.",
+        "a": [
+            "fugiunt"
+        ]
+    },
+    {
+        "q": "10. M\u012bles # n\u014dn fugit et sine # [= tim\u014dre] host\u0113s oppugnat.",
+        "a": [
+            "fortis",
+            "met\u016b"
+        ]
+    },
+    {
+        "q": "11. Rh\u0113nus est fl\u016bmen longum et l\u0101tum et #.",
+        "a": [
+            "altum"
+        ]
+    }
+]

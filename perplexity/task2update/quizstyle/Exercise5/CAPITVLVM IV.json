@@ -1,0 +1,76 @@
+[
+    {
+        "q": "1. Ubi est pec\u016bnia I\u016bli\u012b? Pec\u016bnia # in saccul\u014d est.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "2. I\u016blius pec\u016bniam # in m\u0113ns\u0101 p\u014dnit.",
+        "a": [
+            "suam"
+        ]
+    },
+    {
+        "q": "3. Aemilia pec\u016bniam # [: I\u016bli\u012b] videt.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "4. Adestne servus I\u016bli\u012b? Servus # adest.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "5. I\u016blius servum # videt.",
+        "a": [
+            "suum"
+        ]
+    },
+    {
+        "q": "6. D\u0101vus venit et dominum # sal\u016btat.",
+        "a": [
+            "suum"
+        ]
+    },
+    {
+        "q": "7. D\u0101vus sacculum # in m\u0113ns\u0101 p\u014dnit.",
+        "a": [
+            "suum"
+        ]
+    },
+    {
+        "q": "8. In saccul\u014d # pec\u016bnia n\u014dn est: sacculus # vacuus est.",
+        "a": [
+            "eius",
+            "eius"
+        ]
+    },
+    {
+        "q": "9. D\u0101vus n\u016bllam pec\u016bniam in saccul\u014d # habet.",
+        "a": [
+            "su\u014d"
+        ]
+    },
+    {
+        "q": "10. I\u016blius \u016bnum nummum in saccul\u014d # [: D\u0101v\u012b] p\u014dnit.",
+        "a": [
+            "eius"
+        ]
+    },
+    {
+        "q": "11. I\u016blius: \"S\u016bme sacculum tuum!\" D\u0101vus sacculum # s\u016bmit.",
+        "a": [
+            "suum"
+        ]
+    },
+    {
+        "q": "12. M\u0113dus n\u014dn # pec\u016bniam, sed I\u016bli\u012b in saccul\u014d # habet.",
+        "a": [
+            "suam",
+            "su\u014d"
+        ]
+    }
+]

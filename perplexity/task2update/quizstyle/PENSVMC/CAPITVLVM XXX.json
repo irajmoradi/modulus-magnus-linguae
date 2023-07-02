@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Qu\u012b sunt Corn\u0113lius et Oront\u0113s? ",
+        "a": [
+            "Am\u012bc\u012b et hospit\u0113s I\u016bli\u012b sunt"
+        ]
+    },
+    {
+        "q": "2. Ubi est I\u016blius cum hospit\u0113s adveniunt? ",
+        "a": [
+            "In balne\u014d"
+        ]
+    },
+    {
+        "q": "3. Quid est balneum? ",
+        "a": [
+            "Est locus ubi corpus lav\u0101tur"
+        ]
+    },
+    {
+        "q": "4. N\u014dnne i\u016bcunda est v\u012bta r\u016bstica? ",
+        "a": [
+            "Cert\u0113 v\u012bta r\u016bstica i\u016bcunda est"
+        ]
+    },
+    {
+        "q": "5. Quid est coc\u012b neg\u014dtium? ",
+        "a": [
+            "Coc\u012b neg\u014dtium est cibum coquere"
+        ]
+    },
+    {
+        "q": "6. Num R\u014dm\u0101n\u012b in sell\u012bs sedent\u0113s c\u0113nant? ",
+        "a": [
+            "R\u014dm\u0101n\u012b n\u014dn in sell\u012bs sedent\u0113s, sed in lect\u012bs cubant\u0113s c\u0113nant"
+        ]
+    },
+    {
+        "q": "7. Quot lect\u012b sunt in tricl\u012bni\u014d? ",
+        "a": [
+            "Tr\u0113s lect\u012b: summus, medius, \u012bmus"
+        ]
+    },
+    {
+        "q": "8. Quot conv\u012bvae in singul\u012bs lect\u012bs accubant? ",
+        "a": [
+            "In singul\u012bs lect\u012bs singul\u012b aut b\u012bn\u012b aut term\u012b conv\u012bvae accubant"
+        ]
+    },
+    {
+        "q": "9. Ex qu\u0101 m\u0101teri\u0101 p\u014dcula et v\u0101sa facta sunt? ",
+        "a": [
+            "Ex argent\u014d"
+        ]
+    },
+    {
+        "q": "10. T\u016bne v\u012bnum aqu\u0101 calid\u0101 mixtum bibis? ",
+        "a": [
+            "V\u012bnum merum bibere sole\u014d"
+        ]
+    }
+]

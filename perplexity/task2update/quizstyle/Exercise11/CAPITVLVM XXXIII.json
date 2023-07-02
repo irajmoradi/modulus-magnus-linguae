@@ -1,0 +1,72 @@
+[
+    {
+        "q": "1. Quid medi\u0101 nocte in castra n\u016bnti\u0101tum est?",
+        "a": []
+    },
+    {
+        "q": "2. C\u016br m\u012blit\u0113s R\u014dm\u0101n\u012b dubit\u0101bant an v\u0113rum d\u012bxisset n\u016bntius? ...",
+        "a": [
+            "n\u016bnti\u0101tum est \u2018magnum hostium numerum adversus castra pr\u014dgred\u012b\u2019"
+        ]
+    },
+    {
+        "q": "3. Quid factum est paul\u014d ante l\u016bcem? ...",
+        "a": [
+            "... quia extr\u0101 v\u0101llum omnia tranquilla erant"
+        ]
+    },
+    {
+        "q": "4. Num Germ\u0101n\u012b v\u0101llum ascendere potu\u0113runt? ...",
+        "a": [
+            "exercitus Germ\u0101n\u014drum castra R\u014dm\u0101na oppugn\u0101vit"
+        ]
+    },
+    {
+        "q": "5. Qu\u014dmodo host\u0113s perturb\u0101t\u012b sunt et qu\u014d f\u016bg\u0113runt? ...",
+        "a": [
+            "Germ\u0101n\u012b v\u0101llum ascendere n\u014dn potu\u0113runt, cum R\u014dm\u0101n\u012b castra d\u0113fenderent"
+        ]
+    },
+    {
+        "q": "6. Quot homin\u0113s Germ\u0101n\u012b e\u014d proeli\u014d \u0101m\u012bs\u0113runt? ...",
+        "a": [
+            "Cum R\u014dm\u0101n\u012b \u0113 castr\u012bs \u0113r\u016bpissent, host\u0113s perturb\u0101t\u012b ad fl\u016bmen f\u016bg\u0113runt"
+        ]
+    },
+    {
+        "q": "7. C\u016br dux m\u012blit\u0113s su\u014ds laud\u0101vit? ...",
+        "a": [
+            "Germ\u0101n\u012b duo fer\u0113 m\u012blia hominum \u0101m\u012bs\u0113runt"
+        ]
+    },
+    {
+        "q": "8. Qu\u0101r\u0113 l\u0113g\u0101t\u012b Germ\u0101n\u014drum ad castra v\u0113n\u0113runt? ...",
+        "a": [
+            "dux m\u012blit\u0113s su\u014ds ob virt\u016btem laud\u0101vit"
+        ]
+    },
+    {
+        "q": "9. Qu\u014dmodo Valerius interfectus est? ...",
+        "a": [
+            "l\u0113g\u0101t\u012b v\u0113n\u0113runt ut cum imper\u0101t\u014dre R\u014dm\u0101n\u014drum colloquerentur"
+        ]
+    },
+    {
+        "q": "10. Quid am\u012bcus mori\u0113ns Aemilium \u014dr\u0101vit? ...",
+        "a": [
+            "Valerius p\u012bl\u014d percussus periit"
+        ]
+    },
+    {
+        "q": "11. C\u016br Aemilius puer Tibullum po\u0113tam d\u0113spici\u0113bat? ...",
+        "a": [
+            "Valerius Aemilium \u014dr\u0101vit ut parent\u0113s su\u014ds c\u014dns\u014dl\u0101r\u0113tur"
+        ]
+    },
+    {
+        "q": "12. Quid postr\u0113m\u014d sor\u014drem monet Aemilius? ...",
+        "a": [
+            "... quia po\u0113ta v\u012btam \u014dti\u014dsam laud\u0101bat, v\u012btam m\u012blit\u0101rem d\u0113spici\u0113bat"
+        ]
+    }
+]

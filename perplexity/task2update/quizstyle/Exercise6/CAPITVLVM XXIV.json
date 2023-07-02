@@ -1,0 +1,81 @@
+[
+    {
+        "q": "1. Her\u012b M\u0113dus M\u0101rcum ad l\u016bdum comit# est.",
+        "a": [
+            "\u0101tus"
+        ]
+    },
+    {
+        "q": "2. Tabell\u0101rius canem i\u0101nit\u014dris ver# est [= timuit].",
+        "a": [
+            "itus"
+        ]
+    },
+    {
+        "q": "3. M\u0113dus L\u0233diam \u014dscul# est et L\u0233dia M\u0113dum \u014dscul# est.",
+        "a": [
+            "\u0101tus",
+            "\u0101ta"
+        ]
+    },
+    {
+        "q": "4. Syra Qu\u012bntum mortuum esse arbitr# est [= put\u0101vit].",
+        "a": [
+            "\u0101ta"
+        ]
+    },
+    {
+        "q": "5. Parent\u0113s f\u012bliam lacrimantem c\u014dns\u014dl# sunt.",
+        "a": [
+            "\u0101t\u012b"
+        ]
+    },
+    {
+        "q": "6. Syra: \u201cT\u016bne \u0113 lect\u014d surgere c\u014dn# es, Qu\u012bnte?\u201d",
+        "a": [
+            "\u0101tus"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bntus fat\u0113tur \u2018s\u0113 surgere c\u014dn# esse\u2019: \u201cSurgere c\u014dn# sum.\u201d",
+        "a": [
+            "\u0101tum",
+            "\u0101tus"
+        ]
+    },
+    {
+        "q": "8. M\u0101rcus tabulam Sext\u012b \u2018suam esse\u2019 d\u012bxit: ita puer ment# est.",
+        "a": [
+            "\u012btus"
+        ]
+    },
+    {
+        "q": "9. Falsa sunt omnia quae M\u0101rcus loc\u016bt# est.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "10. Tandem M\u0101rcus \u2018s\u0113 ment# esse\u2019 fass# est: \u201cMent# sum, pater. Falsa sunt omnia quae loc\u016bt# sum.\u201d",
+        "a": [
+            "\u012btum",
+            "us",
+            "\u012btus",
+            "us"
+        ]
+    },
+    {
+        "q": "11. Serv\u012b: \u201cSemper v\u0113rum loc\u016bt# sumus: numquam ment# sumus.\u201d",
+        "a": [
+            "\u012b",
+            "\u012bt\u012b"
+        ]
+    },
+    {
+        "q": "12. Serv\u012b d\u012bcunt \u2018s\u0113 semper v\u0113rum loc\u016bt# esse nec umquam ment# esse.\u2019",
+        "a": [
+            "\u014ds",
+            "\u012bt\u014ds"
+        ]
+    }
+]

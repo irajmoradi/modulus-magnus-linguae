@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. Num I\u016blius s\u014dlus in v\u012bll\u0101 habitat? ",
+        "a": [
+            "I\u016blius n\u014dn s\u014dlus, sed cum famili\u0101 su\u0101 in v\u012bll\u0101 habitat"
+        ]
+    },
+    {
+        "q": "2. Quot f\u012bli\u014ds et quot f\u012bli\u0101s habent I\u016blius et Aemilia? ",
+        "a": [
+            "I\u016blius et Aemilia du\u014ds f\u012bli\u014ds et \u016bnam f\u012bliam habent"
+        ]
+    },
+    {
+        "q": "3. Ubi est impluvium? ",
+        "a": [
+            "Impluvium est in \u0101tri\u014d"
+        ]
+    },
+    {
+        "q": "4. Ubi dormiunt serv\u012b? ",
+        "a": [
+            "Mult\u012b serv\u012b in \u016bn\u014d cubicul\u014d dormiunt"
+        ]
+    },
+    {
+        "q": "5. Adestne I\u016blius in perist\u0233l\u014d cum Aemili\u0101? ",
+        "a": [
+            "I\u016blius abest"
+        ]
+    },
+    {
+        "q": "6. Ubi est I\u016blius? ",
+        "a": [
+            "I\u016blius in oppid\u014d T\u016bscul\u014d est"
+        ]
+    },
+    {
+        "q": "7. Estne Aemilia s\u014dla in perist\u0233l\u014d? ",
+        "a": [
+            "S\u014dla n\u014dn est, l\u012bber\u012b cum e\u0101 sunt"
+        ]
+    },
+    {
+        "q": "8. Quid agit I\u016blia in hort\u014d? ",
+        "a": [
+            "I\u016blia ros\u0101s carpit et puer\u014ds vocat"
+        ]
+    },
+    {
+        "q": "9. C\u016br puer\u012b I\u016bliam r\u012bdent? ",
+        "a": [
+            "Puer\u012b I\u016bliam r\u012bdent, quia improb\u012b sunt|Puer\u012b I\u016bliam r\u012bdent, quia I\u016blia puella pulchra n\u014dn est"
+        ]
+    }
+]

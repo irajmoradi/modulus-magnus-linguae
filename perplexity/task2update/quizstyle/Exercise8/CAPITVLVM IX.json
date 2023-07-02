@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Qu\u014d abit ovis nigra? ...",
+        "a": [
+            "ovis nigra in silvam abit"
+        ]
+    },
+    {
+        "q": "2. Dormitne canis? ...",
+        "a": [
+            "canis n\u014dn dormit"
+        ]
+    },
+    {
+        "q": "3. Quid agit p\u0101stor? ...",
+        "a": [
+            "p\u0101stor ov\u0113s relinquit"
+        ]
+    },
+    {
+        "q": "4. Ubi ovis nigra errat? ...",
+        "a": [
+            "ovis nigra in magn\u0101 silv\u0101 errat"
+        ]
+    },
+    {
+        "q": "5. Quid ovis videt in terr\u0101? ...",
+        "a": [
+            "vest\u012bgia lup\u012b in terr\u0101 videt"
+        ]
+    },
+    {
+        "q": "6. Quid lupus in silv\u0101 quaerit? ...",
+        "a": [
+            "lupus cibum quaerit in silv\u0101"
+        ]
+    },
+    {
+        "q": "7. Quid p\u0101stor et canis quaerunt? ...",
+        "a": [
+            "p\u0101stor et canis ovem quaerunt"
+        ]
+    },
+    {
+        "q": "8. Ululatne canis? ...",
+        "a": [
+            "n\u014dn canis, sed lupus ululat"
+        ]
+    },
+    {
+        "q": "9. Quid ovis ante s\u0113 in umbr\u0101 videt? ...",
+        "a": [
+            "ovis ocul\u014ds et dent\u0113s lup\u012b videt"
+        ]
+    },
+    {
+        "q": "10. C\u016br lupus ovem relinquit? ...",
+        "a": [
+            "... quia canis accurrit"
+        ]
+    },
+    {
+        "q": "11. Qu\u014d p\u0101stor ovem nigram portat? ...",
+        "a": [
+            "ovem ad c\u0113ter\u0101s ov\u0113s portat"
+        ]
+    },
+    {
+        "q": "12. C\u0113terae ov\u0113s quid agunt? ...",
+        "a": [
+            "in camp\u014d errant sine p\u0101st\u014dre"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "q": "1. 'Pr\u0101v\u0113' et 'turpiter' posit\u012bvus adverbi\u012b est; 'pr\u0101vius' et 'turpius' est #, 'pr\u0101vissim\u0113' et 'turpissim\u0113' # adverbi\u012b. ",
+        "a": [
+            "compar\u0101t\u012bvus",
+            "superl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. Posit\u012bvus: r\u0113ct\u0113; compar\u0101t\u012bvus: r\u0113ct#; superl\u0101t\u012bvus: r\u0113ct#.",
+        "a": [
+            "ius",
+            "issim\u0113"
+        ]
+    },
+    {
+        "q": "3. Posit\u012bvus: leviter; compar\u0101t\u012bvus: lev#; superl\u0101t\u012bvus: lev#.",
+        "a": [
+            "ius",
+            "issim\u0113"
+        ]
+    },
+    {
+        "q": "4. Posit\u012bvus: pulchr\u0113; compar\u0101t\u012bvus: pulchr#; superl\u0101t\u012bvus: pulcher#.",
+        "a": [
+            "ius",
+            "rim\u0113"
+        ]
+    },
+    {
+        "q": "5. Adverbium. Posit\u012bvus: -\u0113/-iter; compar\u0101t\u012bvus: -#; superl\u0101t\u012bvus: -issim# (-rim#).",
+        "a": [
+            "ius",
+            "\u0113",
+            "\u0113"
+        ]
+    }
+]

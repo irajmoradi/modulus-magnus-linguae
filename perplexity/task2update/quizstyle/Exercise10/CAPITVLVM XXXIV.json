@@ -1,0 +1,93 @@
+[
+    {
+        "q": "1. \"N\u014dn amo t\u0113, Sabid\u012b, nec possum d\u012bcere qu\u0101r\u0113.\" Hic versus ex XV # c\u014dnstat: n\u014d-n'a-mo-t\u0113-sa-bi-d\u012b-nec-pos-sum-d\u012b-ce-re-qu\u0101-r\u0113. Syllabae sunt aut # aut longae.",
+        "a": [
+            "syllab\u012bs",
+            "brev\u0113s"
+        ]
+    },
+    {
+        "q": "2. Syllaba brevis est quae in # brevem (a, e, i, o, u, y) d\u0113sinit.",
+        "a": [
+            "v\u014dc\u0101lem"
+        ]
+    },
+    {
+        "q": "3. Syllaba # est quae d\u0113sinit in v\u014dc\u0101lem longam (\u0101, \u0113, \u012b \u014d, \u016b, \u0233) aut in # (ae, oe, au, eu, ui) aut in #.",
+        "a": [
+            "longa",
+            "diphthongum",
+            "c\u014dnsonantem"
+        ]
+    },
+    {
+        "q": "4. Ex XV syllab\u012bs 'n\u014d-na-mo-t\u0113-sa-bi-d\u012b-nec-pos-sum-d\u012b-ce-re-qu\u0101-r\u0113' brev\u0113s sunt VI: #, #, #, #, #, #,",
+        "a": [
+            "na",
+            "mo",
+            "sa",
+            "bi",
+            "ce",
+            "re"
+        ]
+    },
+    {
+        "q": "longae IX: #, #, #, #, #, #, #, #, #.",
+        "a": [
+            "n\u014d",
+            "t\u0113",
+            "d\u012b",
+            "nec",
+            "pos",
+            "sum",
+            "d\u012b",
+            "qu\u0101",
+            "r\u0113"
+        ]
+    },
+    {
+        "q": "8. \u012adem versus in sex # d\u012bviditur h\u014dc mod\u014d: n\u014d-n'a-mo| t\u0113 Sa-bi|d\u012b nec| pos-sum| d\u012b-ce-re| qu\u0101r\u0113.",
+        "a": [
+            "ped\u0113s"
+        ]
+    },
+    {
+        "q": "10. P\u0113s # c\u014dnstat ex syllab\u0101 long\u0101 et du\u0101bus brevibus, ut 'd\u012b-ce-re'.",
+        "a": [
+            "dactylus"
+        ]
+    },
+    {
+        "q": "11. P\u0113s qu\u012b \u0113 du\u0101bus syllab\u012bs long\u012bs c\u014dnstat dicitur #, ut 'pos-sum', 'qu\u0101-r\u0113'.",
+        "a": [
+            "spond\u0113us"
+        ]
+    },
+    {
+        "q": "12. Qu\u012b c\u014dnstat ex syllab\u0101 long\u0101 et brev\u012b d\u012bcitur p\u0113s #, ut 'n\u0101-ta'.",
+        "a": [
+            "trochaeus"
+        ]
+    },
+    {
+        "q": "13. Versus # c\u014dnstat ex VI pedibus, qu\u014drum IV sunt dactyl\u012b aut #, qu\u012bntus #, sextus # aut trochaeus.",
+        "a": [
+            "hexameter",
+            "spond\u0113\u012b",
+            "dactylus",
+            "spond\u0113us"
+        ]
+    },
+    {
+        "q": "14. Versus \u016bn\u014d pede brevior qu\u012b hexametrum sequitur # voc\u0101tur.",
+        "a": [
+            "pentameter"
+        ]
+    },
+    {
+        "q": "15. Versus XI syllab\u0101rum # appell\u0101tur, ut 'pas-ser d\u0113-li-ci-ae me-ae pu-el-lae'.",
+        "a": [
+            "hendecasyllabus"
+        ]
+    }
+]

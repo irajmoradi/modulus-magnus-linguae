@@ -1,0 +1,87 @@
+[
+    {
+        "q": "1. 'Sal\u016btat' indic\u0101t\u012bvus est. 'Sal\u016bt\u0101' est #.",
+        "a": [
+            "imper\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Tacet' et 'audit' n\u014dn imper\u0101t\u012bvus, sed # est.",
+        "a": [
+            "indic\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "3. 'Tac\u0113' et 'aud\u012b' n\u014dn indic\u0101t\u012bvus, sed # est.",
+        "a": [
+            "imper\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "4. 'Disc\u0113de' quoque # est. 'Disc\u0113dit' # est.",
+        "a": [
+            "imper\u0101t\u012bvus",
+            "indic\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "5. Indic\u0101t\u012bvus: vocat. Imper\u0101t\u012bvus: voc#.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "6. Indic\u0101t\u012bvus: videt. Imper\u0101t\u012bvus: vid#.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "7. Imper\u0101t\u012bvus: p\u014dne. Indic\u0101t\u012bvus: p\u014dn#.",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "8. Imper\u0101t\u012bvus: ven\u012b. Indic\u0101t\u012bvus: ven#. ",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "9. Indic\u0101t\u012bvus: audit. Imper\u0101t\u012bvus: aud#.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "10. Indic\u0101t\u012bvus: s\u016bmit. Imper\u0101t\u012bvus: s\u016bm#.",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "11. Indic\u0101t\u012bvus: -at. Imper\u0101t\u012bvus: -#.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "12. Indic\u0101t\u012bvus: -et. Imper\u0101t\u012bvus: -#.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "13. Imper\u0101t\u012bvus: -e. Indic\u0101t\u012bvus: -#.",
+        "a": [
+            "it"
+        ]
+    },
+    {
+        "q": "14. Imper\u0101t\u012bvus. -\u012b. Indic\u0101t\u012bvus: -#.",
+        "a": [
+            "it"
+        ]
+    }
+]

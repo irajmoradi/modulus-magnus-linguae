@@ -1,0 +1,93 @@
+[
+    {
+        "q": "1. Discipulus verber\u0101bitur, s\u012b piger fu#: s\u012b male comput\u0101v#, foed\u0113 scr\u012bps# atque in l\u016bd\u014d dorm\u012bv#.",
+        "a": [
+            "erit",
+            "erit",
+            "erit",
+            "erit"
+        ]
+    },
+    {
+        "q": "2. Magister: \u201cT\u0113 verber\u0101b\u014d, s\u012b piger fu# ac dorm\u012bv#!\u201d",
+        "a": [
+            "eris",
+            "eris"
+        ]
+    },
+    {
+        "q": "3. Discipulus: \u201cQuid mihi dabis, s\u012b industrius fu#? s\u012b bene comput\u0101v#, pulchr\u0113 scr\u012bps# nec in l\u016bd\u014d dorm\u012bv#?\u201d",
+        "a": [
+            "er\u014d",
+            "er\u014d",
+            "er\u014d",
+            "er\u014d"
+        ]
+    },
+    {
+        "q": "4. Magister: \u201cNihil tibi dab\u014d, sed laud\u0101b\u014d t\u0113, s\u012b bene comput\u0101v# et pulchr\u0113 scr\u012bps#.\u201d",
+        "a": [
+            "eris",
+            "eris"
+        ]
+    },
+    {
+        "q": "5. Discipul\u012b verber\u0101buntur, s\u012b pigr\u012b fu#: s\u012b male comput\u0101v#, foed\u0113 scr\u012bps# atque in l\u016bd\u014d dorm\u012bv#.",
+        "a": [
+            "erint",
+            "erint",
+            "erint",
+            "erint"
+        ]
+    },
+    {
+        "q": "6. Magister: \u201cV\u014ds verber\u0101b\u014d, s\u012b pigr\u012b fu# ac dorm\u012bv#!\u201d",
+        "a": [
+            "eritis",
+            "eritis"
+        ]
+    },
+    {
+        "q": "7. Discipul\u012b: \u201cQuid n\u014db\u012bs dabis, s\u012b industri\u012b fu#? s\u012b bene comput\u0101v# et pulchr\u0113 scr\u012bps#?\u201d",
+        "a": [
+            "erimus",
+            "erimus",
+            "erimus"
+        ]
+    },
+    {
+        "q": "8. Magister: \u201cNihil v\u014db\u012bs dab\u014d, sed laud\u0101b\u014d v\u014ds, s\u012b bene comput\u0101v# et pulchr\u0113 scrips#.\u201d",
+        "a": [
+            "eritis",
+            "eritis"
+        ]
+    },
+    {
+        "q": "9. Qu\u012bntus: \u201cQuid t\u016b faci\u0113s, M\u0101rce, s\u012b ab ali\u014d puer\u014d puls\u0101t# #?\u201d",
+        "a": [
+            "us",
+            "eris"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus: \u201cS\u012b ego ab ali\u014d puer\u014d puls\u0101t# #, ipse eum puerum puls\u0101b\u014d.\u201d",
+        "a": [
+            "us",
+            "er\u014d"
+        ]
+    },
+    {
+        "q": "11. Qu\u012bntus: \u201cQuid v\u014ds faci\u0113tis, M\u0101rce et Tite, s\u012b ab ali\u012bs puer\u012bs puls\u0101t# #?\u201d",
+        "a": [
+            "\u012b",
+            "eritis"
+        ]
+    },
+    {
+        "q": "12. M\u0101rcus: \u201cS\u012b ab ali\u012bs puer\u012bs puls\u0101t# #, ips\u012b e\u014ds puls\u0101bimus.\u201d",
+        "a": [
+            "\u012b",
+            "erimus"
+        ]
+    }
+]

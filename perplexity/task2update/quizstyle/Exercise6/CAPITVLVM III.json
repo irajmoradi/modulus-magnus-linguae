@@ -1,0 +1,125 @@
+[
+    {
+        "q": "1. M\u0101rc# I\u016bli# pulsat, quia I\u016bli# cantat.",
+        "a": [
+            "us",
+            "am",
+            "a"
+        ]
+    },
+    {
+        "q": "2. I\u016bli# pl\u014drat, quia M\u0101rcus e# pulsat.",
+        "a": [
+            "a",
+            "am"
+        ]
+    },
+    {
+        "q": "3. I\u016blia Aemili# vocat. Aemili# venit.",
+        "a": [
+            "am",
+            "a"
+        ]
+    },
+    {
+        "q": "4. Aemili# Qu\u012bnt# videt et e# interrogat: \"Quis # vocat?\"",
+        "a": [
+            "a",
+            "um",
+            "um",
+            "m\u0113"
+        ]
+    },
+    {
+        "q": "5. Qu\u012bnt# respondet: \"I\u016bli# # vocat.\"",
+        "a": [
+            "us",
+            "a",
+            "t\u0113"
+        ]
+    },
+    {
+        "q": "6. Aemilia: \"Ubi est I\u016blius?\" Aemili# I\u016bli# n\u014dn videt.",
+        "a": [
+            "a",
+            "um"
+        ]
+    },
+    {
+        "q": "7. Qu\u012bnt# I\u016bli# vocat: \"Pater!\"",
+        "a": [
+            "us",
+            "um"
+        ]
+    },
+    {
+        "q": "8. I\u016bli# Qu\u012bnt# n\u014dn audit.",
+        "a": [
+            "us",
+            "um"
+        ]
+    },
+    {
+        "q": "9. Aemili# \u012br\u0101ta M\u0101rc# verberat.",
+        "a": [
+            "a",
+            "um"
+        ]
+    },
+    {
+        "q": "10. M\u0101rc# pl\u014drat, quia Aemili# e# verberat.",
+        "a": [
+            "us",
+            "a",
+            "um"
+        ]
+    },
+    {
+        "q": "11. I\u016bli# M\u0101rc# audit, et venit.",
+        "a": [
+            "us",
+            "um"
+        ]
+    },
+    {
+        "q": "12. I\u016blius Aemili# et M\u0101rc# et Qu\u012bnt# et I\u016bli# videt.",
+        "a": [
+            "am",
+            "um",
+            "um",
+            "am"
+        ]
+    },
+    {
+        "q": "13. Aemilia: \"M\u0101rc# puer improb# est.\"",
+        "a": [
+            "us",
+            "us"
+        ]
+    },
+    {
+        "q": "14. Qu\u012bntus: \"M\u0101rc# parv# puell# pulsat!\"",
+        "a": [
+            "us",
+            "am",
+            "am"
+        ]
+    },
+    {
+        "q": "15. I\u016bli# \u012br\u0101t# puer# improb# verberat.",
+        "a": [
+            "us",
+            "us",
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "16. I\u016bli# est puell# prob#.",
+        "a": [
+            "a",
+            "a",
+            "a"
+        ]
+    }
+]

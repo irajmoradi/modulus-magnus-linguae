@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. I\u016blia: \"# n\u0101sus meus foedus est?\"",
+        "a": [
+            "Num"
+        ]
+    },
+    {
+        "q": "2. Syra: \"Quid? # f\u014drm\u014dsus est n\u0101sus meus?\"",
+        "a": [
+            "N\u014dnne"
+        ]
+    },
+    {
+        "q": "3. I\u016blius: \"Ubi est I\u016blia? # m\u0113 exspectat?\"",
+        "a": [
+            "N\u014dnne"
+        ]
+    },
+    {
+        "q": "4. I\u016blia: \"# haec rosa pulchra est?\"",
+        "a": [
+            "N\u014dnne"
+        ]
+    },
+    {
+        "q": "5. Aemilia: \"# h\u012bc centum numm\u012b sunt?\"",
+        "a": [
+            "Num"
+        ]
+    },
+    {
+        "q": "6. Alb\u012bnus: \"# pulchr\u012b sunt h\u012b \u0101nul\u012b?\"",
+        "a": [
+            "N\u014dnne"
+        ]
+    },
+    {
+        "q": "7. M\u0113dus: \"# \u0101nulus sine gemm\u0101 v\u012bgint\u012b s\u0113sterti\u012bs c\u014dnstat?\"",
+        "a": [
+            "Num"
+        ]
+    },
+    {
+        "q": "8. # Hisp\u0101nia \u012bnsula est?",
+        "a": [
+            "Num"
+        ]
+    },
+    {
+        "q": "9. # magnum est imperium R\u014dm\u0101num?",
+        "a": [
+            "N\u014dnne"
+        ]
+    }
+]

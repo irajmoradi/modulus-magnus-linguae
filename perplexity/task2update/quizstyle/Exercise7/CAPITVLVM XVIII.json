@@ -1,0 +1,108 @@
+[
+    {
+        "q": "1. Qu\u0101lis discipulus est M\u0101rcus? M\u0101rcus discipulus stult# est.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "2. Qu\u014dmodo M\u0101rcus respondet? M\u0101rcus stult# respondet.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "3. Qu\u0101le est resp\u014dnsum Sext\u012b? Resp\u014dnsum eius r\u0113ct# est.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "4. Qu\u014dmodo Sextus respondet? Sextus r\u0113ct# respondet.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "5. Qu\u0101l\u0113s sunt litterae M\u0101rc\u012b? Litterae eius n\u014dn pulchr# sunt, sed foed# (= turp#).",
+        "a": [
+            "ae",
+            "ae",
+            "\u0113s"
+        ]
+    },
+    {
+        "q": "6. Qu\u014dmodo scr\u012bbit M\u0101rcus? M\u0101rcus n\u014dn pulchr#, sed foed# (= turp#) scr\u012bbit.",
+        "a": [
+            "\u0113",
+            "\u0113",
+            "iter"
+        ]
+    },
+    {
+        "q": "7. Magister libr\u014ds Lat\u012bn# et Graec# legere potest.",
+        "a": [
+            "\u014ds",
+            "\u014ds"
+        ]
+    },
+    {
+        "q": "8. Magister et Lat\u012bn# et Graec# legere potest.",
+        "a": [
+            "\u0113",
+            "\u0113"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus lev# man\u016b scr\u012bbit: M\u0101rcus lev# scr\u012bbit.",
+        "a": [
+            "\u012b",
+            "iter"
+        ]
+    },
+    {
+        "q": "10. M\u012blit\u0113s fort# n\u014dn fugiunt, sed fort# pugnant.",
+        "a": [
+            "\u0113s",
+            "iter"
+        ]
+    },
+    {
+        "q": "11. Aemilius long# abest \u0101 sor\u014dre su\u0101.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "12. Pater pec\u016bniam suam aequ# part\u012btur inter f\u012bli\u014ds.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "13. Cert# Aemilia f\u0113mina pulchrior est quam Syra.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "14. M\u0113ns\u0113s ann\u012b n\u014dn aequ# long\u012b sunt.",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "15. Syra mal# aur\u0113s habet: Syra # audit.",
+        "a": [
+            "\u0101s",
+            "male"
+        ]
+    },
+    {
+        "q": "16. Aquila bon# ocul\u014ds habet: aquila # videt.",
+        "a": [
+            "\u014ds",
+            "bene"
+        ]
+    }
+]

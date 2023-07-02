@@ -1,0 +1,64 @@
+[
+    {
+        "q": "1. Aemilia: \u201cC\u016br I\u016blia pl\u014drat?\u201d Aemilia interrogat c\u016br I\u016blia pl\u014dr#.",
+        "a": [
+            "et"
+        ]
+    },
+    {
+        "q": "2. Merc\u0101tor: \u201cQuis est Ar\u012b\u014dn?\u201d Merc\u0101tor nescit quis Ar\u012b\u014dn #.",
+        "a": [
+            "sit"
+        ]
+    },
+    {
+        "q": "3. Medicus: \u201cDoletne p\u0113s?\u201d Medicus interrog\u0101vit num p\u0113s dol#.",
+        "a": [
+            "\u0113ret"
+        ]
+    },
+    {
+        "q": "4. Syra: \u201cQuid d\u012bcit medicus?\u201d Syra interrog\u0101bat quid medicus d\u012bc#.",
+        "a": [
+            "eret"
+        ]
+    },
+    {
+        "q": "5. Aemilia: \u201cMedicus interrogat num p\u0113s dol#.\u201d",
+        "a": [
+            "eat"
+        ]
+    },
+    {
+        "q": "6. Magister Titum interrogat c\u016br librum n\u014dn hab#.",
+        "a": [
+            "eat"
+        ]
+    },
+    {
+        "q": "7. Sextus: \u201cAud\u012b, Tite: Magister t\u0113 interrogat c\u016br librum n\u014dn hab#.\u201d",
+        "a": [
+            "e\u0101s"
+        ]
+    },
+    {
+        "q": "8. M\u0113dus L\u0233diam iam interrog\u0101verat quis es# dominus eius.",
+        "a": [
+            "set"
+        ]
+    },
+    {
+        "q": "9. R\u0113x naut\u0101s interrog\u0101vit num sc\u012b# ubi es# Ar\u012b\u014dn et quid fac#.",
+        "a": [
+            "rent",
+            "set",
+            "eret"
+        ]
+    },
+    {
+        "q": "10. Syra dubit\u0101bat num Qu\u012bntus v\u012bv#.",
+        "a": [
+            "eret"
+        ]
+    }
+]

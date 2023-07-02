@@ -1,0 +1,105 @@
+[
+    {
+        "q": "1. cadere, #isse",
+        "a": [
+            "cecid"
+        ]
+    },
+    {
+        "q": "2. cogn\u014dscere, #isse, #um esse",
+        "a": [
+            "cogn\u014dv",
+            "cognit"
+        ]
+    },
+    {
+        "q": "3. cupere, #isse",
+        "a": [
+            "cup\u012bv|cupi"
+        ]
+    },
+    {
+        "q": "4. dare, #isse, #um esse",
+        "a": [
+            "ded",
+            "dat"
+        ]
+    },
+    {
+        "q": "5. fat\u0113r\u012b, #um esse",
+        "a": [
+            "fass"
+        ]
+    },
+    {
+        "q": "6. frangere, #isse, #um esse",
+        "a": [
+            "fr\u0113g",
+            "fr\u0101ct"
+        ]
+    },
+    {
+        "q": "7. \u012bre, #isse",
+        "a": [
+            "i|\u012bv"
+        ]
+    },
+    {
+        "q": "8. lav\u0101re, #isse, #um esse",
+        "a": [
+            "l\u0101v",
+            "laut|lav\u0101t"
+        ]
+    },
+    {
+        "q": "9. loqu\u012b, #um esse",
+        "a": [
+            "loc\u016bt"
+        ]
+    },
+    {
+        "q": "10. l\u016bdere, #isse",
+        "a": [
+            "l\u016bs"
+        ]
+    },
+    {
+        "q": "11. mord\u0113re, #isse, #um esse ",
+        "a": [
+            "momord",
+            "mors"
+        ]
+    },
+    {
+        "q": "12. n\u014dscere, #isse",
+        "a": [
+            "n\u014dv"
+        ]
+    },
+    {
+        "q": "13. red\u012bre, red#isse",
+        "a": [
+            "i"
+        ]
+    },
+    {
+        "q": "14. reprehendere, re#isse, re#um esse",
+        "a": [
+            "prehend",
+            "preh\u0113ns"
+        ]
+    },
+    {
+        "q": "15. velle, #isse",
+        "a": [
+            "volu"
+        ]
+    },
+    {
+        "q": "16. vid\u0113re, #isse, #um esse",
+        "a": [
+            "v\u012bd",
+            "v\u012bs"
+        ]
+    }
+]

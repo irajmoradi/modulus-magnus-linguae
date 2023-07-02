@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. Medicus: \"\u014cs aper#, puer, et linguam ostend#!\" Medicus puer# \u014ds aper# et linguam ostend# iubet.",
+        "a": [
+            "\u012b",
+            "e",
+            "um",
+            "\u012bre",
+            "ere"
+        ]
+    },
+    {
+        "q": "2. L\u0233dia: \"C\u014dnsist#, M\u0113de! Aspic# tabernam!\" L\u0233dia M\u0113d# c\u014dnsist# et tabernam aspic# iubet.",
+        "a": [
+            "e",
+            "e",
+            "um",
+            "ere",
+            "ere"
+        ]
+    },
+    {
+        "q": "3. I\u016blius: \"Curr# in hortum, puer\u012b!\" I\u016blius puer# in hortum curr# iubet.",
+        "a": [
+            "ite",
+            "\u014ds",
+            "ere"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \"Curr#, M\u0101rce!\" I\u016blius M\u0101rc# curr# iubet.",
+        "a": [
+            "e",
+            "um",
+            "ere"
+        ]
+    },
+    {
+        "q": "5. Domina: \"Aper# fenestr\u0101s, ancillae!\" Domina ancill# fenestr\u0101s aper# iubet.",
+        "a": [
+            "\u012bte",
+            "\u0101s",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "6. Aemilia: \"Claud# ocul\u014ds atque dorm#, Qu\u012bnte!\" Aemilia Qu\u012bnt# ocul\u014ds claud# atque dorm# iubet.",
+        "a": [
+            "e",
+            "\u012b",
+            "um",
+            "ere",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "7. Syra: \"Terg# ocul\u014ds, I\u016blia! Es laeta!\" Syra I\u016bli# ocul\u014ds terg# et laetam es# iubet.",
+        "a": [
+            "\u0113",
+            "am",
+            "\u0113re",
+            "se"
+        ]
+    }
+]

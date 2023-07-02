@@ -1,0 +1,669 @@
+# IMPERIVM ROMANVM
+
+Rōma in Italiā est.
+Italia in Eurōpā est.
+Graeciā in Eurōpā est.
+Italia et Graeciā in Eurōpā sunt.
+Hispānia quoque in Eurōpā est.
+Hispānia et Italia et Graeciā in Eurōpā sunt.
+
+Aegyptus in Eurōpā nōn est, Aegyptus in Āfricā est.
+Galliā nōn in Āfricā est, Galliā est in Eurōpā.
+Syria nōn est in Eurōpā, sed in Asiā.
+Arabia quoque in Asiā est.
+Syria et Arabia in Asiā sunt.
+Germānia nōn in Asiā, sed Eurōpā est.
+Britannia quoque in Eurōpā est.
+Germānia et Britannia sunt in Eurōpā.
+
+Estne Galliā in Eurōpā?
+Galliā in Eurōpā est.
+Estne Rōma in Galliā?
+Rōma in Galliā nōn est.
+Ubi est Rōma?
+Rōma est in Italiā.
+Ubi est Italia?
+Italia in Eurōpā est.
+Ubi sunt Galliā et Hispānia?
+Galliā et Hispānia in Eurōpā sunt.
+
+Estne Nīlus in Eurōpā?
+Nīlus in Eurōpā nōn est.
+Ubi est Nīlus?
+Nīlus in Āfricā est.
+Rhēnus ubi est?
+Rhēnus est in Germāniā.
+Nīlus fluvius est.
+Rhēnus fluvius est.
+Nīlus et Rhēnus fluviī sunt.
+Dānuvius quoque fluvius est.
+Rhēnus et Dānuvius sunt fluviī in Germāniā.
+Tiberis fluvius in Italiā est.
+
+Nīlus fluvius magnus est.
+Tiberis nōn est fluvius magnus, Tiberius fluvius parvus est.
+Rhēnus nōn est fluvius parvus, sed fluvius magnus.
+Nīlus et Rhēnus nōn fluviī parvī, sed fluviī magnī sunt.
+Dānuvius quoque fluvius magnus est.
+
+Corsica īnsula est.
+Corsica et Sardinia et Sicilia īnsulae sunt.
+Britannia quoque īnsula est.
+Italia īnsula nōn est.
+Sicilia īnsula magna est.
+Melita est īnsula parva.
+Britannia nōn īnsula parva, sed īnsula magna est.
+Sicilia et Sardinia nōn īnsula parvae, sed īnsulae magnae sunt.
+
+Brundisium oppidum est.
+Brundisium et Tūsculuma oppida sunt.
+Sparta quoque oppidum est.
+Brundisium est oppidum magnum.
+Tūsculuma oppidum parvum est.
+Delphī quoque oppidum parvum est.
+Tūsculuma et Delphī nōn oppida magna, sed oppida parva sunt.
+
+Ubi est Sparta?
+Sparta est in Graeciā.
+Sparta est oppidum Gracum.
+Sparta et Delphī oppida Graeca sunt.
+Tūsculuma nōn oppidum Graecum, sed oppidum Rōmanum est.
+Tūsculuma et Brundisium sunt oppida Rōmāna.
+Sardinia īnsula Rōmāna est.
+Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae.
+In Graeciā multae īnsulae sunt.
+In Italiā et in Graeciā sunt multa oppida.
+In Galliā et in Germāniā multī sunt fluviī.
+Suntne multī fluviī et multa oppida in Arabiā?
+In Arabiā nōn multī, sed paucī fluviī sunt et pauca oppida.
+
+Num Crēta oppidum est?
+Crēta oppidum nōn est!
+Quid est Crēta?
+Crēta īnsula est.
+Num Sparta īnsula est?
+Sparta nōn est īnsula!
+Quid est Sparta?
+Sparta oppidum est.
+Rhēnus quid est?
+Rhēnus est magnus fluvius.
+Num oceanus Atlanticus parvus est?
+Nōn parvus, sed magnus est oceanus.
+
+Ubi est imperium Rōmānum?
+Imperium Rōmānum est in Eurōpā, in Asiā, in Āfricā.
+Hispānia et Syria et Aegyptus prōvinciae Rōmānae sunt.
+Germānia nōn est prōvincia Rōmāna: Germānia in imperiō Rōmano nōn est.
+Sed Galliā et Britannia sunt prōvinciae Rōmānae.
+In imperiō Rōmano multae sunt prōvinciae.
+Magnum est imperium Rōmanum!
+
+# LITTERAE ET NVMERI
+
+I et II numerī sunt.
+III quoque numerus est.
+I, II, III numerī Rōmānī sunt.
+I et II sunt parvī numerī.
+_CIC magnus numerus est.
+
+A et B litterae sunt.
+C quoque littera est.
+A, B, C sunt trēs litterae.
+A est littera prima (I), B littera secunda (II), C littera tertia (III).
+_Gamma littera Graeca est.
+C est littera Latīna.
+C et D litterae Latīnae sunt.
+_Gamma et _Delta sunt litterae Graecae.
+
+*Fluvius* et *oppidum* vocābula Latīna sunt.
+*Ubi* quoque vocābulum Latīnum est.
+In vocābulō *ubi* sunt trēs litterae.
+In capitulō primo mille vocābula sunt.
+
+In vocābulō *insula* sex litterae et trēs syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.
+In vocābulō *nōn* sunt trēs litterae et una syllaba.
+
+Quid est III?
+III numerus Rōmānus est.
+_Gamma quid est?
+_Gamma littera Graeca est.
+Num C littera Graeca est?
+Nōn littera Graeca, sed littera Latīna est C.
+Estne B littera prima?
+B nōn littera prima, sed secunda est.
+Quid est *nōn*?
+*Nōn* est vocābulum Latīnum.
+*Nōn*, *sed*, *magnus*, *numerus* vocābula Latīna sunt.
+*Vocābulum* quoque vocābulum Latīnum est!
+
+# FAMILIA ROMANA
+
+Iūlius vir Rōmānus est.
+Aemilia fēmina Rōmāna est.
+Mārcus est puer Rōmānus.
+Quīntus quoque puer Rōmānus est.
+Iūlia est puella Rōmāna.
+
+Mārcus et Quīntus nōn virī, sed puerī sunt.
+virī sunt Iūlius et Mēdus et Dāvus.
+Aemilia et Dēlia et Syra sunt fēminae.
+Estne fēmina Iūlia?
+Nōn fēmina, sed parva puella est Iūlia.
+
+Iūlius, Aemelia, Mārcus, Quīntus, Iūlia, Syra, Dāvus, Dēlia Mēdusque sunt familiā Rōmāna.
+Iūlius pater est.
+Aemelia est māter.
+Iūlius pater Mārcī et Quīntī est.
+Iūlius pater Iūliae quoque quoque est.
+Aemilia est māter Mārcī et Quīntī et Iūliae.
+Mārcus fīlius Iūliī est.
+Mārcus fīlius Aemilieae est.
+Quīntus quoque fīlius Iūliī et Aemiliae est.
+Iūlia est filia Iūliī et Aemiliae.
+
+Quis est Mārcus?
+Mārcus puer Rōmānus est.
+Quis pater Mārcī est?
+Iūlius pater Mārcī est.
+Quae est māter Mārcī?
+Māter Mārcī est Aemilia.
+Quae est Iūlia?
+Iūlia est puella Rōmāna.
+Quae māter Iūliae est?
+Aemilia māter Iūliae est.
+Pater Iūliae est Iūlius.
+Iūlia filia Iūliī est.
+Qui sunt fīliī Iūliī?
+Fīliī Iūliī sunt Mārcus et Quīntus.
+Mārcus, Quīntus, Iūliaque sunt trēs līberī.
+līberī sunt fīliī filiaeque.
+Mārcus et Quīntus et Iūlia eunt līberī Iūliī et Aemiliae.
+In familiā Iūliī sunt trēs līberī: duo fīliī et ūna filia.
+
+Estne Mēdus fīlius Iūliī?
+Mēdus fīlius Iūliī nōn est,
+Mēdus est servus Iūliī.
+Iūlius dominus Medi est.
+Iūlius dominus servī est.
+Dāvus quoque servus est.
+Mēdus et Dāvus duo servī sunt.
+Iūlius est dominus Medi et Dāvī.
+Iūlius dominus servōrum est et pater līberōrum.
+
+Estne Dēlia filia Aemiliae?
+Dēlia nōn est filia Aemiliae, Dēlia ancilla Aemiliae est.
+Syra quoque ancilla est.
+Dēlia et Syra duae ancillae sunt.
+Aemilia domina ancillarum est.
+
+Cuius servus est Dāvus?
+Dāvus servus Iūliī est.
+Cuius ancilla est Syra?
+Syra est ancilla Aemiliae.
+
+Quot līberī sunt in familiā?
+In familiā Iūliī sunt trēs libert.
+Quot fīliī et quot filiae?
+Duo fīliī et ūna filia.
+Quot servī sunt in familiā?
+In familiā sunt centum servī.
+In familiā Iūliī sunt mulī servī, pauci līberī.
+Iūlius est dominus multorum servōrum.
+
+'Duo' et 'trēs' numerī sunt.
+'Centum' quoque numerus est.
+Numerus servōrum est centum.
+Numerus līberōrum est trēs.
+Centum est magnus numerus.
+Trēs parvus numerus est.
+Numerus servōrum est magnus.
+Numerus līberōrum parvus est.
+In familiā Iūliī magnus numerus servōrum, parvus numerus līberōrum est.
+
+Mēdus servus Graecus est.
+Dēlia est ancilla Graeca.
+In familiā Iūliī sunt mulī servī Graecī multaeque ancilae Graecae.
+Estne Aemilia fēmina Graeca?
+Aemilia nōn est fēmina Graeca, sed Rōmāna.
+Iūlius nōn vir Graecus, sed Rōmānus est.
+
+Sparta oppidum Graeca est.
+Sparta, Delphī Tūsculumque tria oppida sunt: duo oppida Graeca et unum oppidum Rōmānum.
+In Graecīa et in Italiā magnus numerus oppidōrum est.
+In Galliā est magnus numerus fluviorum.
+Fluviī Galliāe magni sunt.
+Magnine sunt fluviī Āfricae?
+In Āfricā ūnus fluvius magnus est: Nīlus; cēterī fluviī Āfricae parvī sunt.
+Suntne magnae īnsulae Graecae?
+Crēta et Euboea duae insulae magnae sunt; cēterae īnsulae Graecae sunt parvae.
+
+Quis est Cornēlius?
+Cornēlius dominus Rōmānus est.
+Iūlius et Cornēlius duo dominī Rōmāni sunt.
+Mēdus nōn est servus Cornelii.
+Mēdus servus Iūliī est.
+
+Cornēlius: "Cuius servus est Mēdus?"
+Iūlius: "Mēdus servus meus est."
+Cornēlius: "Estne Dāvus servus tuus?"
+Iūlius: "Dāvus quoque servus meus est.
+Servī meī sunt Mēdus et Dāvus et cēteriī multī..."
+Cornēlius: "Estne Dēlia ancilla tua?"
+Iūlius: "Dēlia est ancilla mea, et Syra quoque ancilla mea est.
+Ancillae meae sunt Dēlia et Syra et cēterae multae.
+familiā mea magnus est."
+Cornēlius: "Quot servī sunt in familiā tuā?"
+Iūlius: "In familiā meā sunt centum servī."
+Cornēlius: "Quid?"
+Iūlius: "Numerus servōrum meōrum est centum."
+Cornēlius: "Centum servī!
+Magnus est numerus servōrum tuōrum!"
+
+# LIBER TVVS LATINVS
+
+Ecce duo librī Latīnī: liber antiquus et liber novus.
+LINGVA LATINA est primus liber tuus Latinus.
+Titulus librī tuī est 'LINGUA LATINA'.
+Liber tuus non antiquus, sed novus est.
+
+IN LINGUA LATINA sunt multae pāginae et multa capitula: capitulum prīmum, secundum, tertium, cētera.
+'IMERPIVM ROMANVM' est titulus capitulī prīmī.
+Titulus capitulī secundī est 'FAMILIA ROMANA'.
+In capitulō secundō sunt sex pāginae.
+In pāginā prīmā capitulī secundī multa vocābula nova sunt: *vir*, *fēminina*, *puer*, *puella*, *familia*, cētera.
+Numerus vocābulōrum Latīnōrum magnus est.
+
+# PVER IMPROBVS
+
+# SCAENA PRIMA
+*Persōnae: Iūlia, Mārcus, Quīntus.*
+
+Iūlia cantat: "Lalla."
+Iūlia laeta est.
+
+Mārcus: "St!"
+Mārcus laetus nōn est.
+
+Iūlia cantat: "Lalla, lalla."
+
+Mārcus: "Ssst!"
+Mārcus īrātus est.
+
+Iūlia cantat: "Lalla, lalla."
+
+Mārcus Iūliam pulsat.
+
+Iam Iūlia nōn cantat, sed plōrat: "Uhuhū!"
+
+Mārcus rīdet: "Hahahae!"
+
+Quīntus Mārcum videt.
+Mārcus nōn videt Quīntum.
+
+Quīntus: "Quid?
+Mārcus puellam pulsat--et rīdet!"
+
+Quīntus īrātus est et Mārcum pulsat!
+Iam nōn rīdet Mārcus.
+Mārcus īrātus pulsat Quīntum.
+
+Iūlia: "Ubi est māter?"
+Iūlia Aemiliam nōn videt.
+
+Iūlia Aemiliam vocat: "Māter!
+Mārcus Quīntum pulsat!"
+
+Mārcus (īrātus): "St!"
+Mārcus Iūliam pulsat.
+
+Iūlia plōrat et Aemiliam vocat: "Mamma! Mam-ma!
+Mārcus mē pulsat!"
+
+Aemilia venit.
+
+# SCAENA SECVNDA
+*Persōnae: Aemilia, Iūlia, Mārcus, Quīntus.*
+
+Aemilia interrogat: "Quis mē vocat?"
+
+Quīntus respondet: "Iūlia tē vocat."
+
+Aemilia Quīntum intērrogat: "Cūr Iūlia plōrat?"
+
+Quīntus respondent: "Iūlia plōrat, quia Mārcus eam pulsat."
+
+Aemilia: "Quid? Puer parvam puellam pulsat? Fū! Cūr Mārcus Iūliam pulsat?"
+
+Quīntus: "Quia Iūlia cantat."
+
+Aemilia: "Ō Iūlia, mēa parva fīlia!
+Mārcus puer probus nōn est; Mārcus es puer improbus!"
+
+Quīntus: "Iūlia puella proba ests."
+
+Aemilia Quīntum intērrogat: "Ubi est Iūlius? Cūr nōn venit?"
+Aemilia Iulium nōn videt.
+
+Respondet Mārcus: "Pater dormit."
+
+Quīntus: "Māter nōn tē, sed mē intērrogat!"
+
+Aemilia: "St, pueri!
+
+Ubi est Pater?"
+
+Quīntus: "Pater nōn hīc est, sed Mārcus hīc est."
+
+Quīntus Iulium vocat: "Pater! Pa-ter!"
+
+Iulis Quīntum nōn audit neque venit.
+Cūr Iūlius nōn audit?
+Iūlius eum nōn audit, quia dormit.
+
+Mārcus: "Hahae! Pater dormit neque tē audit."
+
+Aemilia: "Fū, puer!"
+Aemilia irata est.
+Māter filium verberat: tuxtax, tuxtax...
+
+Mārcus plōrat: "Uhuhū!"
+
+Iūlius eum audit.
+Iam nōn dormit Pater.
+
+# SCAENA TERTIA
+*Persōnae: Iūlius, Aemilia, Iūlia, Mārcus, Quīntus.*
+
+Quīntus: "Pater venit."
+
+Aemilia Quīntum nōn audit, quia Mārcus plōrat.
+
+Iūlius Quīntum videt eumque intērrogat: "Cūr Mārcus plōrat?"
+
+Quīntus respondet: "Mārcus plōrat, quia māter eum verberat."
+
+Iūlius: "Sed Cūr māter Mārcum verberat?"
+
+Quīntus: "Mārcum verberat, quia puer improbus est. Mārcus parvam puellam pulsat!"
+
+Iūlia: "Mamma! Pater hīc est."
+Aemilia Iulium videt.
+
+Aemilia: "Tuus Mārcus filius improbus est!"
+
+Iūlius: "Fū, puer! Puer probus nōn pulsat puellam. Puer qui parvam puellam pulsat improbus est!"
+
+Iūlius īrātus puerum improbum verberat: tuxtax, tuxtax, tuxtax...
+
+Mārcus plōrat.
+Quīntus laetus est et rīdet.
+Iūlia laeta nōn est neque rīdet.
+Cūr nōn laeta est Iūlia?
+nōn laeta est, quia Mārcus plōrat.
+Iūlia est puella proba!
+
+Puer rīdet.
+Puella plōrat.
+Quis est puer quī rīdet?
+Puer quī rīdet est Mārcus.
+Quae est puella quae plōrat?
+Puella quae plōrat est Iūlia.
+
+Mārcus, quī puellam pulsat, puer improbus est.
+Puella quam Mārcus pulsat est Iūlia.
+Iūlia Aemiliam vocat.
+Aemilia, quam Iūlia vocat, māter līberōrum est.
+Aemilia puerum verberat.
+Puer quem Aemilia verberat est Mārcus.
+
+Quem vocat Quīntus?
+Quīntus Iūlium vocat.
+Iūlius, quem Quīntus vocat, Pater līberōrum est.
+Iūlius Quīntum nōn audit.
+Quem audit Iūlius?
+Iūlius Mārcum audit.
+Puer quem Iūlius audit est Mārcus.
+
+Puella quae contat laeta est.
+Puella quae plōrat nōn est laeta.
+Puer quī puellam pulsat improbus est!
+
+# DOMINVS ET SERVI
+
+# SCAENA PRIMA
+*Persōnae: Iūlius, Aemilia, Mēdus.*
+
+Sacculus Iūliī nōn parvus est.
+In sacculō eius est pecūnia.
+Iūlius pecūniam in sacculō habet.
+
+Aemilia sacculum Vidēt Iuliumque interrogat: "Quot nummī sunt in sacculō tuō?"
+
+Iūlius respondet: "Centum."
+
+Aemilia: "Num hīc centum nummī sunt?"
+
+Iūlius pecūniam numerat: "Ūnus, duo trēs, quattuor, quīnque, sex, septum, octō, novem, decem. Quid? Decem tantum?"
+
+Iūlius rūrsus pecūniam numerat: "Ūnus, duo, trēs, quattuor... novem, decem."
+Numerus nummorum nōn est centum, sed decum tantum.
+
+Iūlius: "Quid? In sacculō meō nōn centum, sed tantum decem nummī sunt! Ubi sunt cēterī nummī? Servī meī ubi sunt?"
+
+Mēdus: "Servus tuus Mēdus hīc est."
+
+Iūlius servum suum Mēdum Vidēt, Dāvum nōn Vidēt. 
+Mēdust adest. 
+Dāvus nōn adest, sed abest. Iūlius et Aemilia et Mēdus adsunt. 
+Dāvus cēterīque servī absunt.
+
+Iūlius: "Quid? Ūnus servus tantum adest! Ubi est Dāvus? Dāvum vocā!"
+
+Mēdus Dāvum vocat: "Dāve!"
+Sed Dāvus Mēdum nōn audit neque venit.
+
+Mēdus rūrsus Dāvum vocat: "Da-ā-ve! Venī!"
+
+Dāvus venit.
+Iam duo servī adsunt.
+
+
+# SCAENA SECVNDA
+*Persōnae: Iūlius, Aemilia, Mēdus, Dāvus.*
+
+Dāvus, quī dominum suum nōn Vidēt, Mēdum interrogat: "Quid est, Mēde?"
+
+Mēdus: "St! Dominus adest. Salūtā dominum!"
+
+Servus dominum salūtat: "Salvē domine!"
+
+Dominum servum salūtat: "Salvē, serve!"
+
+Dāvus: "Quid est, domine?"
+
+Iūlius: "St! Tacē, serve! Tacē et audī!" 
+
+Servus tacet.
+
+Iūlius: "In sacculō meō sunt decem tantum nummī. Ubi sunt cēterī nummī meī?"
+
+Dāvus tact, neque respondet.
+
+Aemilia: "Respondē Dave! Dominus tē interrogat."
+
+Dāvus respondet: "Pecūnia tua hīc nōn est. Interrogā Mēdum!"
+
+Iūlius Mēdum interrogat: "Ubi sunt nummī mei, Mēde?" 
+
+Mēdus nūllum verbum respondet.
+
+Iūlius rūrsus eum interrogat: "Ubi est pecūnia mea? Respondē, serve!"
+
+Mēdus Dāvum accūsat: "Pecūnia tua in sacculō Dāvī est. Dāvus pecūniam tuam habet."
+
+Aemilia: "Audī, Dāve! Mēdus tē accūsat."
+
+Dāvus: "Quem Mēdus accūsat? me?"
+
+Iūlius: "Tacē, Mēde! Servus quī servum accūsat improbus est!"
+Mēdus tacet.
+
+Iūlius Dāvum nōn accūsat, sed interrogat eum: "Estne pecūnia mea in sacculō tuō, Dāve?"
+
+Dāvus: "In sacculō meō nōn est pecūnia tua, domine."
+
+Iūlius: "Ubis est sacculus tuus?"
+
+Dāvus: "Hīc est. Evve sacculus meus."
+
+Iūlius: "Sacculum tuum in mēnsā pōne!"
+
+Dāvus sacculum suum in mēnsā pōnit.
+Iam sacculus eius in mēnsā est.
+Iūlius baculum suum in mēnsā pōnit.
+Baculum domini in mēnsā est.
+
+Dāvus: "Vidē: in sacculō meō nūlla pecūnia est."
+
+Iūlius nūllam pecūniam videt in sacculō.
+In sacculō Dāvī nūlli nummī sunt.
+Sacculus eius vaccus est.
+Dāvus pecūniam dominī nōn habet.
+
+Iūlius: "Ō! Dāvus bonus servus est: pecūniam meam nōn habet. Ecce nummus tuus, Dāve!"
+Iūlius ūnum nummum pōnit in sacculō Dāvī.
+Iam sacculus Dāvī nōn est vacuus:
+in sacculō eius est Ūnus nummus.
+Dāvus laetus est.
+
+Iūlius: "Sūme sacculum tuum et discēde, bone serve!"
+Dāvus sacculum suum sumit et discēdit.
+
+Mēdus baculum, quod in mēnsā est, Vidēt.
+Mēdus quoque discēdit.
+Cūr discēdit Mēdus?
+Mēdus discēdit, quia is pecūniam domini in sacculō suō habet!
+
+Dāvus et Mēdus absunt.
+
+
+# SCAENA TERTIA
+*Persōnae: Iūlius, Aemilia.*
+
+Iūlius: "Dāvus bonus servus est. Is nōn habet pecūniam meam. --- Sed ubi est pecūnia mea, Mēde? Quis pecūniam meam habet?"
+Mēdus nōn respondet.
+
+Iūlius: "Ubi est Mēdus? Cur nōn respondet?"
+
+Aemilia: "Mēdus nōn respondet, quia abest. Nūllus servus adest."
+
+Iūlius Mēdum vocat: "Mēde! Venī! sed Mēdus, quī abest, eum nōn audit neque venit.
+
+Iūlius rūrsus vocat: "Mē-de! Venī, improbe serve!"
+
+Mēdus nōn venit.
+
+Iūlius: "Cūr nōn venit Mēdus?"
+
+Aemilia: "Mēdus nōn venit, quia is habet pecūniam tuam! Eius sacculus nōn est vacuus!"
+Aemilia rīdet.
+Iūlius īrātus est---is nōn rīdet!
+
+Iūlius: "Ubi est baculum meum?"
+Iūlius baculum, quod in mēnsā est, nōn Vidēt.
+
+Aemilia: "Ecce baculum in mēnsā."
+
+Iūlius baculum suum sūmit et discēdit.
+
+Ecce vīlla et hortus Iūliī.
+Iūlius in magnā vīllā habitat.
+Pater et māter et trēs līberī in villā habitant.
+Ilūius et Aemilia trēs līberōs habent: duōs filiōs et ūnam filiam -- nōn duās filiās.
+In vīllā multī servī habitant.
+Dominus eōrum est Iūlius: is multōs servōs habet.
+Ancillae quoque multae in vīllā habitant.
+Domina eārum est Aemilia: ea multās ancillās habet.
+Iūlius in vīllā suā habitat cum magnā familiā.
+Pater et māter habitant cum Mārco et Quīntō et Iūliā.
+Iūlius et Aemilia in vīllā habitant cum līberīs et servīs et ancillīs.
+Villa Iūliī in magnō hortō est.
+In Italiā sunt multae vīllae cum magnīs hortīs.
+In hortīs sunt rosae et līlia.
+Iūlius multās rosās et multa līlia in hortō suō habet.
+Hortus Iūliī pulcher est, quia in eō sunt multae et pulchrae rosae līliaque.
+Aemilia fēmina pulchra est.
+Syra nōn est fēmina pulchra, neque pulcher est nāsus eius, sed foedus est.
+Syra, quae bona ancilla est, nāsum magnum et foedum habet.
+Iūlius est vir Aemiliae, fēminae pulchrae.
+Iūlius Aemiliam amat, quia ea pulchra et bona fēmina est.
+Aemilia Iūlium virum suum amat et cum eō habitat.
+Pater et māter līberōs suōs amant.
+Iūlius nōn sōlus, sed cum Aemiliā et cum magnā familiā in vīllā habitat.
+In vīllā sunt duo ōstia: ōstium magnum et ōstium parvum.
+Vīlla duo ōstia et multās fenestrās habet.
+In villā Iūliī magnum ātrium est cum impluviō.
+Quid est in impluviō? In eō est aqua.
+In ātriō nūllae fenestrae sunt.
+Etiam peristȳlum magnum et pulchrum in vīllā est.
+'Peristȳlum' est vocābulum Graecum.
+In vīllīs Graecīs et Rōmānīs magna et pulchra peristȳla sunt.
+Estne impluvium in peristȳlō? Id nōn in peristȳlō, sed in ātriō est.
+In peristȳlō parvus hortus est.
+In vīllā sunt multa cubicula.
+Quīntus in cubiculō parvō dormit.
+Estne magnum cubiculum Mārcī? Id quoque parvum est.
+Iūlius et Aemilia in cubiculō magnō dormiunt.
+Ubi dormiunt servī? Iī quoque in cubiculīs dormiunt.
+Suntne magna eōrum cubicula? Ea nōn magna sunt, et multī servī in ūno cubiculō dormiunt.
+
+Etiam ancillae multae in ūno cubiculō dormiunt, neque eae magna cubicula habent.
+Aemilia in peristȳlō est.
+Estne sōla? Aemilia sōla nōn est: līberī cum eā in peristȳlō adsunt.
+Iūlius abest.
+Aemilia sine virō suō Iūliō in vīllā est.
+Ubi est Ilūius? In opidō Tūsculō est sine Aemiliā, sed cum servīs quattuor.
+Aemilia cum Mārcõ, Quīntō Iūliāque in peristȳlō est.
+Iūliā rosās pulchrās in hortō videt et ab Aemiliā discēdit.
+Iam ea cum Aemiliā nōn est. Aemilia eam nōn videt.
+Puella in hortō est.
+Aemilia imperat: "Mārce et Quīnte! Iūliuam vocāte!"
+Mārcus et Quīntus Iūliam vocant: "Iūlia! Venī!" sed Iūlia eōs nōn audit neque venit.
+Iūlia puerōs vocat: "Mārce et Quīnte! Venīte! Hīc multae rosae sunt."
+Puerī Iūliam audiunt, neque iī ab Aemiliā discēdunt.
+Quīntus: "Carpe rosās, Iūlia!"
+Iūlia rosās carpit et cum quīnque rosīs ex hortō venit.
+Iūlia: "Vidē, māter! Vidēte, puerī! Vidēte rosās meās!" Iūlia laeta est, rosae eam dēlectant.
+Aemilia: "Ecce puella pulchra cum rosīs pulchrīs!"
+Verba Aemiliae Iūliam dēlectant.
+Mārcus: "Rosae pulchrae sunt; puella sine rosīs pulchra nōn est!" Verba Mārcī Iūliam nōn dēlectant!
+Aemilia (irāta): "Tacē, puer improbe! Iūlia puella pulchra est -- cum rosīs et sine rosīs."
+Iūlia: "Audīte, Mārce et Quīnte!"
+Mārcus: "Māter nōn videt nāsum tuum foedum!"
+Mārcus et Quīntus rīdent: "Hahahae!"
+Iūlia: "Audī, mamma: puerī etiam mē rīdent!"
+Iūlia plōrat et cum ūnā rosā ab iīs discēdit.
+Aemilia: "Tacēte, puerī improbī! Nāsus Iūliae foedus nōn est. Discēdite ex peristȳlō! Sūmite cēterās rosās easque in aquā pōnite!"
+Puerī cēterās quattuor rosās sūmunt et cum iīs discēdunt.
+Aemilia, quae iam sōla est in peristȳlō, ancillās vocat: "Dēlia et Syra! Venīte!"
+Dēlia et Syra ex ātriō vuniunt. Aemilia eās interrogat: "Suntne puerī in ātriō?"
+Dēlia respondet: "In ātriō sunt."
+Aemilia: "Quid agunt Mārcus et Quīntus?"
+Dēlia: "Puerī aquam sūmunt ex impluvium..."
+Syra: "...et rosās in aquā pōnunt."
+Hīc domina et ancillae puerōs audiunt ex ātriō: Quīntus plōrat et Mārcus rīdet.
+Aemilia: "Quid iam agunt puerī? Age, Dēlia! discēde et interrogā eōs!" Dēlia ab Aemiliā et Syrā discēdit.
+Aemilia Syram interrogat: "Ubi est Dāvus?"
+Syra respondet: "In oppidō est cum dominō."
+Dēlia ex ātriō venit et dominam vocat: "Venī, ō domina! Venī!"
+Aemilia: "Quid est, Dēlia?"
+Dēlia: "Quīntus est in impluviō!"
+Aemilia: "In impluviō? Quid agit puer in impluviō?"
+Dēlia: "Aquam pulsat et tē vocat."
+Aemilia: "Quid agit Mārcus?"
+Dēlia: "Is rīdet, quia Quīntus in aquā est!"
+Aemilia: "Ō, puer improbus est Mārcus! Agite! Iūlium vocāte, ancillae!"
+Syra: "Sed dominus in oppidō est."
+Aemilia: "Ō, iam rūrsus abest Iūlius!"
+Dēlia: "Age! Venī, domina, et Mārcum verberā!"
+Quid agit domina? Domina īrata cum ancillīs ex peristȳlō discēdit.

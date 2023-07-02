@@ -1,0 +1,62 @@
+[
+    {
+        "q": "1. Quot numm\u012b sunt in saccul\u014d I\u016bli\u012b? ",
+        "a": [
+            "In saccul\u014d eius sunt decem numm\u012b"
+        ]
+    },
+    {
+        "q": "2. Adestne D\u0101vus in scaen\u0101 pr\u012bm\u0101? ",
+        "a": [
+            "D\u0101vus abest in scaen\u0101 pr\u012bm\u0101"
+        ]
+    },
+    {
+        "q": "3. Quis D\u0101vum vocat? ",
+        "a": [
+            "M\u0113dus D\u0101vum vocat"
+        ]
+    },
+    {
+        "q": "4. Suntne numm\u012b I\u016bli\u012b in saccul\u014d D\u0101v\u012b? ",
+        "a": [
+            "Numm\u012b I\u016bli\u012b n\u014dn sunt in saccul\u014d D\u0101v\u012b"
+        ]
+    },
+    {
+        "q": "5. Quid I\u016blius p\u014dnit in saccul\u014d D\u0101v\u012b? ",
+        "a": [
+            "I\u016blius \u016bnum nummum in saccul\u014d D\u0101v\u012b p\u014dnit"
+        ]
+    },
+    {
+        "q": "6. Quot numm\u012b iam in saccul\u014d I\u016bli\u012b sunt? ",
+        "a": [
+            "Iam novem numm\u012b sunt in saccul\u014d I\u016bli\u012b"
+        ]
+    },
+    {
+        "q": "7. Estne vacuus sacculus M\u0113d\u012b? ",
+        "a": [
+            "N\u014dn est, in saccul\u014d M\u0113d\u012b sunt numm\u012b I\u016bli\u012b"
+        ]
+    },
+    {
+        "q": "8. C\u016br M\u0113dus disc\u0113dit? ",
+        "a": [
+            "M\u0113dus disc\u0113dit, quia is pec\u016bniam I\u016bli\u012b in saccul\u014d su\u014d habet"
+        ]
+    },
+    {
+        "q": "9. Quem I\u016blius vocat? ",
+        "a": [
+            "I\u016blius M\u0113dum vocat"
+        ]
+    },
+    {
+        "q": "10. C\u016br M\u0113dus I\u016blium n\u014dn audit? ",
+        "a": [
+            "M\u0113dus eum n\u014dn audit, quia abest"
+        ]
+    }
+]

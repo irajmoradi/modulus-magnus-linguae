@@ -1,0 +1,47 @@
+[
+    {
+        "q": "1. Qu\u012bntus gaudet quod medicus abest = Qu\u012bntus medic# ab# gaudet.",
+        "a": [
+            "um",
+            "esse"
+        ]
+    },
+    {
+        "q": "2. L\u0233dia gaudet quod M\u0113dus R\u014dmam venit = L\u0233dia M\u0113d# R\u014dmam ven# gaudet.",
+        "a": [
+            "um",
+            "\u012bre"
+        ]
+    },
+    {
+        "q": "3. I\u016blius gaudet quod D\u0101vus servus probus est = I\u016blius D\u0101v# serv# prob# es# gaudet.",
+        "a": [
+            "um",
+            "um",
+            "um",
+            "se"
+        ]
+    },
+    {
+        "q": "4. L\u0233dia gaudet quod M\u0113dus pec\u016bniam habet = L\u0233dia M\u0113d# pec\u016bniam hab# gaudet. \t",
+        "a": [
+            "um",
+            "\u0113re"
+        ]
+    },
+    {
+        "q": "5. Aemilia gaudet quod I\u016blius adest = Aemilia I\u016bli# ad# gaudet.",
+        "a": [
+            "um",
+            "esse"
+        ]
+    },
+    {
+        "q": "6. P\u0101stor gaudet quod ovis nigra v\u012bvit = P\u0101stor ov# nigr# viv# gaudet.",
+        "a": [
+            "em",
+            "am",
+            "ere"
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "q": "1. 'Serv|\u014d' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est.",
+        "a": [
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Serv|\u014d' # singul\u0101ris est; 'serv|\u012bs' # # est.",
+        "a": [
+            "abl\u0101t\u012bvus",
+            "abl\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "3. 'Ancill|\u0101' abl\u0101t\u012bvus # est; 'ancill|\u012bs' # # est.",
+        "a": [
+            "singul\u0101ris",
+            "abl\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "4. 'Cubicul|\u014d' # # est; 'cubicul|\u012bs' est # #.",
+        "a": [
+            "abl\u0101t\u012bvus",
+            "singul\u0101ris",
+            "abl\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "5. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: servus, abl\u0101t\u012bvus: serv#.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "6. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: serv\u012b, abl\u0101t\u012bvus: serv#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "7. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: ancilla, abl\u0101t\u012bvus: ancill#.",
+        "a": [
+            "\u0101"
+        ]
+    },
+    {
+        "q": "8. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: ancillae, abl\u0101t\u012bvus: ancill#.",
+        "a": [
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "9. Singul\u0101ris: n\u014dmin\u0101t\u012bvus: cubiculum, abl\u0101t\u012bvus: cubicul#.",
+        "a": [
+            "\u014d"
+        ]
+    },
+    {
+        "q": "10. Pl\u016br\u0101lis: n\u014dmin\u0101t\u012bvus: cubicula, abl\u0101t\u012bvus: cubicul#.",
+        "a": [
+            "\u012bs"
+        ]
+    }
+]

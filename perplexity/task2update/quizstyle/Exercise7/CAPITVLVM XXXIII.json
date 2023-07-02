@@ -1,0 +1,105 @@
+[
+    {
+        "q": "1. Her\u012b magister epistulam ad I\u016blium scr\u012bpsit, cum f\u012blius eius in l\u016bd\u014d dorm\u012bv#, pr\u0101v\u0113 scr\u012bps# nec magistr\u014d p\u0101ru#.",
+        "a": [
+            "isset",
+            "isset",
+            "isset"
+        ]
+    },
+    {
+        "q": "2. I\u016blius, cum epistulam magistr\u012b acc\u0113p# et l\u0113g#, \u0101 f\u012bli\u014d quaes\u012bvit c\u016br malus discipulus fu#.",
+        "a": [
+            "isset",
+            "isset",
+            "isset"
+        ]
+    },
+    {
+        "q": "3. Cum M\u0101rcus s\u0113 malum discipulum fuisse neg\u0101v#, pater \u201cProfect\u014d\u201d inquit \u201cmalus fuist\u012b! Nam s\u012b bonus discipulus fu# ac magistr\u014d p\u0101ru#, haec epistula \u0101 magistr\u014d tu\u014d scr\u012bpt# n\u014dn #.\u201d F\u012blius tacet.",
+        "a": [
+            "isset",
+            "iss\u0113s",
+            "iss\u0113s",
+            "a",
+            "esset"
+        ]
+    },
+    {
+        "q": "4. Pater: \u201cS\u012b attent\u0113 aud\u012bv# et r\u0113ct\u0113 scr\u012bps#, t\u016b \u0101 magistr\u014d laud\u0101t# # neque ego hanc epistulam acc\u0113p#.\u201d",
+        "a": [
+            "iss\u0113s",
+            "iss\u0113s",
+            "us",
+            "ess\u0113s",
+            "issem"
+        ]
+    },
+    {
+        "q": "5. F\u012blius: \u201cEtiam s\u012b bonus discipulus fu# ac magistr\u014d p\u0101ru#, laud\u0101t# n\u014dn #. S\u012b attent\u0113 aud\u012bv# et r\u0113ct\u0113 scr\u012bps#, t\u016b eandem epistulam \u0101 magistr\u014d acc\u0113p#!\u201d",
+        "a": [
+            "issem",
+            "issem",
+            "us",
+            "essem",
+            "issem",
+            "issem",
+            "iss\u0113s"
+        ]
+    },
+    {
+        "q": "6. Aliquand\u014d, cum puer\u012b in l\u016bd\u014d dorm\u012bv#, pr\u0101v\u0113 scr\u012bps# nec magistr\u014d p\u0101ru#, magister litter\u0101s ad parent\u0113s e\u014drum scr\u012bpsit.",
+        "a": [
+            "issent",
+            "issent",
+            "issent"
+        ]
+    },
+    {
+        "q": "7. Parent\u0113s, cum litter\u0101s magistr\u012b acc\u0113p# et l\u0113g#, \u0101 f\u012bli\u012bs quaes\u012bv\u0113runt c\u016br mal\u012b discipul\u012b fu#.",
+        "a": [
+            "issent",
+            "issent",
+            "issent"
+        ]
+    },
+    {
+        "q": "8. Cum f\u012bli\u012b s\u0113 mal\u014ds discipul\u014ds fuisse neg\u0101v#, \u201cCert\u0113\u201d inquit pater \u201cmal\u012b fuistis! Nam s\u012b bon\u012b discipul\u012b fu# ac magistr\u014d p\u0101ru#, hae litterae \u0101 magistr\u014d vestr\u014d scr\u012bpt# n\u014dn #.\u201d F\u012bli\u012b tacent.",
+        "a": [
+            "issent",
+            "iss\u0113tis",
+            "iss\u0113tis",
+            "ae",
+            "essent"
+        ]
+    },
+    {
+        "q": "9. Parent\u0113s: \u201cS\u012b attent\u0113 aud\u012bv# et r\u0113ct\u0113 scr\u012bps#, v\u014ds \u0101 magistr\u014d laud\u0101t# # neque n\u014ds h\u0101s litter\u0101s acc\u0113p#.\u201d",
+        "a": [
+            "iss\u0113tis",
+            "iss\u0113tis",
+            "\u012b",
+            "ess\u0113tis",
+            "iss\u0113mus"
+        ]
+    },
+    {
+        "q": "10. F\u012bli\u012b: \u201cEtiam s\u012b bon\u012b discipul\u012b fu# ac magistr\u014d p\u0101ru#, laud\u0101t# n\u014dn #. S\u012b attent\u0113 aud\u012bv# et r\u0113ct\u0113 scr\u012bps#, v\u014ds e\u0101sdem litter\u0101s \u0101 magistr\u014d acc\u0113p#.\u201d",
+        "a": [
+            "iss\u0113mus",
+            "iss\u0113mus",
+            "\u012b",
+            "ess\u0113mus",
+            "iss\u0113mus",
+            "iss\u0113mus",
+            "iss\u0113tis"
+        ]
+    },
+    {
+        "q": "11. R\u014dmulus, cum m\u016br\u014ds aedific\u0101v# [= postquam... aedific\u0101vit], fr\u0101trem suum nec\u0101vit. Cum fr\u0101trem nec\u0101v#, s\u014dlus r\u0113gn\u0101vit.",
+        "a": [
+            "isset",
+            "isset"
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q": "1. Dominus mult# serv# imperat, serv\u012b domin# su# p\u0101rent.",
+        "a": [
+            "\u012bs",
+            "\u012bs",
+            "\u014d",
+            "\u014d"
+        ]
+    },
+    {
+        "q": "2. M\u0113dus domin# sev\u0113r# servi\u0113bat neque e# oboedi\u0113bat.",
+        "a": [
+            "\u014d",
+            "\u014d",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "3. Oper\u0101 su\u0101 medicus puer# n\u014dn pr\u014dfuit, sed potius e# nocuit.",
+        "a": [
+            "\u014d",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "4. M\u0113dus L\u0233di# persu\u0101sit ut s\u0113cum profic\u012bscer\u0113tur.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "5. S\u012b per\u012bcula naut# impendent, Nept\u016bnus i# adest.",
+        "a": [
+            "\u012bs",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "6. Nautae Ar\u012bon# invid\u0113bant e#que mortem min\u0101t\u012b sunt, sed Ar\u012b\u014dn \u014dr\u0101vit ut s# parcerent: \u201cParcite m#! Permittite m# domum red\u012bre!\u201d",
+        "a": [
+            "\u012b",
+            "\u012b",
+            "ibi",
+            "ihi",
+            "ihi"
+        ]
+    },
+    {
+        "q": "7. Host\u0113s castr# R\u014dm\u0101n# appropinquant, sed dux qu\u012b castr# praeest m\u012blit# su# (c\u014dn)f\u012bdit.",
+        "a": [
+            "\u012bs",
+            "\u012bs",
+            "\u012bs",
+            "ibus",
+            "\u012bs"
+        ]
+    },
+    {
+        "q": "8. Difficile est am\u012bc#, qu\u012b t# d\u0113fuit, ign\u014dscere.",
+        "a": [
+            "\u014d",
+            "ibi"
+        ]
+    },
+    {
+        "q": "9. Gubern\u0101tor M\u0113d# su\u0101sit n\u0113 praed\u014dn# resisteret.",
+        "a": [
+            "\u014d",
+            "ibus"
+        ]
+    },
+    {
+        "q": "10. Spect\u0101t\u014dr\u0113s gladi\u0101t\u014dr# qu# favent plaudunt.",
+        "a": [
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "11. I\u016blius litter# studet neque e# libet gladi\u0101t\u014dr\u0113s spect\u0101re.",
+        "a": [
+            "\u012bs",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "12. Idem n\u014dn omn# placet, neque idem omn# licet.",
+        "a": [
+            "ibus",
+            "ibus"
+        ]
+    },
+    {
+        "q": "13. Lesbia d\u012bxit \u2018s\u0113 Catull# n\u016bbere velle\u2019, neque Catullus am\u012bc# su# cr\u0113didit.",
+        "a": [
+            "\u014d",
+            "ae",
+            "ae"
+        ]
+    }
+]

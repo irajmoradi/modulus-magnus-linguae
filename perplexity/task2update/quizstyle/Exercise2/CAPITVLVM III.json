@@ -1,0 +1,52 @@
+[
+    {
+        "q": "1. M\u0101rcus I\u016bli# pulsat.",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "2. M\u0101rcus Qu\u012bnt# n\u014dn videt, sed Qu\u012bntus M\u0101rc# videt.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "3. Qu\u012bntus: \"Quid? M\u0101rcus puell# pulsat?\"",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus M\u0101rc# pulsat, et M\u0101rcus pulsat Qu\u012bnt#.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "5. I\u016blia n\u014dn videt Aemili#.",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "6. I\u016blia Aemili# vocat: \"Mamma!\"",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus \u012br\u0101tus I\u016bli# pulsat.",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "8. I\u016blia: \"Mamma! M\u0101rcus # pulsat!\"",
+        "a": [
+            "m\u0113"
+        ]
+    }
+]

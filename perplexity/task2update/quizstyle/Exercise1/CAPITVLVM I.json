@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. Italia in Eur\u014dp\u0101 #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "2. Gallia in Eur\u014dp\u0101 #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "3. Italia et Gallia in Eur\u014dp\u0101 #.",
+        "a": [
+            "sunt"
+        ]
+    },
+    {
+        "q": "4. Arabia in Eur\u014dp\u0101 n\u014dn #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "5. Arabia in Asi\u0101 #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "6. Syria quoque in Asi\u0101 #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "7. Syria et Arabia in Asi\u0101 #.",
+        "a": [
+            "sunt"
+        ]
+    },
+    {
+        "q": "8. Hisp\u0101nia in Asi\u0101 n\u014dn #.",
+        "a": [
+            "est"
+        ]
+    },
+    {
+        "q": "9. Hisp\u0101nia et Gallia et Italia in Eur\u014dp\u0101 #.",
+        "a": [
+            "sunt"
+        ]
+    }
+]

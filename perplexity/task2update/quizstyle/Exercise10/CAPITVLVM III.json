@@ -1,0 +1,66 @@
+[
+    {
+        "q": "1. 'Qu\u012bnt|us' n\u014dmin\u0101t\u012bvus est. 'M\u0101rc|um' est #.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Qu\u012bnt|um' acc\u016bs\u0101t\u012bvus est. 'Qu\u012bnt|us' est #.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "3. 'I\u016bli|a' # est. 'Aemili|am' # est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "4. 'I\u016bli|am' # est. 'Aemili|a' # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "n\u014dmin\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "5. N\u014dmin\u0101t\u012bvus: M\u0101rcus. Acc\u016bs\u0101t\u012bvus: M\u0101rc#.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "6. N\u014dmin\u0101t\u012bvus: Aemilia. Acc\u016bs\u0101t\u012bvus: Aemili#.",
+        "a": [
+            "am"
+        ]
+    },
+    {
+        "q": "7. Acc\u016bs\u0101t\u012bvus: I\u016blium. N\u014dmin\u0101t\u012bvus: I\u016bli#.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "8. Acc\u016bs\u0101t\u012bvus: I\u016bliam. N\u014dmin\u0101t\u012bvus: I\u016bli#.",
+        "a": [
+            "a"
+        ]
+    },
+    {
+        "q": "9. N\u014dmin\u0101t\u012bvus: puer improbus. Acc\u016bs\u0101t\u012bvus: puer# improb#.",
+        "a": [
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "10. N\u014dmin\u0101t\u012bvus: parva puella. Acc\u016bs\u0101t\u012bvus: parv# puell#.",
+        "a": [
+            "am",
+            "am"
+        ]
+    }
+]

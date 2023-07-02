@@ -1,0 +1,42 @@
+[
+    {
+        "q": "1. Sicilia \u012bnsula est. Sicilia et Sardinia # sunt.",
+        "a": [
+            "\u012bnsulae"
+        ]
+    },
+    {
+        "q": "2. Rh\u0113nus fluvius est. Rh\u0113nus et D\u0101nuvius # #.",
+        "a": [
+            "fluvi\u012b",
+            "sunt"
+        ]
+    },
+    {
+        "q": "3. T\u016bsculum oppidum est. T\u016bsculum et Brundisium # #.",
+        "a": [
+            "oppida",
+            "sunt"
+        ]
+    },
+    {
+        "q": "4. Corsica et Sardinia \u012bnsulae sunt. Sicilia quoque # est.",
+        "a": [
+            "\u012bnsula"
+        ]
+    },
+    {
+        "q": "5. N\u012blus et Tiberis fluvi\u012b sunt. D\u0101nuvius quoque # #.",
+        "a": [
+            "fluvius",
+            "est"
+        ]
+    },
+    {
+        "q": "6. Sparta et Delph\u012b oppida sunt. Brundisium quoque # #.",
+        "a": [
+            "oppidum",
+            "est"
+        ]
+    }
+]

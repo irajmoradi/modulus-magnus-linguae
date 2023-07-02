@@ -1,0 +1,56 @@
+[
+    {
+        "q": "1. 'D\u0101v|e' n\u014dn n\u014dmin\u0101t\u012bvus, sed # est.",
+        "a": [
+            "voc\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Domin|e' quoque # est.",
+        "a": [
+            "voc\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "3. N\u014dmin\u0101t\u012bvus: D\u0101vus. Voc\u0101t\u012bvus: D\u0101v#.",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "4. N\u014dmin\u0101t\u012bvus: dominus. Voc\u0101t\u012bvus: domin#.",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "5. Voc\u0101t\u012bvus: M\u0113de. N\u014dmin\u0101t\u012bvus: M\u0113d#.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "6. N\u014dmin\u0101t\u012bvus: servus. Voc\u0101t\u012bvus: serv#.",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "7. N\u014dmin\u0101t\u012bvus: M\u0101rcus. Voc\u0101t\u012bvus: M\u0101rc#.",
+        "a": [
+            "e"
+        ]
+    },
+    {
+        "q": "8. Voc\u0101t\u012bvus: Qu\u012bnte. N\u014dmin\u0101t\u012bvus: Qu\u012bnt#.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "9. N\u014dmin\u0101t\u012bvus: -us. Voc\u0101t\u012bvus: -#.",
+        "a": [
+            "e"
+        ]
+    }
+]

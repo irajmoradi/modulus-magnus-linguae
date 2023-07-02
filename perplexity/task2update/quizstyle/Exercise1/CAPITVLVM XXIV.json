@@ -1,0 +1,90 @@
+[
+    {
+        "q": "1. M\u0101rcus: \u201cEcce tabula mea. # ipse hoc scr\u012bps\u012b. N\u014dnne litterae meae pulchrae v# d\u0113lectant? C\u016br n\u014dn laudor \u0101 v#?\u201d",
+        "a": [
+            "Ego",
+            "\u014ds",
+            "\u014db\u012bs"
+        ]
+    },
+    {
+        "q": "2. I\u016blius: \u201cN# t# n\u014dn cr\u0113dimus, M\u0101rce. T# hoc n\u014dn scr\u012bpsist\u012b.\u201d",
+        "a": [
+            "\u014ds",
+            "ibi",
+            "\u016b"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus: \u201cC\u016br v# m# n\u014dn cr\u0113ditis? N\u014dnne m# pulchr\u0113 scr\u012bbere put\u0101tis?\u201d",
+        "a": [
+            "\u014ds",
+            "ihi",
+            "\u0113"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \u201cSc\u012bmus t# foed\u0113 scr\u012bbere! Hae litterae pulchrae \u0101 t# scr\u012bptae esse n\u014dn possunt.\u201d",
+        "a": [
+            "\u0113",
+            "\u0113"
+        ]
+    },
+    {
+        "q": "5. M\u0101rcus: \u201cCert\u0113 \u0101 m# scr\u012bptae sunt!\u201d M\u0101rcus \u2018litter\u0101s \u0101 s# scr\u012bpt\u0101s esse\u2019 d\u012bcit.",
+        "a": [
+            "\u0113",
+            "\u0113"
+        ]
+    },
+    {
+        "q": "6. I\u016blius: \u201cN# fallere n\u014dn potes. Num t# Sextus n\u014dmen est?\u201d",
+        "a": [
+            "\u014ds",
+            "ibi"
+        ]
+    },
+    {
+        "q": "7. Tandem M\u0101rcus fat\u0113tur \u2018s# tabul\u0101s m\u016bt\u0101visse\u2019 neque s# exc\u016bs\u0101re c\u014dn\u0101tur.",
+        "a": [
+            "\u0113",
+            "\u0113"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \u201cN\u014dnne t# pudet ita f\u0113cisse?\u201d",
+        "a": [
+            "\u0113"
+        ]
+    },
+    {
+        "q": "9. M\u0101rcus: \u201cN\u014dl\u012b m# verber\u0101re, pater! Magister m# iam bis verber\u0101vit: tergum adh\u016bc m# dolet.\u201d",
+        "a": [
+            "\u0113",
+            "\u0113",
+            "ihi"
+        ]
+    },
+    {
+        "q": "10. M\u0101rcus d\u012bcit \u2018tergum adh\u016bc s# dol\u0113re.\u2019",
+        "a": [
+            "ibi"
+        ]
+    },
+    {
+        "q": "11. M\u0101rcus: \u201cPosth\u0101c v# p\u0101r\u0113b\u014d, pater et m\u0101ter; id v# pr\u014dmitt\u014d.\u201d",
+        "a": [
+            "\u014db\u012bs",
+            "\u014db\u012bs"
+        ]
+    },
+    {
+        "q": "12. I\u016blius: \u201cId saepe anteh\u0101c n# pr\u014dm\u012bsist\u012b. N\u014dn cr\u0113dimus t# n# p\u0101rit\u016brum esse. Disc\u0113de \u0101 n#, puer!\u201d",
+        "a": [
+            "\u014db\u012bs",
+            "\u0113",
+            "\u014db\u012bs",
+            "\u014db\u012bs"
+        ]
+    }
+]

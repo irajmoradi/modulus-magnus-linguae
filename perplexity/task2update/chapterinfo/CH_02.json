@@ -1,0 +1,1207 @@
+{
+    "id": 1,
+    "name": "CAPITVLVM II",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0101rcus puer R\u014dm\u0101nus est; I\u016blia est # R\u014dm\u0101na.",
+                    "a": [
+                        "puella"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius est vir R\u014dm\u0101nus; Aemilia # R\u014dm\u0101na est.",
+                    "a": [
+                        "f\u0113mina"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcus n\u014dn puella, sed # est.",
+                    "a": [
+                        "puer"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101rcus et Qu\u012bntus sunt #, n\u014dn puellae.",
+                    "a": [
+                        "puer\u012b"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blius et M\u0113dus n\u014dn puer\u012b, sed # sunt; D\u0101vus quoque # est.",
+                    "a": [
+                        "vir\u012b",
+                        "vir"
+                    ]
+                },
+                {
+                    "q": "6. N\u014dn vir\u012b, sed # sunt Aemilia et D\u0113lia; Syra quoque # est.",
+                    "a": [
+                        "f\u0113minae",
+                        "f\u0113mina"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius pater est. Aemilia est #.",
+                    "a": [
+                        "m\u0101ter"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia f\u012blia est. M\u0101rcus et Qu\u012bntus sunt #.",
+                    "a": [
+                        "f\u012bli\u012b"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcus et Qu\u012bntus et I\u016blia sunt tr\u0113s #.",
+                    "a": [
+                        "l\u012bber\u012b"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blia n\u014dn m\u0101ter, sed # est.",
+                    "a": [
+                        "f\u012blia"
+                    ]
+                },
+                {
+                    "q": "5. N\u014dn pater, sed # est M\u0101rcus.",
+                    "a": [
+                        "f\u012blius"
+                    ]
+                },
+                {
+                    "q": "6. M\u0101rcus f\u012blius I\u016bli\u012b est: I\u016blius est pater M\u0101rc#.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012bntus f\u012blius I\u016bli\u012b est: I\u016blius est pater Qu\u012bnt#.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blia f\u012blia I\u016bli\u012b est: I\u016blius est pater I\u016bli#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "9. M\u0101rcus et Qu\u012bntus f\u012bli\u012b Aemiliae sunt: Aemilia est m\u0101ter M\u0101rc# et Qu\u012bnt#.",
+                    "a": [
+                        "\u012b",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blia f\u012blia Aemiliae est: Aemilia est m\u0101ter I\u016bli#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blia est f\u012blia I\u016bli# et Aemili#.",
+                    "a": [
+                        "\u012b",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius est pater M\u0101rc# et Qu\u012bnt# et I\u016bli# .",
+                    "a": [
+                        "\u012b",
+                        "\u012b",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "13. M\u0101ter M\u0101rc# et Qu\u012bnt# et I\u016bli# est Aemilia.",
+                    "a": [
+                        "\u012b",
+                        "\u012b",
+                        "ae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # est Qu\u012bntus? Qu\u012bntus puer R\u014dm\u0101nus est.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "2. # est pater Qu\u012bnt\u012b? Pater Qu\u012bnt\u012b est I\u016blius.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "3. # est m\u0101ter Qu\u012bnt\u012b? Aemilia est m\u0101ter Qu\u012bnt\u012b.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "4. # est f\u012blia I\u016bli\u012b et Aemiliae? F\u012blia I\u016bli\u012b et Aemiliae I\u016blia est.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "5. # sunt f\u012bli\u012b? F\u012bli\u012b sunt M\u0101rcus et Qu\u012bntus.",
+                    "a": [
+                        "Qu\u012b"
+                    ]
+                },
+                {
+                    "q": "6. # est T\u016bsculum? T\u016bsculum oppidum est.",
+                    "a": [
+                        "Quid"
+                    ]
+                },
+                {
+                    "q": "7. # est 'gamma'? 'Gamma' est littera Graeca.",
+                    "a": [
+                        "Quid"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exemplum: \nF\u012bli\u012b et f\u012bliae = f\u012bli\u012b f\u012bliaeque.\n",
+            "questions": [
+                {
+                    "q": "1. Litterae et numer\u012b = # #.",
+                    "a": [
+                        "litterae",
+                        "numer\u012bque"
+                    ]
+                },
+                {
+                    "q": "2. M\u0101rcus et Qu\u012bntus = # #.",
+                    "a": [
+                        "M\u0101rcus",
+                        "Qu\u012bntusque"
+                    ]
+                },
+                {
+                    "q": "3. Puer\u012b et puellae = # #.",
+                    "a": [
+                        "puer\u012b",
+                        "puellaeque"
+                    ]
+                },
+                {
+                    "q": "4. F\u0113minae puer\u012bque = # # #.",
+                    "a": [
+                        "f\u0113minae",
+                        "et",
+                        "puer\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Serv\u012b ancillaeque = # # #.",
+                    "a": [
+                        "serv\u012b",
+                        "et",
+                        "ancillae"
+                    ]
+                },
+                {
+                    "q": "6. \u016ana f\u012blia duoque f\u012bli\u012b = # # # # #.",
+                    "a": [
+                        "\u016bna",
+                        "f\u012blia",
+                        "et",
+                        "duo",
+                        "f\u012bli\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0113dus n\u014dn est f\u012blius I\u016bli\u012b, M\u0113dus # I\u016bli\u012b est.",
+                    "a": [
+                        "servus"
+                    ]
+                },
+                {
+                    "q": "2. D\u0113lia n\u014dn est f\u012blia Aemiliae, D\u0113lia # Aemiliae est.",
+                    "a": [
+                        "ancilla"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius # M\u0113d\u012b est. Aemilia # D\u0113liae est. \t",
+                    "a": [
+                        "dominus",
+                        "domina"
+                    ]
+                },
+                {
+                    "q": "4. D\u0101vus et M\u0113dus n\u014dn sunt domin\u012b, sed #. ",
+                    "a": [
+                        "serv\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Syra et D\u0113lia n\u014dn sunt dominae, sed #.",
+                    "a": [
+                        "ancillae"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius dominus D\u0101v\u012b est: I\u016blius est dominus serv#.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius dominus D\u0101v\u012b et M\u0113d\u012b est: I\u016blius est dominus serv#.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia domina Syrae est: Aemilia est domina ancill#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia domina Syrae et D\u0113liae est: Aemilia est domina ancill#.",
+                    "a": [
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "10. M\u0101rcus, Qu\u012bntus I\u016bliaque n\u014dn serv\u012b, sed # sunt.",
+                    "a": [
+                        "l\u012bber\u012b"
+                    ]
+                },
+                {
+                    "q": "11. I\u016blius dominus serv# est et pater l\u012bber#.",
+                    "a": [
+                        "\u014drum",
+                        "\u014drum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est pater M\u0101rc\u012b? ...",
+                    "a": [
+                        "pater M\u0101rc\u012b est I\u016blius"
+                    ]
+                },
+                {
+                    "q": "2. Quae est m\u0101ter M\u0101rc\u012b? ...",
+                    "a": [
+                        "Aemilia est m\u0101ter M\u0101rc\u012b"
+                    ]
+                },
+                {
+                    "q": "3. Quae est f\u012blia I\u016bli\u012b et Aemiliae? ...",
+                    "a": [
+                        "I\u016blia est f\u012blia I\u016bli\u012b et Aemiliae"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012b sunt f\u012bli\u012b I\u016bli\u012b et Aemiliae? ...",
+                    "a": [
+                        "F\u012bli\u012b sunt M\u0101rcus et Qu\u012bntus"
+                    ]
+                },
+                {
+                    "q": "5. Quis est M\u0113dus? ...",
+                    "a": [
+                        "M\u0113dus servus est"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012b sunt M\u0113dus et D\u0101vus? ...",
+                    "a": [
+                        "M\u0113dus et D\u0101vus serv\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "7. Quae est D\u0113lia? ...",
+                    "a": [
+                        "D\u0113lia ancilla est"
+                    ]
+                },
+                {
+                    "q": "8. Quis est dominus serv\u014drum? ...",
+                    "a": [
+                        "I\u016blius est dominus serv\u014drum"
+                    ]
+                },
+                {
+                    "q": "9. Quae est domina ancill\u0101rum? ...",
+                    "a": [
+                        "Aemilia domina ancill\u0101rum est"
+                    ]
+                },
+                {
+                    "q": "10. Cuius servus est M\u0113dus? ...",
+                    "a": [
+                        "M\u0113dus servus I\u016bli\u012b est"
+                    ]
+                },
+                {
+                    "q": "11. Cuius f\u012blius est M\u0101rcus? ...",
+                    "a": [
+                        "M\u0101rcus est f\u012blius I\u016bli\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius est dominus mult# serv#.",
+                    "a": [
+                        "\u014drum",
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "2. Numerus serv# est centum.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia est domina mult# ancill#.",
+                    "a": [
+                        "\u0101rum",
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "4. Numerus serv# et ancill# magnus est.",
+                    "a": [
+                        "\u014drum",
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "5. In famili\u0101 est magnus numerus serv# et ancill#.",
+                    "a": [
+                        "\u014drum",
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "6. Numerus l\u012bber# est tr\u0113s.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "7. In famili\u0101 I\u016bli\u012b est parvus numerus l\u012bber#.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "8. In Graeci\u0101 est magnus numerus \u012bnsul#.",
+                    "a": [
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "9. In Arabi\u0101 est parvus numerus fluvi#.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "10. In Itali\u0101 est magnus numerus oppid#.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nMult\u012b/pauc\u012b serv\u012b = magnus/parvus numerus serv\u014drum.\n",
+            "questions": [
+                {
+                    "q": "1. Multae \u012bnsulae = # # #.",
+                    "a": [
+                        "magnus",
+                        "numerus",
+                        "\u012bnsul\u0101rum"
+                    ]
+                },
+                {
+                    "q": "2. Pauc\u012b fluvi\u012b = # # #.",
+                    "a": [
+                        "parvus",
+                        "numerus",
+                        "fluvi\u014drum"
+                    ]
+                },
+                {
+                    "q": "3. Multa oppida = # # #.",
+                    "a": [
+                        "magnus",
+                        "numerus",
+                        "oppid\u014drum"
+                    ]
+                },
+                {
+                    "q": "4. Pauc\u012b l\u012bber\u012b = # # #.",
+                    "a": [
+                        "parvus",
+                        "numerus",
+                        "l\u012bber\u014drum"
+                    ]
+                },
+                {
+                    "q": "5. Magnus numerus voc\u0101bul\u014drum = # #.",
+                    "a": [
+                        "multa",
+                        "voc\u0101bula"
+                    ]
+                },
+                {
+                    "q": "6. Magnus numerus litter\u0101rum = # #.",
+                    "a": [
+                        "multae",
+                        "litterae"
+                    ]
+                },
+                {
+                    "q": "7. Parvus numerus exempl\u014drum = # #. ",
+                    "a": [
+                        "pauca",
+                        "exempla"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # serv\u012b sunt in famili\u0101 I\u016bli\u012b? # [C] serv\u012b.",
+                    "a": [
+                        "Quot",
+                        "Centum"
+                    ]
+                },
+                {
+                    "q": "2. M\u0113dus et D\u0101vus # [II] serv\u012b sunt.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "3. Syra et D\u0113lia sunt # [II] ancillae.",
+                    "a": [
+                        "duae"
+                    ]
+                },
+                {
+                    "q": "4. T\u016bsculum et Brundisium # [II] oppida sunt.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "5. # l\u012bber\u012b in famili\u0101 sunt? # [III] l\u012bber\u012b.",
+                    "a": [
+                        "Quot",
+                        "Tr\u0113s"
+                    ]
+                },
+                {
+                    "q": "5. In famili\u0101 n\u014dn # [II] f\u012bliae, sed # [I] f\u012blia est.",
+                    "a": [
+                        "duae",
+                        "\u016bna"
+                    ]
+                },
+                {
+                    "q": "7. In famili\u0101 n\u014dn # [I] f\u012blius, sed # [II] f\u012bli\u012b sunt.",
+                    "a": [
+                        "\u016bnus",
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "8. 'Vir', 'puer', 'puella' # [III] voc\u0101bula sunt.",
+                    "a": [
+                        "tria"
+                    ]
+                },
+                {
+                    "q": "9. Rh\u0113nus et D\u0101nuvius et Tiberis # [III] fluvi\u012b sunt: # [II] fluvi\u012b magn\u012b et # [I] fluvius parvus.",
+                    "a": [
+                        "tr\u0113s",
+                        "duo",
+                        "\u016bnus"
+                    ]
+                },
+                {
+                    "q": "10. Brundisium et Sparta et Delph\u012b # [III] oppida sunt: # [II] oppida magna et # [I] oppidum parvum.",
+                    "a": [
+                        "tria",
+                        "duo",
+                        "\u016bnum"
+                    ]
+                },
+                {
+                    "q": "11. Sardinia et Sicilia et Melita sunt # [III] \u012bnsulae: # [II] \u012bnsulae magnae et # [I] \u012bnsula parva.",
+                    "a": [
+                        "tr\u0113s",
+                        "duae",
+                        "\u016bna"
+                    ]
+                },
+                {
+                    "q": "12. In Graeci\u0101 # \u012bnsulae sunt? In Graeci\u0101 sunt # [M] \u012bnsulae parvae magnaeque.",
+                    "a": [
+                        "quot",
+                        "m\u012blle"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Corn\u0113lius: \"Estne M\u0113dus f\u012blius #?\" ",
+                    "a": [
+                        "tuus"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius: \"M\u0113dus n\u014dn est f\u012blius #.\"",
+                    "a": [
+                        "meus"
+                    ]
+                },
+                {
+                    "q": "3. Corn\u0113lius: \"Estne D\u0113lia f\u012blia #?\"",
+                    "a": [
+                        "tua"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius: \"D\u0113lia n\u014dn est f\u012blia #.\"",
+                    "a": [
+                        "mea"
+                    ]
+                },
+                {
+                    "q": "5. Corn\u0113lius: \"Suntne ancillae # D\u0113lia et Syra?\"",
+                    "a": [
+                        "tuae"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blius: \"D\u0113lia et Syra sunt ancillae #.\"",
+                    "a": [
+                        "meae"
+                    ]
+                },
+                {
+                    "q": "7. Corn\u0113lius: \"Qu\u012b sunt f\u012bli\u012b #?\"",
+                    "a": [
+                        "tu\u012b"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blius: \"F\u012bli\u012b # sunt M\u0101rcus et Qu\u012bntus.\"",
+                    "a": [
+                        "me\u012b"
+                    ]
+                },
+                {
+                    "q": "9. Corn\u0113lius: \"Quot serv\u012b sunt in famili\u0101 #?\"",
+                    "a": [
+                        "tu\u0101"
+                    ]
+                },
+                {
+                    "q": "10. I\u016blius: \"In famili\u0101 # sunt centum serv\u012b. Numerus serv\u014drum # est centum. Familia # magna est.\"",
+                    "a": [
+                        "me\u0101",
+                        "me\u014drum",
+                        "mea"
+                    ]
+                },
+                {
+                    "q": "11. Corn\u0113lius: \"Centum serv\u012b! Magnus est numerus serv\u014drum #!\"",
+                    "a": [
+                        "tu\u014drum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # duo lib# Lat\u012bn\u012b: liber # [<> novus] et liber #.",
+                    "a": [
+                        "Ecce",
+                        "r\u012b",
+                        "ant\u012bquus",
+                        "novus"
+                    ]
+                },
+                {
+                    "q": "2. Numerus lib# Lat\u012bn\u014drum magnus est.",
+                    "a": [
+                        "r\u014drum"
+                    ]
+                },
+                {
+                    "q": "3. 'LINGVA LATINA' est # lib# tu\u012b Lat\u012bn\u012b.",
+                    "a": [
+                        "titulus",
+                        "r\u012b"
+                    ]
+                },
+                {
+                    "q": "4. In LINGVA LATINA sunt multae # (p\u0101g. 1, 2, 3, c\u0113terae) et multa capitul# (cap. I et II et III et #).",
+                    "a": [
+                        "p\u0101ginae",
+                        "a",
+                        "c\u0113tera"
+                    ]
+                },
+                {
+                    "q": "5. Numerus capitul# est magnus.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "6. IMPERIVM ROMANVM est capitul# pr\u012bmum.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Titulus capitul# pr\u012bm\u012b est 'IMPERIVM ROMANVM'.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "8. In capitul\u014d pr\u012bm\u014d mult# voc\u0101bul# sunt.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "9. Numerus voc\u0101bul# magnus est.",
+                    "a": [
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "10. 'R\u014dma' est voc\u0101bul# pr\u012bmum capitul# pr\u012bm#.",
+                    "a": [
+                        "um",
+                        "\u012b",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "11. P est littera pr\u012bma voc\u0101bul# pr\u012bm\u012b.",
+                    "a": [
+                        "\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Serv|us' voc\u0101bulum mascul\u012bnum est. 'Ancill|a' voc\u0101bulum # est. 'Oppid|um' voc\u0101bulum # est.",
+                    "a": [
+                        "f\u0113min\u012bnum",
+                        "neutrum"
+                    ]
+                },
+                {
+                    "q": "2. 'Puer' n\u014dn est voc\u0101bulum f\u0113min\u012bnum, sed #.",
+                    "a": [
+                        "mascul\u012bnum"
+                    ]
+                },
+                {
+                    "q": "3. 'Serv|us' et 'domin|us' voc\u0101bula # sunt; 'fluvi|us' quoque # # est.",
+                    "a": [
+                        "mascul\u012bna",
+                        "voc\u0101bulum",
+                        "mascul\u012bnum"
+                    ]
+                },
+                {
+                    "q": "4. 'Ancill|a' et 'domin|a' voc\u0101bula # sunt; '\u012bnsul|a' quoque # # est.",
+                    "a": [
+                        "f\u0113min\u012bna",
+                        "voc\u0101bulum",
+                        "f\u0113min\u012bnum"
+                    ]
+                },
+                {
+                    "q": "5. 'Oppid|um' et 'imperi|um' voc\u0101bula # sunt; 'exempl|um' quoque # # est.",
+                    "a": [
+                        "neutra",
+                        "voc\u0101bulum",
+                        "neutrum"
+                    ]
+                },
+                {
+                    "q": "6. Mascul\u012bnum: vir R\u014dm\u0101n#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "7. F\u0113min\u012bnum: f\u0113min# R\u014dm\u0101n#.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. Neutrum: imperi# R\u014dm\u0101n#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blius pater M\u0101rc\u012b est: 'M\u0101rc|\u012b' # est.",
+                    "a": [
+                        "genet\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blius pater I\u016bliae est: 'Iuli|ae' quoque # est.",
+                    "a": [
+                        "genet\u012bvus"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blius dominus serv\u012b est: 'serv|\u012b' # singul\u0101ris est.",
+                    "a": [
+                        "genet\u012bvus"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blius dominus serv\u014drum est: 'serv|\u014drum' est # #. ",
+                    "a": [
+                        "genet\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia domina ancillae est: 'ancill|ae' # # est.",
+                    "a": [
+                        "genet\u012bvus",
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia domina ancill\u0101rum est: 'ancill|\u0101rum' est # #. ",
+                    "a": [
+                        "genet\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "7. Titulus capitul\u012b est 'FAMILIA ROMANA': 'capitul|\u012b' # # est. ",
+                    "a": [
+                        "genet\u012bvus",
+                        "singul\u0101ris"
+                    ]
+                },
+                {
+                    "q": "8. Numerus capitul\u014drum magnus est: 'capitul|\u014drum' est # #.",
+                    "a": [
+                        "genet\u012bvus",
+                        "pl\u016br\u0101lis"
+                    ]
+                },
+                {
+                    "q": "9. Genet\u012bvus: singul\u0101ris: serv#, pl\u016br\u0101lis: serv#.",
+                    "a": [
+                        "\u012b",
+                        "\u014drum"
+                    ]
+                },
+                {
+                    "q": "10. Genet\u012bvus: singul\u0101ris: ancill#, pl\u016br\u0101lis: ancill#.",
+                    "a": [
+                        "ae",
+                        "\u0101rum"
+                    ]
+                },
+                {
+                    "q": "11. Genet\u012bvus: singul\u0101ris: capitul#, pl\u016br\u0101lis: capitul#.",
+                    "a": [
+                        "\u012b",
+                        "\u014drum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "us",
+                        "a"
+                    ],
+                    "q": "M\u0101rcus f\u012bli# I\u016bli\u012b est. I\u016blia f\u012bli# I\u016bli\u012b est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "a",
+                        "a"
+                    ],
+                    "q": "I\u016blius est vir R\u014dm\u0101n#. Aemilia f\u0113min# R\u014dm\u0101n# est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "a"
+                    ],
+                    "q": "I\u016blius domin#, Aemilia domin# est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "us",
+                        "a",
+                        "a"
+                    ],
+                    "q": "M\u0113dus serv# Graec# est, D\u0113lia est ancill# Graec#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Sparta oppid# Graec# est."
+                },
+                {
+                    "a": [
+                        "\u012b"
+                    ],
+                    "q": "I\u016blius pater M\u0101rc# est."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "ae"
+                    ],
+                    "q": "M\u0101rcus est f\u012blius I\u016bli# et Aemili#."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u012b"
+                    ],
+                    "q": "M\u0113dus servus I\u016bli# est: I\u016blius est dominus serv#."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u012b",
+                        "\u014drum"
+                    ],
+                    "q": "I\u016blius dominus M\u0113d# et D\u0101v# est: I\u016blius dominus serv# est."
+                },
+                {
+                    "a": [
+                        "\u014drum"
+                    ],
+                    "q": "Numerus serv# magnus est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "D\u0113lia est ancilla Aemili# : Aemilia domina ancill# est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "\u0101rum"
+                    ],
+                    "q": "Aemilia domina D\u0113li# et Syr# est: Aemilia domina ancill# est."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u014drum",
+                        "\u0101rum"
+                    ],
+                    "q": "In famili\u0101 I\u016bli# est magnus numerus serv# et ancill#."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u012b",
+                        "ae"
+                    ],
+                    "q": "Aemilia m\u0101ter M\u0101rc# et Qu\u012bnt# et I\u016bli# est."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "ae"
+                    ],
+                    "q": "M\u0101rcus, Qu\u012bntus I\u016bliaque sunt l\u012bber\u012b I\u016bli# et Aemili#."
+                },
+                {
+                    "a": [
+                        "\u014drum"
+                    ],
+                    "q": "Numerus l\u012bber# est tr\u0113s."
+                },
+                {
+                    "a": [
+                        "\u014drum"
+                    ],
+                    "q": "Numerus serv# est centum."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u012b"
+                    ],
+                    "q": "In p\u0101gin\u0101 pr\u012bm\u0101 capitul# secund# multa voc\u0101bula nova sunt."
+                },
+                {
+                    "a": [
+                        "\u014drum"
+                    ],
+                    "q": "Numerus capitul# n\u014dn parvus est."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "puer"
+                    ],
+                    "q": "M\u0101rcus # R\u014dm\u0101nus est."
+                },
+                {
+                    "a": [
+                        "vir"
+                    ],
+                    "q": "I\u016blius # R\u014dm\u0101nus est."
+                },
+                {
+                    "a": [
+                        "f\u0113mina"
+                    ],
+                    "q": "Aemilia est # R\u014dm\u0101na."
+                },
+                {
+                    "a": [
+                        "pater"
+                    ],
+                    "q": "I\u016blius est # M\u0101rc\u012b et Qu\u012bnt\u012b et I\u016bliae."
+                },
+                {
+                    "a": [
+                        "famili\u0101",
+                        "l\u012bber\u012b",
+                        "f\u012bli\u012b",
+                        "f\u012blia"
+                    ],
+                    "q": "In # I\u016bli\u012b sunt tr\u0113s # : duo # et \u016bna #."
+                },
+                {
+                    "a": [
+                        "M\u0101ter"
+                    ],
+                    "q": "# l\u012bber\u014drum est Aemilia."
+                },
+                {
+                    "a": [
+                        "Quis",
+                        "servus",
+                        "dominus"
+                    ],
+                    "q": "# est D\u0101vus? D\u0101vus est # I\u016bli\u012b. I\u016blius # D\u0101v\u012b est."
+                },
+                {
+                    "a": [
+                        "Quae",
+                        "ancilla",
+                        "domina"
+                    ],
+                    "q": "# est Syra? Syra # Aemiliae est. Aemilia est # Syrae."
+                },
+                {
+                    "a": [
+                        "Quot",
+                        "me\u0101",
+                        "centum"
+                    ],
+                    "q": "Corn\u0113lius: \"# serv\u012b sunt in famili\u0101 tu\u0101?\" I\u016blius: \"In famili\u0101 # sunt # [C] serv\u012b.\""
+                },
+                {
+                    "a": [
+                        "tua"
+                    ],
+                    "q": "Corn\u0113lius: \"Familia # magna est!\""
+                },
+                {
+                    "a": [
+                        "libr\u012b"
+                    ],
+                    "q": "'LINGVA LATINA' est titulus # tu\u012b Lat\u012bn\u012b."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est Qu\u012bntus? ",
+                    "a": [
+                        "Qu\u012bntus est f\u012blius I\u016bli\u012b"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u012b sunt M\u0113dus et D\u0101vus? ",
+                    "a": [
+                        "M\u0113dus et D\u0101vus serv\u012b I\u016bli\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcusne quoque servus I\u016bli\u012b est? ",
+                    "a": [
+                        "M\u0101rcus n\u014dn servus, sed f\u012blius I\u016bli\u012b est"
+                    ]
+                },
+                {
+                    "q": "4. Cuius f\u012blia est I\u016blia? ",
+                    "a": [
+                        "I\u016blia est f\u012blia I\u016bli\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Quot l\u012bber\u012b sunt in famili\u0101 I\u016bli\u012b? ",
+                    "a": [
+                        "In famili\u0101 I\u016bli\u012b tr\u0113s l\u012bber\u012b sunt"
+                    ]
+                },
+                {
+                    "q": "6. Quot serv\u012b in famili\u0101 sunt? ",
+                    "a": [
+                        "Centum serv\u012b sunt in famili\u0101"
+                    ]
+                },
+                {
+                    "q": "7. Num Syra domina est? ",
+                    "a": [
+                        "Syra domina n\u014dn est, sed ancilla"
+                    ]
+                },
+                {
+                    "q": "8. Quae est domina ancill\u0101rum? ",
+                    "a": [
+                        "Domina ancill\u0101rum est Aemilia"
+                    ]
+                },
+                {
+                    "q": "9. Estne Corn\u0113lius vir Graecus? ",
+                    "a": [
+                        "Corn\u0113lius vir Graecus n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "10. Num 'puella' voc\u0101bulum mascul\u012bnum est? ",
+                    "a": [
+                        "'Puella' voc\u0101bulum f\u0113min\u012bnum est, n\u014dn mascul\u012bnum"
+                    ]
+                }
+            ]
+        }
+    ]
+}

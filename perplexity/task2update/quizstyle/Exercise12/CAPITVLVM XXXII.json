@@ -1,0 +1,128 @@
+[
+    {
+        "q": "1. 'Laud\u0101v|it' est indic\u0101t\u012bvus perfect\u012b; 'laud\u0101v|erit' n\u014dn indic\u0101t\u012bvus, sed # perfect\u012b est.",
+        "a": [
+            "coni\u016bnct\u012bvus"
+        ]
+    },
+    {
+        "q": "2. Coni\u016bnct\u012bvus perfect\u012b (pers. 3 sing.) d\u0113sinit in ~erit, quod ad thema # (~) adicitur, ut 'scr\u012bps|erit'.",
+        "a": [
+            "perfect\u012b"
+        ]
+    },
+    {
+        "q": "3. Coni\u016bnct\u012bvus perfect\u012b: singul\u0101ris: pers. 1 ~erim, 2 ~#, 3 ~#; pl\u016br\u0101lis: pers. 1 ~#, 2 ~#, 3 ~#.",
+        "a": [
+            "eris",
+            "erit",
+            "erimus",
+            "eritis",
+            "erint"
+        ]
+    },
+    {
+        "q": "4. Pers.1\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+        "a": [
+            "erim",
+            "erimus",
+            "erim",
+            "erimus"
+        ]
+    },
+    {
+        "q": "5. Pers.2\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+        "a": [
+            "eris",
+            "eritis",
+            "eris",
+            "eritis"
+        ]
+    },
+    {
+        "q": "6. Pers.3\tam\u0101v#\tam\u0101v#\t\tmonu#\tmonu#",
+        "a": [
+            "erit",
+            "erint",
+            "erit",
+            "erint"
+        ]
+    },
+    {
+        "q": "7. Pers.1\td\u016bx#\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+        "a": [
+            "erim",
+            "erimus",
+            "erim",
+            "erimus"
+        ]
+    },
+    {
+        "q": "8. Pers.2\td\u016bx#\t\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+        "a": [
+            "eris",
+            "eritis",
+            "eris",
+            "eritis"
+        ]
+    },
+    {
+        "q": "9. Pers.3\td\u016bx#\t\td\u016bx#\t\taud\u012bv#\taud\u012bv#",
+        "a": [
+            "erit",
+            "erint",
+            "erit",
+            "erint"
+        ]
+    },
+    {
+        "q": "10. Coni\u016bnct\u012bvus perfect\u012b verb\u012b 'esse': singul\u0101ris: pers. 1 fu|erim, 2 fu#, 3 fu#; pl\u016br\u0101lis: pers. 1 fu#, 2 fu#, 3 fu#. ",
+        "a": [
+            "eris",
+            "erit",
+            "erimus",
+            "eritis",
+            "erint"
+        ]
+    },
+    {
+        "q": "11. 'Laud\u0101t|us est' indic\u0101t\u012bvus perfect\u012b pass\u012bv\u012b est; 'laud\u0101t|us sit' est # # pass\u012bv\u012b. ",
+        "a": [
+            "coni\u016bnct\u012bvus",
+            "perfect\u012b"
+        ]
+    },
+    {
+        "q": "12. Coni\u016bnct\u012bvus perfect\u012b pass\u012bv\u012b c\u014dnstat ex # perfect\u012b et # praesentis verb\u012b esse (sim, s\u012bs, sit...).",
+        "a": [
+            "participi\u014d",
+            "coni\u016bnct\u012bv\u014d"
+        ]
+    },
+    {
+        "q": "13. Pers.1\tvoc\u0101tus #\tvoc\u0101t# #",
+        "a": [
+            "sim",
+            "\u012b",
+            "s\u012bmus"
+        ]
+    },
+    {
+        "q": "14. Pers.2\tvoc\u0101t# #\tvoc\u0101t# #\t",
+        "a": [
+            "us",
+            "s\u012bs",
+            "\u012b",
+            "s\u012btis"
+        ]
+    },
+    {
+        "q": "15. Pers.3\tvoc\u0101t# #\tvoc\u0101t# #",
+        "a": [
+            "us",
+            "sit",
+            "\u012b",
+            "sint"
+        ]
+    }
+]

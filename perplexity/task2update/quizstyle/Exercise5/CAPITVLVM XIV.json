@@ -1,0 +1,95 @@
+[
+    {
+        "q": "1. Iam h\u014dra pr\u012bma est, sed M\u0101rcus # dormit.",
+        "a": [
+            "adh\u016bc"
+        ]
+    },
+    {
+        "q": "2. Servus cl\u0101m\u0101ns puerum dormientem #.",
+        "a": [
+            "excitat"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus \u0113 lect\u014d # ac servum aquam # iubet.",
+        "a": [
+            "surgit",
+            "afferre"
+        ]
+    },
+    {
+        "q": "4. Servus e\u012b aquam # et M\u0101rcus man\u016bs #.",
+        "a": [
+            "affert",
+            "lavat"
+        ]
+    },
+    {
+        "q": "5. Iam man\u016bs eius n\u014dn #, sed # sunt.",
+        "a": [
+            "sordidae",
+            "p\u016brae"
+        ]
+    },
+    {
+        "q": "6. M\u0101rcus pr\u012bmum man\u016bs, # faciem lavat.",
+        "a": [
+            "deinde"
+        ]
+    },
+    {
+        "q": "7. D\u0101vus eum caput t\u014dtum in aquam # iubet.",
+        "a": [
+            "mergere"
+        ]
+    },
+    {
+        "q": "8. # [= h\u014dr\u0101 pr\u012bm\u0101] puer man\u016bs et faciem aqu\u0101 fr\u012bgid\u0101 lavat.",
+        "a": [
+            "M\u0101ne"
+        ]
+    },
+    {
+        "q": "9. Qu\u012bntus, qu\u012b ante M\u0101rcum surgere #, hodi\u0113 n\u014dn surgit, quod p\u0113s et caput e\u012b dolet.",
+        "a": [
+            "solet"
+        ]
+    },
+    {
+        "q": "10. \"Mihi quoque caput dolet\" # M\u0101rcus, et D\u0101vus \"# caput n\u014dn dolet!\" inquit.",
+        "a": [
+            "inquit",
+            "Tibi"
+        ]
+    },
+    {
+        "q": "11. M\u0101rcus #, quia \u0101\u0113r fr\u012bgidus est et corpus eius # est.",
+        "a": [
+            "fr\u012bget",
+            "n\u016bdum"
+        ]
+    },
+    {
+        "q": "12. Tunica et toga sunt # M\u0101rc\u012b.",
+        "a": [
+            "vest\u012bmenta"
+        ]
+    },
+    {
+        "q": "13. M\u0101rcus vest\u012bmenta sua \u0101 serv\u014d #: \"D\u0101 mihi # et #, D\u0101ve! # m\u0113!\"",
+        "a": [
+            "poscit",
+            "tunicam",
+            "togam",
+            "Vest\u012b"
+        ]
+    },
+    {
+        "q": "14. M\u0101rcus # tunicam, deinde togam #.",
+        "a": [
+            "pr\u012bmum",
+            "induit"
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "q": "1. 'Scr\u012bb|\u0113ns' est participium praesentis, 'scr\u012bpt|\u016brus' participium #.",
+        "a": [
+            "fut\u016br\u012b"
+        ]
+    },
+    {
+        "q": "2. Participium fut\u016br\u012b d\u0113sinit in -\u016br|us -a -um, quod ad thema sup\u012bn\u012b additur: am\u0101t|#, monit|#, l\u0113ct|#, aud\u012bt|#.",
+        "a": [
+            "\u016brus",
+            "\u016brus",
+            "\u016brus",
+            "\u016brus"
+        ]
+    },
+    {
+        "q": "3. Participium fut\u016br\u012b verb\u012b 'esse': fut|#.",
+        "a": [
+            "\u016brus"
+        ]
+    },
+    {
+        "q": "4. Cum participium fut\u016br\u012b coniungitur cum tempore praesent\u012b verb\u012b 'esse', fit fut\u016brum alterum (\u2018fut\u016brum in praesent\u012b\u2019 quod voc\u0101tur): #\u016brus sum = scr\u012bbam, #  # = scr\u012bb\u0113s,  #  # = scr\u012bbet.",
+        "a": [
+            "scr\u012bpt",
+            "scr\u012bpt\u016brus",
+            "es",
+            "scr\u012bpt\u016brus",
+            "est"
+        ]
+    },
+    {
+        "q": "5. Cum participium fut\u016br\u012b cum \u012bnf\u012bn\u012bt\u012bv\u014d 'esse' coniungitur, # fut\u016br\u012b fit: scr\u012bpt\u016br|um esse.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "6. \u012anf\u012bn\u012bt\u012bvus praesentis: voc\u0101|re; \u012bnf\u012bn\u012bt\u012bvus fut\u016br\u012b: #|\u016brum esse.",
+        "a": [
+            "voc\u0101t"
+        ]
+    },
+    {
+        "q": "7. Cum sup\u012bnum I cum '\u012br\u012b' (\u012bnf. praes. pass. verb\u012b '\u012bre') iungitur, # fut\u016br\u012b pass\u012bv\u012b fit: scr\u012bpt|um \u012br\u012b.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'Scr\u012bb|\u012b' \u012bnf\u012bn\u012bt\u012bvus praesentis pass\u012bv\u012b est; 'scr\u012bpt|um \u012br\u012b' est # # pass\u012bv\u012b.",
+        "a": [
+            "\u012bnf\u012bn\u012bt\u012bvus",
+            "fut\u016br\u012b"
+        ]
+    },
+    {
+        "q": "9. \u012anf\u012bn\u012bt\u012bvus praesentis pass\u012bv\u012b: m\u016bt\u0101|r\u012b; \u012bnf\u012bn\u012bt\u012bvus fut\u016br\u012b pass\u012bv\u012b: #|um #.",
+        "a": [
+            "m\u016bt\u0101t",
+            "\u012br\u012b"
+        ]
+    }
+]

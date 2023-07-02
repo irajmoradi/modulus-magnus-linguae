@@ -1,0 +1,70 @@
+[
+    {
+        "q": "1. Corn\u0113lius: \"Estne M\u0113dus f\u012blius #?\" ",
+        "a": [
+            "tuus"
+        ]
+    },
+    {
+        "q": "2. I\u016blius: \"M\u0113dus n\u014dn est f\u012blius #.\"",
+        "a": [
+            "meus"
+        ]
+    },
+    {
+        "q": "3. Corn\u0113lius: \"Estne D\u0113lia f\u012blia #?\"",
+        "a": [
+            "tua"
+        ]
+    },
+    {
+        "q": "4. I\u016blius: \"D\u0113lia n\u014dn est f\u012blia #.\"",
+        "a": [
+            "mea"
+        ]
+    },
+    {
+        "q": "5. Corn\u0113lius: \"Suntne ancillae # D\u0113lia et Syra?\"",
+        "a": [
+            "tuae"
+        ]
+    },
+    {
+        "q": "6. I\u016blius: \"D\u0113lia et Syra sunt ancillae #.\"",
+        "a": [
+            "meae"
+        ]
+    },
+    {
+        "q": "7. Corn\u0113lius: \"Qu\u012b sunt f\u012bli\u012b #?\"",
+        "a": [
+            "tu\u012b"
+        ]
+    },
+    {
+        "q": "8. I\u016blius: \"F\u012bli\u012b # sunt M\u0101rcus et Qu\u012bntus.\"",
+        "a": [
+            "me\u012b"
+        ]
+    },
+    {
+        "q": "9. Corn\u0113lius: \"Quot serv\u012b sunt in famili\u0101 #?\"",
+        "a": [
+            "tu\u0101"
+        ]
+    },
+    {
+        "q": "10. I\u016blius: \"In famili\u0101 # sunt centum serv\u012b. Numerus serv\u014drum # est centum. Familia # magna est.\"",
+        "a": [
+            "me\u0101",
+            "me\u014drum",
+            "mea"
+        ]
+    },
+    {
+        "q": "11. Corn\u0113lius: \"Centum serv\u012b! Magnus est numerus serv\u014drum #!\"",
+        "a": [
+            "tu\u014drum"
+        ]
+    }
+]

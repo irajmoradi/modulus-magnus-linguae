@@ -1,0 +1,58 @@
+[
+    {
+        "q": "1. Uterque puer in lect\u014d # [= iacet].",
+        "a": [
+            "cubat"
+        ]
+    },
+    {
+        "q": "2. Uter puer dormit, M\u0101rcusne # Qu\u012bntus?",
+        "a": [
+            "an"
+        ]
+    },
+    {
+        "q": "3. M\u0101rcus dormit, sed Qu\u012bntus #.",
+        "a": [
+            "vigilat"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus n\u014dn aegr\u014dtat, sed #.",
+        "a": [
+            "valet"
+        ]
+    },
+    {
+        "q": "5. \u0100\u0113r fr\u012bgidus per fenestram # intrat.",
+        "a": [
+            "apertam"
+        ]
+    },
+    {
+        "q": "6. Fenestra Qu\u012bnt\u012b n\u014dn aperta, sed # est.",
+        "a": [
+            "clausa"
+        ]
+    },
+    {
+        "q": "7. Puer vigil\u0101ns # canere audit: \"Cucurr\u016b!\"",
+        "a": [
+            "gallum"
+        ]
+    },
+    {
+        "q": "8. D\u0101vus: \"# p\u0113s tuus s\u0113 habet # [= h\u014dc di\u0113]?\"",
+        "a": [
+            "Qu\u014dmodo",
+            "hodi\u0113"
+        ]
+    },
+    {
+        "q": "9. Qu\u012bntus: \"P\u0113s male s\u0113 #. D\u0101 # aquam, D\u0101ve!\" D\u0101vus e\u012b aquam dat.",
+        "a": [
+            "habet",
+            "mihi"
+        ]
+    }
+]

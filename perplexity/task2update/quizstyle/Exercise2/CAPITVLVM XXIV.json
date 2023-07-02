@@ -1,0 +1,101 @@
+[
+    {
+        "q": "1. Puer # [= aeger] in lect\u014d s\u0113 # nec dorm\u012bre potest s\u012bve in # dextr\u014d cubat s\u012bve in latere # [= sinistr\u014d].",
+        "a": [
+            "aegr\u014dtus",
+            "convertit",
+            "latere",
+            "laev\u014d"
+        ]
+    },
+    {
+        "q": "2. Puer surgere c\u014dn\u0101tur,  sed # [=  statim] in lect\u014d #.",
+        "a": [
+            "continu\u014d",
+            "recumbit"
+        ]
+    },
+    {
+        "q": "3. P\u0113s # [= r\u016brsus] dol\u0113re incipit: propter # puer surgere n\u014dn potest.",
+        "a": [
+            "d\u0113nu\u014d",
+            "dol\u014drem|dol\u014dr\u0113s"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus # quod ped\u0113s n\u014dn # [= aequ\u012b], sed # sunt.",
+        "a": [
+            "m\u012br\u0101tur",
+            "par\u0113s",
+            "impar\u0113s"
+        ]
+    },
+    {
+        "q": "5. Omnia qui\u0113ta sunt, n\u016bllus # aud\u012btur, av\u0113s n\u014dn canunt, quia tempest\u0101te magn\u0101 et # territae sunt.",
+        "a": [
+            "sonus",
+            "subit\u0101"
+        ]
+    },
+    {
+        "q": "6. At # silentium cl\u0101m\u014dre et # m\u0101xim\u014d rumpitur!",
+        "a": [
+            "subit\u014d",
+            "strepit\u016b"
+        ]
+    },
+    {
+        "q": "7. M\u0101rcus enim cl\u0101m\u0101re ac forem # [= puls\u0101re] incipit.",
+        "a": [
+            "percutere"
+        ]
+    },
+    {
+        "q": "8. C\u016br M\u0101rcus ita cl\u0101mat foremque tam # percutit?",
+        "a": [
+            "vald\u0113"
+        ]
+    },
+    {
+        "q": "9. Ita M\u0101rcus incl\u016bsus forem # c\u014dn\u0101tur, neque enim # [= ali\u014d mod\u014d] \u0113 cubicul\u014d ex\u012bre potest.",
+        "a": [
+            "frangere",
+            "aliter"
+        ]
+    },
+    {
+        "q": "10. Cubiculum M\u0101rc\u012b # cubiculum Qu\u012bnt\u012b situm est.",
+        "a": [
+            "i\u016bxt\u0101"
+        ]
+    },
+    {
+        "q": "11. Qu\u012bntus # cr\u016bris fr\u0101ctum esse putat, sed Syra d\u012bcit \u2018omnia # eius integra esse.\u2019",
+        "a": [
+            "os",
+            "ossa"
+        ]
+    },
+    {
+        "q": "12. N\u014dn decet puerum R\u014dm\u0101num # [= lacrim\u0101re], # [= quamquam] gravem dol\u014drem #.",
+        "a": [
+            "fl\u0113re",
+            "ets\u012b",
+            "patitur"
+        ]
+    },
+    {
+        "q": "13. Qu\u012bntus # [= nescit] M\u0101rcum \u0101 Sext\u014d puls\u0101tum esse.",
+        "a": [
+            "ign\u014drat"
+        ]
+    },
+    {
+        "q": "14. Qu\u012bntus enim # [<> for\u012bs] in lect\u014d cub\u0101ns nihil # potest, ets\u012b omnia sc\u012bre # [= vult].",
+        "a": [
+            "intus",
+            "n\u014dscere",
+            "cupit"
+        ]
+    }
+]

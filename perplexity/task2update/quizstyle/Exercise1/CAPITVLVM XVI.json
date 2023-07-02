@@ -1,0 +1,126 @@
+[
+    {
+        "q": "1. Italia inter duo maria #. ",
+        "a": [
+            "interest"
+        ]
+    },
+    {
+        "q": "2. Id mare quod supr\u0101 Italiam # est 'mare #' # [= vel] 'mare Hadri\u0101ticum' # [= n\u014dmin\u0101tur].",
+        "a": [
+            "situm",
+            "Superum",
+            "s\u012bve",
+            "appell\u0101tur"
+        ]
+    },
+    {
+        "q": "3. \u012anfr\u0101 Italiam situm est mare # s\u012bve T\u016bscum.",
+        "a": [
+            "\u012anferum"
+        ]
+    },
+    {
+        "q": "4. In Tiber\u012b fl\u016bmine n\u014dn multum, sed # aquae est.",
+        "a": [
+            "paulum"
+        ]
+    },
+    {
+        "q": "5. Itaque magnae # R\u014dmam ad\u012bre n\u014dn possunt.",
+        "a": [
+            "n\u0101v\u0113s"
+        ]
+    },
+    {
+        "q": "6. \u014cstia est oppidum # quod magnum # habet.",
+        "a": [
+            "maritimum",
+            "portum"
+        ]
+    },
+    {
+        "q": "7. In # maritim\u0101 mult\u012b sunt port\u016bs.",
+        "a": [
+            "\u014dr\u0101"
+        ]
+    },
+    {
+        "q": "8. \u014cs fl\u016bminis est # qu\u014d fl\u016bmen in mare #.",
+        "a": [
+            "locus",
+            "\u012bnfluit"
+        ]
+    },
+    {
+        "q": "9. R\u0113s qu\u0101s merc\u0101t\u014dr\u0113s emunt ac v\u0113ndunt '#' d\u012bcuntur.",
+        "a": [
+            "merc\u0113s"
+        ]
+    },
+    {
+        "q": "10. Cum n\u016bllus # flat, mare # est.",
+        "a": [
+            "ventus",
+            "tranquillum"
+        ]
+    },
+    {
+        "q": "11. Cum magnus ventus #, mare # est.",
+        "a": [
+            "flat",
+            "turbidum"
+        ]
+    },
+    {
+        "q": "12. # est magnus ventus.",
+        "a": [
+            "Tempest\u0101s"
+        ]
+    },
+    {
+        "q": "13. Tempest\u0101s mare # atque alt\u014ds # facit, qu\u012b n\u0101vem aqu\u0101 # possunt. ",
+        "a": [
+            "turbat",
+            "fl\u016bct\u016bs",
+            "impl\u0113re"
+        ]
+    },
+    {
+        "q": "14. N\u0101vis quae aqu\u0101 impl\u0113tur in mare # cum naut\u012bs.",
+        "a": [
+            "mergitur"
+        ]
+    },
+    {
+        "q": "15. Itaque # tempest\u0101t\u0113s metuunt nec mar\u012b turbid\u014d # volunt.",
+        "a": [
+            "nautae",
+            "n\u0101vig\u0101re"
+        ]
+    },
+    {
+        "q": "16. Is qu\u012b n\u0101vig\u0101re vult ventum secundum # [= exspectat].",
+        "a": [
+            "opper\u012btur"
+        ]
+    },
+    {
+        "q": "17. Ventus # est ventus qu\u012b \u0101 terg\u014d flat.",
+        "a": [
+            "secundus"
+        ]
+    },
+    {
+        "q": "18. Vent\u014d secund\u014d n\u0101v\u0113s \u0113 port\u016b # [= exeunt].",
+        "a": [
+            "\u0113grediuntur"
+        ]
+    },
+    {
+        "q": "19. # n\u0101vium vent\u014d implentur.",
+        "a": [
+            "V\u0113la"
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. N\u014dm. \tman|#\t\tman|#",
+        "a": [
+            "us",
+            "\u016bs"
+        ]
+    },
+    {
+        "q": "2. Acc.\t\tman|#\t\tman|#",
+        "a": [
+            "um",
+            "\u016bs"
+        ]
+    },
+    {
+        "q": "3. Gen. \tman|#\t\tman|#",
+        "a": [
+            "\u016bs",
+            "uum"
+        ]
+    },
+    {
+        "q": "4. Dat. \t\tman|#\t\tman|#",
+        "a": [
+            "u\u012b",
+            "ibus"
+        ]
+    },
+    {
+        "q": "5. Abl.\t\tman|#\t\tman|#\t",
+        "a": [
+            "\u016b",
+            "ibus"
+        ]
+    },
+    {
+        "q": "6. 'Manibus' est # aut # pl\u016br\u0101lis. \t",
+        "a": [
+            "dat\u012bvus",
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "7. 'Man\u016b' # singul\u0101ris est.",
+        "a": [
+            "abl\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "8. 'Manu\u012b' # # est.",
+        "a": [
+            "dat\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "9. 'Manum' # # est.",
+        "a": [
+            "acc\u016bs\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "10. 'Manus' # # est.",
+        "a": [
+            "n\u014dmin\u0101t\u012bvus",
+            "singul\u0101ris"
+        ]
+    },
+    {
+        "q": "11. 'Man\u016bs' est # singul\u0101ris aut # aut # pl\u016br\u0101lis.",
+        "a": [
+            "genet\u012bvus",
+            "n\u014dmin\u0101t\u012bvus",
+            "acc\u016bs\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "12. 'Manuum' # # est.",
+        "a": [
+            "genet\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    }
+]

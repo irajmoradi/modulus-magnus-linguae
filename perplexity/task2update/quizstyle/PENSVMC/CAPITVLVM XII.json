@@ -1,0 +1,74 @@
+[
+    {
+        "q": "1. Num 'M\u0101rcus' cogn\u014dmen est? ",
+        "a": [
+            "M\u0101rcus n\u014dn cogn\u014dmen, sed praen\u014dmen est"
+        ]
+    },
+    {
+        "q": "2. Quot fr\u0101tr\u0113s habet Aemilia? ",
+        "a": [
+            "\u016anum fr\u0101trem habet"
+        ]
+    },
+    {
+        "q": "3. Quid agit Aemilius in Germ\u0101ni\u0101? ",
+        "a": [
+            "Aemilius in Germ\u0101ni\u0101 m\u012blitat"
+        ]
+    },
+    {
+        "q": "4. Quae arma pedes R\u014dm\u0101nus fert? ",
+        "a": [
+            "Pedes R\u014dm\u0101nus sc\u016btum et gladium et p\u012blum fert"
+        ]
+    },
+    {
+        "q": "5. Quam longum est p\u012blum Aemili\u012b? ",
+        "a": [
+            "P\u012blum eius sex ped\u0113s longum est"
+        ]
+    },
+    {
+        "q": "6. Ubi habitant m\u012blit\u0113s R\u014dm\u0101n\u012b? ",
+        "a": [
+            "M\u012blit\u0113s in castr\u012bs habitant"
+        ]
+    },
+    {
+        "q": "7. Qu\u012b sunt Germ\u0101n\u012b et Gall\u012b? ",
+        "a": [
+            "Germ\u0101n\u012b et Gall\u012b sunt qu\u012b Germ\u0101niam et Galliam incolunt"
+        ]
+    },
+    {
+        "q": "8. Estne Germ\u0101nia pr\u014dvincia R\u014dm\u0101na? ",
+        "a": [
+            "N\u014dn est"
+        ]
+    },
+    {
+        "q": "9. Quod fl\u016bmen Germ\u0101niam \u0101 Galli\u0101 d\u012bvidit? ",
+        "a": [
+            "Fl\u016bmen Rh\u0113nus Germ\u0101niam \u0101 Galli\u0101 d\u012bvidit"
+        ]
+    },
+    {
+        "q": "10. C\u016br host\u0113s castra expugn\u0101re n\u014dn possunt? ",
+        "a": [
+            "Quia R\u014dm\u0101n\u012b castra bene d\u0113fendunt"
+        ]
+    },
+    {
+        "q": "11. Num m\u012bles fortis ab hoste fugit? ",
+        "a": [
+            "M\u012bles fortis n\u014dn fugit, sed impetum in host\u0113s facit"
+        ]
+    },
+    {
+        "q": "12. C\u016br hasta procul iac\u012b n\u014dn potest? ",
+        "a": [
+            "Quia nimis gravis est"
+        ]
+    }
+]

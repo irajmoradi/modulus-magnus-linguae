@@ -1,0 +1,80 @@
+[
+    {
+        "q": "1. Quot sunt litterae Lat\u012bnae? ",
+        "a": [
+            "Sunt v\u012bgint\u012b tr\u0113s"
+        ]
+    },
+    {
+        "q": "2. Estne D v\u014dc\u0101lis an c\u014dnson\u0101ns? ",
+        "a": [
+            "D c\u014dnson\u0101ns est"
+        ]
+    },
+    {
+        "q": "3. Quot syllab\u0101s habet voc\u0101bulum 'apis'? ",
+        "a": [
+            "Hoc voc\u0101bulum du\u0101s syllab\u0101s habet"
+        ]
+    },
+    {
+        "q": "4. Qu\u014dmodo parvus discipulus legit? ",
+        "a": [
+            "Parvus discipulus quamque syllabam cuisuque voc\u0101bul\u012b legit"
+        ]
+    },
+    {
+        "q": "5. Quis discipulus r\u0113ctissim\u0113 scr\u012bbit? ",
+        "a": [
+            "Sextus est discipulus qu\u012b r\u0113ctissim\u0113 scr\u012bbit"
+        ]
+    },
+    {
+        "q": "6. Qu\u0101l\u0113s sunt litterae qu\u0101s Titus scr\u012bbit? ",
+        "a": [
+            "Litterae Tit\u012b tam foedae sunt quam M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "7. Qu\u0101lis discipulus est M\u0101rcus? ",
+        "a": [
+            "Est discipulus piger"
+        ]
+    },
+    {
+        "q": "8. C\u016br M\u0101rcus n\u014dn HOMO, sed OMO scr\u012bbit? ",
+        "a": [
+            "Quia semper 'om\u014d' d\u012bcit"
+        ]
+    },
+    {
+        "q": "9. Quoti\u0113s M\u0101rcus litteram H scr\u012bbit? ",
+        "a": [
+            "Deci\u0113s"
+        ]
+    },
+    {
+        "q": "10. Stil\u014dne in tabul\u0101 scr\u012bbit magister? ",
+        "a": [
+            "Magister calam\u014d in chart\u0101 scr\u012bbit"
+        ]
+    },
+    {
+        "q": "11. Quid magister scr\u012bbit? ",
+        "a": [
+            "Epistulam ad patrem M\u0101rc\u012b"
+        ]
+    },
+    {
+        "q": "12. Estne facilis grammatica Lat\u012bna? ",
+        "a": [
+            "Difficilis est"
+        ]
+    },
+    {
+        "q": "13. T\u016bne r\u0113ctius scr\u012bbis quam M\u0101rcus? ",
+        "a": [
+            "Cert\u0113 r\u0113ctius scr\u012bb\u014d quam ille!"
+        ]
+    }
+]

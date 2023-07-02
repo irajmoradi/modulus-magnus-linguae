@@ -1,0 +1,43 @@
+[
+    {
+        "q": "1. 'Comit\u0101|r\u012b' \u012bnf\u012bn\u012bt\u012bvus verb\u012b d\u0113p\u014dnentis est. 'Comit\u0101|re' n\u014dn est \u012bnf\u012bn\u012bt\u012bvus, sed # verb\u012b d\u0113p\u014dnentis.",
+        "a": [
+            "imper\u0101t\u012bvus"
+        ]
+    },
+    {
+        "q": "2. 'Comit\u0101|re' est # singul\u0101ris; 'comit\u0101|min\u012b' imper\u0101t\u012bvus # est.",
+        "a": [
+            "imper\u0101t\u012bvus",
+            "pl\u016br\u0101lis"
+        ]
+    },
+    {
+        "q": "3. \u012anf\u012bn\u012bt\u012bvus: c\u014dn\u0101r\u012b; imper\u0101t\u012bvus: sing. c\u014dn#, pl\u016br. c\u014dn#.",
+        "a": [
+            "\u0101re",
+            "\u0101min\u012b"
+        ]
+    },
+    {
+        "q": "4. \u012anf\u012bn\u012bt\u012bvus: ver\u0113r\u012b; imper\u0101t\u012bvus: sing. ver#, pl\u016br. ver#.",
+        "a": [
+            "\u0113re",
+            "\u0113min\u012b"
+        ]
+    },
+    {
+        "q": "5. \u012anf\u012bn\u012bt\u012bvus: loqu\u012b; imper\u0101t\u012bvus: sing. loqu#, pl\u016br. loqu#.",
+        "a": [
+            "ere",
+            "imin\u012b"
+        ]
+    },
+    {
+        "q": "6. \u012anf\u012bn\u012bt\u012bvus: part\u012br\u012b; imper\u0101t\u012bvus: sing. part#, pl\u016br. part#.",
+        "a": [
+            "\u012bre",
+            "\u012bmin\u012b"
+        ]
+    }
+]

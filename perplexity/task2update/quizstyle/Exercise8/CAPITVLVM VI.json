@@ -1,0 +1,109 @@
+[
+    {
+        "q": "1. Ancilla dominum sal\u016btat = dominus # # #",
+        "a": [
+            "ab",
+            "ancill\u0101",
+            "sal\u016bt\u0101tur"
+        ]
+    },
+    {
+        "q": "2. Dominus \u0101 serv\u012bs sal\u016bt\u0101tur = serv\u012b # # ",
+        "a": [
+            "dominum",
+            "sal\u016btant"
+        ]
+    },
+    {
+        "q": "3. Dominus serv\u014ds interrogat = # # # #",
+        "a": [
+            "serv\u012b",
+            "\u0101|ab",
+            "domin\u014d",
+            "interrogantur"
+        ]
+    },
+    {
+        "q": "4. D\u0101vus acc\u016bs\u0101tur \u0101 M\u0113d\u014d = # # #",
+        "a": [
+            "M\u0113dus",
+            "D\u0101vum",
+            "acc\u016bsat"
+        ]
+    },
+    {
+        "q": "5. D\u0101vus sacculum in m\u0113ns\u0101 p\u014dnit = # # # # # # ",
+        "a": [
+            "sacculus",
+            "in",
+            "m\u0113ns\u0101",
+            "p\u014dnitur",
+            "\u0101|ab",
+            "D\u0101v\u014d"
+        ]
+    },
+    {
+        "q": "6. I\u016blius \u0101 M\u0113d\u014d tim\u0113tur = # # #",
+        "a": [
+            "M\u0113dus",
+            "I\u016blium",
+            "timet"
+        ]
+    },
+    {
+        "q": "7. I\u016blius M\u0113dum vocat = # # # #",
+        "a": [
+            "M\u0113dus",
+            "\u0101|ab",
+            "I\u016bli\u014d",
+            "voc\u0101tur"
+        ]
+    },
+    {
+        "q": "8. I\u016blia \u0101 puer\u012bs voc\u0101tur = # # #",
+        "a": [
+            "puer\u012b",
+            "I\u016bliam",
+            "vocant"
+        ]
+    },
+    {
+        "q": "9. I\u016blia puer\u014ds n\u014dn audit = # # # # #",
+        "a": [
+            "puer\u012b",
+            "\u0101|ab",
+            "I\u016bli\u0101",
+            "n\u014dn",
+            "audiuntur"
+        ]
+    },
+    {
+        "q": "10. Puer\u012b vocantur \u0101 I\u016bli\u0101 = # # #",
+        "a": [
+            "I\u016blia",
+            "puer\u014ds",
+            "vocat"
+        ]
+    },
+    {
+        "q": "11. Serv\u012b improb\u012b dominum \u012br\u0101tum timent = # # # # # #",
+        "a": [
+            "dominus",
+            "\u012br\u0101tus",
+            "\u0101|ab",
+            "serv\u012bs",
+            "improb\u012bs",
+            "tim\u0113tur"
+        ]
+    },
+    {
+        "q": "12. Serv\u012b improb\u012b \u0101 domin\u014d \u012br\u0101t\u014d verberantur = # # # # #",
+        "a": [
+            "dominus",
+            "\u012br\u0101tus",
+            "serv\u014ds",
+            "improb\u014ds",
+            "verberat"
+        ]
+    }
+]

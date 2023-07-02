@@ -1,0 +1,90 @@
+[
+    {
+        "q": "1. Via Lat\u012bna n\u014dn tam longa est quam via Appia = # # # # # # #",
+        "a": [
+            "via",
+            "Appia",
+            "longior",
+            "est",
+            "quam",
+            "via",
+            "Lat\u012bna"
+        ]
+    },
+    {
+        "q": "2. Corn\u0113lius n\u014dn tam pec\u016bni\u014dsus est quam I\u016blius = # # # # #",
+        "a": [
+            "I\u016blius",
+            "pec\u016bni\u014dsior",
+            "est",
+            "quam",
+            "Corn\u0113lius"
+        ]
+    },
+    {
+        "q": "3. Syra n\u014dn tam f\u014drm\u014dsa est quam Aemilia = # # # # # \t",
+        "a": [
+            "Aemilia",
+            "f\u014drm\u014dsior",
+            "est",
+            "quam",
+            "Syra"
+        ]
+    },
+    {
+        "q": "4. Qu\u012bntus n\u014dn tam levis est quam M\u0101rcus = # # # # #",
+        "a": [
+            "M\u0101rcus",
+            "levior",
+            "est",
+            "quam",
+            "Qu\u012bntus"
+        ]
+    },
+    {
+        "q": "5. Saccus Syr\u012b n\u014dn tam gravis est quam L\u0113andr\u012b = # # # # # #",
+        "a": [
+            "saccus",
+            "L\u0113andr\u012b",
+            "gravior",
+            "est",
+            "quam",
+            "Syr\u012b"
+        ]
+    },
+    {
+        "q": "6. Capillus I\u016bliae n\u014dn tam brevis est quam M\u0101rc\u012b = # # # # # #",
+        "a": [
+            "capillus",
+            "M\u0101rc\u012b",
+            "brevior",
+            "est",
+            "quam",
+            "I\u016bliae"
+        ]
+    },
+    {
+        "q": "7. M\u0113dus n\u014dn tam probus est quam D\u0101vus = # # # # #",
+        "a": [
+            "D\u0101vus",
+            "probior",
+            "est",
+            "quam",
+            "M\u0113dus"
+        ]
+    },
+    {
+        "q": "8. Digitus qu\u0101rtus n\u014dn tam longus neque tam crassus est quam digitus medius = # # # # # # # # #",
+        "a": [
+            "digitus",
+            "medius",
+            "longior",
+            "et",
+            "crassior",
+            "est",
+            "quam",
+            "digitus",
+            "qu\u0101rtus"
+        ]
+    }
+]

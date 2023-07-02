@@ -1,0 +1,1275 @@
+{
+    "id": 9,
+    "name": "CAPITVLVM X",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Lupus et canis et ovis # sunt.",
+                    "a": [
+                        "b\u0113stiae"
+                    ]
+                },
+                {
+                    "q": "2. Vir\u012b et f\u0113minae # sunt.",
+                    "a": [
+                        "homin\u0113s"
+                    ]
+                },
+                {
+                    "q": "3. Lupus est b\u0113stia #; etiam # bestia fera est.",
+                    "a": [
+                        "fera",
+                        "le\u014d"
+                    ]
+                },
+                {
+                    "q": "4. In \u0100fric\u0101 sunt mult\u012b le\u014dn\u0113s et aliae # [= b\u0113stiae ferae].",
+                    "a": [
+                        "ferae"
+                    ]
+                },
+                {
+                    "q": "5. # sunt b\u0113stiae quae in aqu\u0101 #.",
+                    "a": [
+                        "Pisc\u0113s",
+                        "natant"
+                    ]
+                },
+                {
+                    "q": "6. # sunt b\u0113stiae quae in \u0101ere #.",
+                    "a": [
+                        "Av\u0113s",
+                        "volant"
+                    ]
+                },
+                {
+                    "q": "7. # est magna avis fera quae parv\u0101s av\u0113s # et \u0113st.",
+                    "a": [
+                        "Aquila",
+                        "capit"
+                    ]
+                },
+                {
+                    "q": "8. Avis quae volat \u0101l\u0101s #; piscis qu\u012b natat # movet.",
+                    "a": [
+                        "movet",
+                        "caudam"
+                    ]
+                },
+                {
+                    "q": "9. Hom\u014d qu\u012b ambulat # movet.",
+                    "a": [
+                        "ped\u0113s"
+                    ]
+                },
+                {
+                    "q": "10. # hom\u014d ambulat, ped\u0113s moventur.",
+                    "a": [
+                        "Cum"
+                    ]
+                },
+                {
+                    "q": "11. Cum avis in # volat, # moventur.",
+                    "a": [
+                        "\u0101ere",
+                        "\u0101lae"
+                    ]
+                },
+                {
+                    "q": "12. Avis \u0101l\u0101s habet, itaque avis vol\u0101re #.",
+                    "a": [
+                        "potest"
+                    ]
+                },
+                {
+                    "q": "13. Le\u014d vol\u0101re n\u014dn potest, # [= quia] \u0101l\u0101s n\u014dn habet.",
+                    "a": [
+                        "quod"
+                    ]
+                },
+                {
+                    "q": "14. Homin\u0113s, qu\u012b ped\u0113s habent, ambul\u0101re #. ",
+                    "a": [
+                        "possunt"
+                    ]
+                },
+                {
+                    "q": "15. Qu\u012b ambulat vest\u012bgia in terr\u0101 #.",
+                    "a": [
+                        "facit"
+                    ]
+                },
+                {
+                    "q": "16. N\u014dn s\u014dlum equus, sed etiam # hominem vehere potest. ",
+                    "a": [
+                        "asinus"
+                    ]
+                },
+                {
+                    "q": "17. Mercurius est # merc\u0101t\u014drum et # de\u014drum.",
+                    "a": [
+                        "deus",
+                        "n\u016bntius"
+                    ]
+                },
+                {
+                    "q": "18. # est hom\u014d qu\u012b emit et v\u0113ndit.",
+                    "a": [
+                        "Merc\u0101tor"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est le\u014d? ...",
+                    "a": [
+                        "le\u014d est b\u0113stia fera"
+                    ]
+                },
+                {
+                    "q": "2. Quid b\u0113stiae ferae edunt? ...",
+                    "a": [
+                        "b\u0113stiae ferae ali\u0101s b\u0113sti\u0101s edunt"
+                    ]
+                },
+                {
+                    "q": "3. C\u016br le\u014dn\u0113s ab hominibus timentur? ...",
+                    "a": [
+                        "... quia le\u014dn\u0113s homin\u0113s edunt"
+                    ]
+                },
+                {
+                    "q": "4. Quae b\u0113stiae in aqu\u0101 natant? ...",
+                    "a": [
+                        "pisc\u0113s sunt b\u0113stiae quae natant"
+                    ]
+                },
+                {
+                    "q": "5. Quae b\u0113stiae volant? ...",
+                    "a": [
+                        "b\u0113stiae quae volant sunt av\u0113s"
+                    ]
+                },
+                {
+                    "q": "6. Quid mov\u0113tur cum avis volat? ...",
+                    "a": [
+                        "\u0101lae moventur"
+                    ]
+                },
+                {
+                    "q": "7. Quot ped\u0113s habet hom\u014d? ...",
+                    "a": [
+                        "hom\u014d du\u014ds ped\u0113s habet"
+                    ]
+                },
+                {
+                    "q": "8. Equus quot ped\u0113s habet? ...",
+                    "a": [
+                        "equus habet quattuor ped\u0113s"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br equus vol\u0101re n\u014dn potest? ...",
+                    "a": [
+                        "... quia \u0101l\u0101s n\u014dn habet"
+                    ]
+                },
+                {
+                    "q": "10. C\u016br pisc\u0113s ambul\u0101re n\u014dn possunt? ...",
+                    "a": [
+                        "... quod ped\u0113s n\u014dn habent"
+                    ]
+                },
+                {
+                    "q": "11. Homin\u0113sne nat\u0101re possunt? ...",
+                    "a": [
+                        "mult\u012b homin\u0113s nat\u0101re possunt"
+                    ]
+                },
+                {
+                    "q": "12. Quis est Mercurius? ...",
+                    "a": [
+                        "Mercurius deus R\u014dm\u0101nus est"
+                    ]
+                },
+                {
+                    "q": "13. In pedibus et in petas\u014d Mercuri\u012b quid est? ...",
+                    "a": [
+                        "in pedibus et in petas\u014d eius \u0101lae sunt"
+                    ]
+                },
+                {
+                    "q": "14. Qu\u014drum deus est Mercurius? ...",
+                    "a": [
+                        "Mercurius est deus merc\u0101t\u014drum"
+                    ]
+                },
+                {
+                    "q": "15. Quid est merc\u0101tor? ...",
+                    "a": [
+                        "est hom\u014d qu\u012b emit et v\u0113ndit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In \u0100fric\u0101 sunt mult\u012b le\u014d#.",
+                    "a": [
+                        "n\u0113s"
+                    ]
+                },
+                {
+                    "q": "2. In \u0100fric\u0101 magnus numerus le\u014d# est.",
+                    "a": [
+                        "num"
+                    ]
+                },
+                {
+                    "q": "3. Mult\u012b hom# R\u014dmae habitant.",
+                    "a": [
+                        "in\u0113s"
+                    ]
+                },
+                {
+                    "q": "4. R\u014dmae habitat magnus numerus hom#.",
+                    "a": [
+                        "inum"
+                    ]
+                },
+                {
+                    "q": "5. Le\u014d n\u014dn est am\u012bcus hom#, neque hom\u014d am\u012bcus le\u014d# est.",
+                    "a": [
+                        "inis",
+                        "nis"
+                    ]
+                },
+                {
+                    "q": "6. Hom\u014d le\u014d# timet, et hom# timet le\u014d.",
+                    "a": [
+                        "nem",
+                        "inem"
+                    ]
+                },
+                {
+                    "q": "7. Le\u014d ab hom# tim\u0113tur, et hom# tim\u0113tur \u0101 le\u014d#.",
+                    "a": [
+                        "ine",
+                        "\u014d",
+                        "ne"
+                    ]
+                },
+                {
+                    "q": "8. Le\u014d# timentur ab hom#, et hom# \u0101 le\u014d# timentur.",
+                    "a": [
+                        "n\u0113s",
+                        "inibus",
+                        "in\u0113s",
+                        "nibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Av\u0113s vol# possunt; pisc\u0113s nat# possunt.",
+                    "a": [
+                        "\u0101re",
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "2. Equus ambul# et curr# potest.",
+                    "a": [
+                        "\u0101re",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "3. Ov\u0113s lupum aud# possunt, neque eum vid# possunt.",
+                    "a": [
+                        "\u012bre",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "4. I\u016blia centum numer# n\u014dn potest.",
+                    "a": [
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "5. Hom\u014d mortuus s\u0113 mov# n\u014dn potest.",
+                    "a": [
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "6. Sub aqu\u0101 hom\u014d n\u014dn potest sp\u012br#.",
+                    "a": [
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "7. Sine anim\u0101 n\u0113m\u014d potest v\u012bv#.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "8. Animam d\u016bc# necesse est homin\u012b.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "9. Necesse n\u014dn est gemm\u0101s hab#.",
+                    "a": [
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "10. Qu\u012b gemm\u0101s v\u0113ndit pec\u016bniam fac# potest.",
+                    "a": [
+                        "ere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exempla: \nI\u016blius I\u016bliam port\u0101re/vehere potest. \nI\u016blia \u0101 I\u016bli\u014d port\u0101r\u012b/veh\u012b potest.\n",
+            "questions": [
+                {
+                    "q": "1. I\u016blia magnum saccum port# n\u014dn potest.",
+                    "a": [
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "2. Magnus saccus \u0101 parv\u0101 puell\u0101 port# n\u014dn potest.",
+                    "a": [
+                        "\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "3. Homin\u0113s de\u014ds neque vid# neque aud# possunt.",
+                    "a": [
+                        "\u0113re",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "4. De\u012b neque vid# neque aud# possunt ab hominibus. \t",
+                    "a": [
+                        "\u0113r\u012b",
+                        "\u012br\u012b"
+                    ]
+                },
+                {
+                    "q": "5. N\u0113m\u014d pisc\u0113s numer# potest: pisc\u0113s numer# n\u014dn possunt.",
+                    "a": [
+                        "\u0101re",
+                        "\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012b pec\u016bniam habet cibum em# potest.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "7. Sine pec\u016bni\u0101 cibus em# n\u014dn potest.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "8. M\u0101rcus et Qu\u012bntus n\u014dn possunt lect\u012bcam veh#.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "9. \u0100 parv\u012bs puer\u012bs lect\u012bca veh# n\u014dn potest.",
+                    "a": [
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "10. Canis \u014dstium neque aper# neque claud# potest.",
+                    "a": [
+                        "\u012bre",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "11. \u014cstium \u0101 cane neque aper# neque claud# potest.",
+                    "a": [
+                        "\u012br\u012b",
+                        "\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magnum # est N\u012blus.",
+                    "a": [
+                        "fl\u016bmen"
+                    ]
+                },
+                {
+                    "q": "2. \u014cceanus Atlanticus magnum # est.",
+                    "a": [
+                        "mare"
+                    ]
+                },
+                {
+                    "q": "3. Pisc\u0113s n\u014dn in terr\u0101, sed in aqu\u0101 #.",
+                    "a": [
+                        "v\u012bvunt"
+                    ]
+                },
+                {
+                    "q": "4. Cum hom\u014d #, anima in # intrat et r\u016brsus exit.",
+                    "a": [
+                        "sp\u012brat",
+                        "pulm\u014dn\u0113s"
+                    ]
+                },
+                {
+                    "q": "5. # est \u0101\u0113r qu\u012b in pulm\u014dn\u0113s d\u016bcitur.",
+                    "a": [
+                        "Anima"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012b sp\u012brat # est, qu\u012b n\u014dn sp\u012brat est #.",
+                    "a": [
+                        "v\u012bvus",
+                        "mortuus"
+                    ]
+                },
+                {
+                    "q": "7. Sine anim\u0101 et cib\u014d # v\u012bvere potest.",
+                    "a": [
+                        "n\u0113m\u014d"
+                    ]
+                },
+                {
+                    "q": "8. Sp\u012br\u0101re et \u0113sse hominibus # est.",
+                    "a": [
+                        "necesse"
+                    ]
+                },
+                {
+                    "q": "9. Homin\u0113s et b\u0113stiae # sunt.",
+                    "a": [
+                        "anim\u0101lia"
+                    ]
+                },
+                {
+                    "q": "10. Av\u0113s in arboribus # faciunt.",
+                    "a": [
+                        "n\u012bd\u014ds"
+                    ]
+                },
+                {
+                    "q": "11. N\u012bd\u012b sunt inter # et # arborum.",
+                    "a": [
+                        "r\u0101m\u014ds",
+                        "folia"
+                    ]
+                },
+                {
+                    "q": "12. In n\u012bd\u012bs sunt # aut pull\u012b.",
+                    "a": [
+                        "\u014dva"
+                    ]
+                },
+                {
+                    "q": "13. Av\u0113s \u014dva #, ex quibus # exeunt.",
+                    "a": [
+                        "pariunt",
+                        "pull\u012b"
+                    ]
+                },
+                {
+                    "q": "14. Ovis n\u014dn \u014dva, sed pull\u014ds v\u012bv\u014ds #.",
+                    "a": [
+                        "parit"
+                    ]
+                },
+                {
+                    "q": "15. F\u0113minae quae pec\u016bniam facere # \u014drn\u0101menta sua v\u0113ndunt.",
+                    "a": [
+                        "volunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. N\u012blus magn# fl\u016bm# est.",
+                    "a": [
+                        "um",
+                        "en"
+                    ]
+                },
+                {
+                    "q": "2. N\u012blus et Rh\u0113nus magn# fl\u016bm# sunt.",
+                    "a": [
+                        "a",
+                        "ina"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcus et Qu\u012bntus in parv\u014d fl\u016bm# natant.",
+                    "a": [
+                        "ine"
+                    ]
+                },
+                {
+                    "q": "4. Puer\u012b in aqu\u0101 fl\u016bm# natant.",
+                    "a": [
+                        "inis"
+                    ]
+                },
+                {
+                    "q": "5. Parva fl\u016bm# magn\u014d fl\u016bm# aquam dant.",
+                    "a": [
+                        "ina",
+                        "in\u012b"
+                    ]
+                },
+                {
+                    "q": "6. \u014cceanus magn# mar# est.",
+                    "a": [
+                        "um",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. Inter Eur\u014dpam et \u0100fricam mult# mar# sunt.",
+                    "a": [
+                        "a",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "8. In \u014ccean\u014d et in c\u0113ter\u012bs mar# mult\u012b sunt pisc\u0113s.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "9. In fl\u016bm# quoque magnus numerus piscium est.",
+                    "a": [
+                        "inibus"
+                    ]
+                },
+                {
+                    "q": "10. N\u0113m\u014d pisc\u0113s mar# et fl\u016bm# numer\u0101re potest.",
+                    "a": [
+                        "ium",
+                        "inum"
+                    ]
+                },
+                {
+                    "q": "11. Pisc\u0113s sunt anim\u0101l# quae v\u012bvunt in mar#.",
+                    "a": [
+                        "ia",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "12. Le\u014d est animal qu# in terr\u0101 v\u012bvit.",
+                    "a": [
+                        "od"
+                    ]
+                },
+                {
+                    "q": "13. Magnus numerus anim\u0101l# in terr\u0101 v\u012bvunt.",
+                    "a": [
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "14. Parv# anim\u0101l# \u0101 magn\u012bs anim\u0101l# eduntur.",
+                    "a": [
+                        "a",
+                        "ia",
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia cum puer\u012bs l\u016bdere #, neque i\u012b cum puell\u0101 # volunt. ",
+                    "a": [
+                        "vult",
+                        "l\u016bdere"
+                    ]
+                },
+                {
+                    "q": "2. Puer\u012b I\u016bliam # [= cant\u0101re] audiunt.",
+                    "a": [
+                        "canere"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia # pulchram habet: # I\u016bliae pulchra est.",
+                    "a": [
+                        "v\u014dcem",
+                        "v\u014dx"
+                    ]
+                },
+                {
+                    "q": "4. Av\u0113s # sunt neque canunt; puer\u012b # [= nam puer\u012b] n\u012bd\u014ds quaerunt.",
+                    "a": [
+                        "perterritae",
+                        "enim"
+                    ]
+                },
+                {
+                    "q": "5. Av\u0113s perterritae inter folia arborum s\u0113 #.",
+                    "a": [
+                        "occultant"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus in arborem # ; M\u0101rcus eum aspicit neque ipse in arborem ascendere #.",
+                    "a": [
+                        "ascendit",
+                        "audet"
+                    ]
+                },
+                {
+                    "q": "7. N\u014dn #, sed tenuis est r\u0101mus qu\u014d n\u012bdus #. \t",
+                    "a": [
+                        "crassus",
+                        "sustin\u0113tur"
+                    ]
+                },
+                {
+                    "q": "8. R\u0101mus # puerum crassum sustin\u0113re n\u014dn potest.",
+                    "a": [
+                        "tenuis"
+                    ]
+                },
+                {
+                    "q": "9. Qu\u012bntus ad terram #.",
+                    "a": [
+                        "cadit"
+                    ]
+                },
+                {
+                    "q": "10. Puer sp\u012brat; # v\u012bvit, nam qu\u012b sp\u012brat mortuus # n\u014dn potest.",
+                    "a": [
+                        "erg\u014d",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "11. Pater f\u012blium in v\u012bllam portat et in # p\u014dnit.",
+                    "a": [
+                        "lect\u014d"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nAlb\u012bnus cl\u0101mat. L\u0233dia Alb\u012bnum cl\u0101m\u0101re audit.\nSaccus \u0101 Syr\u014d aper\u012btur. Puer saccum \u0101 Syr\u014d aper\u012br\u012b videt.\nSaccus pl\u0113nus est. Puer saccum pl\u0113num esse videt.\n",
+            "questions": [
+                {
+                    "q": "1. I\u016blia canit. Puer\u012b I\u016bli# can# audiunt.",
+                    "a": [
+                        "am",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia \u0101 M\u0101rc\u014d puls\u0101tur. Qu\u012bntus I\u016bli# \u0101 M\u0101rc\u014d puls# videt.",
+                    "a": [
+                        "am",
+                        "\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia pl\u014drat et M\u0101rcus r\u012bdet. Qu\u012bntus I\u016bli# pl\u014dr# et M\u0101rc# r\u012bd# audit.",
+                    "a": [
+                        "am",
+                        "\u0101re",
+                        "um",
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia venit. Puer\u012b Aemili# ven# vident.",
+                    "a": [
+                        "am",
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia \u012br\u0101ta est. M\u0101rcus Aemili# \u012br\u0101t# es# videt.",
+                    "a": [
+                        "am",
+                        "am",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "6. Pull\u012b mortu\u012b sunt. I\u016blia pull# mortu# es# videt.",
+                    "a": [
+                        "\u014ds",
+                        "\u014ds",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "7. D\u0101vus \u0101 I\u016bli\u014d interrog\u0101tur et \u0101 M\u0113d\u014d acc\u016bs\u0101tur. Aemilia D\u0101v# \u0101 I\u016bli\u014d interrog# et \u0101 M\u0113d\u014d acc\u016bs# audit.",
+                    "a": [
+                        "um",
+                        "\u0101r\u012b",
+                        "\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "8. M\u0113dus \u0101 I\u016bli\u014d voc\u0101tur neque venit. Aemilia M\u0113d# \u0101 I\u016bli\u014d voc# audit neque e# ven# videt.",
+                    "a": [
+                        "um",
+                        "\u0101r\u012b",
+                        "um",
+                        "\u012bre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid puer\u012b in hort\u014d agunt? ...",
+                    "a": [
+                        "puer\u012b n\u012bd\u014ds quaerunt"
+                    ]
+                },
+                {
+                    "q": "2. Quid agit I\u016blia? ...",
+                    "a": [
+                        "I\u016blia canit"
+                    ]
+                },
+                {
+                    "q": "3. C\u016br av\u0113s hort\u012b n\u014dn canunt? ...",
+                    "a": [
+                        "n\u014dn canunt quia puer\u014ds timent"
+                    ]
+                },
+                {
+                    "q": "4. C\u016br M\u0101rcus Qu\u012bntum vocat? ...",
+                    "a": [
+                        "... quia n\u012bdum in arbore reperit"
+                    ]
+                },
+                {
+                    "q": "5. M\u0101rcusne in arborem ascendit? ...",
+                    "a": [
+                        "n\u014dn M\u0101rcus sed Qu\u012bntus ascendit"
+                    ]
+                },
+                {
+                    "q": "6. Quid est in n\u012bd\u014d ad quem Qu\u012bntus ascendit? ...",
+                    "a": [
+                        "in n\u012bd\u014d sunt quattuor pull\u012b"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br r\u0101mus tenuis Qu\u012bntum sustin\u0113re n\u014dn potest? ...",
+                    "a": [
+                        "... quod Qu\u012bntus puer crassus est"
+                    ]
+                },
+                {
+                    "q": "8. Quid M\u0101rcus perterritus videt? ...",
+                    "a": [
+                        "M\u0101rcus Qu\u012bntum cadere videt"
+                    ]
+                },
+                {
+                    "q": "9. Estne mortuus Qu\u012bntus? ...",
+                    "a": [
+                        "puer sp\u012brat, erg\u014d mortuus n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "10. Pull\u012bne mortu\u012b sunt? ...",
+                    "a": [
+                        "mortu\u012b sunt pull\u012b"
+                    ]
+                },
+                {
+                    "q": "11. Quid facit M\u0101rcus? ...",
+                    "a": [
+                        "ad v\u012bllam currit et I\u016blium vocat"
+                    ]
+                },
+                {
+                    "q": "12. Qu\u014d pater currit et quid videt? ...",
+                    "a": [
+                        "pater ad Qu\u012bntum currit et eum ocul\u014ds aper\u012bre videt"
+                    ]
+                },
+                {
+                    "q": "13. Qu\u014d I\u016blius f\u012blium suum portat? ...",
+                    "a": [
+                        "f\u012blium in v\u012bllam portat"
+                    ]
+                },
+                {
+                    "q": "14. Quid videt Aemilia? ...",
+                    "a": [
+                        "puerum \u0101 I\u016bli\u014d port\u0101r\u012b videt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Voc\u0101' imper\u0101t\u012bvus est. 'Voc\u0101|re' est #.",
+                    "a": [
+                        "\u012bnf\u012bn\u012bt\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Vid\u0113|re', 'p\u014dn|ere', 'aud\u012b|re' n\u014dn imper\u0101t\u012bvus, sed # est.",
+                    "a": [
+                        "\u012bnf\u012bn\u012bt\u012bvus"
+                    ]
+                },
+                {
+                    "q": "3. Imper\u0101t\u012bvus: intr\u0101. \u012anf\u012bn\u012bt\u012bvus: intr#.",
+                    "a": [
+                        "\u0101re"
+                    ]
+                },
+                {
+                    "q": "4. Imper\u0101t\u012bvus: tac\u0113. \u012anf\u012bn\u012bt\u012bvus: tac#.",
+                    "a": [
+                        "\u0113re"
+                    ]
+                },
+                {
+                    "q": "5. Imper\u0101t\u012bvus: disc\u0113de. \u012anf\u012bn\u012bt\u012bvus: disc\u0113d#. ",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "6. Imper\u0101t\u012bvus: ven\u012b. \u012anf\u012bn\u012bt\u012bvus: ven#. ",
+                    "a": [
+                        "\u012bre"
+                    ]
+                },
+                {
+                    "q": "7. 'Voc\u0101|re' est \u012bnf\u012bn\u012bt\u012bvus \u0101ct\u012bv\u012b. 'Voc\u0101|r\u012b' # pass\u012bv\u012b est.",
+                    "a": [
+                        "\u012bnf\u012bn\u012bt\u012bvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Vid\u0113|r\u012b', 'p\u014dn|\u012b', 'aud\u012b|r\u012b' n\u014dn \u012bnf\u012bn\u012bt\u012bvus \u0101ct\u012bv\u012b, sed # # est.",
+                    "a": [
+                        "\u012bnf\u012bn\u012bt\u012bvus",
+                        "pass\u012bv\u012b"
+                    ]
+                },
+                {
+                    "q": "9. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: voc#, pass\u012bvum: voc#.",
+                    "a": [
+                        "\u0101re",
+                        "\u0101r\u012b"
+                    ]
+                },
+                {
+                    "q": "10. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: vid#, pass\u012bvum vid#.",
+                    "a": [
+                        "\u0113re",
+                        "\u0113r\u012b"
+                    ]
+                },
+                {
+                    "q": "11. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: p\u014dn#, pass\u012bvum: p\u014dn#.",
+                    "a": [
+                        "ere",
+                        "\u012b"
+                    ]
+                },
+                {
+                    "q": "12. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: aud#, pass\u012bvum: aud#.",
+                    "a": [
+                        "\u012bre",
+                        "\u012br\u012b"
+                    ]
+                },
+                {
+                    "q": "13. \u012anf\u012bn\u012bt\u012bvus: \u0101ct\u012bvum: [1, 2, 4] -#, [3] -#.",
+                    "a": [
+                        "re",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "14. \u012anf\u012bn\u012bt\u012bvus: pass\u012bvum: [1, 2, 4] -#, [3] -#.",
+                    "a": [
+                        "r\u012b",
+                        "\u012b"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "\u0113s",
+                        "e"
+                    ],
+                    "q": "Av# in \u0101er# volant."
+                },
+                {
+                    "a": [
+                        "\u0113s"
+                    ],
+                    "q": "Pisc# in aqu\u0101 natant."
+                },
+                {
+                    "a": [
+                        "\u0101re",
+                        "\u0101re"
+                    ],
+                    "q": "I\u016blia neque vol# neque nat# potest."
+                },
+                {
+                    "a": [
+                        "\u0113s",
+                        "\u0101re"
+                    ],
+                    "q": "Hom\u014d du\u014ds ped# habet, itaque hom\u014d ambul# potest."
+                },
+                {
+                    "a": [
+                        "\u0113re"
+                    ],
+                    "q": "Hom\u014d mortuus s\u0113 mov# n\u014dn potest."
+                },
+                {
+                    "a": [
+                        "\u0101re",
+                        "ere"
+                    ],
+                    "q": "Sp\u012br# necesse est homin\u012b, nam sine anim\u0101 n\u0113m\u014d v\u012bv# potest."
+                },
+                {
+                    "a": [
+                        "\u0113s",
+                        "ibus"
+                    ],
+                    "q": "Cum hom\u014d sp\u012brat, anima in pulm\u014dn# intrat et ex pulm\u014dn# exit."
+                },
+                {
+                    "a": [
+                        "se"
+                    ],
+                    "q": "Hom\u014d qu\u012b sp\u012brat mortuus es# n\u014dn potest."
+                },
+                {
+                    "a": [
+                        "\u0113s",
+                        "\u0113re",
+                        "ibus",
+                        "\u0113r\u012b"
+                    ],
+                    "q": "Homin# de\u014ds vid# n\u014dn possunt. De\u012b ab homin# vid# n\u014dn possunt."
+                },
+                {
+                    "a": [
+                        "\u0101re",
+                        "\u0101r\u012b"
+                    ],
+                    "q": "N\u0113m\u014d pisc\u0113s numer# potest. Pisc\u0113s numer# n\u014dn possunt."
+                },
+                {
+                    "a": [
+                        "\u012b"
+                    ],
+                    "q": "Sine pec\u016bni\u0101 cibus em# n\u014dn potest."
+                },
+                {
+                    "a": [
+                        "ere"
+                    ],
+                    "q": "Puer\u012b I\u016bliam can# audiunt."
+                },
+                {
+                    "a": [
+                        "ere"
+                    ],
+                    "q": "M\u0101rcus Qu\u012bntum ad terram cad# videt."
+                },
+                {
+                    "a": [
+                        "\u0101re"
+                    ],
+                    "q": "I\u016blius M\u0101rcum cl\u0101m# audit."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "\u012br\u012b"
+                    ],
+                    "q": "Puer\u012b sacculum \u0101 I\u016bli\u014d in m\u0113ns\u0101 p\u014dn# et aper# vident."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "b\u0113stiae",
+                        "homin\u0113s"
+                    ],
+                    "q": "Le\u014d et aquila # sunt. Vir\u012b et f\u0113minae # sunt."
+                },
+                {
+                    "a": [
+                        "deus"
+                    ],
+                    "q": "Mercurius n\u014dn hom\u014d, sed # est."
+                },
+                {
+                    "a": [
+                        "pisc\u0113s",
+                        "av\u0113s"
+                    ],
+                    "q": "In aqu\u0101 sunt #. In \u0101ere sunt #."
+                },
+                {
+                    "a": [
+                        "natant",
+                        "volant"
+                    ],
+                    "q": "Quid agunt pisc\u0113s et av\u0113s? Pisc\u0113s in aqu\u0101 #, av\u0113s in \u0101ere #."
+                },
+                {
+                    "a": [
+                        "\u0101l\u0101s",
+                        "potest"
+                    ],
+                    "q": "Avis du\u0101s # habet, itaque avis vol\u0101re #."
+                },
+                {
+                    "a": [
+                        "movet"
+                    ],
+                    "q": "Avis quae volat \u0101l\u0101s #."
+                },
+                {
+                    "a": [
+                        "ped\u0113s"
+                    ],
+                    "q": "Cum hom\u014d ambulat, # moventur."
+                },
+                {
+                    "a": [
+                        "sp\u012brat",
+                        "pulm\u014dn\u0113s"
+                    ],
+                    "q": "Cum hom\u014d #, anima in # intrat."
+                },
+                {
+                    "a": [
+                        "v\u012bvus",
+                        "mortuus"
+                    ],
+                    "q": "Hom\u014d qu\u012b sp\u012brat # est, qu\u012b n\u014dn sp\u012brat # est."
+                },
+                {
+                    "a": [
+                        "n\u0113m\u014d",
+                        "necesse"
+                    ],
+                    "q": "Nam sine anim\u0101 # v\u012bvere potest. Sp\u012br\u0101re homin\u012b # est."
+                },
+                {
+                    "a": [
+                        "canit",
+                        "v\u014dcem"
+                    ],
+                    "q": "I\u016blia # [= cantat]. I\u016blia # pulchram habet."
+                },
+                {
+                    "a": [
+                        "n\u012bd\u014ds",
+                        "r\u0101m\u014ds"
+                    ],
+                    "q": "Puer\u012b # quaerunt. N\u012bd\u012b sunt inter # et folia arborum."
+                },
+                {
+                    "a": [
+                        "\u014dva"
+                    ],
+                    "q": "In n\u012bd\u012bs avium sunt # aut pull\u012b."
+                },
+                {
+                    "a": [
+                        "pariunt"
+                    ],
+                    "q": "Av\u0113s n\u014dn pull\u014ds v\u012bv\u014ds, sed \u014dva #."
+                },
+                {
+                    "a": [
+                        "ascendit",
+                        "pull\u014ds"
+                    ],
+                    "q": "Qu\u012bntus in arborem # et IV # videt in n\u012bd\u014d."
+                },
+                {
+                    "a": [
+                        "sustinet",
+                        "crassum",
+                        "cadit"
+                    ],
+                    "q": "R\u0101mus qu\u012b n\u012bdum # tenuis est. R\u0101mus tenuis puerum # sustin\u0113re n\u014dn potest: Qu\u012bntus ad terram #."
+                },
+                {
+                    "a": [
+                        "perterritus"
+                    ],
+                    "q": "M\u0101rcus eum cadere videt et # est."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Num Nept\u016bnus hom\u014d est? ",
+                    "a": [
+                        "N\u014dn hom\u014d, sed deus est Nept\u016bnus"
+                    ]
+                },
+                {
+                    "q": "2. Quis est Mercurius? ",
+                    "a": [
+                        "Mercurius est deus merc\u0101t\u014drum et n\u016bntius de\u014drum"
+                    ]
+                },
+                {
+                    "q": "3. Quid agunt merc\u0101t\u014dr\u0113s? ",
+                    "a": [
+                        "Merc\u0101t\u014dr\u0113s emunt et v\u0113ndunt"
+                    ]
+                },
+                {
+                    "q": "4. Num necesse est margar\u012bt\u0101s hab\u0113re? .",
+                    "a": [
+                        "Id necesse n\u014dn est"
+                    ]
+                },
+                {
+                    "q": "5. Quid est \u014dceanus Atlanticus? ",
+                    "a": [
+                        "\u014cceanus est magnum mare"
+                    ]
+                },
+                {
+                    "q": "6. C\u016br aquila \u0101 parv\u012bs avibus tim\u0113tur? ",
+                    "a": [
+                        "Quia aquila parv\u0101s av\u0113s capere vult"
+                    ]
+                },
+                {
+                    "q": "7. Ubi sunt n\u012bd\u012b avium? ",
+                    "a": [
+                        "In arboribus sunt"
+                    ]
+                },
+                {
+                    "q": "8. Quid est in n\u012bd\u012bs? ",
+                    "a": [
+                        "In n\u012bd\u012bs sunt \u014dva aut pull\u012b"
+                    ]
+                },
+                {
+                    "q": "9. Quae b\u0113stiae \u014dva pariunt? ",
+                    "a": [
+                        "Av\u0113s \u014dva aut pull\u012b"
+                    ]
+                },
+                {
+                    "q": "10. Quid agunt puer\u012b in hort\u014d? ",
+                    "a": [
+                        "Puer\u012b n\u012bd\u014ds quaerunt"
+                    ]
+                },
+                {
+                    "q": "11. C\u016br r\u0101mus Qu\u012bntum sustin\u0113re n\u014dn potest? ",
+                    "a": [
+                        "Quia Qu\u012bntus puer crassus est"
+                    ]
+                }
+            ]
+        }
+    ]
+}

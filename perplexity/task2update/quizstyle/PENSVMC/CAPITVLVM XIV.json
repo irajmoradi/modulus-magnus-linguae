@@ -1,0 +1,68 @@
+[
+    {
+        "q": "1. Qu\u012bntusne bene dormit? ",
+        "a": [
+            "Qu\u012bntus dorm\u012bre n\u014dn potest"
+        ]
+    },
+    {
+        "q": "2. Uter puer aegr\u014dtat? ",
+        "a": [
+            "Qu\u012bntus aegr\u014dtat"
+        ]
+    },
+    {
+        "q": "3. Estne clausa fenestra M\u0101rc\u012b? ",
+        "a": [
+            "Fenestra eius aperta est"
+        ]
+    },
+    {
+        "q": "4. Uter \u0113 du\u014dbus puer\u012bs gallum canentem audit? ",
+        "a": [
+            "Qu\u012bntus, qu\u012b vigilat, gallum canentem audit"
+        ]
+    },
+    {
+        "q": "5. Qu\u014dmodo servus M\u0101rcum excitat? ",
+        "a": [
+            "D\u0101vus in aurem puer\u012b dormientis cl\u0101mat: \"M\u0101ne est!\""
+        ]
+    },
+    {
+        "q": "6. T\u014dtumne corpus lavat M\u0101rcus? ",
+        "a": [
+            "N\u014dn t\u014dtum corpus, sed tantum man\u016bs et caput lavat"
+        ]
+    },
+    {
+        "q": "7. C\u016br M\u0101rcus fr\u012bget? ",
+        "a": [
+            "Quod n\u016bdus est"
+        ]
+    },
+    {
+        "q": "8. Quid M\u0101rcus \u0101 serv\u014d poscit? ",
+        "a": [
+            "Vest\u012bmenta sua poscit"
+        ]
+    },
+    {
+        "q": "9. Utrum bracchium tog\u0101 oper\u012btur? ",
+        "a": [
+            "Bracchium sinistrum tog\u0101 oper\u012btur"
+        ]
+    },
+    {
+        "q": "10. Utr\u0101 man\u016b m\u012bles sc\u016btum gerit? ",
+        "a": [
+            "M\u012bles sc\u016btum gerit man\u016b sinistr\u0101"
+        ]
+    },
+    {
+        "q": "11. Qu\u0101s r\u0113s M\u0101rcus s\u0113cum fert? ",
+        "a": [
+            "M\u0101rcus librum, tabulam stilumgue s\u0113cum fert"
+        ]
+    }
+]

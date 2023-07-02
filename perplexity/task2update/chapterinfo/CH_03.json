@@ -1,0 +1,1108 @@
+{
+    "id": 2,
+    "name": "CAPITVLVM III",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In # pr\u012bm\u0101 sunt tr\u0113s #: I\u016blia, M\u0101rcus, Qu\u012bntus.",
+                    "a": [
+                        "scaen\u0101",
+                        "pers\u014dnae"
+                    ]
+                },
+                {
+                    "q": "2. I\u016blia #: \"Lalla, lalla!\" I\u016blia # est.",
+                    "a": [
+                        "cantat",
+                        "laeta"
+                    ]
+                },
+                {
+                    "q": "3. M\u0101rcus laetus n\u014dn est, M\u0101rcus # est.",
+                    "a": [
+                        "\u012br\u0101tus"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101rcus I\u016bliam #.",
+                    "a": [
+                        "pulsat"
+                    ]
+                },
+                {
+                    "q": "5. # I\u016blia n\u014dn cantat, sed #.",
+                    "a": [
+                        "Iam",
+                        "pl\u014drat"
+                    ]
+                },
+                {
+                    "q": "6. M\u0101rcus #: \"Hahahae!\"",
+                    "a": [
+                        "r\u012bdet"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blia: \"Ubi est m\u0101ter?\" I\u016blia Aemiliam n\u014dn #.",
+                    "a": [
+                        "videt"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blia Aemiliam #: \"Mamma!\"",
+                    "a": [
+                        "vocat"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia #.",
+                    "a": [
+                        "venit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0101rcus I\u016bli# pulsat.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "2. M\u0101rcus Qu\u012bnt# n\u014dn videt, sed Qu\u012bntus M\u0101rc# videt.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u012bntus: \"Quid? M\u0101rcus puell# pulsat?\"",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012bntus M\u0101rc# pulsat, et M\u0101rcus pulsat Qu\u012bnt#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "5. I\u016blia n\u014dn videt Aemili#.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. I\u016blia Aemili# vocat: \"Mamma!\"",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "7. M\u0101rcus \u012br\u0101tus I\u016bli# pulsat.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "8. I\u016blia: \"Mamma! M\u0101rcus # pulsat!\"",
+                    "a": [
+                        "m\u0113"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I\u016blia cant#, et M\u0101rcus eam puls#!",
+                    "a": [
+                        "at",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "2. Iam I\u016blia n\u014dn cant#, sed pl\u014dr#.",
+                    "a": [
+                        "at",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia Aemiliam n\u014dn vid#; I\u016blia Aemiliam voc#.",
+                    "a": [
+                        "et",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia ven# et interrog#: \"Ubi est I\u016blius?\"",
+                    "a": [
+                        "it",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "5. M\u0101rcus respond#: \"Pater dorm#.\"",
+                    "a": [
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus I\u016blium voc#.",
+                    "a": [
+                        "at"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blius dorm# neque Qu\u012bntum aud#.",
+                    "a": [
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. M\u0101rcus r\u012bd#, quia I\u016blius n\u014dn ven#.",
+                    "a": [
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia M\u0101rcum verber#.",
+                    "a": [
+                        "at"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia Qu\u012bntum #: \"Quis m\u0113 vocat?\"",
+                    "a": [
+                        "interrogat"
+                    ]
+                },
+                {
+                    "q": "2. Qu\u012bntus #: \"I\u016blia # vocat.\"",
+                    "a": [
+                        "respondet",
+                        "t\u0113"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia #: \"# I\u016blia pl\u014drat?\"",
+                    "a": [
+                        "interrogat",
+                        "C\u016br"
+                    ]
+                },
+                {
+                    "q": "4. Qu\u012bntus #: \"I\u016blia pl\u014drat, # M\u0101rcus # pulsat.\"",
+                    "a": [
+                        "respondet",
+                        "quia",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia: \"M\u0101rcus puer # est! Ubi est I\u016blius?\"",
+                    "a": [
+                        "improbus"
+                    ]
+                },
+                {
+                    "q": "6. Qu\u012bntus: \"Pater n\u014dn # est, sed M\u0101rcus # est.\"",
+                    "a": [
+                        "h\u012bc",
+                        "h\u012bc"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012bntus I\u016blium vocat; I\u016blius # [: Qu\u012bntum] n\u014dn #.",
+                    "a": [
+                        "eum",
+                        "audit"
+                    ]
+                },
+                {
+                    "q": "8. M\u0101rcus: \"Pater # neque t\u0113 audit.\"",
+                    "a": [
+                        "dormit"
+                    ]
+                },
+                {
+                    "q": "9. I\u016blius Qu\u012bntum n\u014dn audit # venit.",
+                    "a": [
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia M\u0101rcum #: tuxtax!",
+                    "a": [
+                        "verberat"
+                    ]
+                },
+                {
+                    "q": "11. M\u0101rcus pl\u014drat. I\u016blius M\u0101rcum #; iam I\u016blius n\u014dn #.",
+                    "a": [
+                        "audit",
+                        "dormit"
+                    ]
+                },
+                {
+                    "q": "12. M\u0101rcus n\u014dn puer #, sed puer improbus est.",
+                    "a": [
+                        "probus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. C\u016br M\u0101rcus I\u016bliam pulsat? M\u0101rcus I\u016bliam pulsat # I\u016blia cantat.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "2. C\u016br I\u016blia pl\u014drat? I\u016blia pl\u014drat # M\u0101rcus eam pulsat.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "3. # M\u0101rcus r\u012bdet? M\u0101rcus r\u012bdet quia I\u016blia pl\u014drat.",
+                    "a": [
+                        "C\u016br"
+                    ]
+                },
+                {
+                    "q": "4. C\u016br I\u016blia n\u014dn pulsat M\u0101rcum? I\u016blia M\u0101rcum n\u014dn pulsat # parva puella est.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "5. # Aemilia venit? Aemilia venit # I\u016blia eam vocat.",
+                    "a": [
+                        "C\u016br",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "6. # I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit # dormit.",
+                    "a": [
+                        "C\u016br",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br M\u0101rcum verberat Aemilia? M\u0101rcum verberat # puer improbus est.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "8. # M\u0101rcus pl\u014drat? M\u0101rcus pl\u014drat # Aemilia eum verberat.",
+                    "a": [
+                        "C\u016br",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br venit I\u016blius? I\u016blius venit # M\u0101rcum audit.",
+                    "a": [
+                        "quia"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. M\u0101rc# I\u016bli# pulsat, quia I\u016bli# cantat.",
+                    "a": [
+                        "us",
+                        "am",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. I\u016bli# pl\u014drat, quia M\u0101rcus e# pulsat.",
+                    "a": [
+                        "a",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia Aemili# vocat. Aemili# venit.",
+                    "a": [
+                        "am",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Aemili# Qu\u012bnt# videt et e# interrogat: \"Quis # vocat?\"",
+                    "a": [
+                        "a",
+                        "um",
+                        "um",
+                        "m\u0113"
+                    ]
+                },
+                {
+                    "q": "5. Qu\u012bnt# respondet: \"I\u016bli# # vocat.\"",
+                    "a": [
+                        "us",
+                        "a",
+                        "t\u0113"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia: \"Ubi est I\u016blius?\" Aemili# I\u016bli# n\u014dn videt.",
+                    "a": [
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Qu\u012bnt# I\u016bli# vocat: \"Pater!\"",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "8. I\u016bli# Qu\u012bnt# n\u014dn audit.",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "9. Aemili# \u012br\u0101ta M\u0101rc# verberat.",
+                    "a": [
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. M\u0101rc# pl\u014drat, quia Aemili# e# verberat.",
+                    "a": [
+                        "us",
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "11. I\u016bli# M\u0101rc# audit, et venit.",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius Aemili# et M\u0101rc# et Qu\u012bnt# et I\u016bli# videt.",
+                    "a": [
+                        "am",
+                        "um",
+                        "um",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "13. Aemilia: \"M\u0101rc# puer improb# est.\"",
+                    "a": [
+                        "us",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "14. Qu\u012bntus: \"M\u0101rc# parv# puell# pulsat!\"",
+                    "a": [
+                        "us",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "15. I\u016bli# \u012br\u0101t# puer# improb# verberat.",
+                    "a": [
+                        "us",
+                        "us",
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "16. I\u016bli# est puell# prob#.",
+                    "a": [
+                        "a",
+                        "a",
+                        "a"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Puella # cantat laeta est.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "2. Puer # puellam pulsat improbus est.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "3. I\u016blia, # cantat, puella proba est.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "4. M\u0101rcus, # puer improbus est, puellam et puerum pulsat.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "5. Puella # M\u0101rcus pulsat est I\u016blia. \t",
+                    "a": [
+                        "quam"
+                    ]
+                },
+                {
+                    "q": "6. Puer # M\u0101rcus pulsat est Qu\u012bntus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "7. I\u016blia, # parva puella est, Aemiliam vocat.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia, # I\u016blia vocat, venit.",
+                    "a": [
+                        "quam"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia, # m\u0101ter est l\u012bber\u014drum, f\u012blium improbum verberat.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "10. F\u012blius # Aemilia verberat est M\u0101rcus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "11. Qu\u012bntus, # f\u012blius probus est, I\u016blium vocat.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "12. I\u016blius, # Qu\u012bntus vocat, n\u014dn venit.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "13. M\u0101rcus, # Aemilia verberat, pl\u014drat.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "14. I\u016blius, # iam n\u014dn dormit, puerum audit.",
+                    "a": [
+                        "qu\u012b"
+                    ]
+                },
+                {
+                    "q": "15. Puer # I\u016blius audit est M\u0101rcus.",
+                    "a": [
+                        "quem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis I\u016bliam pulsat? ...",
+                    "a": [
+                        "M\u0101rcus I\u016bliam pulsat"
+                    ]
+                },
+                {
+                    "q": "2. Quis pl\u014drat? ...",
+                    "a": [
+                        "I\u016blia pl\u014drat"
+                    ]
+                },
+                {
+                    "q": "3. Quis r\u012bdet? ...",
+                    "a": [
+                        "M\u0101rcus r\u012bdet"
+                    ]
+                },
+                {
+                    "q": "4. Quem Qu\u012bntus videt? ...",
+                    "a": [
+                        "Qu\u012bntus M\u0101rcum videt"
+                    ]
+                },
+                {
+                    "q": "5. Quem I\u016blia vocat? ...",
+                    "a": [
+                        "I\u016blia Aemiliam vocat"
+                    ]
+                },
+                {
+                    "q": "6. Quis venit? ...",
+                    "a": [
+                        "Aemilia venit"
+                    ]
+                },
+                {
+                    "q": "7. Quem Aemilia interrogat? ...",
+                    "a": [
+                        "Aemilia Qu\u012bntum interrogat"
+                    ]
+                },
+                {
+                    "q": "8. Quis vocat I\u016blium? ...",
+                    "a": [
+                        "Qu\u012bntus I\u016blium vocat"
+                    ]
+                },
+                {
+                    "q": "9. Quem Aemilia verberat? ...",
+                    "a": [
+                        "Aemilia M\u0101rcum verberat"
+                    ]
+                },
+                {
+                    "q": "10. Quis iam pl\u014drat? ...",
+                    "a": [
+                        "iam pl\u014drat M\u0101rcus"
+                    ]
+                },
+                {
+                    "q": "11. Quem audit I\u016blius? ...",
+                    "a": [
+                        "I\u016blius M\u0101rcum audit"
+                    ]
+                },
+                {
+                    "q": "12. Quem I\u016blius verberat? ...",
+                    "a": [
+                        "I\u016blius M\u0101rcum verberat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # I\u016bliam pulsat? M\u0101rcus I\u016bliam pulsat.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "2. # M\u0101rcum videt? Qu\u012bntus M\u0101rcum videt.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "3. # Qu\u012bntus pulsat? M\u0101rcum Qu\u012bntus pulsat.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "4. # Aemiliam vocat? I\u016blia Aemiliam vocat.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "5. # Aemilia interrogat? Qu\u012bntum Aemilia interrogat.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "6. # respondet? Qu\u012bntus respondet.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "7. # vocat Qu\u012bntus? I\u016blium vocat Qu\u012bntus.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "8. # verberat I\u016blius? M\u0101rcum verberat I\u016blius.",
+                    "a": [
+                        "Quem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla: \nQu\u012bnt|us M\u0101rc|um videt. M\u0101rc|us Qu\u012bnt|um n\u014dn videt.\nI\u016bli|a Aemili|am vocat. Aemili|a I\u016bli|am audit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Qu\u012bnt|us' n\u014dmin\u0101t\u012bvus est. 'M\u0101rc|um' est #.",
+                    "a": [
+                        "acc\u016bs\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Qu\u012bnt|um' acc\u016bs\u0101t\u012bvus est. 'Qu\u012bnt|us' est #.",
+                    "a": [
+                        "n\u014dmin\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "3. 'I\u016bli|a' # est. 'Aemili|am' # est.",
+                    "a": [
+                        "n\u014dmin\u0101t\u012bvus",
+                        "acc\u016bs\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "4. 'I\u016bli|am' # est. 'Aemili|a' # est.",
+                    "a": [
+                        "acc\u016bs\u0101t\u012bvus",
+                        "n\u014dmin\u0101t\u012bvus"
+                    ]
+                },
+                {
+                    "q": "5. N\u014dmin\u0101t\u012bvus: M\u0101rcus. Acc\u016bs\u0101t\u012bvus: M\u0101rc#.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "6. N\u014dmin\u0101t\u012bvus: Aemilia. Acc\u016bs\u0101t\u012bvus: Aemili#.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "7. Acc\u016bs\u0101t\u012bvus: I\u016blium. N\u014dmin\u0101t\u012bvus: I\u016bli#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "8. Acc\u016bs\u0101t\u012bvus: I\u016bliam. N\u014dmin\u0101t\u012bvus: I\u016bli#.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "9. N\u014dmin\u0101t\u012bvus: puer improbus. Acc\u016bs\u0101t\u012bvus: puer# improb#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. N\u014dmin\u0101t\u012bvus: parva puella. Acc\u016bs\u0101t\u012bvus: parv# puell#.",
+                    "a": [
+                        "am",
+                        "am"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "us",
+                        "am",
+                        "a"
+                    ],
+                    "q": "C\u016br M\u0101rc# I\u016bliam pulsat? M\u0101rcus I\u016bli# pulsat, quia I\u016bli# cantat."
+                },
+                {
+                    "a": [
+                        "a",
+                        "at",
+                        "am"
+                    ],
+                    "q": "I\u016bli# pl\u014dr#, quia M\u0101rcus e# pulsat."
+                },
+                {
+                    "a": [
+                        "m\u0113"
+                    ],
+                    "q": "I\u016blia: \"Mamma! M\u0101rcus # pulsat.\""
+                },
+                {
+                    "a": [
+                        "am",
+                        "it",
+                        "it"
+                    ],
+                    "q": "Aemilia puell# aud# et ven#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "at",
+                        "at"
+                    ],
+                    "q": "M\u0101ter Qu\u012bnt# videt et e# interrog# : \"Quis m\u0113 voc#?\""
+                },
+                {
+                    "a": [
+                        "us",
+                        "et",
+                        "t\u0113"
+                    ],
+                    "q": "Qu\u012bnt# respond# : \"I\u016blia # vocat.\""
+                },
+                {
+                    "a": [
+                        "it"
+                    ],
+                    "q": "I\u016blius dorm#. "
+                },
+                {
+                    "a": [
+                        "um",
+                        "at"
+                    ],
+                    "q": "Qu\u012bntus I\u016bli# voc# : \"Pater!\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "us"
+                    ],
+                    "q": "M\u0101rcus r\u012bd#, quia I\u016bli# n\u014dn venit."
+                },
+                {
+                    "a": [
+                        "um",
+                        "at"
+                    ],
+                    "q": "Aemilia M\u0101rc# verber#."
+                },
+                {
+                    "a": [
+                        "it",
+                        "us"
+                    ],
+                    "q": "I\u016blius ven#, quia M\u0101rc# pl\u014drat."
+                },
+                {
+                    "a": [
+                        "am",
+                        "um",
+                        "um",
+                        "am"
+                    ],
+                    "q": "I\u016blius Aemili# et M\u0101rc# et Qu\u012bnt# et I\u016bli# videt."
+                },
+                {
+                    "a": [
+                        "am",
+                        "am"
+                    ],
+                    "q": "I\u016blius: \"Puer qu\u012b parv# puell# pulsat improbus est.\""
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "I\u016blius puer# improb# verberat."
+                },
+                {
+                    "a": [
+                        "us",
+                        "em"
+                    ],
+                    "q": "Quem I\u016bli# verberat? Puer qu# I\u016blius verberat est M\u0101rcus."
+                },
+                {
+                    "a": [
+                        "at"
+                    ],
+                    "q": "M\u0101rcus pl\u014dr#."
+                },
+                {
+                    "a": [
+                        "\u012b",
+                        "us"
+                    ],
+                    "q": "Puer qu# pl\u014drat laet# n\u014dn est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "a"
+                    ],
+                    "q": "Puella qu# cantat laet# est."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "cantat",
+                        "quae",
+                        "laeta"
+                    ],
+                    "q": "Puella # : \"Lalla.\" Puella # cantat est I\u016blia. I\u016blia # est."
+                },
+                {
+                    "a": [
+                        "pulsat",
+                        "pl\u014drat",
+                        "r\u012bdet"
+                    ],
+                    "q": "Puer improbus puellam #. Puella # : \"Uhuh\u016b!\" Puer # : \"Hahahae!\""
+                },
+                {
+                    "a": [
+                        "qu\u012b"
+                    ],
+                    "q": "Puer # r\u012bdet est M\u0101rcus."
+                },
+                {
+                    "a": [
+                        "vocat"
+                    ],
+                    "q": "I\u016blia Aemiliam # : \"Mamma!\""
+                },
+                {
+                    "a": [
+                        "venit",
+                        "interrogat"
+                    ],
+                    "q": "Aemilia #, et Qu\u012bntum # : \"C\u016br I\u016blia pl\u014drat?\""
+                },
+                {
+                    "a": [
+                        "respondet",
+                        "quia"
+                    ],
+                    "q": "Qu\u012bntus # : \"I\u016blia pl\u014drat, # M\u0101rcus eam pulsat.\""
+                },
+                {
+                    "a": [
+                        "probus",
+                        "improbus",
+                        "videt"
+                    ],
+                    "q": "Aemilia: \"M\u0101rcus puer # n\u014dn est, puer # est! Ubi est pater?\" Aemilia I\u016blium n\u014dn #."
+                },
+                {
+                    "a": [
+                        "h\u012bc"
+                    ],
+                    "q": "Qu\u012bntus: \"Pater n\u014dn # est.\""
+                },
+                {
+                    "a": [
+                        "vocat",
+                        "audit"
+                    ],
+                    "q": "Qu\u012bntus I\u016blium #: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn #."
+                },
+                {
+                    "a": [
+                        "C\u016br",
+                        "dormit"
+                    ],
+                    "q": "# I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia #."
+                },
+                {
+                    "a": [
+                        "quia"
+                    ],
+                    "q": "M\u0101rcus pl\u014drat, # Aemilia eum verberat."
+                },
+                {
+                    "a": [
+                        "iam"
+                    ],
+                    "q": "I\u016blius M\u0101rcum audit; # I\u016blius n\u014dn dormit."
+                },
+                {
+                    "a": [
+                        "Quem",
+                        "verberat"
+                    ],
+                    "q": "# Aemilia verberat? Aemilia M\u0101rcum #."
+                },
+                {
+                    "a": [
+                        "quem"
+                    ],
+                    "q": "Puer # Aemilia verberat improbus est."
+                },
+                {
+                    "a": [
+                        "neque"
+                    ],
+                    "q": "I\u016blia laeta n\u014dn est # r\u012bdet."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis I\u016bliam pulsat? ",
+                    "a": [
+                        "M\u0101rcus I\u016bliam pulsat"
+                    ]
+                },
+                {
+                    "q": "2. C\u016br I\u016blia pl\u014drat? ",
+                    "a": [
+                        "I\u016blia pl\u014drat quia M\u0101rcus eam pulsat"
+                    ]
+                },
+                {
+                    "q": "3. Qu\u012bntusne quoque I\u016bliam pulsat? ",
+                    "a": [
+                        "Qu\u012bntus n\u014dn I\u016bliam pulsat"
+                    ]
+                },
+                {
+                    "q": "4. Quem Qu\u012bntus pulsat? ",
+                    "a": [
+                        "Qu\u012bntus M\u0101rcum pulsat"
+                    ]
+                },
+                {
+                    "q": "5. C\u016br Aemilia venit? ",
+                    "a": [
+                        "Aemilia venit quia I\u016blia eam vocat"
+                    ]
+                },
+                {
+                    "q": "6. Quis I\u016blium vocat? ",
+                    "a": [
+                        "Qu\u012bntus I\u016blium vocat"
+                    ]
+                },
+                {
+                    "q": "7. C\u016br I\u016blius Qu\u012bntum n\u014dn audit? ",
+                    "a": [
+                        "I\u016blius eum n\u014dn audit, quia dormit"
+                    ]
+                },
+                {
+                    "q": "8. Quem audit I\u016blius? ",
+                    "a": [
+                        "I\u016blius M\u0101rcum audit"
+                    ]
+                },
+                {
+                    "q": "9. C\u016br M\u0101rcus pl\u014drat? ",
+                    "a": [
+                        "M\u0101rcus pl\u014drat, quia Aemilia eum verberat"
+                    ]
+                },
+                {
+                    "q": "10. R\u012bdetne I\u016blia? ",
+                    "a": [
+                        "N\u014dn r\u012bdet"
+                    ]
+                },
+                {
+                    "q": "11. Num 'M\u0101rcus' acc\u016bs\u0101t\u012bvus est? ",
+                    "a": [
+                        "'M\u0101rcus' n\u014dn acc\u016bs\u0101t\u012bvus, sed n\u014dmin\u0101t\u012bvus est"
+                    ]
+                },
+                {
+                    "q": "12. Num 'I\u016bliam' n\u014dmin\u0101t\u012bvus est? ",
+                    "a": [
+                        "'I\u016bliam' n\u014dn n\u014dmin\u0101t\u012bvus, sed acc\u016bs\u0101t\u012bvus est"
+                    ]
+                },
+                {
+                    "q": "13. Quid est 'dormit'? ",
+                    "a": [
+                        "Dormit est verbum"
+                    ]
+                }
+            ]
+        }
+    ]
+}

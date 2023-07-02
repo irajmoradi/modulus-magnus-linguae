@@ -1,0 +1,92 @@
+[
+    {
+        "q": "1. Puella # cantat laeta est.",
+        "a": [
+            "quae"
+        ]
+    },
+    {
+        "q": "2. Puer # puellam pulsat improbus est.",
+        "a": [
+            "qu\u012b"
+        ]
+    },
+    {
+        "q": "3. I\u016blia, # cantat, puella proba est.",
+        "a": [
+            "quae"
+        ]
+    },
+    {
+        "q": "4. M\u0101rcus, # puer improbus est, puellam et puerum pulsat.",
+        "a": [
+            "qu\u012b"
+        ]
+    },
+    {
+        "q": "5. Puella # M\u0101rcus pulsat est I\u016blia. \t",
+        "a": [
+            "quam"
+        ]
+    },
+    {
+        "q": "6. Puer # M\u0101rcus pulsat est Qu\u012bntus.",
+        "a": [
+            "quem"
+        ]
+    },
+    {
+        "q": "7. I\u016blia, # parva puella est, Aemiliam vocat.",
+        "a": [
+            "quae"
+        ]
+    },
+    {
+        "q": "8. Aemilia, # I\u016blia vocat, venit.",
+        "a": [
+            "quam"
+        ]
+    },
+    {
+        "q": "9. Aemilia, # m\u0101ter est l\u012bber\u014drum, f\u012blium improbum verberat.",
+        "a": [
+            "quae"
+        ]
+    },
+    {
+        "q": "10. F\u012blius # Aemilia verberat est M\u0101rcus.",
+        "a": [
+            "quem"
+        ]
+    },
+    {
+        "q": "11. Qu\u012bntus, # f\u012blius probus est, I\u016blium vocat.",
+        "a": [
+            "qu\u012b"
+        ]
+    },
+    {
+        "q": "12. I\u016blius, # Qu\u012bntus vocat, n\u014dn venit.",
+        "a": [
+            "quem"
+        ]
+    },
+    {
+        "q": "13. M\u0101rcus, # Aemilia verberat, pl\u014drat.",
+        "a": [
+            "quem"
+        ]
+    },
+    {
+        "q": "14. I\u016blius, # iam n\u014dn dormit, puerum audit.",
+        "a": [
+            "qu\u012b"
+        ]
+    },
+    {
+        "q": "15. Puer # I\u016blius audit est M\u0101rcus.",
+        "a": [
+            "quem"
+        ]
+    }
+]

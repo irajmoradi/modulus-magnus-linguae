@@ -1,0 +1,76 @@
+[
+    {
+        "q": "1. afferre, #isse, #um esse.",
+        "a": [
+            "attul",
+            "all\u0101t"
+        ]
+    },
+    {
+        "q": "2. d\u016bcere, #isse, #um esse.",
+        "a": [
+            "d\u016bx",
+            "duct"
+        ]
+    },
+    {
+        "q": "3. ferre, #isse, #um esse. ",
+        "a": [
+            "tul",
+            "l\u0101t"
+        ]
+    },
+    {
+        "q": "4. facere, #isse, #um esse.",
+        "a": [
+            "f\u0113c",
+            "fact"
+        ]
+    },
+    {
+        "q": "5. fugere, #isse.",
+        "a": [
+            "f\u016bg"
+        ]
+    },
+    {
+        "q": "6. incl\u016bdere, in#isse, in#um esse.",
+        "a": [
+            "cl\u016bs",
+            "cl\u016bs"
+        ]
+    },
+    {
+        "q": "7. legere, #isse, #um esse.",
+        "a": [
+            "l\u0113g",
+            "l\u0113ct"
+        ]
+    },
+    {
+        "q": "8. mittere, #isse, #um esse.",
+        "a": [
+            "m\u012bs",
+            "miss"
+        ]
+    },
+    {
+        "q": "9. ostendere, #isse.",
+        "a": [
+            "ostend"
+        ]
+    },
+    {
+        "q": "10. perdere, #isse.",
+        "a": [
+            "perdid"
+        ]
+    },
+    {
+        "q": "11. tr\u0101dere, #isse, #um esse.",
+        "a": [
+            "tr\u0101did",
+            "tr\u0101dit"
+        ]
+    }
+]

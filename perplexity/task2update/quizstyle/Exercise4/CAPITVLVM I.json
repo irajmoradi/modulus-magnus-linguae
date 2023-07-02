@@ -1,0 +1,86 @@
+[
+    {
+        "q": "1. Corsica \u012bnsul# est. Corsica et Sardinia \u012bnsul# sunt.",
+        "a": [
+            "a",
+            "ae"
+        ]
+    },
+    {
+        "q": "2. Rh\u0113nus fluvi# est. Rh\u0113nus et D\u0101nuvius fluvi# sunt.",
+        "a": [
+            "us",
+            "\u012b"
+        ]
+    },
+    {
+        "q": "3. Brundisium oppid# est. Brundisium et T\u016bsculum oppid# sunt.",
+        "a": [
+            "um",
+            "a"
+        ]
+    },
+    {
+        "q": "4. Sicilia \u012bnsula magn# est.",
+        "a": [
+            "a"
+        ]
+    },
+    {
+        "q": "5. N\u012blus est fluvius magn#.",
+        "a": [
+            "us"
+        ]
+    },
+    {
+        "q": "6. Brundisium oppidum magn# est.",
+        "a": [
+            "um"
+        ]
+    },
+    {
+        "q": "7. T\u016bsculum n\u014dn oppid# magn#, sed oppid# parv# est.",
+        "a": [
+            "um",
+            "um",
+            "um",
+            "um"
+        ]
+    },
+    {
+        "q": "8. Melita n\u014dn est \u012bnsul# magn#, sed \u012bnsul# parv#.",
+        "a": [
+            "a",
+            "a",
+            "a",
+            "a"
+        ]
+    },
+    {
+        "q": "9. Tiberis n\u014dn fluvi# magn#, sed fluvi# parv# est.",
+        "a": [
+            "us",
+            "us",
+            "us",
+            "us"
+        ]
+    },
+    {
+        "q": "10. Rh\u0113nus et N\u012blus fluvi\u012b magn# sunt.",
+        "a": [
+            "\u012b"
+        ]
+    },
+    {
+        "q": "11. Sicilia et Sardinia \u012bnsulae magn# sunt.",
+        "a": [
+            "ae"
+        ]
+    },
+    {
+        "q": "12. Brundisium et Sparta oppida magn# sunt.",
+        "a": [
+            "a"
+        ]
+    }
+]
