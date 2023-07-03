@@ -1,0 +1,23 @@
+Iulius: “De rebus rusticis et urbanis colloquemur inter cenam. Primum omnium cenabimus. Sex horae iam sunt cum cibum non sumpsi. Venter mihi contrahitur propter famem.”
+
+Cornelius: “Sex horae nihil est. Homo sex dies cibo carere potest, nec tamen fame moritur.”
+
+Iulius: “Dubito num ego tam diu famem ferre possim. Sex horas cibo caruisse iam molestum est. Magnum malum est fames.”
+
+Cornelius: “Id non nego, sed multo molestior est sitis. Sine cibo diu vivere possumus, sine aqua paulisper tantum.”
+
+Orontes ridens “Equidem” inquit “sine aqua iucunde vivere possum, sine vino non item! Magnum bonum est vinum.”
+
+Cornelius: “Nemo negat vinum aqua iucundius esse, sed tamen aquam bibere malo quam sitim pati. Num tu sitim perferre mavis quam aquam bibere?”
+
+Orontes: “Melius quidem est aquam bibere quam siti perire. Ex malis minimum eligere oportet. Nec vero iucunde vivo nisi cotidie bono vino fruor. Vinum vita est.”
+
+Cornelius: “Non vivimus, ut bibamus, sed bibimus, ut vivamus.”
+
+Hic Amelia “Necesse est” inquit “paulisper famem et sitim ferre, dum cibus coquitur et triclinium exornatur.”
+
+(Servus cuius negotium est cibum coquere atque cenam parare in culina, cocus appellatur. Alii servi, ministri qui vocantur, cibum paratum e culina in triclinium portant. In triclinio sunt tres lecti, lectus summus, medius, imus, et mensa in medio. Ante convivium triclinium floribus exornatur et vestis pretiosa super lectos sternitur. Neque enim sedentes cenant Romani, sed in lectis cubantes. Quot convivae in singulis lectis accubant? In singulis lectis aut singuli aut bini aut terni convivae accuvare solent. Cum igitur paucissimi sunt convivae, non pauciores sunt quam tres, cum plurimi, non plures quam novem - nam ter terni sunt novem.)
+
+Iulius: “Hora decima est. Cenam iam pridem paratam esse oportuit! Nimis tardus est iste cocus!”
+
+Aemilia: “Tuumne hoc negotium est an meum? Uter nostrum in culina praest? Nondum hora decima est. Patienter exspecta, dum servi lectos sternunt. Cenabimus cum primum cocus cenam paraverit et servi triclinium ornaverint. Brevi cena parata et triclinium ornatum erit.”

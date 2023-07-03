@@ -1,0 +1,56 @@
+Sextus: “Nonne tu laetaris, Marce, quod frater tuus etiam absens a magistro laudatur?”
+
+Marcus: “Ego non laetor cum frater meus laudatur! Et cur ille laudatur hodie? Quia discipulum absentem reprehendere non convenit!”
+
+Magister iratus virgam tollens “Tacete, pueri!” inquit, “Nonne virgam meam veremini?”
+
+Marcus: “Nos nec te nec virgam tuam veremur!”
+
+Magister, qui verba Marci non audit, ex sacculo suo duos nummos promit, assem et denarium, et “Ecce” inquit nummos ostendens “as et denarius. Ut scitis, unus sestertius est quattuor asses et unus denarius quattuor sestertii. Quot asses sunt quattuor sestertii, Tite?”
+
+Titus digitis computat: “...quattuor...octo...duodecim...sedecim: quattuor sestertii sunt sedecim asses.”
+
+Magister: “et decem denarii quot sestertii sunt?”
+
+Titus: “Quadraginta.”
+
+Magister: “Quot denarii sunt duodequinquaginta sestertii?”
+
+Titus magistro interroganti nihil respondet.
+
+Magister: “Responsum tuum opperior, Tite. Cur mihi non respondes?”
+
+Titus: “Nondum tibi respondeo, quod primum cogitare oportet. Duodequinquaginta est numerus difficilis!”
+
+Sextus manum tollens “Ego responsum scio” inquit.
+
+Magister: “Audi, Tite: Sextus dicit 'se responsum scire.' Sed exspecta, Sexte! Non oportet respondere antequam interrogaris.”
+
+Titus: “Duodequinquaginta sestertii sunt denarii... quattuordecim? an quindecim? Non certus sum!” Titus non certus, sed incertus est, et responsum incertum dat magistro.
+
+Magister: “Responsum certum magistro dare oportet. Responsum incerum nullum responsum est. Nunc tibi licet respondere, Sexte.”
+
+Quamquam difficili est numerus, Sextus statim recte respondet: “Duodequinquaginta sestertii sunt duo-decim denarii.”
+
+Magister iterum Sextum laudat: “Bene computas, Sexte! Semper recte respondes. Ecce tibi assem do.” Diodorus assem dat Sexto, et denarium in sacculo reponit.
+
+Marcus: “Discipulo tam industrio denarium dare oportet. Largus non es, magister. Pecuniam tuam non largiris.”
+
+Diodorus: “Non oportet pecuniam largiri discipulis.”
+
+Marcus: “Quare igitur tot numeros difficiles discimus?”
+
+Magister: “Quia necesse est computare scire, ut multis exemplis tibi demonstrare possum. Si tria mala uno asse constant et tu decem asses habes, quot mala emere potes?”
+
+Marcus: “Tot asses non habeo - non tam largus est pater meus; nec mihi licet tot mala emere.”
+
+Magister: “Id non dico. Ecce aliud exemplum: Si tu sex asses cum fratre tuo partiris, quot sunt tibi?”
+
+Marcus: “Quinque!”
+
+Magister: “In aequas partes pecuniam partiri oportet. Si vos sex asses aeque partimini, quot tibi sunt?”
+
+Marcus: “Pecuniam meam exiguam non largior nec partior cum aliis!”
+
+Postremo magister “O Marce!” inquit, “hoc modo nihil te docere possum! Tam stultus ac tam piger es quam asinus!”
+

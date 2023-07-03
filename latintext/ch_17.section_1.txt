@@ -1,0 +1,28 @@
+In ludo pueri numeros et litteras disciunt. Magister pueros numeros et litteras docet. Magister pueros multas res docere potest, nam is multas res scit quas pueri nesciunt. Magister est vir doctus. Pueri adhuc indocti sunt.
+
+Qui paulum aut nihil discere potest, stultus esse dicitur. Qui discere non vult atque in ludo dormit, piger esse dicitur. Discipulus qui nec stultus nec piger est, sed prudens atque industrius, multas res a magistro discere potest. -
+
+Magister Diodorus recitare desinit et pueros aspicit, qui taciti stant ante suam quisque sellam; nemo eorum dormit. Magister discipulum quemque considere iubet, primum Sextum, deinde Titum, postremo Marcum.
+
+Magister: “Nunc tempus est numeros discere. Primum dic numeros a decem usque ad centum!”
+
+Quisque puer manum tollit, primum Sextus, tum Titus, postremo Marcus. Magister Titum interrogat.
+
+Titus: “Decem, undecim, duodecim, tredecim, quattuordecim, quindecim, sedecim, septendecim, duodeviginti, undeviginti, viginti, viginti unus, viginti duo...”
+
+Hic magister eum interpellat: “Necesse non est omnes numeros dicere; a viginti dic decimum quemque numerum tantum, Tite!”
+
+Titus: “Viginti, triginta, quadraginta, quinquaginta, sexaginta, septuaginta, octoginta, nonaginta, centum.”
+
+Magister: “Bene numeras, Tite. Iam tu, Sexte, dic numeros a centum ad mille!”
+
+Sextus: “Longum est tot numeros dicere!”
+
+Magister: “At satis est decem numeros dicere, id est centesimum quemque.”
+
+Sextus: “Centum, ducenti, trecenti, quadringenti, quingenti, sescendi, septingenti, octingenti, nongenti, mille.”
+
+Magister: “Quot sunt triginta et decem?”
+
+Omnes pueri simul respondent, nemo eorum manum tollit. Titus et Sextus uno ore dicunt: “Quadraginta.” Marcus vero dicit: “Quinquaginta.” Quod Marcus dicit rectum non est. Responsum Titi et Sexti rectum est: ii recte respondent. Responsum Marci est pravum: is prave respondet.
+

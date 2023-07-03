@@ -1,0 +1,45 @@
+Syra: “Iam narrabo tibi omnia quae facta sunt: Frater tuus hodie sine comite in ludum iit...”
+
+Quintus: “Nonne Medus eum comitatus est?”
+
+Syra: “Medus heri domo fugit - puto quia amicam suam, quae Romae habitat, videre cupivit.”
+
+Quintus: “Quomodo Medus, qui vix umquam Romae fuit, puellam Romanam noscere potuit?”
+
+Syra: “Nescio quomodo, sed certo scio eum aliquam feminam novisse, nam saepe de ea locutus est. NIhil difficile est amanti, ut aiunt.
+
+“Medus igitur hodie Marcum comitari non potuit. Nuper Marcus solus rediit, sed pater filium suum redeuntem vix cognovit neque eum osculatus est ut solet, nam Marcus non modo umidus erat quod per imbrem ambulaverat, sed etiam sordidus atque cruentus quod humi iacueruat et a Sexto pulsatus erat. Pueri enim in via pugnaverant: primum Marcum pulsaverat Sextus, tum Marcus et Titus Sextum pulsaverant. Hoc audito, dominus Marcum severe reprehendit.”
+
+Quintus: “Mater quid dixit?”
+
+Syra: “Mater tua non aderat, sed paulo post intravit. Tunc Marcus iam lautus erat et vestem mutaverat, domina eum sordidum atque cruentum non vidit. Marcus vero 'se bonum discipulum fuisse' dixit, etsi in ludo dormiverat nec magistrum recitantem audiverat - ceterum in hac re is non peior fuerat ceteris, nam omnes dormiverant! Postremo litteras pulchras quas Sextus scripserat matri ostendit atque dixit 'se ipsum eas litteras scripsisse.' Tam turpiter frater tuus mentitus est!”
+
+Quintus: “Quomodo scis Marcum mentitum esse et eas litteras a Sexto scriptas esse?”
+
+Syra: “Quia nomen 'Sexti' in tabella scriptum erat. Et paulo post tabellarius advenit...”
+
+Quintus: “Nuper aliquem ianuam pulsare et canem valde latrare audivi. Tum subito magna voce clamavit aliquis. Quidnam tantus ille tumultus significavit?”
+
+Syra: “Tabellarius clamavit quod canem veritus est, nec sine causa, nam canis eum momordit et vestem eius scidit. Is canis lupo ferocior est!”
+
+Quintus: “Ego canem ianitoris non vereor neque umquam ab eo morsus sum.”
+
+Syra: “Id non miror, nam canis saepissime te vidit. Canis te novit, ignorat illum.”
+
+Quintus: “Canis me non modo novit, sed etiam diligit, nam multa ei ossa dedi et saepe cum eo lusi. Ceterum quid attulit tabellarius?”
+
+Syra: “Epistulam attulit in qua magister scripserat 'Marcum discipulum pigerrimum fuisse atque foede et prave scripsisse.' Tum Marcus, qui primo omnia negaverat, 'se mentitum esse' fassus est.”
+
+Quintus: “Profecto verbera meruit!”
+
+Syra: “Magister eum iam bis verberaverat, nec igitur pater eum denuo verberare voluit, sed in cubiculum inclusit. Ceterum facile tibi est fratrem tuum reprehendere, dum ipse hic in molli lectulo cubas. Tune ipse semper bonus discipulus es?
+
+Quintus: “Melior sum fratre meo! Heri laudatus sum, quia pulchre scripseram et recitaveram.”
+
+Syra: “Tune solus pulchre scripseras et recitaveras?”
+
+Quintus: “Immo omnes praeter Marcum laudati sumus, quod pulchre scripseramus et recitaveramus.”
+
+Syra: “Si vos laudati estis, quod pulchrius scripseratis et recitaveratis quam Marcus, nonne ille tam recte scripserat quam vos? Ego Marcum bene novi, nec puto eum vobis stultiorem esse.”
+
+Quintus: “At certe pigrior est nobis!”
