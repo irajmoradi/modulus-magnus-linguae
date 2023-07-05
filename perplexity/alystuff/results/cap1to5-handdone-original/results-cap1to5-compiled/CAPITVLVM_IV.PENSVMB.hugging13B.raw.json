@@ -1,0 +1,530 @@
+[
+    {
+        "question": "In saccul\u014d I\u016bli\u012b ~ est.",
+        "answer": "In saccul\u014d I\u016bli\u012b pec\u016bnia est.",
+        "evalsentences": [
+            {
+                "evalsentence": "In saccul\u014d I\u016bli\u012b pec\u016bnia est.",
+                "perplexity": 204.17430114746094
+            },
+            {
+                "evalsentence": "In saccul\u014d I\u016bli\u012b septem est.",
+                "perplexity": 401.02655029296875
+            },
+            {
+                "evalsentence": "In saccul\u014d I\u016bli\u012b imperat est.",
+                "perplexity": 591.7875366210938
+            },
+            {
+                "evalsentence": "In saccul\u014d I\u016bli\u012b n\u016blla est.",
+                "perplexity": 202.70811462402344
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam ~ : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam novem : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 9.098294258117676
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam vacuus : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 10.051641464233398
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam tantum : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 9.645318031311035
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, ~, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, septem, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 12.725537300109863
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, imperat, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 12.24494743347168
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, n\u016blla, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 9.880453109741211
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, ~, sex, septem, oct\u014d, novem, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, novem, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 12.623054504394531
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, vacuus, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 9.40975284576416
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, tantum, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 10.4979887008667
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, ~, oct\u014d, novem, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, imperat, oct\u014d, novem, decem.\"",
+                "perplexity": 12.243160247802734
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, n\u016blla, oct\u014d, novem, decem.\"",
+                "perplexity": 10.615889549255371
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, novem, oct\u014d, novem, decem.\"",
+                "perplexity": 11.677114486694336
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, ~, novem, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, vacuus, novem, decem.\"",
+                "perplexity": 9.519389152526855
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, tantum, novem, decem.\"",
+                "perplexity": 9.308069229125977
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, septem, novem, decem.\"",
+                "perplexity": 9.200986862182617
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, ~, decem.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, imperat, decem.\"",
+                "perplexity": 11.652501106262207
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, n\u016blla, decem.\"",
+                "perplexity": 8.84807014465332
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, vacuus, decem.\"",
+                "perplexity": 10.270591735839844
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, ~.\"",
+        "answer": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, decem.\"",
+                "perplexity": 6.984920501708984
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, tantum.\"",
+                "perplexity": 9.186487197875977
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, septem.\"",
+                "perplexity": 9.425472259521484
+            },
+            {
+                "evalsentence": "I\u016blius pec\u016bniam suam numerat : \"\u016anus, duo, tr\u0113s, quattuor, qu\u012bnque, sex, septem, oct\u014d, novem, imperat.\"",
+                "perplexity": 11.07671070098877
+            }
+        ]
+    },
+    {
+        "question": "In ~ n\u014dn centum, sed tantum decem numm\u012b sunt.",
+        "answer": "In saccul\u014d n\u014dn centum, sed tantum decem numm\u012b sunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "In saccul\u014d n\u014dn centum, sed tantum decem numm\u012b sunt.",
+                "perplexity": 75.96398162841797
+            },
+            {
+                "evalsentence": "In n\u016blla n\u014dn centum, sed tantum decem numm\u012b sunt.",
+                "perplexity": 95.16680145263672
+            },
+            {
+                "evalsentence": "In novem n\u014dn centum, sed tantum decem numm\u012b sunt.",
+                "perplexity": 85.76111602783203
+            },
+            {
+                "evalsentence": "In vacuus n\u014dn centum, sed tantum decem numm\u012b sunt.",
+                "perplexity": 74.39154815673828
+            }
+        ]
+    },
+    {
+        "question": "In saccul\u014d n\u014dn centum, sed ~ decem numm\u012b sunt.",
+        "answer": "In saccul\u014d n\u014dn centum, sed tantum decem numm\u012b sunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "In saccul\u014d n\u014dn centum, sed tantum decem numm\u012b sunt.",
+                "perplexity": 75.96398162841797
+            },
+            {
+                "evalsentence": "In saccul\u014d n\u014dn centum, sed septem decem numm\u012b sunt.",
+                "perplexity": 79.11964416503906
+            },
+            {
+                "evalsentence": "In saccul\u014d n\u014dn centum, sed imperat decem numm\u012b sunt.",
+                "perplexity": 165.78567504882812
+            },
+            {
+                "evalsentence": "In saccul\u014d n\u014dn centum, sed n\u016blla decem numm\u012b sunt.",
+                "perplexity": 91.11093139648438
+            }
+        ]
+    },
+    {
+        "question": "D\u0101vus dominum ~ : \"Salv\u0113, domine!\"",
+        "answer": "D\u0101vus dominum sal\u016btat : \"Salv\u0113, domine!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "D\u0101vus dominum sal\u016btat : \"Salv\u0113, domine!\"",
+                "perplexity": 106.5140380859375
+            },
+            {
+                "evalsentence": "D\u0101vus dominum novem : \"Salv\u0113, domine!\"",
+                "perplexity": 176.31887817382812
+            },
+            {
+                "evalsentence": "D\u0101vus dominum vacuus : \"Salv\u0113, domine!\"",
+                "perplexity": 127.90665435791016
+            },
+            {
+                "evalsentence": "D\u0101vus dominum tantum : \"Salv\u0113, domine!\"",
+                "perplexity": 135.72816467285156
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius ~: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+        "answer": "I\u016blius imperat: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius imperat: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+                "perplexity": 148.3162384033203
+            },
+            {
+                "evalsentence": "I\u016blius septem: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+                "perplexity": 158.4102020263672
+            },
+            {
+                "evalsentence": "I\u016blius n\u016blla: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+                "perplexity": 136.80645751953125
+            },
+            {
+                "evalsentence": "I\u016blius novem: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+                "perplexity": 151.56761169433594
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius imperat: \"P\u014dne sacculum tuum in ~!\"",
+        "answer": "I\u016blius imperat: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius imperat: \"P\u014dne sacculum tuum in m\u0113ns\u0101!\"",
+                "perplexity": 148.31631469726562
+            },
+            {
+                "evalsentence": "I\u016blius imperat: \"P\u014dne sacculum tuum in vacuus!\"",
+                "perplexity": 186.5817413330078
+            },
+            {
+                "evalsentence": "I\u016blius imperat: \"P\u014dne sacculum tuum in tantum!\"",
+                "perplexity": 195.26177978515625
+            },
+            {
+                "evalsentence": "I\u016blius imperat: \"P\u014dne sacculum tuum in septem!\"",
+                "perplexity": 237.15133666992188
+            }
+        ]
+    },
+    {
+        "question": "D\u0101vus sacculum ~ in m\u0113ns\u0101 p\u014dnit.",
+        "answer": "D\u0101vus sacculum suum in m\u0113ns\u0101 p\u014dnit.",
+        "evalsentences": [
+            {
+                "evalsentence": "D\u0101vus sacculum suum in m\u0113ns\u0101 p\u014dnit.",
+                "perplexity": 87.19676971435547
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum imperat in m\u0113ns\u0101 p\u014dnit.",
+                "perplexity": 180.67160034179688
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum n\u016blla in m\u0113ns\u0101 p\u014dnit.",
+                "perplexity": 102.55303955078125
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum novem in m\u0113ns\u0101 p\u014dnit.",
+                "perplexity": 141.37973022460938
+            }
+        ]
+    },
+    {
+        "question": "D\u0101vus sacculum suum in m\u0113ns\u0101 ~.",
+        "answer": "D\u0101vus sacculum suum in m\u0113ns\u0101 p\u014dnit.",
+        "evalsentences": [
+            {
+                "evalsentence": "D\u0101vus sacculum suum in m\u0113ns\u0101 p\u014dnit.",
+                "perplexity": 87.19668579101562
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum in m\u0113ns\u0101 vacuus.",
+                "perplexity": 96.6192398071289
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum in m\u0113ns\u0101 tantum.",
+                "perplexity": 120.49862670898438
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum in m\u0113ns\u0101 septem.",
+                "perplexity": 136.7574005126953
+            }
+        ]
+    },
+    {
+        "question": "Sacculus D\u0101v\u012b ~ est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+        "answer": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 67.03717803955078
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b imperat est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 99.525634765625
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b n\u016blla est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 80.12548828125
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b novem est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 95.3886947631836
+            }
+        ]
+    },
+    {
+        "question": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d ~ [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+        "answer": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 67.03717803955078
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d vacuus [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 60.33259963989258
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d tantum [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 71.4884262084961
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d septem [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 81.3653564453125
+            }
+        ]
+    },
+    {
+        "question": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] ~ pec\u016bnia est.",
+        "answer": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] n\u016blla pec\u016bnia est.",
+                "perplexity": 67.03717803955078
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] imperat pec\u016bnia est.",
+                "perplexity": 100.49720001220703
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] novem pec\u016bnia est.",
+                "perplexity": 91.73480224609375
+            },
+            {
+                "evalsentence": "Sacculus D\u0101v\u012b vacuus est, in saccul\u014d eius [: D\u0101v\u012b] vacuus pec\u016bnia est.",
+                "perplexity": 63.8520393371582
+            }
+        ]
+    },
+    {
+        "question": "D\u0101vus sacculum suum ~ et disc\u0113dit.",
+        "answer": "D\u0101vus sacculum suum s\u016bmit et disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "D\u0101vus sacculum suum s\u016bmit et disc\u0113dit.",
+                "perplexity": 148.8931121826172
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum tantum et disc\u0113dit.",
+                "perplexity": 200.99362182617188
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum septem et disc\u0113dit.",
+                "perplexity": 244.28273010253906
+            },
+            {
+                "evalsentence": "D\u0101vus sacculum suum imperat et disc\u0113dit.",
+                "perplexity": 238.72032165527344
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia ~ [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+        "answer": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+                "perplexity": 38.20463180541992
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia n\u016blla [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+                "perplexity": 37.06650924682617
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia novem [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+                "perplexity": 42.08891677856445
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia vacuus [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+                "perplexity": 36.627010345458984
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b ~.",
+        "answer": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b habet.",
+                "perplexity": 38.20463180541992
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b tantum.",
+                "perplexity": 49.90220260620117
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b septem.",
+                "perplexity": 48.97262954711914
+            },
+            {
+                "evalsentence": "I\u016blius: \"M\u0113de! Ven\u012b!\" M\u0113dus n\u014dn venit, quia is [: M\u0113dus] pec\u016bniam I\u016bli\u012b imperat.",
+                "perplexity": 43.51130294799805
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius baculum, ~ in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+        "answer": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+                "perplexity": 58.74143600463867
+            },
+            {
+                "evalsentence": "I\u016blius baculum, n\u016blla in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+                "perplexity": 80.04361724853516
+            },
+            {
+                "evalsentence": "I\u016blius baculum, novem in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+                "perplexity": 107.24848937988281
+            },
+            {
+                "evalsentence": "I\u016blius baculum, vacuus in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+                "perplexity": 74.28889465332031
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et ~.",
+        "answer": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et disc\u0113dit.",
+                "perplexity": 58.7414665222168
+            },
+            {
+                "evalsentence": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et tantum.",
+                "perplexity": 66.5182876586914
+            },
+            {
+                "evalsentence": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et septem.",
+                "perplexity": 67.146240234375
+            },
+            {
+                "evalsentence": "I\u016blius baculum, quod in m\u0113ns\u0101 est, s\u016bmit et imperat.",
+                "perplexity": 56.74903106689453
+            }
+        ]
+    },
+    {
+        "question": "Dominus imperat, bonus servus ~.",
+        "answer": "Dominus imperat, bonus servus p\u0101ret.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus imperat, bonus servus p\u0101ret.",
+                "perplexity": 361.0027160644531
+            },
+            {
+                "evalsentence": "Dominus imperat, bonus servus n\u016blla.",
+                "perplexity": 442.631103515625
+            },
+            {
+                "evalsentence": "Dominus imperat, bonus servus novem.",
+                "perplexity": 544.9850463867188
+            },
+            {
+                "evalsentence": "Dominus imperat, bonus servus vacuus.",
+                "perplexity": 273.2023620605469
+            }
+        ]
+    }
+]

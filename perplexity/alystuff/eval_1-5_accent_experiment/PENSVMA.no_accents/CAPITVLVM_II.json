@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Marcus fili~ Iulii est. Iulia filia Iulii est.",
+        "evalsentences": [
+            "Marcus filius Iulii est. Iulia filia Iulii est.",
+            "Marcus filium Iulii est. Iulia filia Iulii est.",
+            "Marcus filiorum Iulii est. Iulia filia Iulii est.",
+            "Marcus filii Iulii est. Iulia filia Iulii est."
+        ],
+        "answer": "Marcus filius Iulii est. Iulia filia Iulii est."
+    },
+    {
+        "question": "Marcus filius Iulii est. Iulia fili~ Iulii est.",
+        "evalsentences": [
+            "Marcus filius Iulii est. Iulia filia Iulii est.",
+            "Marcus filius Iulii est. Iulia filium Iulii est.",
+            "Marcus filius Iulii est. Iulia filius Iulii est.",
+            "Marcus filius Iulii est. Iulia filiorum Iulii est."
+        ],
+        "answer": "Marcus filius Iulii est. Iulia filia Iulii est."
+    },
+    {
+        "question": "Iulius est vir Roman~. Aemilia femina Romana est.",
+        "evalsentences": [
+            "Iulius est vir Romanus. Aemilia femina Romana est.",
+            "Iulius est vir Romanum. Aemilia femina Romana est.",
+            "Iulius est vir Romanorum. Aemilia femina Romana est.",
+            "Iulius est vir Romani. Aemilia femina Romana est."
+        ],
+        "answer": "Iulius est vir Romanus. Aemilia femina Romana est."
+    },
+    {
+        "question": "Iulius est vir Romanus. Aemilia femin~ Romana est.",
+        "evalsentences": [
+            "Iulius est vir Romanus. Aemilia femina Romana est.",
+            "Iulius est vir Romanus. Aemilia feminum Romana est.",
+            "Iulius est vir Romanus. Aemilia feminus Romana est.",
+            "Iulius est vir Romanus. Aemilia feminorum Romana est."
+        ],
+        "answer": "Iulius est vir Romanus. Aemilia femina Romana est."
+    },
+    {
+        "question": "Iulius est vir Romanus. Aemilia femina Roman~ est.",
+        "evalsentences": [
+            "Iulius est vir Romanus. Aemilia femina Romana est.",
+            "Iulius est vir Romanus. Aemilia femina Romanum est.",
+            "Iulius est vir Romanus. Aemilia femina Romanus est.",
+            "Iulius est vir Romanus. Aemilia femina Romanorum est."
+        ],
+        "answer": "Iulius est vir Romanus. Aemilia femina Romana est."
+    },
+    {
+        "question": "Iulius domin~, Aemilia domina est.",
+        "evalsentences": [
+            "Iulius dominus, Aemilia domina est.",
+            "Iulius dominum, Aemilia domina est.",
+            "Iulius dominorum, Aemilia domina est.",
+            "Iulius domini, Aemilia domina est."
+        ],
+        "answer": "Iulius dominus, Aemilia domina est."
+    },
+    {
+        "question": "Iulius dominus, Aemilia domin~ est.",
+        "evalsentences": [
+            "Iulius dominus, Aemilia domina est.",
+            "Iulius dominus, Aemilia dominum est.",
+            "Iulius dominus, Aemilia dominus est.",
+            "Iulius dominus, Aemilia dominorum est."
+        ],
+        "answer": "Iulius dominus, Aemilia domina est."
+    },
+    {
+        "question": "Medus serv~ Graecus est, Delia est ancilla Graeca.",
+        "evalsentences": [
+            "Medus servus Graecus est, Delia est ancilla Graeca.",
+            "Medus servum Graecus est, Delia est ancilla Graeca.",
+            "Medus servorum Graecus est, Delia est ancilla Graeca.",
+            "Medus servi Graecus est, Delia est ancilla Graeca."
+        ],
+        "answer": "Medus servus Graecus est, Delia est ancilla Graeca."
+    },
+    {
+        "question": "Medus servus Graec~ est, Delia est ancilla Graeca.",
+        "evalsentences": [
+            "Medus servus Graecus est, Delia est ancilla Graeca.",
+            "Medus servus Graecum est, Delia est ancilla Graeca.",
+            "Medus servus Graecorum est, Delia est ancilla Graeca.",
+            "Medus servus Graeci est, Delia est ancilla Graeca."
+        ],
+        "answer": "Medus servus Graecus est, Delia est ancilla Graeca."
+    },
+    {
+        "question": "Medus servus Graecus est, Delia est ancill~ Graeca.",
+        "evalsentences": [
+            "Medus servus Graecus est, Delia est ancilla Graeca.",
+            "Medus servus Graecus est, Delia est ancillum Graeca.",
+            "Medus servus Graecus est, Delia est ancillus Graeca.",
+            "Medus servus Graecus est, Delia est ancillorum Graeca."
+        ],
+        "answer": "Medus servus Graecus est, Delia est ancilla Graeca."
+    },
+    {
+        "question": "Medus servus Graecus est, Delia est ancilla Graec~.",
+        "evalsentences": [
+            "Medus servus Graecus est, Delia est ancilla Graeca.",
+            "Medus servus Graecus est, Delia est ancilla Graecum.",
+            "Medus servus Graecus est, Delia est ancilla Graecus.",
+            "Medus servus Graecus est, Delia est ancilla Graecorum."
+        ],
+        "answer": "Medus servus Graecus est, Delia est ancilla Graeca."
+    },
+    {
+        "question": "Sparta oppid~ Graecum est.",
+        "evalsentences": [
+            "Sparta oppidum Graecum est.",
+            "Sparta oppidus Graecum est.",
+            "Sparta oppidorum Graecum est.",
+            "Sparta oppidi Graecum est."
+        ],
+        "answer": "Sparta oppidum Graecum est."
+    },
+    {
+        "question": "Sparta oppidum Graec~ est.",
+        "evalsentences": [
+            "Sparta oppidum Graecum est.",
+            "Sparta oppidum Graecus est.",
+            "Sparta oppidum Graecorum est.",
+            "Sparta oppidum Graeci est."
+        ],
+        "answer": "Sparta oppidum Graecum est."
+    },
+    {
+        "question": "Iulius pater Marc~ est.",
+        "evalsentences": [
+            "Iulius pater Marci est.",
+            "Iulius pater Marcum est.",
+            "Iulius pater Marcus est.",
+            "Iulius pater Marcorum est."
+        ],
+        "answer": "Iulius pater Marci est."
+    },
+    {
+        "question": "Marcus est filius Iuli~ et Aemiliae.",
+        "evalsentences": [
+            "Marcus est filius Iulii et Aemiliae.",
+            "Marcus est filius Iulium et Aemiliae.",
+            "Marcus est filius Iulius et Aemiliae.",
+            "Marcus est filius Iuliorum et Aemiliae."
+        ],
+        "answer": "Marcus est filius Iulii et Aemiliae."
+    },
+    {
+        "question": "Marcus est filius Iulii et Aemili~.",
+        "evalsentences": [
+            "Marcus est filius Iulii et Aemiliae.",
+            "Marcus est filius Iulii et Aemilium.",
+            "Marcus est filius Iulii et Aemilius.",
+            "Marcus est filius Iulii et Aemiliorum."
+        ],
+        "answer": "Marcus est filius Iulii et Aemiliae."
+    },
+    {
+        "question": "Medus servus Iuli~ est: Iulius est dominus servi.",
+        "evalsentences": [
+            "Medus servus Iulii est: Iulius est dominus servi.",
+            "Medus servus Iulium est: Iulius est dominus servi.",
+            "Medus servus Iulius est: Iulius est dominus servi.",
+            "Medus servus Iuliorum est: Iulius est dominus servi."
+        ],
+        "answer": "Medus servus Iulii est: Iulius est dominus servi."
+    },
+    {
+        "question": "Medus servus Iulii est: Iulius est dominus serv~.",
+        "evalsentences": [
+            "Medus servus Iulii est: Iulius est dominus servi.",
+            "Medus servus Iulii est: Iulius est dominus servum.",
+            "Medus servus Iulii est: Iulius est dominus servus.",
+            "Medus servus Iulii est: Iulius est dominus servorum."
+        ],
+        "answer": "Medus servus Iulii est: Iulius est dominus servi."
+    },
+    {
+        "question": "Iulius dominus Med~ et Davi est: Iulius dominus servorum est.",
+        "evalsentences": [
+            "Iulius dominus Medi et Davi est: Iulius dominus servorum est.",
+            "Iulius dominus Medum et Davi est: Iulius dominus servorum est.",
+            "Iulius dominus Medus et Davi est: Iulius dominus servorum est.",
+            "Iulius dominus Medorum et Davi est: Iulius dominus servorum est."
+        ],
+        "answer": "Iulius dominus Medi et Davi est: Iulius dominus servorum est."
+    },
+    {
+        "question": "Iulius dominus Medi et Dav~ est: Iulius dominus servorum est.",
+        "evalsentences": [
+            "Iulius dominus Medi et Davi est: Iulius dominus servorum est.",
+            "Iulius dominus Medi et Davum est: Iulius dominus servorum est.",
+            "Iulius dominus Medi et Davus est: Iulius dominus servorum est.",
+            "Iulius dominus Medi et Davorum est: Iulius dominus servorum est."
+        ],
+        "answer": "Iulius dominus Medi et Davi est: Iulius dominus servorum est."
+    },
+    {
+        "question": "Iulius dominus Medi et Davi est: Iulius dominus serv~ est.",
+        "evalsentences": [
+            "Iulius dominus Medi et Davi est: Iulius dominus servorum est.",
+            "Iulius dominus Medi et Davi est: Iulius dominus servum est.",
+            "Iulius dominus Medi et Davi est: Iulius dominus servus est.",
+            "Iulius dominus Medi et Davi est: Iulius dominus servi est."
+        ],
+        "answer": "Iulius dominus Medi et Davi est: Iulius dominus servorum est."
+    },
+    {
+        "question": "Numerus serv~ magnus est.",
+        "evalsentences": [
+            "Numerus servorum magnus est.",
+            "Numerus servum magnus est.",
+            "Numerus servus magnus est.",
+            "Numerus servi magnus est."
+        ],
+        "answer": "Numerus servorum magnus est."
+    },
+    {
+        "question": "Delia est ancilla Aemili~ : Aemilia domina ancillae est.",
+        "evalsentences": [
+            "Delia est ancilla Aemiliae : Aemilia domina ancillae est.",
+            "Delia est ancilla Aemilium : Aemilia domina ancillae est.",
+            "Delia est ancilla Aemilius : Aemilia domina ancillae est.",
+            "Delia est ancilla Aemiliorum : Aemilia domina ancillae est."
+        ],
+        "answer": "Delia est ancilla Aemiliae : Aemilia domina ancillae est."
+    },
+    {
+        "question": "Delia est ancilla Aemiliae : Aemilia domina ancill~ est.",
+        "evalsentences": [
+            "Delia est ancilla Aemiliae : Aemilia domina ancillae est.",
+            "Delia est ancilla Aemiliae : Aemilia domina ancillum est.",
+            "Delia est ancilla Aemiliae : Aemilia domina ancillus est.",
+            "Delia est ancilla Aemiliae : Aemilia domina ancillorum est."
+        ],
+        "answer": "Delia est ancilla Aemiliae : Aemilia domina ancillae est."
+    },
+    {
+        "question": "Aemilia domina Deli~ et Syrae est: Aemilia domina ancillarum est.",
+        "evalsentences": [
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est.",
+            "Aemilia domina Delium et Syrae est: Aemilia domina ancillarum est.",
+            "Aemilia domina Delius et Syrae est: Aemilia domina ancillarum est.",
+            "Aemilia domina Deliorum et Syrae est: Aemilia domina ancillarum est."
+        ],
+        "answer": "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est."
+    },
+    {
+        "question": "Aemilia domina Deliae et Syr~ est: Aemilia domina ancillarum est.",
+        "evalsentences": [
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est.",
+            "Aemilia domina Deliae et Syrum est: Aemilia domina ancillarum est.",
+            "Aemilia domina Deliae et Syrus est: Aemilia domina ancillarum est.",
+            "Aemilia domina Deliae et Syrorum est: Aemilia domina ancillarum est."
+        ],
+        "answer": "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est."
+    },
+    {
+        "question": "Aemilia domina Deliae et Syrae est: Aemilia domina ancill~ est.",
+        "evalsentences": [
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est.",
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillum est.",
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillus est.",
+            "Aemilia domina Deliae et Syrae est: Aemilia domina ancillorum est."
+        ],
+        "answer": "Aemilia domina Deliae et Syrae est: Aemilia domina ancillarum est."
+    },
+    {
+        "question": "In familia Iuli~ est magnus numerus servorum et ancillarum.",
+        "evalsentences": [
+            "In familia Iulii est magnus numerus servorum et ancillarum.",
+            "In familia Iulium est magnus numerus servorum et ancillarum.",
+            "In familia Iulius est magnus numerus servorum et ancillarum.",
+            "In familia Iuliorum est magnus numerus servorum et ancillarum."
+        ],
+        "answer": "In familia Iulii est magnus numerus servorum et ancillarum."
+    },
+    {
+        "question": "In familia Iulii est magnus numerus serv~ et ancillarum.",
+        "evalsentences": [
+            "In familia Iulii est magnus numerus servorum et ancillarum.",
+            "In familia Iulii est magnus numerus servum et ancillarum.",
+            "In familia Iulii est magnus numerus servus et ancillarum.",
+            "In familia Iulii est magnus numerus servi et ancillarum."
+        ],
+        "answer": "In familia Iulii est magnus numerus servorum et ancillarum."
+    },
+    {
+        "question": "In familia Iulii est magnus numerus servorum et ancill~.",
+        "evalsentences": [
+            "In familia Iulii est magnus numerus servorum et ancillarum.",
+            "In familia Iulii est magnus numerus servorum et ancillum.",
+            "In familia Iulii est magnus numerus servorum et ancillus.",
+            "In familia Iulii est magnus numerus servorum et ancillorum."
+        ],
+        "answer": "In familia Iulii est magnus numerus servorum et ancillarum."
+    },
+    {
+        "question": "Aemilia mater Marc~ et Quinti et Iuliae est.",
+        "evalsentences": [
+            "Aemilia mater Marci et Quinti et Iuliae est.",
+            "Aemilia mater Marcum et Quinti et Iuliae est.",
+            "Aemilia mater Marcus et Quinti et Iuliae est.",
+            "Aemilia mater Marcorum et Quinti et Iuliae est."
+        ],
+        "answer": "Aemilia mater Marci et Quinti et Iuliae est."
+    },
+    {
+        "question": "Aemilia mater Marci et Quint~ et Iuliae est.",
+        "evalsentences": [
+            "Aemilia mater Marci et Quinti et Iuliae est.",
+            "Aemilia mater Marci et Quintum et Iuliae est.",
+            "Aemilia mater Marci et Quintus et Iuliae est.",
+            "Aemilia mater Marci et Quintorum et Iuliae est."
+        ],
+        "answer": "Aemilia mater Marci et Quinti et Iuliae est."
+    },
+    {
+        "question": "Aemilia mater Marci et Quinti et Iuli~ est.",
+        "evalsentences": [
+            "Aemilia mater Marci et Quinti et Iuliae est.",
+            "Aemilia mater Marci et Quinti et Iulium est.",
+            "Aemilia mater Marci et Quinti et Iulius est.",
+            "Aemilia mater Marci et Quinti et Iuliorum est."
+        ],
+        "answer": "Aemilia mater Marci et Quinti et Iuliae est."
+    },
+    {
+        "question": "Marcus, Quintus Iuliaque sunt liberi Iuli~ et Aemiliae.",
+        "evalsentences": [
+            "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemiliae.",
+            "Marcus, Quintus Iuliaque sunt liberi Iulium et Aemiliae.",
+            "Marcus, Quintus Iuliaque sunt liberi Iulius et Aemiliae.",
+            "Marcus, Quintus Iuliaque sunt liberi Iuliorum et Aemiliae."
+        ],
+        "answer": "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemiliae."
+    },
+    {
+        "question": "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemili~.",
+        "evalsentences": [
+            "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemiliae.",
+            "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemilium.",
+            "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemilius.",
+            "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemiliorum."
+        ],
+        "answer": "Marcus, Quintus Iuliaque sunt liberi Iulii et Aemiliae."
+    },
+    {
+        "question": "Numerus liber~ est tres.",
+        "evalsentences": [
+            "Numerus liberorum est tres.",
+            "Numerus liberum est tres.",
+            "Numerus liberus est tres.",
+            "Numerus liberi est tres."
+        ],
+        "answer": "Numerus liberorum est tres."
+    },
+    {
+        "question": "Numerus serv~ est centum.",
+        "evalsentences": [
+            "Numerus servorum est centum.",
+            "Numerus servum est centum.",
+            "Numerus servus est centum.",
+            "Numerus servi est centum."
+        ],
+        "answer": "Numerus servorum est centum."
+    },
+    {
+        "question": "In pagina prima capitul~ secundi multa vocabula nova sunt.",
+        "evalsentences": [
+            "In pagina prima capituli secundi multa vocabula nova sunt.",
+            "In pagina prima capitulum secundi multa vocabula nova sunt.",
+            "In pagina prima capitulus secundi multa vocabula nova sunt.",
+            "In pagina prima capitulorum secundi multa vocabula nova sunt."
+        ],
+        "answer": "In pagina prima capituli secundi multa vocabula nova sunt."
+    },
+    {
+        "question": "In pagina prima capituli secund~ multa vocabula nova sunt.",
+        "evalsentences": [
+            "In pagina prima capituli secundi multa vocabula nova sunt.",
+            "In pagina prima capituli secundum multa vocabula nova sunt.",
+            "In pagina prima capituli secundus multa vocabula nova sunt.",
+            "In pagina prima capituli secundorum multa vocabula nova sunt."
+        ],
+        "answer": "In pagina prima capituli secundi multa vocabula nova sunt."
+    },
+    {
+        "question": "Numerus capitul~ non parvus est.",
+        "evalsentences": [
+            "Numerus capitulorum non parvus est.",
+            "Numerus capitulum non parvus est.",
+            "Numerus capitulus non parvus est.",
+            "Numerus capituli non parvus est."
+        ],
+        "answer": "Numerus capitulorum non parvus est."
+    }
+]

@@ -1,0 +1,5 @@
+model,style_0,style_3,style_4,style_6
+davinci,0.025,0.1,0.15000000000000002,0.125
+davinci-finetuned-ch5txt-only,,0.1,0.16666666666666666,0.125
+davinci-finetuned-ch5txt-qareplacements,0.07500000000000001,,,
+davinci-finetuned-ch5txt-replacements,,0.07500000000000001,0.125,0.05

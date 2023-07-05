@@ -1,0 +1,398 @@
+[
+    {
+        "question": "I\u016blius in magn\u0101 ~ habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 18.360599517822266
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 cum habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 30.742616653442383
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 fenestrae habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 41.19496536254883
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 sine habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 40.959110260009766
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius in magn\u0101 v\u012bll\u0101 ~. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 18.360599517822266
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 d\u0113lectant. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 22.20911407470703
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 carpit. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 23.512371063232422
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 v\u012bll\u0101. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 19.89601707458496
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum ~ [: I\u016bli\u014d] habitat.",
+        "answer": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum e\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 18.360599517822266
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum habitat [: I\u016bli\u014d] habitat.",
+                "perplexity": 34.995941162109375
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum hort\u014d [: I\u016bli\u014d] habitat.",
+                "perplexity": 24.2471981048584
+            },
+            {
+                "evalsentence": "I\u016blius in magn\u0101 v\u012bll\u0101 habitat. Aemilia cum ros\u012bs [: I\u016bli\u014d] habitat.",
+                "perplexity": 32.69443893432617
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius Aemiliam ~, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 7.144100189208984
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam Id, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 24.96438980102539
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam ea, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 18.743131637573242
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam ex, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 17.90309715270996
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius Aemiliam amat, quia ~ [: Aemilia] bona et pulchra f\u0113mina est.",
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 7.144097805023193
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia pulchra [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 6.9100141525268555
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia \u0101tri\u014d [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 9.581412315368652
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia aqua [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 14.215055465698242
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et ~ f\u0113mina est.",
+        "answer": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et pulchra f\u0113mina est.",
+                "perplexity": 7.144101142883301
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et ab f\u0113mina est.",
+                "perplexity": 14.619441986083984
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et e\u014d f\u0113mina est.",
+                "perplexity": 12.486150741577148
+            },
+            {
+                "evalsentence": "I\u016blius Aemiliam amat, quia ea [: Aemilia] bona et cum f\u0113mina est.",
+                "perplexity": 12.399508476257324
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est ~ l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+                "perplexity": 19.238752365112305
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est fenestrae l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+                "perplexity": 17.5296630859375
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est sine l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+                "perplexity": 13.84583568572998
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est d\u0113lectant l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+                "perplexity": 11.866837501525879
+            }
+        ]
+    },
+    {
+        "question": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed ~ vir\u014d su\u014d.",
+        "answer": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed sine vir\u014d su\u014d.",
+                "perplexity": 19.238752365112305
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed carpit vir\u014d su\u014d.",
+                "perplexity": 18.73783302307129
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed v\u012bll\u0101 vir\u014d su\u014d.",
+                "perplexity": 9.474040031433105
+            },
+            {
+                "evalsentence": "Aemilia in perist\u0233l\u014d est cum l\u012bber\u012bs su\u012bs, sed habitat vir\u014d su\u014d.",
+                "perplexity": 19.708518981933594
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia ~ Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+        "answer": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+                "perplexity": 20.53188133239746
+            },
+            {
+                "evalsentence": "I\u016blia hort\u014d Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+                "perplexity": 16.803180694580078
+            },
+            {
+                "evalsentence": "I\u016blia ros\u012bs Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+                "perplexity": 30.32715606689453
+            },
+            {
+                "evalsentence": "I\u016blia Id Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+                "perplexity": 36.50398254394531
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ~ est.",
+        "answer": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in hort\u014d est.",
+                "perplexity": 20.531890869140625
+            },
+            {
+                "evalsentence": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ea est.",
+                "perplexity": 28.797658920288086
+            },
+            {
+                "evalsentence": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in amat est.",
+                "perplexity": 48.3967170715332
+            },
+            {
+                "evalsentence": "I\u016blia ab Aemili\u0101 disc\u0113dit; iam puella in ex est.",
+                "perplexity": 52.77254104614258
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia ros\u0101s ~ et ex hort\u014d venit cum V ros\u012bs.",
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 57.56260299682617
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s pulchra et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 59.49638748168945
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s \u0101tri\u014d et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 41.38115310668945
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s aqua et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 59.24894714355469
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia ros\u0101s carpit et ~ hort\u014d venit cum V ros\u012bs.",
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 57.56257629394531
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ab hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 52.207550048828125
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et e\u014d hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 69.6705551147461
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et cum hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 68.37505340576172
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ~.",
+        "answer": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V ros\u012bs.",
+                "perplexity": 57.56260299682617
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V fenestrae.",
+                "perplexity": 97.42213439941406
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V sine.",
+                "perplexity": 156.04034423828125
+            },
+            {
+                "evalsentence": "I\u016blia ros\u0101s carpit et ex hort\u014d venit cum V d\u0113lectant.",
+                "perplexity": 88.17566680908203
+            }
+        ]
+    },
+    {
+        "question": "Puella laeta est: rosae eam ~.",
+        "answer": "Puella laeta est: rosae eam d\u0113lectant.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puella laeta est: rosae eam d\u0113lectant.",
+                "perplexity": 42.29486083984375
+            },
+            {
+                "evalsentence": "Puella laeta est: rosae eam carpit.",
+                "perplexity": 70.34127807617188
+            },
+            {
+                "evalsentence": "Puella laeta est: rosae eam v\u012bll\u0101.",
+                "perplexity": 97.8533935546875
+            },
+            {
+                "evalsentence": "Puella laeta est: rosae eam habitat.",
+                "perplexity": 111.16527557373047
+            }
+        ]
+    },
+    {
+        "question": "Ubi est impluvium? ~ [: impluvium] est in \u0101tri\u014d.",
+        "answer": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+        "evalsentences": [
+            {
+                "evalsentence": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+                "perplexity": 20.413728713989258
+            },
+            {
+                "evalsentence": "Ubi est impluvium? hort\u014d [: impluvium] est in \u0101tri\u014d.",
+                "perplexity": 39.20999526977539
+            },
+            {
+                "evalsentence": "Ubi est impluvium? ros\u012bs [: impluvium] est in \u0101tri\u014d.",
+                "perplexity": 41.45951461791992
+            },
+            {
+                "evalsentence": "Ubi est impluvium? ea [: impluvium] est in \u0101tri\u014d.",
+                "perplexity": 29.289608001708984
+            }
+        ]
+    },
+    {
+        "question": "Ubi est impluvium? Id [: impluvium] est in ~.",
+        "answer": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+        "evalsentences": [
+            {
+                "evalsentence": "Ubi est impluvium? Id [: impluvium] est in \u0101tri\u014d.",
+                "perplexity": 20.413728713989258
+            },
+            {
+                "evalsentence": "Ubi est impluvium? Id [: impluvium] est in amat.",
+                "perplexity": 66.27687072753906
+            },
+            {
+                "evalsentence": "Ubi est impluvium? Id [: impluvium] est in ex.",
+                "perplexity": 55.06437683105469
+            },
+            {
+                "evalsentence": "Ubi est impluvium? Id [: impluvium] est in pulchra.",
+                "perplexity": 46.23716354370117
+            }
+        ]
+    },
+    {
+        "question": "In impluvi\u014d ~ est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+        "answer": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+                "perplexity": 41.880313873291016
+            },
+            {
+                "evalsentence": "In impluvi\u014d \u0101tri\u014d est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+                "perplexity": 31.998703002929688
+            },
+            {
+                "evalsentence": "In impluvi\u014d ab est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+                "perplexity": 61.59444046020508
+            },
+            {
+                "evalsentence": "In impluvi\u014d e\u014d est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+                "perplexity": 47.73258972167969
+            }
+        ]
+    },
+    {
+        "question": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae ~ sunt.",
+        "answer": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae fenestrae sunt.",
+                "perplexity": 41.88032150268555
+            },
+            {
+                "evalsentence": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae cum sunt.",
+                "perplexity": 79.5444564819336
+            },
+            {
+                "evalsentence": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae sine sunt.",
+                "perplexity": 72.21965026855469
+            },
+            {
+                "evalsentence": "In impluvi\u014d aqua est. In \u0101tri\u014d n\u016bllae d\u0113lectant sunt.",
+                "perplexity": 58.89681625366211
+            }
+        ]
+    }
+]

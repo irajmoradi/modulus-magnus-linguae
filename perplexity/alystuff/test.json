@@ -1,0 +1,32 @@
+[
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll~ habitant cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bllent habitant cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bllat habitant cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0113 habitant cum liber\u012bs et serv\u012bs."
+        ],
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs."
+    },
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll\u0101 habit~ cum liber\u012bs et serv\u012bs.",
+        "evalsentences": [
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habit\u0101s cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habit\u0101te cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habit\u012bte cum liber\u012bs et serv\u012bs."
+        ],
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs."
+    },
+    {
+        "question": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber~ et serv\u012bs.",
+        "evalsentences": [
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liberant et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u0101s et serv\u012bs.",
+            "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liberite et serv\u012bs."
+        ],
+        "answer": "I\u016blius et Aemilia in v\u012bll\u0101 habitant cum liber\u012bs et serv\u012bs."
+    }
+]

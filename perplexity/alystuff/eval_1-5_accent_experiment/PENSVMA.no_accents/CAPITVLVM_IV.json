@@ -1,0 +1,342 @@
+[
+    {
+        "question": "Medus ad~. Davus abest.",
+        "evalsentences": [
+            "Medus adest. Davus abest.",
+            "Medus adi. Davus abest.",
+            "Medus ade. Davus abest.",
+            "Medus ada. Davus abest."
+        ],
+        "answer": "Medus adest. Davus abest."
+    },
+    {
+        "question": "Medus adest. Davus ab~.",
+        "evalsentences": [
+            "Medus adest. Davus abest.",
+            "Medus adest. Davus aba.",
+            "Medus adest. Davus abe.",
+            "Medus adest. Davus abat."
+        ],
+        "answer": "Medus adest. Davus abest."
+    },
+    {
+        "question": "Iulius imper~ : \"Voca Davum, Mede!\"",
+        "evalsentences": [
+            "Iulius imperat : \"Voca Davum, Mede!\"",
+            "Iulius imperet : \"Voca Davum, Mede!\"",
+            "Iulius impera : \"Voca Davum, Mede!\"",
+            "Iulius impere : \"Voca Davum, Mede!\""
+        ],
+        "answer": "Iulius imperat : \"Voca Davum, Mede!\""
+    },
+    {
+        "question": "Iulius imperat : \"Voc~ Davum, Mede!\"",
+        "evalsentences": [
+            "Iulius imperat : \"Voca Davum, Mede!\"",
+            "Iulius imperat : \"Voci Davum, Mede!\"",
+            "Iulius imperat : \"Voce Davum, Mede!\"",
+            "Iulius imperat : \"Vocat Davum, Mede!\""
+        ],
+        "answer": "Iulius imperat : \"Voca Davum, Mede!\""
+    },
+    {
+        "question": "Iulius imperat : \"Voca Davum, Med~!\"",
+        "evalsentences": [
+            "Iulius imperat : \"Voca Davum, Mede!\"",
+            "Iulius imperat : \"Voca Davum, Medet!\"",
+            "Iulius imperat : \"Voca Davum, Medat!\"",
+            "Iulius imperat : \"Voca Davum, Meda!\""
+        ],
+        "answer": "Iulius imperat : \"Voca Davum, Mede!\""
+    },
+    {
+        "question": "Medus Davum voc~ : \"Dave! Veni!\"",
+        "evalsentences": [
+            "Medus Davum vocat : \"Dave! Veni!\"",
+            "Medus Davum vocest : \"Dave! Veni!\"",
+            "Medus Davum voca : \"Dave! Veni!\"",
+            "Medus Davum voce : \"Dave! Veni!\""
+        ],
+        "answer": "Medus Davum vocat : \"Dave! Veni!\""
+    },
+    {
+        "question": "Medus Davum vocat : \"Dav~! Veni!\"",
+        "evalsentences": [
+            "Medus Davum vocat : \"Dave! Veni!\"",
+            "Medus Davum vocat : \"Davi! Veni!\"",
+            "Medus Davum vocat : \"Dave! Veni!\"",
+            "Medus Davum vocat : \"Dava! Veni!\""
+        ],
+        "answer": "Medus Davum vocat : \"Dave! Veni!\""
+    },
+    {
+        "question": "Medus Davum vocat : \"Dave! Ven~!\"",
+        "evalsentences": [
+            "Medus Davum vocat : \"Dave! Veni!\"",
+            "Medus Davum vocat : \"Dave! Venest!\"",
+            "Medus Davum vocat : \"Dave! Vena!\"",
+            "Medus Davum vocat : \"Dave! Vene!\""
+        ],
+        "answer": "Medus Davum vocat : \"Dave! Veni!\""
+    },
+    {
+        "question": "Davus ven~ neque Iulium videt.",
+        "evalsentences": [
+            "Davus venit neque Iulium videt.",
+            "Davus veni neque Iulium videt.",
+            "Davus vene neque Iulium videt.",
+            "Davus vena neque Iulium videt."
+        ],
+        "answer": "Davus venit neque Iulium videt."
+    },
+    {
+        "question": "Davus venit neque Iulium vid~.",
+        "evalsentences": [
+            "Davus venit neque Iulium videt.",
+            "Davus venit neque Iulium videst.",
+            "Davus venit neque Iulium vida.",
+            "Davus venit neque Iulium vide."
+        ],
+        "answer": "Davus venit neque Iulium videt."
+    },
+    {
+        "question": "Medus: \"Salut~ dominum!\"",
+        "evalsentences": [
+            "Medus: \"Saluta dominum!\"",
+            "Medus: \"Saluti dominum!\"",
+            "Medus: \"Salute dominum!\"",
+            "Medus: \"Salutat dominum!\""
+        ],
+        "answer": "Medus: \"Saluta dominum!\""
+    },
+    {
+        "question": "Davus dominum salut~ : \"Salve, domine! Quid est?\"",
+        "evalsentences": [
+            "Davus dominum salutat : \"Salve, domine! Quid est?\"",
+            "Davus dominum salutet : \"Salve, domine! Quid est?\"",
+            "Davus dominum saluta : \"Salve, domine! Quid est?\"",
+            "Davus dominum salute : \"Salve, domine! Quid est?\""
+        ],
+        "answer": "Davus dominum salutat : \"Salve, domine! Quid est?\""
+    },
+    {
+        "question": "Davus dominum salutat : \"Salve, domin~! Quid est?\"",
+        "evalsentences": [
+            "Davus dominum salutat : \"Salve, domine! Quid est?\"",
+            "Davus dominum salutat : \"Salve, domini! Quid est?\"",
+            "Davus dominum salutat : \"Salve, domine! Quid est?\"",
+            "Davus dominum salutat : \"Salve, domina! Quid est?\""
+        ],
+        "answer": "Davus dominum salutat : \"Salve, domine! Quid est?\""
+    },
+    {
+        "question": "Dominus: \"Tac~, serve! Nummi mei ubi sunt?\"",
+        "evalsentences": [
+            "Dominus: \"Tace, serve! Nummi mei ubi sunt?\"",
+            "Dominus: \"Tacest, serve! Nummi mei ubi sunt?\"",
+            "Dominus: \"Taca, serve! Nummi mei ubi sunt?\"",
+            "Dominus: \"Tacat, serve! Nummi mei ubi sunt?\""
+        ],
+        "answer": "Dominus: \"Tace, serve! Nummi mei ubi sunt?\""
+    },
+    {
+        "question": "Dominus: \"Tace, serv~! Nummi mei ubi sunt?\"",
+        "evalsentences": [
+            "Dominus: \"Tace, serve! Nummi mei ubi sunt?\"",
+            "Dominus: \"Tace, servet! Nummi mei ubi sunt?\"",
+            "Dominus: \"Tace, servat! Nummi mei ubi sunt?\"",
+            "Dominus: \"Tace, serva! Nummi mei ubi sunt?\""
+        ],
+        "answer": "Dominus: \"Tace, serve! Nummi mei ubi sunt?\""
+    },
+    {
+        "question": "Servus tac~ neque respondet.",
+        "evalsentences": [
+            "Servus tacet neque respondet.",
+            "Servus tacest neque respondet.",
+            "Servus taca neque respondet.",
+            "Servus tace neque respondet."
+        ],
+        "answer": "Servus tacet neque respondet."
+    },
+    {
+        "question": "Servus tacet neque respond~.",
+        "evalsentences": [
+            "Servus tacet neque respondet.",
+            "Servus tacet neque respondi.",
+            "Servus tacet neque responde.",
+            "Servus tacet neque responda."
+        ],
+        "answer": "Servus tacet neque respondet."
+    },
+    {
+        "question": "Iulius: \"Respond~!\"",
+        "evalsentences": [
+            "Iulius: \"Responde!\"",
+            "Iulius: \"Respondest!\"",
+            "Iulius: \"Responda!\"",
+            "Iulius: \"Respondat!\""
+        ],
+        "answer": "Iulius: \"Responde!\""
+    },
+    {
+        "question": "Davus: \"Interrog~ Medum!\"",
+        "evalsentences": [
+            "Davus: \"Interroga Medum!\"",
+            "Davus: \"Interroget Medum!\"",
+            "Davus: \"Interrogat Medum!\"",
+            "Davus: \"Interroge Medum!\""
+        ],
+        "answer": "Davus: \"Interroga Medum!\""
+    },
+    {
+        "question": "Iulius Medum interrog~ : \"Ubi est pecunia mea, Mede?\"",
+        "evalsentences": [
+            "Iulius Medum interrogat : \"Ubi est pecunia mea, Mede?\"",
+            "Iulius Medum interrogi : \"Ubi est pecunia mea, Mede?\"",
+            "Iulius Medum interroge : \"Ubi est pecunia mea, Mede?\"",
+            "Iulius Medum interroga : \"Ubi est pecunia mea, Mede?\""
+        ],
+        "answer": "Iulius Medum interrogat : \"Ubi est pecunia mea, Mede?\""
+    },
+    {
+        "question": "Iulius Medum interrogat : \"Ubi est pecunia mea, Med~?\"",
+        "evalsentences": [
+            "Iulius Medum interrogat : \"Ubi est pecunia mea, Mede?\"",
+            "Iulius Medum interrogat : \"Ubi est pecunia mea, Medest?\"",
+            "Iulius Medum interrogat : \"Ubi est pecunia mea, Meda?\"",
+            "Iulius Medum interrogat : \"Ubi est pecunia mea, Mede?\""
+        ],
+        "answer": "Iulius Medum interrogat : \"Ubi est pecunia mea, Mede?\""
+    },
+    {
+        "question": "Medus: \"Davus pecuniam tuam hab~.\"",
+        "evalsentences": [
+            "Medus: \"Davus pecuniam tuam habet.\"",
+            "Medus: \"Davus pecuniam tuam habi.\"",
+            "Medus: \"Davus pecuniam tuam habe.\"",
+            "Medus: \"Davus pecuniam tuam haba.\""
+        ],
+        "answer": "Medus: \"Davus pecuniam tuam habet.\""
+    },
+    {
+        "question": "Iulius: \"Pon~ sacculum tuum in mensa, Dave!\"",
+        "evalsentences": [
+            "Iulius: \"Pone sacculum tuum in mensa, Dave!\"",
+            "Iulius: \"Ponest sacculum tuum in mensa, Dave!\"",
+            "Iulius: \"Pona sacculum tuum in mensa, Dave!\"",
+            "Iulius: \"Pone sacculum tuum in mensa, Dave!\""
+        ],
+        "answer": "Iulius: \"Pone sacculum tuum in mensa, Dave!\""
+    },
+    {
+        "question": "Iulius: \"Pone sacculum tuum in mensa, Dav~!\"",
+        "evalsentences": [
+            "Iulius: \"Pone sacculum tuum in mensa, Dave!\"",
+            "Iulius: \"Pone sacculum tuum in mensa, Davi!\"",
+            "Iulius: \"Pone sacculum tuum in mensa, Dave!\"",
+            "Iulius: \"Pone sacculum tuum in mensa, Dava!\""
+        ],
+        "answer": "Iulius: \"Pone sacculum tuum in mensa, Dave!\""
+    },
+    {
+        "question": "Davus par~ : sacculum suum in mensa ponit.",
+        "evalsentences": [
+            "Davus paret : sacculum suum in mensa ponit.",
+            "Davus parest : sacculum suum in mensa ponit.",
+            "Davus para : sacculum suum in mensa ponit.",
+            "Davus pare : sacculum suum in mensa ponit."
+        ],
+        "answer": "Davus paret : sacculum suum in mensa ponit."
+    },
+    {
+        "question": "Davus paret : sacculum suum in mensa pon~.",
+        "evalsentences": [
+            "Davus paret : sacculum suum in mensa ponit.",
+            "Davus paret : sacculum suum in mensa poni.",
+            "Davus paret : sacculum suum in mensa pone.",
+            "Davus paret : sacculum suum in mensa pona."
+        ],
+        "answer": "Davus paret : sacculum suum in mensa ponit."
+    },
+    {
+        "question": "Davus: \"Vid~, domine : sacculus meus vacuus est.\"",
+        "evalsentences": [
+            "Davus: \"Vide, domine : sacculus meus vacuus est.\"",
+            "Davus: \"Videst, domine : sacculus meus vacuus est.\"",
+            "Davus: \"Vida, domine : sacculus meus vacuus est.\"",
+            "Davus: \"Vidat, domine : sacculus meus vacuus est.\""
+        ],
+        "answer": "Davus: \"Vide, domine : sacculus meus vacuus est.\""
+    },
+    {
+        "question": "Davus: \"Vide, domin~ : sacculus meus vacuus est.\"",
+        "evalsentences": [
+            "Davus: \"Vide, domine : sacculus meus vacuus est.\"",
+            "Davus: \"Vide, dominet : sacculus meus vacuus est.\"",
+            "Davus: \"Vide, dominat : sacculus meus vacuus est.\"",
+            "Davus: \"Vide, domina : sacculus meus vacuus est.\""
+        ],
+        "answer": "Davus: \"Vide, domine : sacculus meus vacuus est.\""
+    },
+    {
+        "question": "Iulius: \"Sum~ sacculum tuum et discede, bone serve!\"",
+        "evalsentences": [
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sumest sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Suma sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+        ],
+        "answer": "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+    },
+    {
+        "question": "Iulius: \"Sume sacculum tuum et disced~, bone serve!\"",
+        "evalsentences": [
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discedi, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et disceda, bone serve!\""
+        ],
+        "answer": "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+    },
+    {
+        "question": "Iulius: \"Sume sacculum tuum et discede, bon~ serve!\"",
+        "evalsentences": [
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bonest serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bona serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+        ],
+        "answer": "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+    },
+    {
+        "question": "Iulius: \"Sume sacculum tuum et discede, bone serv~!\"",
+        "evalsentences": [
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone servi!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone serve!\"",
+            "Iulius: \"Sume sacculum tuum et discede, bone serva!\""
+        ],
+        "answer": "Iulius: \"Sume sacculum tuum et discede, bone serve!\""
+    },
+    {
+        "question": "Davus sacculum suum sum~ et discedit.",
+        "evalsentences": [
+            "Davus sacculum suum sumit et discedit.",
+            "Davus sacculum suum sumest et discedit.",
+            "Davus sacculum suum suma et discedit.",
+            "Davus sacculum suum sume et discedit."
+        ],
+        "answer": "Davus sacculum suum sumit et discedit."
+    },
+    {
+        "question": "Davus sacculum suum sumit et disced~.",
+        "evalsentences": [
+            "Davus sacculum suum sumit et discedit.",
+            "Davus sacculum suum sumit et discedi.",
+            "Davus sacculum suum sumit et discede.",
+            "Davus sacculum suum sumit et disceda."
+        ],
+        "answer": "Davus sacculum suum sumit et discedit."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "question": "In sacculo Iulii ~ est.",
+        "evalsentences": [
+            "In sacculo Iulii pecunia est.",
+            "In sacculo Iulii septem est.",
+            "In sacculo Iulii imperat est.",
+            "In sacculo Iulii nulla est."
+        ],
+        "answer": "In sacculo Iulii pecunia est."
+    },
+    {
+        "question": "Iulius pecuniam suam ~ : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam novem : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam vacuus : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam tantum : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, ~, quinque, sex, septem, octo, novem, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, septem, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, imperat, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, nulla, quinque, sex, septem, octo, novem, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, ~, sex, septem, octo, novem, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, novem, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, vacuus, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, tantum, sex, septem, octo, novem, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, ~, octo, novem, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, imperat, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, nulla, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, novem, octo, novem, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, ~, novem, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, vacuus, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, tantum, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, septem, novem, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, ~, decem.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, imperat, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, nulla, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, vacuus, decem.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, ~.\"",
+        "evalsentences": [
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, tantum.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, septem.\"",
+            "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, imperat.\""
+        ],
+        "answer": "Iulius pecuniam suam numerat : \"Unus, duo, tres, quattuor, quinque, sex, septem, octo, novem, decem.\""
+    },
+    {
+        "question": "In ~ non centum, sed tantum decem nummi sunt.",
+        "evalsentences": [
+            "In sacculo non centum, sed tantum decem nummi sunt.",
+            "In nulla non centum, sed tantum decem nummi sunt.",
+            "In novem non centum, sed tantum decem nummi sunt.",
+            "In vacuus non centum, sed tantum decem nummi sunt."
+        ],
+        "answer": "In sacculo non centum, sed tantum decem nummi sunt."
+    },
+    {
+        "question": "In sacculo non centum, sed ~ decem nummi sunt.",
+        "evalsentences": [
+            "In sacculo non centum, sed tantum decem nummi sunt.",
+            "In sacculo non centum, sed septem decem nummi sunt.",
+            "In sacculo non centum, sed imperat decem nummi sunt.",
+            "In sacculo non centum, sed nulla decem nummi sunt."
+        ],
+        "answer": "In sacculo non centum, sed tantum decem nummi sunt."
+    },
+    {
+        "question": "Davus dominum ~ : \"Salve, domine!\"",
+        "evalsentences": [
+            "Davus dominum salutat : \"Salve, domine!\"",
+            "Davus dominum novem : \"Salve, domine!\"",
+            "Davus dominum vacuus : \"Salve, domine!\"",
+            "Davus dominum tantum : \"Salve, domine!\""
+        ],
+        "answer": "Davus dominum salutat : \"Salve, domine!\""
+    },
+    {
+        "question": "Iulius ~: \"Pone sacculum tuum in mensa!\"",
+        "evalsentences": [
+            "Iulius imperat: \"Pone sacculum tuum in mensa!\"",
+            "Iulius septem: \"Pone sacculum tuum in mensa!\"",
+            "Iulius nulla: \"Pone sacculum tuum in mensa!\"",
+            "Iulius novem: \"Pone sacculum tuum in mensa!\""
+        ],
+        "answer": "Iulius imperat: \"Pone sacculum tuum in mensa!\""
+    },
+    {
+        "question": "Iulius imperat: \"Pone sacculum tuum in ~!\"",
+        "evalsentences": [
+            "Iulius imperat: \"Pone sacculum tuum in mensa!\"",
+            "Iulius imperat: \"Pone sacculum tuum in vacuus!\"",
+            "Iulius imperat: \"Pone sacculum tuum in tantum!\"",
+            "Iulius imperat: \"Pone sacculum tuum in septem!\""
+        ],
+        "answer": "Iulius imperat: \"Pone sacculum tuum in mensa!\""
+    },
+    {
+        "question": "Davus sacculum ~ in mensa ponit.",
+        "evalsentences": [
+            "Davus sacculum suum in mensa ponit.",
+            "Davus sacculum imperat in mensa ponit.",
+            "Davus sacculum nulla in mensa ponit.",
+            "Davus sacculum novem in mensa ponit."
+        ],
+        "answer": "Davus sacculum suum in mensa ponit."
+    },
+    {
+        "question": "Davus sacculum suum in mensa ~.",
+        "evalsentences": [
+            "Davus sacculum suum in mensa ponit.",
+            "Davus sacculum suum in mensa vacuus.",
+            "Davus sacculum suum in mensa tantum.",
+            "Davus sacculum suum in mensa septem."
+        ],
+        "answer": "Davus sacculum suum in mensa ponit."
+    },
+    {
+        "question": "Sacculus Davi ~ est, in sacculo eius [: Davi] nulla pecunia est.",
+        "evalsentences": [
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est.",
+            "Sacculus Davi imperat est, in sacculo eius [: Davi] nulla pecunia est.",
+            "Sacculus Davi nulla est, in sacculo eius [: Davi] nulla pecunia est.",
+            "Sacculus Davi novem est, in sacculo eius [: Davi] nulla pecunia est."
+        ],
+        "answer": "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est."
+    },
+    {
+        "question": "Sacculus Davi vacuus est, in sacculo ~ [: Davi] nulla pecunia est.",
+        "evalsentences": [
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo vacuus [: Davi] nulla pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo tantum [: Davi] nulla pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo septem [: Davi] nulla pecunia est."
+        ],
+        "answer": "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est."
+    },
+    {
+        "question": "Sacculus Davi vacuus est, in sacculo eius [: Davi] ~ pecunia est.",
+        "evalsentences": [
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] imperat pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] novem pecunia est.",
+            "Sacculus Davi vacuus est, in sacculo eius [: Davi] vacuus pecunia est."
+        ],
+        "answer": "Sacculus Davi vacuus est, in sacculo eius [: Davi] nulla pecunia est."
+    },
+    {
+        "question": "Davus sacculum suum ~ et discedit.",
+        "evalsentences": [
+            "Davus sacculum suum sumit et discedit.",
+            "Davus sacculum suum tantum et discedit.",
+            "Davus sacculum suum septem et discedit.",
+            "Davus sacculum suum imperat et discedit."
+        ],
+        "answer": "Davus sacculum suum sumit et discedit."
+    },
+    {
+        "question": "Iulius: \"Mede! Veni!\" Medus non venit, quia ~ [: Medus] pecuniam Iulii habet.",
+        "evalsentences": [
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii habet.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia nulla [: Medus] pecuniam Iulii habet.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia novem [: Medus] pecuniam Iulii habet.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia vacuus [: Medus] pecuniam Iulii habet."
+        ],
+        "answer": "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii habet."
+    },
+    {
+        "question": "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii ~.",
+        "evalsentences": [
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii habet.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii tantum.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii septem.",
+            "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii imperat."
+        ],
+        "answer": "Iulius: \"Mede! Veni!\" Medus non venit, quia is [: Medus] pecuniam Iulii habet."
+    },
+    {
+        "question": "Iulius baculum, ~ in mensa est, sumit et discedit.",
+        "evalsentences": [
+            "Iulius baculum, quod in mensa est, sumit et discedit.",
+            "Iulius baculum, nulla in mensa est, sumit et discedit.",
+            "Iulius baculum, novem in mensa est, sumit et discedit.",
+            "Iulius baculum, vacuus in mensa est, sumit et discedit."
+        ],
+        "answer": "Iulius baculum, quod in mensa est, sumit et discedit."
+    },
+    {
+        "question": "Iulius baculum, quod in mensa est, sumit et ~.",
+        "evalsentences": [
+            "Iulius baculum, quod in mensa est, sumit et discedit.",
+            "Iulius baculum, quod in mensa est, sumit et tantum.",
+            "Iulius baculum, quod in mensa est, sumit et septem.",
+            "Iulius baculum, quod in mensa est, sumit et imperat."
+        ],
+        "answer": "Iulius baculum, quod in mensa est, sumit et discedit."
+    },
+    {
+        "question": "Dominus imperat, bonus servus ~.",
+        "evalsentences": [
+            "Dominus imperat, bonus servus paret.",
+            "Dominus imperat, bonus servus nulla.",
+            "Dominus imperat, bonus servus novem.",
+            "Dominus imperat, bonus servus vacuus."
+        ],
+        "answer": "Dominus imperat, bonus servus paret."
+    }
+]

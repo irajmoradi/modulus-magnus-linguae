@@ -1,0 +1,574 @@
+[
+    {
+        "question": "Puella ~ : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 51.51044464111328
+            },
+            {
+                "evalsentence": "Puella iam : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 68.91122436523438
+            },
+            {
+                "evalsentence": "Puella C\u016br : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 66.54715728759766
+            },
+            {
+                "evalsentence": "Puella neque : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 66.62138366699219
+            }
+        ]
+    },
+    {
+        "question": "Puella cantat : \"Lalla.\" Puella ~ cantat est I\u016blia. I\u016blia laeta est.",
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 51.51044464111328
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quia cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 75.0809097290039
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella verberat cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 83.021240234375
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella Quem cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 91.32231903076172
+            }
+        ]
+    },
+    {
+        "question": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia ~ est.",
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia laeta est.",
+                "perplexity": 51.51044464111328
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia iam est.",
+                "perplexity": 55.385032653808594
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia C\u016br est.",
+                "perplexity": 79.1731185913086
+            },
+            {
+                "evalsentence": "Puella cantat : \"Lalla.\" Puella quae cantat est I\u016blia. I\u016blia neque est.",
+                "perplexity": 64.03874206542969
+            }
+        ]
+    },
+    {
+        "question": "Puer improbus puellam ~. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+        "answer": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 79.57996368408203
+            },
+            {
+                "evalsentence": "Puer improbus puellam quia. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 108.5960922241211
+            },
+            {
+                "evalsentence": "Puer improbus puellam verberat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 79.492431640625
+            },
+            {
+                "evalsentence": "Puer improbus puellam Quem. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 124.39464569091797
+            }
+        ]
+    },
+    {
+        "question": "Puer improbus puellam pulsat. Puella ~ : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+        "answer": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 79.57996368408203
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella iam : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 65.597900390625
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella C\u016br : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 81.39989471435547
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella neque : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 71.14950561523438
+            }
+        ]
+    },
+    {
+        "question": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer ~ : \"Hahahae!\"",
+        "answer": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer r\u012bdet : \"Hahahae!\"",
+                "perplexity": 79.57996368408203
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer quia : \"Hahahae!\"",
+                "perplexity": 89.98580169677734
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer verberat : \"Hahahae!\"",
+                "perplexity": 69.62847137451172
+            },
+            {
+                "evalsentence": "Puer improbus puellam pulsat. Puella pl\u014drat : \"Uhuh\u016b!\" Puer Quem : \"Hahahae!\"",
+                "perplexity": 100.8794174194336
+            }
+        ]
+    },
+    {
+        "question": "Puer ~ r\u012bdet est M\u0101rcus.",
+        "answer": "Puer qu\u012b r\u012bdet est M\u0101rcus.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer qu\u012b r\u012bdet est M\u0101rcus.",
+                "perplexity": 200.00057983398438
+            },
+            {
+                "evalsentence": "Puer iam r\u012bdet est M\u0101rcus.",
+                "perplexity": 298.1338806152344
+            },
+            {
+                "evalsentence": "Puer C\u016br r\u012bdet est M\u0101rcus.",
+                "perplexity": 286.79595947265625
+            },
+            {
+                "evalsentence": "Puer neque r\u012bdet est M\u0101rcus.",
+                "perplexity": 285.33477783203125
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia Aemiliam ~ : \"Mamma!\"",
+        "answer": "I\u016blia Aemiliam vocat : \"Mamma!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia Aemiliam vocat : \"Mamma!\"",
+                "perplexity": 548.9834594726562
+            },
+            {
+                "evalsentence": "I\u016blia Aemiliam quia : \"Mamma!\"",
+                "perplexity": 833.4657592773438
+            },
+            {
+                "evalsentence": "I\u016blia Aemiliam verberat : \"Mamma!\"",
+                "perplexity": 440.65679931640625
+            },
+            {
+                "evalsentence": "I\u016blia Aemiliam Quem : \"Mamma!\"",
+                "perplexity": 919.442626953125
+            }
+        ]
+    },
+    {
+        "question": "Aemilia ~, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+        "answer": "Aemilia venit, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia venit, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 110.84673309326172
+            },
+            {
+                "evalsentence": "Aemilia iam, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 133.6528778076172
+            },
+            {
+                "evalsentence": "Aemilia C\u016br, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 210.3641815185547
+            },
+            {
+                "evalsentence": "Aemilia neque, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 131.55242919921875
+            }
+        ]
+    },
+    {
+        "question": "Aemilia venit, et Qu\u012bntum ~ : \"C\u016br I\u016blia pl\u014drat?\"",
+        "answer": "Aemilia venit, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia venit, et Qu\u012bntum interrogat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 110.84673309326172
+            },
+            {
+                "evalsentence": "Aemilia venit, et Qu\u012bntum quia : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 208.83682250976562
+            },
+            {
+                "evalsentence": "Aemilia venit, et Qu\u012bntum verberat : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 128.612548828125
+            },
+            {
+                "evalsentence": "Aemilia venit, et Qu\u012bntum Quem : \"C\u016br I\u016blia pl\u014drat?\"",
+                "perplexity": 257.82568359375
+            }
+        ]
+    },
+    {
+        "question": "Qu\u012bntus ~ : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+        "answer": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+                "perplexity": 82.21564483642578
+            },
+            {
+                "evalsentence": "Qu\u012bntus iam : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+                "perplexity": 91.20738983154297
+            },
+            {
+                "evalsentence": "Qu\u012bntus C\u016br : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+                "perplexity": 113.00016784667969
+            },
+            {
+                "evalsentence": "Qu\u012bntus neque : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+                "perplexity": 110.1501235961914
+            }
+        ]
+    },
+    {
+        "question": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, ~ M\u0101rcus eam pulsat.\"",
+        "answer": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, quia M\u0101rcus eam pulsat.\"",
+                "perplexity": 82.21564483642578
+            },
+            {
+                "evalsentence": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, verberat M\u0101rcus eam pulsat.\"",
+                "perplexity": 107.83194732666016
+            },
+            {
+                "evalsentence": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, Quem M\u0101rcus eam pulsat.\"",
+                "perplexity": 129.57467651367188
+            },
+            {
+                "evalsentence": "Qu\u012bntus respondet : \"I\u016blia pl\u014drat, iam M\u0101rcus eam pulsat.\"",
+                "perplexity": 92.01417541503906
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"M\u0101rcus puer ~ n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+        "answer": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 58.14301681518555
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer C\u016br n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 63.02102279663086
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer neque n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 60.00111770629883
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer quia n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 58.01039505004883
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer ~ est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+        "answer": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 58.14301681518555
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer verberat est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 63.10799026489258
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer Quem est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 77.9017333984375
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer iam est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 56.91965866088867
+            }
+        ]
+    },
+    {
+        "question": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn ~.",
+        "answer": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn videt.",
+                "perplexity": 58.14301681518555
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn C\u016br.",
+                "perplexity": 71.43904876708984
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn neque.",
+                "perplexity": 69.0597152709961
+            },
+            {
+                "evalsentence": "Aemilia: \"M\u0101rcus puer probus n\u014dn est, puer improbus est! Ubi est pater?\" Aemilia I\u016blium n\u014dn quia.",
+                "perplexity": 68.67569732666016
+            }
+        ]
+    },
+    {
+        "question": "Qu\u012bntus: \"Pater n\u014dn ~ est.\"",
+        "answer": "Qu\u012bntus: \"Pater n\u014dn h\u012bc est.\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Qu\u012bntus: \"Pater n\u014dn h\u012bc est.\"",
+                "perplexity": 64.16112518310547
+            },
+            {
+                "evalsentence": "Qu\u012bntus: \"Pater n\u014dn verberat est.\"",
+                "perplexity": 136.9011993408203
+            },
+            {
+                "evalsentence": "Qu\u012bntus: \"Pater n\u014dn Quem est.\"",
+                "perplexity": 201.43392944335938
+            },
+            {
+                "evalsentence": "Qu\u012bntus: \"Pater n\u014dn iam est.\"",
+                "perplexity": 88.53639221191406
+            }
+        ]
+    },
+    {
+        "question": "Qu\u012bntus I\u016blium ~: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+        "answer": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+                "perplexity": 54.809749603271484
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium C\u016br: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+                "perplexity": 55.777225494384766
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium neque: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+                "perplexity": 61.104530334472656
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium quia: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+                "perplexity": 77.34217834472656
+            }
+        ]
+    },
+    {
+        "question": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn ~.",
+        "answer": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn audit.",
+                "perplexity": 54.809749603271484
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn verberat.",
+                "perplexity": 60.88174819946289
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn Quem.",
+                "perplexity": 96.05105590820312
+            },
+            {
+                "evalsentence": "Qu\u012bntus I\u016blium vocat: \"Pater!\" I\u016blius Qu\u012bntum n\u014dn iam.",
+                "perplexity": 70.98762512207031
+            }
+        ]
+    },
+    {
+        "question": "~ I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+        "answer": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+        "evalsentences": [
+            {
+                "evalsentence": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+                "perplexity": 53.744327545166016
+            },
+            {
+                "evalsentence": "neque I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+                "perplexity": 42.67274856567383
+            },
+            {
+                "evalsentence": "quia I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+                "perplexity": 49.61899185180664
+            },
+            {
+                "evalsentence": "verberat I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+                "perplexity": 50.29612350463867
+            }
+        ]
+    },
+    {
+        "question": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia ~.",
+        "answer": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+        "evalsentences": [
+            {
+                "evalsentence": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia dormit.",
+                "perplexity": 53.744327545166016
+            },
+            {
+                "evalsentence": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia Quem.",
+                "perplexity": 93.8797836303711
+            },
+            {
+                "evalsentence": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia iam.",
+                "perplexity": 71.39828491210938
+            },
+            {
+                "evalsentence": "C\u016br I\u016blius Qu\u012bntum n\u014dn audit? I\u016blius eum n\u014dn audit, quia C\u016br.",
+                "perplexity": 60.40021514892578
+            }
+        ]
+    },
+    {
+        "question": "M\u0101rcus pl\u014drat, ~ Aemilia eum verberat.",
+        "answer": "M\u0101rcus pl\u014drat, quia Aemilia eum verberat.",
+        "evalsentences": [
+            {
+                "evalsentence": "M\u0101rcus pl\u014drat, quia Aemilia eum verberat.",
+                "perplexity": 183.16278076171875
+            },
+            {
+                "evalsentence": "M\u0101rcus pl\u014drat, neque Aemilia eum verberat.",
+                "perplexity": 199.1831512451172
+            },
+            {
+                "evalsentence": "M\u0101rcus pl\u014drat, verberat Aemilia eum verberat.",
+                "perplexity": 173.68357849121094
+            },
+            {
+                "evalsentence": "M\u0101rcus pl\u014drat, Quem Aemilia eum verberat.",
+                "perplexity": 256.85125732421875
+            }
+        ]
+    },
+    {
+        "question": "I\u016blius M\u0101rcum audit; ~ I\u016blius n\u014dn dormit.",
+        "answer": "I\u016blius M\u0101rcum audit; iam I\u016blius n\u014dn dormit.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blius M\u0101rcum audit; iam I\u016blius n\u014dn dormit.",
+                "perplexity": 79.42806243896484
+            },
+            {
+                "evalsentence": "I\u016blius M\u0101rcum audit; C\u016br I\u016blius n\u014dn dormit.",
+                "perplexity": 106.77277374267578
+            },
+            {
+                "evalsentence": "I\u016blius M\u0101rcum audit; neque I\u016blius n\u014dn dormit.",
+                "perplexity": 100.52135467529297
+            },
+            {
+                "evalsentence": "I\u016blius M\u0101rcum audit; quia I\u016blius n\u014dn dormit.",
+                "perplexity": 82.11213684082031
+            }
+        ]
+    },
+    {
+        "question": "~ Aemilia verberat? Aemilia M\u0101rcum verberat.",
+        "answer": "Quem Aemilia verberat? Aemilia M\u0101rcum verberat.",
+        "evalsentences": [
+            {
+                "evalsentence": "Quem Aemilia verberat? Aemilia M\u0101rcum verberat.",
+                "perplexity": 110.56262969970703
+            },
+            {
+                "evalsentence": "verberat Aemilia verberat? Aemilia M\u0101rcum verberat.",
+                "perplexity": 78.58306884765625
+            },
+            {
+                "evalsentence": "iam Aemilia verberat? Aemilia M\u0101rcum verberat.",
+                "perplexity": 220.29437255859375
+            },
+            {
+                "evalsentence": "C\u016br Aemilia verberat? Aemilia M\u0101rcum verberat.",
+                "perplexity": 183.646240234375
+            }
+        ]
+    },
+    {
+        "question": "Quem Aemilia verberat? Aemilia M\u0101rcum ~.",
+        "answer": "Quem Aemilia verberat? Aemilia M\u0101rcum verberat.",
+        "evalsentences": [
+            {
+                "evalsentence": "Quem Aemilia verberat? Aemilia M\u0101rcum verberat.",
+                "perplexity": 110.56262969970703
+            },
+            {
+                "evalsentence": "Quem Aemilia verberat? Aemilia M\u0101rcum neque.",
+                "perplexity": 148.64517211914062
+            },
+            {
+                "evalsentence": "Quem Aemilia verberat? Aemilia M\u0101rcum quia.",
+                "perplexity": 169.95533752441406
+            },
+            {
+                "evalsentence": "Quem Aemilia verberat? Aemilia M\u0101rcum Quem.",
+                "perplexity": 166.3905792236328
+            }
+        ]
+    },
+    {
+        "question": "Puer ~ Aemilia verberat improbus est.",
+        "answer": "Puer quem Aemilia verberat improbus est.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puer quem Aemilia verberat improbus est.",
+                "perplexity": 179.6016845703125
+            },
+            {
+                "evalsentence": "Puer iam Aemilia verberat improbus est.",
+                "perplexity": 324.9151611328125
+            },
+            {
+                "evalsentence": "Puer C\u016br Aemilia verberat improbus est.",
+                "perplexity": 450.72137451171875
+            },
+            {
+                "evalsentence": "Puer neque Aemilia verberat improbus est.",
+                "perplexity": 254.05722045898438
+            }
+        ]
+    },
+    {
+        "question": "I\u016blia laeta n\u014dn est ~ r\u012bdet.",
+        "answer": "I\u016blia laeta n\u014dn est neque r\u012bdet.",
+        "evalsentences": [
+            {
+                "evalsentence": "I\u016blia laeta n\u014dn est neque r\u012bdet.",
+                "perplexity": 266.17529296875
+            },
+            {
+                "evalsentence": "I\u016blia laeta n\u014dn est quia r\u012bdet.",
+                "perplexity": 263.92413330078125
+            },
+            {
+                "evalsentence": "I\u016blia laeta n\u014dn est verberat r\u012bdet.",
+                "perplexity": 158.86680603027344
+            },
+            {
+                "evalsentence": "I\u016blia laeta n\u014dn est Quem r\u012bdet.",
+                "perplexity": 393.1288146972656
+            }
+        ]
+    }
+]

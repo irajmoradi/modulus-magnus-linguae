@@ -1,0 +1,4 @@
+model,5
+davinci,0.0
+davinci-finetuned-ch5txt-replacements-0shot,0.15000000000000002
+davinci-finetuned-ch5txt-replacements-1shot,0.2
