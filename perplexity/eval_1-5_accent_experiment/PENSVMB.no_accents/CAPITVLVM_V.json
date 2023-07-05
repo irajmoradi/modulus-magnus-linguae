@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Iulius in magna ~ habitat. Aemilia cum eo [: Iulio] habitat.",
+        "evalsentences": [
+            "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna cum habitat. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna fenestrae habitat. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna sine habitat. Aemilia cum eo [: Iulio] habitat."
+        ],
+        "answer": "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat."
+    },
+    {
+        "question": "Iulius in magna villa ~. Aemilia cum eo [: Iulio] habitat.",
+        "evalsentences": [
+            "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna villa delectant. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna villa carpit. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna villa villa. Aemilia cum eo [: Iulio] habitat."
+        ],
+        "answer": "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat."
+    },
+    {
+        "question": "Iulius in magna villa habitat. Aemilia cum ~ [: Iulio] habitat.",
+        "evalsentences": [
+            "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat.",
+            "Iulius in magna villa habitat. Aemilia cum habitat [: Iulio] habitat.",
+            "Iulius in magna villa habitat. Aemilia cum horto [: Iulio] habitat.",
+            "Iulius in magna villa habitat. Aemilia cum rosis [: Iulio] habitat."
+        ],
+        "answer": "Iulius in magna villa habitat. Aemilia cum eo [: Iulio] habitat."
+    },
+    {
+        "question": "Iulius Aemiliam ~, quia ea [: Aemilia] bona et pulchra femina est.",
+        "evalsentences": [
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam Id, quia ea [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam ea, quia ea [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam ex, quia ea [: Aemilia] bona et pulchra femina est."
+        ],
+        "answer": "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est."
+    },
+    {
+        "question": "Iulius Aemiliam amat, quia ~ [: Aemilia] bona et pulchra femina est.",
+        "evalsentences": [
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam amat, quia pulchra [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam amat, quia atrio [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam amat, quia aqua [: Aemilia] bona et pulchra femina est."
+        ],
+        "answer": "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est."
+    },
+    {
+        "question": "Iulius Aemiliam amat, quia ea [: Aemilia] bona et ~ femina est.",
+        "evalsentences": [
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est.",
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et ab femina est.",
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et eo femina est.",
+            "Iulius Aemiliam amat, quia ea [: Aemilia] bona et cum femina est."
+        ],
+        "answer": "Iulius Aemiliam amat, quia ea [: Aemilia] bona et pulchra femina est."
+    },
+    {
+        "question": "Aemilia in peristylo est ~ liberis suis, sed sine viro suo.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum liberis suis, sed sine viro suo.",
+            "Aemilia in peristylo est fenestrae liberis suis, sed sine viro suo.",
+            "Aemilia in peristylo est sine liberis suis, sed sine viro suo.",
+            "Aemilia in peristylo est delectant liberis suis, sed sine viro suo."
+        ],
+        "answer": "Aemilia in peristylo est cum liberis suis, sed sine viro suo."
+    },
+    {
+        "question": "Aemilia in peristylo est cum liberis suis, sed ~ viro suo.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum liberis suis, sed sine viro suo.",
+            "Aemilia in peristylo est cum liberis suis, sed carpit viro suo.",
+            "Aemilia in peristylo est cum liberis suis, sed villa viro suo.",
+            "Aemilia in peristylo est cum liberis suis, sed habitat viro suo."
+        ],
+        "answer": "Aemilia in peristylo est cum liberis suis, sed sine viro suo."
+    },
+    {
+        "question": "Iulia ~ Aemilia discedit; iam puella in horto est.",
+        "evalsentences": [
+            "Iulia ab Aemilia discedit; iam puella in horto est.",
+            "Iulia horto Aemilia discedit; iam puella in horto est.",
+            "Iulia rosis Aemilia discedit; iam puella in horto est.",
+            "Iulia Id Aemilia discedit; iam puella in horto est."
+        ],
+        "answer": "Iulia ab Aemilia discedit; iam puella in horto est."
+    },
+    {
+        "question": "Iulia ab Aemilia discedit; iam puella in ~ est.",
+        "evalsentences": [
+            "Iulia ab Aemilia discedit; iam puella in horto est.",
+            "Iulia ab Aemilia discedit; iam puella in ea est.",
+            "Iulia ab Aemilia discedit; iam puella in amat est.",
+            "Iulia ab Aemilia discedit; iam puella in ex est."
+        ],
+        "answer": "Iulia ab Aemilia discedit; iam puella in horto est."
+    },
+    {
+        "question": "Iulia rosas ~ et ex horto venit cum V rosis.",
+        "evalsentences": [
+            "Iulia rosas carpit et ex horto venit cum V rosis.",
+            "Iulia rosas pulchra et ex horto venit cum V rosis.",
+            "Iulia rosas atrio et ex horto venit cum V rosis.",
+            "Iulia rosas aqua et ex horto venit cum V rosis."
+        ],
+        "answer": "Iulia rosas carpit et ex horto venit cum V rosis."
+    },
+    {
+        "question": "Iulia rosas carpit et ~ horto venit cum V rosis.",
+        "evalsentences": [
+            "Iulia rosas carpit et ex horto venit cum V rosis.",
+            "Iulia rosas carpit et ab horto venit cum V rosis.",
+            "Iulia rosas carpit et eo horto venit cum V rosis.",
+            "Iulia rosas carpit et cum horto venit cum V rosis."
+        ],
+        "answer": "Iulia rosas carpit et ex horto venit cum V rosis."
+    },
+    {
+        "question": "Iulia rosas carpit et ex horto venit cum V ~.",
+        "evalsentences": [
+            "Iulia rosas carpit et ex horto venit cum V rosis.",
+            "Iulia rosas carpit et ex horto venit cum V fenestrae.",
+            "Iulia rosas carpit et ex horto venit cum V sine.",
+            "Iulia rosas carpit et ex horto venit cum V delectant."
+        ],
+        "answer": "Iulia rosas carpit et ex horto venit cum V rosis."
+    },
+    {
+        "question": "Puella laeta est: rosae eam ~.",
+        "evalsentences": [
+            "Puella laeta est: rosae eam delectant.",
+            "Puella laeta est: rosae eam carpit.",
+            "Puella laeta est: rosae eam villa.",
+            "Puella laeta est: rosae eam habitat."
+        ],
+        "answer": "Puella laeta est: rosae eam delectant."
+    },
+    {
+        "question": "Ubi est impluvium? ~ [: impluvium] est in atrio.",
+        "evalsentences": [
+            "Ubi est impluvium? Id [: impluvium] est in atrio.",
+            "Ubi est impluvium? horto [: impluvium] est in atrio.",
+            "Ubi est impluvium? rosis [: impluvium] est in atrio.",
+            "Ubi est impluvium? ea [: impluvium] est in atrio."
+        ],
+        "answer": "Ubi est impluvium? Id [: impluvium] est in atrio."
+    },
+    {
+        "question": "Ubi est impluvium? Id [: impluvium] est in ~.",
+        "evalsentences": [
+            "Ubi est impluvium? Id [: impluvium] est in atrio.",
+            "Ubi est impluvium? Id [: impluvium] est in amat.",
+            "Ubi est impluvium? Id [: impluvium] est in ex.",
+            "Ubi est impluvium? Id [: impluvium] est in pulchra."
+        ],
+        "answer": "Ubi est impluvium? Id [: impluvium] est in atrio."
+    },
+    {
+        "question": "In impluvio ~ est. In atrio nullae fenestrae sunt.",
+        "evalsentences": [
+            "In impluvio aqua est. In atrio nullae fenestrae sunt.",
+            "In impluvio atrio est. In atrio nullae fenestrae sunt.",
+            "In impluvio ab est. In atrio nullae fenestrae sunt.",
+            "In impluvio eo est. In atrio nullae fenestrae sunt."
+        ],
+        "answer": "In impluvio aqua est. In atrio nullae fenestrae sunt."
+    },
+    {
+        "question": "In impluvio aqua est. In atrio nullae ~ sunt.",
+        "evalsentences": [
+            "In impluvio aqua est. In atrio nullae fenestrae sunt.",
+            "In impluvio aqua est. In atrio nullae cum sunt.",
+            "In impluvio aqua est. In atrio nullae sine sunt.",
+            "In impluvio aqua est. In atrio nullae delectant sunt."
+        ],
+        "answer": "In impluvio aqua est. In atrio nullae fenestrae sunt."
+    }
+]

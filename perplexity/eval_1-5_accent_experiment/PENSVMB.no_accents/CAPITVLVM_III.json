@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Puella ~ : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+        "evalsentences": [
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+            "Puella iam : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+            "Puella Cur : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+            "Puella neque : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est."
+        ],
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est."
+    },
+    {
+        "question": "Puella cantat : \"Lalla.\" Puella ~ cantat est Iulia. Iulia laeta est.",
+        "evalsentences": [
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+            "Puella cantat : \"Lalla.\" Puella quia cantat est Iulia. Iulia laeta est.",
+            "Puella cantat : \"Lalla.\" Puella verberat cantat est Iulia. Iulia laeta est.",
+            "Puella cantat : \"Lalla.\" Puella Quem cantat est Iulia. Iulia laeta est."
+        ],
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est."
+    },
+    {
+        "question": "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia ~ est.",
+        "evalsentences": [
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est.",
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia iam est.",
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia Cur est.",
+            "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia neque est."
+        ],
+        "answer": "Puella cantat : \"Lalla.\" Puella quae cantat est Iulia. Iulia laeta est."
+    },
+    {
+        "question": "Puer improbus puellam ~. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+        "evalsentences": [
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam quia. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam verberat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam Quem. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\""
+        ],
+        "answer": "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\""
+    },
+    {
+        "question": "Puer improbus puellam pulsat. Puella ~ : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+        "evalsentences": [
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella iam : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella Cur : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella neque : \"Uhuhu!\" Puer ridet : \"Hahahae!\""
+        ],
+        "answer": "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\""
+    },
+    {
+        "question": "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ~ : \"Hahahae!\"",
+        "evalsentences": [
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer quia : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer verberat : \"Hahahae!\"",
+            "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer Quem : \"Hahahae!\""
+        ],
+        "answer": "Puer improbus puellam pulsat. Puella plorat : \"Uhuhu!\" Puer ridet : \"Hahahae!\""
+    },
+    {
+        "question": "Puer ~ ridet est Marcus.",
+        "evalsentences": [
+            "Puer qui ridet est Marcus.",
+            "Puer iam ridet est Marcus.",
+            "Puer Cur ridet est Marcus.",
+            "Puer neque ridet est Marcus."
+        ],
+        "answer": "Puer qui ridet est Marcus."
+    },
+    {
+        "question": "Iulia Aemiliam ~ : \"Mamma!\"",
+        "evalsentences": [
+            "Iulia Aemiliam vocat : \"Mamma!\"",
+            "Iulia Aemiliam quia : \"Mamma!\"",
+            "Iulia Aemiliam verberat : \"Mamma!\"",
+            "Iulia Aemiliam Quem : \"Mamma!\""
+        ],
+        "answer": "Iulia Aemiliam vocat : \"Mamma!\""
+    },
+    {
+        "question": "Aemilia ~, et Quintum interrogat : \"Cur Iulia plorat?\"",
+        "evalsentences": [
+            "Aemilia venit, et Quintum interrogat : \"Cur Iulia plorat?\"",
+            "Aemilia iam, et Quintum interrogat : \"Cur Iulia plorat?\"",
+            "Aemilia Cur, et Quintum interrogat : \"Cur Iulia plorat?\"",
+            "Aemilia neque, et Quintum interrogat : \"Cur Iulia plorat?\""
+        ],
+        "answer": "Aemilia venit, et Quintum interrogat : \"Cur Iulia plorat?\""
+    },
+    {
+        "question": "Aemilia venit, et Quintum ~ : \"Cur Iulia plorat?\"",
+        "evalsentences": [
+            "Aemilia venit, et Quintum interrogat : \"Cur Iulia plorat?\"",
+            "Aemilia venit, et Quintum quia : \"Cur Iulia plorat?\"",
+            "Aemilia venit, et Quintum verberat : \"Cur Iulia plorat?\"",
+            "Aemilia venit, et Quintum Quem : \"Cur Iulia plorat?\""
+        ],
+        "answer": "Aemilia venit, et Quintum interrogat : \"Cur Iulia plorat?\""
+    },
+    {
+        "question": "Quintus ~ : \"Iulia plorat, quia Marcus eam pulsat.\"",
+        "evalsentences": [
+            "Quintus respondet : \"Iulia plorat, quia Marcus eam pulsat.\"",
+            "Quintus iam : \"Iulia plorat, quia Marcus eam pulsat.\"",
+            "Quintus Cur : \"Iulia plorat, quia Marcus eam pulsat.\"",
+            "Quintus neque : \"Iulia plorat, quia Marcus eam pulsat.\""
+        ],
+        "answer": "Quintus respondet : \"Iulia plorat, quia Marcus eam pulsat.\""
+    },
+    {
+        "question": "Quintus respondet : \"Iulia plorat, ~ Marcus eam pulsat.\"",
+        "evalsentences": [
+            "Quintus respondet : \"Iulia plorat, quia Marcus eam pulsat.\"",
+            "Quintus respondet : \"Iulia plorat, verberat Marcus eam pulsat.\"",
+            "Quintus respondet : \"Iulia plorat, Quem Marcus eam pulsat.\"",
+            "Quintus respondet : \"Iulia plorat, iam Marcus eam pulsat.\""
+        ],
+        "answer": "Quintus respondet : \"Iulia plorat, quia Marcus eam pulsat.\""
+    },
+    {
+        "question": "Aemilia: \"Marcus puer ~ non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+        "evalsentences": [
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer Cur non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer neque non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer quia non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt."
+        ],
+        "answer": "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt."
+    },
+    {
+        "question": "Aemilia: \"Marcus puer probus non est, puer ~ est! Ubi est pater?\" Aemilia Iulium non videt.",
+        "evalsentences": [
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer probus non est, puer verberat est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer probus non est, puer Quem est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer probus non est, puer iam est! Ubi est pater?\" Aemilia Iulium non videt."
+        ],
+        "answer": "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt."
+    },
+    {
+        "question": "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non ~.",
+        "evalsentences": [
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt.",
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non Cur.",
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non neque.",
+            "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non quia."
+        ],
+        "answer": "Aemilia: \"Marcus puer probus non est, puer improbus est! Ubi est pater?\" Aemilia Iulium non videt."
+    },
+    {
+        "question": "Quintus: \"Pater non ~ est.\"",
+        "evalsentences": [
+            "Quintus: \"Pater non hic est.\"",
+            "Quintus: \"Pater non verberat est.\"",
+            "Quintus: \"Pater non Quem est.\"",
+            "Quintus: \"Pater non iam est.\""
+        ],
+        "answer": "Quintus: \"Pater non hic est.\""
+    },
+    {
+        "question": "Quintus Iulium ~: \"Pater!\" Iulius Quintum non audit.",
+        "evalsentences": [
+            "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non audit.",
+            "Quintus Iulium Cur: \"Pater!\" Iulius Quintum non audit.",
+            "Quintus Iulium neque: \"Pater!\" Iulius Quintum non audit.",
+            "Quintus Iulium quia: \"Pater!\" Iulius Quintum non audit."
+        ],
+        "answer": "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non audit."
+    },
+    {
+        "question": "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non ~.",
+        "evalsentences": [
+            "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non audit.",
+            "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non verberat.",
+            "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non Quem.",
+            "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non iam."
+        ],
+        "answer": "Quintus Iulium vocat: \"Pater!\" Iulius Quintum non audit."
+    },
+    {
+        "question": "~ Iulius Quintum non audit? Iulius eum non audit, quia dormit.",
+        "evalsentences": [
+            "Cur Iulius Quintum non audit? Iulius eum non audit, quia dormit.",
+            "neque Iulius Quintum non audit? Iulius eum non audit, quia dormit.",
+            "quia Iulius Quintum non audit? Iulius eum non audit, quia dormit.",
+            "verberat Iulius Quintum non audit? Iulius eum non audit, quia dormit."
+        ],
+        "answer": "Cur Iulius Quintum non audit? Iulius eum non audit, quia dormit."
+    },
+    {
+        "question": "Cur Iulius Quintum non audit? Iulius eum non audit, quia ~.",
+        "evalsentences": [
+            "Cur Iulius Quintum non audit? Iulius eum non audit, quia dormit.",
+            "Cur Iulius Quintum non audit? Iulius eum non audit, quia Quem.",
+            "Cur Iulius Quintum non audit? Iulius eum non audit, quia iam.",
+            "Cur Iulius Quintum non audit? Iulius eum non audit, quia Cur."
+        ],
+        "answer": "Cur Iulius Quintum non audit? Iulius eum non audit, quia dormit."
+    },
+    {
+        "question": "Marcus plorat, ~ Aemilia eum verberat.",
+        "evalsentences": [
+            "Marcus plorat, quia Aemilia eum verberat.",
+            "Marcus plorat, neque Aemilia eum verberat.",
+            "Marcus plorat, verberat Aemilia eum verberat.",
+            "Marcus plorat, Quem Aemilia eum verberat."
+        ],
+        "answer": "Marcus plorat, quia Aemilia eum verberat."
+    },
+    {
+        "question": "Iulius Marcum audit; ~ Iulius non dormit.",
+        "evalsentences": [
+            "Iulius Marcum audit; iam Iulius non dormit.",
+            "Iulius Marcum audit; Cur Iulius non dormit.",
+            "Iulius Marcum audit; neque Iulius non dormit.",
+            "Iulius Marcum audit; quia Iulius non dormit."
+        ],
+        "answer": "Iulius Marcum audit; iam Iulius non dormit."
+    },
+    {
+        "question": "~ Aemilia verberat? Aemilia Marcum verberat.",
+        "evalsentences": [
+            "Quem Aemilia verberat? Aemilia Marcum verberat.",
+            "verberat Aemilia verberat? Aemilia Marcum verberat.",
+            "iam Aemilia verberat? Aemilia Marcum verberat.",
+            "Cur Aemilia verberat? Aemilia Marcum verberat."
+        ],
+        "answer": "Quem Aemilia verberat? Aemilia Marcum verberat."
+    },
+    {
+        "question": "Quem Aemilia verberat? Aemilia Marcum ~.",
+        "evalsentences": [
+            "Quem Aemilia verberat? Aemilia Marcum verberat.",
+            "Quem Aemilia verberat? Aemilia Marcum neque.",
+            "Quem Aemilia verberat? Aemilia Marcum quia.",
+            "Quem Aemilia verberat? Aemilia Marcum Quem."
+        ],
+        "answer": "Quem Aemilia verberat? Aemilia Marcum verberat."
+    },
+    {
+        "question": "Puer ~ Aemilia verberat improbus est.",
+        "evalsentences": [
+            "Puer quem Aemilia verberat improbus est.",
+            "Puer iam Aemilia verberat improbus est.",
+            "Puer Cur Aemilia verberat improbus est.",
+            "Puer neque Aemilia verberat improbus est."
+        ],
+        "answer": "Puer quem Aemilia verberat improbus est."
+    },
+    {
+        "question": "Iulia laeta non est ~ ridet.",
+        "evalsentences": [
+            "Iulia laeta non est neque ridet.",
+            "Iulia laeta non est quia ridet.",
+            "Iulia laeta non est verberat ridet.",
+            "Iulia laeta non est Quem ridet."
+        ],
+        "answer": "Iulia laeta non est neque ridet."
+    }
+]

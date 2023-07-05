@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Sicilia ~ est. Italia insula non est.",
+        "evalsentences": [
+            "Sicilia insula est. Italia insula non est.",
+            "Sicilia quoque est. Italia insula non est.",
+            "Sicilia Ubi est. Italia insula non est.",
+            "Sicilia Quid est. Italia insula non est."
+        ],
+        "answer": "Sicilia insula est. Italia insula non est."
+    },
+    {
+        "question": "Sicilia insula est. Italia insula ~ est.",
+        "evalsentences": [
+            "Sicilia insula est. Italia insula non est.",
+            "Sicilia insula est. Italia insula quoque est.",
+            "Sicilia insula est. Italia insula Ubi est.",
+            "Sicilia insula est. Italia insula Quid est."
+        ],
+        "answer": "Sicilia insula est. Italia insula non est."
+    },
+    {
+        "question": "Rhenus ~ est. Brundisium oppidum est.",
+        "evalsentences": [
+            "Rhenus fluvius est. Brundisium oppidum est.",
+            "Rhenus quoque est. Brundisium oppidum est.",
+            "Rhenus Ubi est. Brundisium oppidum est.",
+            "Rhenus Quid est. Brundisium oppidum est."
+        ],
+        "answer": "Rhenus fluvius est. Brundisium oppidum est."
+    },
+    {
+        "question": "Rhenus fluvius est. Brundisium ~ est.",
+        "evalsentences": [
+            "Rhenus fluvius est. Brundisium oppidum est.",
+            "Rhenus fluvius est. Brundisium quoque est.",
+            "Rhenus fluvius est. Brundisium Ubi est.",
+            "Rhenus fluvius est. Brundisium Quid est."
+        ],
+        "answer": "Rhenus fluvius est. Brundisium oppidum est."
+    },
+    {
+        "question": "Sicilia et Sardinia ~ magnae sunt. Melita insula parva est.",
+        "evalsentences": [
+            "Sicilia et Sardinia insulae magnae sunt. Melita insula parva est.",
+            "Sicilia et Sardinia quoque magnae sunt. Melita insula parva est.",
+            "Sicilia et Sardinia Ubi magnae sunt. Melita insula parva est.",
+            "Sicilia et Sardinia Quid magnae sunt. Melita insula parva est."
+        ],
+        "answer": "Sicilia et Sardinia insulae magnae sunt. Melita insula parva est."
+    },
+    {
+        "question": "Sicilia et Sardinia insulae magnae sunt. Melita insula ~ est.",
+        "evalsentences": [
+            "Sicilia et Sardinia insulae magnae sunt. Melita insula parva est.",
+            "Sicilia et Sardinia insulae magnae sunt. Melita insula quoque est.",
+            "Sicilia et Sardinia insulae magnae sunt. Melita insula Ubi est.",
+            "Sicilia et Sardinia insulae magnae sunt. Melita insula Quid est."
+        ],
+        "answer": "Sicilia et Sardinia insulae magnae sunt. Melita insula parva est."
+    },
+    {
+        "question": "Britannia non ~ parva, sed insula magna est.",
+        "evalsentences": [
+            "Britannia non insula parva, sed insula magna est.",
+            "Britannia non quoque parva, sed insula magna est.",
+            "Britannia non Ubi parva, sed insula magna est.",
+            "Britannia non Quid parva, sed insula magna est."
+        ],
+        "answer": "Britannia non insula parva, sed insula magna est."
+    },
+    {
+        "question": "Britannia non insula parva, sed ~ magna est.",
+        "evalsentences": [
+            "Britannia non insula parva, sed insula magna est.",
+            "Britannia non insula parva, sed quoque magna est.",
+            "Britannia non insula parva, sed Ubi magna est.",
+            "Britannia non insula parva, sed Quid magna est."
+        ],
+        "answer": "Britannia non insula parva, sed insula magna est."
+    },
+    {
+        "question": "Britannia non insula parva, sed insula ~ est.",
+        "evalsentences": [
+            "Britannia non insula parva, sed insula magna est.",
+            "Britannia non insula parva, sed insula quoque est.",
+            "Britannia non insula parva, sed insula Ubi est.",
+            "Britannia non insula parva, sed insula Quid est."
+        ],
+        "answer": "Britannia non insula parva, sed insula magna est."
+    },
+    {
+        "question": "Brundisium non ~ parvum, sed oppidum magnum est.",
+        "evalsentences": [
+            "Brundisium non oppidum parvum, sed oppidum magnum est.",
+            "Brundisium non quoque parvum, sed oppidum magnum est.",
+            "Brundisium non Ubi parvum, sed oppidum magnum est.",
+            "Brundisium non Quid parvum, sed oppidum magnum est."
+        ],
+        "answer": "Brundisium non oppidum parvum, sed oppidum magnum est."
+    },
+    {
+        "question": "Brundisium non oppidum ~, sed oppidum magnum est.",
+        "evalsentences": [
+            "Brundisium non oppidum parvum, sed oppidum magnum est.",
+            "Brundisium non oppidum quoque, sed oppidum magnum est.",
+            "Brundisium non oppidum Ubi, sed oppidum magnum est.",
+            "Brundisium non oppidum Quid, sed oppidum magnum est."
+        ],
+        "answer": "Brundisium non oppidum parvum, sed oppidum magnum est."
+    },
+    {
+        "question": "Brundisium non oppidum parvum, sed ~ magnum est.",
+        "evalsentences": [
+            "Brundisium non oppidum parvum, sed oppidum magnum est.",
+            "Brundisium non oppidum parvum, sed quoque magnum est.",
+            "Brundisium non oppidum parvum, sed Ubi magnum est.",
+            "Brundisium non oppidum parvum, sed Quid magnum est."
+        ],
+        "answer": "Brundisium non oppidum parvum, sed oppidum magnum est."
+    },
+    {
+        "question": "Est~ Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+        "evalsentences": [
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+            "Estquoque Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+            "EstUbi Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+            "EstQuid Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia."
+        ],
+        "answer": "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia."
+    },
+    {
+        "question": "Estne Brundisium in Graecia? Brundisium ~ est in Graecia, sed in Italia.",
+        "evalsentences": [
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+            "Estne Brundisium in Graecia? Brundisium quoque est in Graecia, sed in Italia.",
+            "Estne Brundisium in Graecia? Brundisium Ubi est in Graecia, sed in Italia.",
+            "Estne Brundisium in Graecia? Brundisium Quid est in Graecia, sed in Italia."
+        ],
+        "answer": "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia."
+    },
+    {
+        "question": "Estne Brundisium in Graecia? Brundisium non est in Graecia, ~ in Italia.",
+        "evalsentences": [
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia.",
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, quoque in Italia.",
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, Ubi in Italia.",
+            "Estne Brundisium in Graecia? Brundisium non est in Graecia, Quid in Italia."
+        ],
+        "answer": "Estne Brundisium in Graecia? Brundisium non est in Graecia, sed in Italia."
+    },
+    {
+        "question": "~ est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+        "evalsentences": [
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+            "quoque est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+            "Quid est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+            "litterae est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est."
+        ],
+        "answer": "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est."
+    },
+    {
+        "question": "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum ~ est. Delphi quoque oppidum Graecum est.",
+        "evalsentences": [
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Ubi est. Delphi quoque oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Quid est. Delphi quoque oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum quoque est. Delphi quoque oppidum Graecum est."
+        ],
+        "answer": "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est."
+    },
+    {
+        "question": "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi ~ oppidum Graecum est.",
+        "evalsentences": [
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi Ubi oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi Quid oppidum Graecum est.",
+            "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi parva oppidum Graecum est."
+        ],
+        "answer": "Ubi est Sparta? Sparta est in Graecia. Sparta oppidum Graecum est. Delphi quoque oppidum Graecum est."
+    },
+    {
+        "question": "Euboea, Naxus, Lesbos, Chios ~ Graecae sunt. In Graecia sunt multae insulae.",
+        "evalsentences": [
+            "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt multae insulae.",
+            "Euboea, Naxus, Lesbos, Chios quoque Graecae sunt. In Graecia sunt multae insulae.",
+            "Euboea, Naxus, Lesbos, Chios Ubi Graecae sunt. In Graecia sunt multae insulae.",
+            "Euboea, Naxus, Lesbos, Chios Quid Graecae sunt. In Graecia sunt multae insulae."
+        ],
+        "answer": "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt multae insulae."
+    },
+    {
+        "question": "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt ~ insulae.",
+        "evalsentences": [
+            "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt multae insulae.",
+            "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt quoque insulae.",
+            "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt Ubi insulae.",
+            "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt Quid insulae."
+        ],
+        "answer": "Euboea, Naxus, Lesbos, Chios insulae Graecae sunt. In Graecia sunt multae insulae."
+    },
+    {
+        "question": "Quid est III? III ~ est. Quid est A? A littera est.",
+        "evalsentences": [
+            "Quid est III? III numerus est. Quid est A? A littera est.",
+            "Quid est III? III quoque est. Quid est A? A littera est.",
+            "Quid est III? III Ubi est. Quid est A? A littera est.",
+            "Quid est III? III Quid est. Quid est A? A littera est."
+        ],
+        "answer": "Quid est III? III numerus est. Quid est A? A littera est."
+    },
+    {
+        "question": "Quid est III? III numerus est. ~ est A? A littera est.",
+        "evalsentences": [
+            "Quid est III? III numerus est. Quid est A? A littera est.",
+            "Quid est III? III numerus est. quoque est A? A littera est.",
+            "Quid est III? III numerus est. Ubi est A? A littera est.",
+            "Quid est III? III numerus est. litterae est A? A littera est."
+        ],
+        "answer": "Quid est III? III numerus est. Quid est A? A littera est."
+    },
+    {
+        "question": "A, B, C ~ Latinae sunt.",
+        "evalsentences": [
+            "A, B, C litterae Latinae sunt.",
+            "A, B, C Ubi Latinae sunt.",
+            "A, B, C Quid Latinae sunt.",
+            "A, B, C quoque Latinae sunt."
+        ],
+        "answer": "A, B, C litterae Latinae sunt."
+    },
+    {
+        "question": "~ u littera Latina est? u non littera Latina, sed littera Graeca est.",
+        "evalsentences": [
+            "Num u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "Ubi u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "Quid u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "quoque u littera Latina est? u non littera Latina, sed littera Graeca est."
+        ],
+        "answer": "Num u littera Latina est? u non littera Latina, sed littera Graeca est."
+    },
+    {
+        "question": "Num u littera Latina est? u ~ littera Latina, sed littera Graeca est.",
+        "evalsentences": [
+            "Num u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "Num u littera Latina est? u Ubi littera Latina, sed littera Graeca est.",
+            "Num u littera Latina est? u Quid littera Latina, sed littera Graeca est.",
+            "Num u littera Latina est? u quoque littera Latina, sed littera Graeca est."
+        ],
+        "answer": "Num u littera Latina est? u non littera Latina, sed littera Graeca est."
+    },
+    {
+        "question": "Num u littera Latina est? u non littera ~, sed littera Graeca est.",
+        "evalsentences": [
+            "Num u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "Num u littera Latina est? u non littera Ubi, sed littera Graeca est.",
+            "Num u littera Latina est? u non littera Quid, sed littera Graeca est.",
+            "Num u littera Latina est? u non littera quoque, sed littera Graeca est."
+        ],
+        "answer": "Num u littera Latina est? u non littera Latina, sed littera Graeca est."
+    },
+    {
+        "question": "Num u littera Latina est? u non littera Latina, sed littera ~ est.",
+        "evalsentences": [
+            "Num u littera Latina est? u non littera Latina, sed littera Graeca est.",
+            "Num u littera Latina est? u non littera Latina, sed littera Ubi est.",
+            "Num u littera Latina est? u non littera Latina, sed littera Quid est.",
+            "Num u littera Latina est? u non littera Latina, sed littera quoque est."
+        ],
+        "answer": "Num u littera Latina est? u non littera Latina, sed littera Graeca est."
+    },
+    {
+        "question": "'Insula' ~ Latinum est.",
+        "evalsentences": [
+            "'Insula' vocabulum Latinum est.",
+            "'Insula' Ubi Latinum est.",
+            "'Insula' Quid Latinum est.",
+            "'Insula' quoque Latinum est."
+        ],
+        "answer": "'Insula' vocabulum Latinum est."
+    }
+]

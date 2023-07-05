@@ -1,0 +1,572 @@
+[
+    {
+        "question": "Iulius et Aemilia in vill~ habitant cum liberis et servis.",
+        "evalsentences": [
+            "Iulius et Aemilia in villa habitant cum liberis et servis.",
+            "Iulius et Aemilia in villate habitant cum liberis et servis.",
+            "Iulius et Aemilia in villas habitant cum liberis et servis.",
+            "Iulius et Aemilia in villos habitant cum liberis et servis."
+        ],
+        "answer": "Iulius et Aemilia in villa habitant cum liberis et servis."
+    },
+    {
+        "question": "Iulius et Aemilia in villa habit~ cum liberis et servis.",
+        "evalsentences": [
+            "Iulius et Aemilia in villa habitant cum liberis et servis.",
+            "Iulius et Aemilia in villa habitate cum liberis et servis.",
+            "Iulius et Aemilia in villa habitas cum liberis et servis.",
+            "Iulius et Aemilia in villa habitos cum liberis et servis."
+        ],
+        "answer": "Iulius et Aemilia in villa habitant cum liberis et servis."
+    },
+    {
+        "question": "Iulius et Aemilia in villa habitant cum liber~ et servis.",
+        "evalsentences": [
+            "Iulius et Aemilia in villa habitant cum liberis et servis.",
+            "Iulius et Aemilia in villa habitant cum liberate et servis.",
+            "Iulius et Aemilia in villa habitant cum liberas et servis.",
+            "Iulius et Aemilia in villa habitant cum liberos et servis."
+        ],
+        "answer": "Iulius et Aemilia in villa habitant cum liberis et servis."
+    },
+    {
+        "question": "Iulius et Aemilia in villa habitant cum liberis et serv~.",
+        "evalsentences": [
+            "Iulius et Aemilia in villa habitant cum liberis et servis.",
+            "Iulius et Aemilia in villa habitant cum liberis et servate.",
+            "Iulius et Aemilia in villa habitant cum liberis et servas.",
+            "Iulius et Aemilia in villa habitant cum liberis et servos."
+        ],
+        "answer": "Iulius et Aemilia in villa habitant cum liberis et servis."
+    },
+    {
+        "question": "Dominus mult~ servos et multas ancillas habet.",
+        "evalsentences": [
+            "Dominus multos servos et multas ancillas habet.",
+            "Dominus multate servos et multas ancillas habet.",
+            "Dominus multas servos et multas ancillas habet.",
+            "Dominus multit servos et multas ancillas habet."
+        ],
+        "answer": "Dominus multos servos et multas ancillas habet."
+    },
+    {
+        "question": "Dominus multos serv~ et multas ancillas habet.",
+        "evalsentences": [
+            "Dominus multos servos et multas ancillas habet.",
+            "Dominus multos servite et multas ancillas habet.",
+            "Dominus multos serviunt et multas ancillas habet.",
+            "Dominus multos servit et multas ancillas habet."
+        ],
+        "answer": "Dominus multos servos et multas ancillas habet."
+    },
+    {
+        "question": "Dominus multos servos et mult~ ancillas habet.",
+        "evalsentences": [
+            "Dominus multos servos et multas ancillas habet.",
+            "Dominus multos servos et multite ancillas habet.",
+            "Dominus multos servos et multiunt ancillas habet.",
+            "Dominus multos servos et multit ancillas habet."
+        ],
+        "answer": "Dominus multos servos et multas ancillas habet."
+    },
+    {
+        "question": "Dominus multos servos et multas ancill~ habet.",
+        "evalsentences": [
+            "Dominus multos servos et multas ancillas habet.",
+            "Dominus multos servos et multas ancillite habet.",
+            "Dominus multos servos et multas ancilliunt habet.",
+            "Dominus multos servos et multas ancillit habet."
+        ],
+        "answer": "Dominus multos servos et multas ancillas habet."
+    },
+    {
+        "question": "Aemilia in peristyl~ est cum Marco et Quinto et Iulia.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristylite est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristyliunt est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristylit est cum Marco et Quinto et Iulia."
+        ],
+        "answer": "Aemilia in peristylo est cum Marco et Quinto et Iulia."
+    },
+    {
+        "question": "Aemilia in peristylo est cum Marc~ et Quinto et Iulia.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristylo est cum Marcite et Quinto et Iulia.",
+            "Aemilia in peristylo est cum Marciunt et Quinto et Iulia.",
+            "Aemilia in peristylo est cum Marcit et Quinto et Iulia."
+        ],
+        "answer": "Aemilia in peristylo est cum Marco et Quinto et Iulia."
+    },
+    {
+        "question": "Aemilia in peristylo est cum Marco et Quint~ et Iulia.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristylo est cum Marco et Quintite et Iulia.",
+            "Aemilia in peristylo est cum Marco et Quintiunt et Iulia.",
+            "Aemilia in peristylo est cum Marco et Quintit et Iulia."
+        ],
+        "answer": "Aemilia in peristylo est cum Marco et Quinto et Iulia."
+    },
+    {
+        "question": "Aemilia in peristylo est cum Marco et Quinto et Iuli~.",
+        "evalsentences": [
+            "Aemilia in peristylo est cum Marco et Quinto et Iulia.",
+            "Aemilia in peristylo est cum Marco et Quinto et Iuliite.",
+            "Aemilia in peristylo est cum Marco et Quinto et Iuliiunt.",
+            "Aemilia in peristylo est cum Marco et Quinto et Iuliit."
+        ],
+        "answer": "Aemilia in peristylo est cum Marco et Quinto et Iulia."
+    },
+    {
+        "question": "Iulia mult~ rosas in horto videt et ab Aemilia discedit.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multite rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multiunt rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multit rosas in horto videt et ab Aemilia discedit."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iulia multas ros~ in horto videt et ab Aemilia discedit.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosite in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosiunt in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosit in horto videt et ab Aemilia discedit."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iulia multas rosas in hort~ videt et ab Aemilia discedit.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosas in hortite videt et ab Aemilia discedit.",
+            "Iulia multas rosas in hortiunt videt et ab Aemilia discedit.",
+            "Iulia multas rosas in hortit videt et ab Aemilia discedit."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iulia multas rosas in horto vid~ et ab Aemilia discedit.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosas in horto vidite et ab Aemilia discedit.",
+            "Iulia multas rosas in horto vidiunt et ab Aemilia discedit.",
+            "Iulia multas rosas in horto vidit et ab Aemilia discedit."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iulia multas rosas in horto videt et ab Aemili~ discedit.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosas in horto videt et ab Aemiliite discedit.",
+            "Iulia multas rosas in horto videt et ab Aemiliiunt discedit.",
+            "Iulia multas rosas in horto videt et ab Aemiliit discedit."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iulia multas rosas in horto videt et ab Aemilia disced~.",
+        "evalsentences": [
+            "Iulia multas rosas in horto videt et ab Aemilia discedit.",
+            "Iulia multas rosas in horto videt et ab Aemilia discedite.",
+            "Iulia multas rosas in horto videt et ab Aemilia discediunt.",
+            "Iulia multas rosas in horto videt et ab Aemilia discedent."
+        ],
+        "answer": "Iulia multas rosas in horto videt et ab Aemilia discedit."
+    },
+    {
+        "question": "Iam Aemilia puell~ non videt, neque pueri eam vident.",
+        "evalsentences": [
+            "Iam Aemilia puellam non videt, neque pueri eam vident.",
+            "Iam Aemilia puello non videt, neque pueri eam vident.",
+            "Iam Aemilia puellet non videt, neque pueri eam vident.",
+            "Iam Aemilia puellent non videt, neque pueri eam vident."
+        ],
+        "answer": "Iam Aemilia puellam non videt, neque pueri eam vident."
+    },
+    {
+        "question": "Iam Aemilia puellam non vid~, neque pueri eam vident.",
+        "evalsentences": [
+            "Iam Aemilia puellam non videt, neque pueri eam vident.",
+            "Iam Aemilia puellam non vido, neque pueri eam vident.",
+            "Iam Aemilia puellam non vident, neque pueri eam vident.",
+            "Iam Aemilia puellam non vidite, neque pueri eam vident."
+        ],
+        "answer": "Iam Aemilia puellam non videt, neque pueri eam vident."
+    },
+    {
+        "question": "Iam Aemilia puellam non videt, neque pueri eam vid~.",
+        "evalsentences": [
+            "Iam Aemilia puellam non videt, neque pueri eam vident.",
+            "Iam Aemilia puellam non videt, neque pueri eam vidi.",
+            "Iam Aemilia puellam non videt, neque pueri eam vida.",
+            "Iam Aemilia puellam non videt, neque pueri eam vidite."
+        ],
+        "answer": "Iam Aemilia puellam non videt, neque pueri eam vident."
+    },
+    {
+        "question": "Aemilia: \"Marce et Quinte! Voc~ Iuliam!\"",
+        "evalsentences": [
+            "Aemilia: \"Marce et Quinte! Vocate Iuliam!\"",
+            "Aemilia: \"Marce et Quinte! Voci Iuliam!\"",
+            "Aemilia: \"Marce et Quinte! Voca Iuliam!\"",
+            "Aemilia: \"Marce et Quinte! Vocite Iuliam!\""
+        ],
+        "answer": "Aemilia: \"Marce et Quinte! Vocate Iuliam!\""
+    },
+    {
+        "question": "Pueri Iuli~ vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iulii vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iulia vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliite vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Pueri Iuliam voc~ : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam voci : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam voca : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocite : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Pueri Iuliam vocant : \"Iulia! Ven~!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Vena!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Venite!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Venite!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia puer~ vocat : \"Marce et Quinte! Venite \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueriunt vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia puerit vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia puerite vocat : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros voc~ : \"Marce et Quinte! Venite \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vociunt : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocit : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocite : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Ven~ \"",
+        "evalsentences": [
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Veniunt \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venit \"",
+            "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+        ],
+        "answer": "Pueri Iuliam vocant : \"Iulia! Veni!\" et Iulia pueros vocat : \"Marce et Quinte! Venite \""
+    },
+    {
+        "question": "Iulia pueros non aud~, sed pueri Iuliam audiunt.",
+        "evalsentences": [
+            "Iulia pueros non audit, sed pueri Iuliam audiunt.",
+            "Iulia pueros non audiunt, sed pueri Iuliam audiunt.",
+            "Iulia pueros non audite, sed pueri Iuliam audiunt.",
+            "Iulia pueros non aude, sed pueri Iuliam audiunt."
+        ],
+        "answer": "Iulia pueros non audit, sed pueri Iuliam audiunt."
+    },
+    {
+        "question": "Iulia pueros non audit, sed pueri Iuli~ audiunt.",
+        "evalsentences": [
+            "Iulia pueros non audit, sed pueri Iuliam audiunt.",
+            "Iulia pueros non audit, sed pueri Iuliat audiunt.",
+            "Iulia pueros non audit, sed pueri Iuliunt audiunt.",
+            "Iulia pueros non audit, sed pueri Iulie audiunt."
+        ],
+        "answer": "Iulia pueros non audit, sed pueri Iuliam audiunt."
+    },
+    {
+        "question": "Iulia pueros non audit, sed pueri Iuliam aud~.",
+        "evalsentences": [
+            "Iulia pueros non audit, sed pueri Iuliam audiunt.",
+            "Iulia pueros non audit, sed pueri Iuliam audat.",
+            "Iulia pueros non audit, sed pueri Iuliam audunt.",
+            "Iulia pueros non audit, sed pueri Iuliam aude."
+        ],
+        "answer": "Iulia pueros non audit, sed pueri Iuliam audiunt."
+    },
+    {
+        "question": "Iulia: \"Cur pueri non ven~?\" Iulia ex horto venit cum V rosis pulchris.",
+        "evalsentences": [
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non venat?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non venunt?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non vene?\" Iulia ex horto venit cum V rosis pulchris."
+        ],
+        "answer": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris."
+    },
+    {
+        "question": "Iulia: \"Cur pueri non veniunt?\" Iulia ex hort~ venit cum V rosis pulchris.",
+        "evalsentences": [
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex hortat venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex hortunt venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horte venit cum V rosis pulchris."
+        ],
+        "answer": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris."
+    },
+    {
+        "question": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V ros~ pulchris.",
+        "evalsentences": [
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosat pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosunt pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rose pulchris."
+        ],
+        "answer": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris."
+    },
+    {
+        "question": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchr~.",
+        "evalsentences": [
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchrat.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchrunt.",
+            "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchre."
+        ],
+        "answer": "Iulia: \"Cur pueri non veniunt?\" Iulia ex horto venit cum V rosis pulchris."
+    },
+    {
+        "question": "Iulia: \"Vid~ rosas meas, mater! Videte, pueri!\"",
+        "evalsentences": [
+            "Iulia: \"Vide rosas meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vidat rosas meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vidunt rosas meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vidit rosas meas, mater! Videte, pueri!\""
+        ],
+        "answer": "Iulia: \"Vide rosas meas, mater! Videte, pueri!\""
+    },
+    {
+        "question": "Iulia: \"Vide ros~ meas, mater! Videte, pueri!\"",
+        "evalsentences": [
+            "Iulia: \"Vide rosas meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vide rosite meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vide rosiunt meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vide rosit meas, mater! Videte, pueri!\""
+        ],
+        "answer": "Iulia: \"Vide rosas meas, mater! Videte, pueri!\""
+    },
+    {
+        "question": "Iulia: \"Vide rosas meas, mater! Vid~, pueri!\"",
+        "evalsentences": [
+            "Iulia: \"Vide rosas meas, mater! Videte, pueri!\"",
+            "Iulia: \"Vide rosas meas, mater! Vidite, pueri!\"",
+            "Iulia: \"Vide rosas meas, mater! Vidiunt, pueri!\"",
+            "Iulia: \"Vide rosas meas, mater! Vidit, pueri!\""
+        ],
+        "answer": "Iulia: \"Vide rosas meas, mater! Videte, pueri!\""
+    },
+    {
+        "question": "Marcus: \"Rosae pulchrae sunt, puella sine ros~ pulchra non est!\"",
+        "evalsentences": [
+            "Marcus: \"Rosae pulchrae sunt, puella sine rosis pulchra non est!\"",
+            "Marcus: \"Rosae pulchrae sunt, puella sine rosite pulchra non est!\"",
+            "Marcus: \"Rosae pulchrae sunt, puella sine rosiunt pulchra non est!\"",
+            "Marcus: \"Rosae pulchrae sunt, puella sine rosit pulchra non est!\""
+        ],
+        "answer": "Marcus: \"Rosae pulchrae sunt, puella sine rosis pulchra non est!\""
+    },
+    {
+        "question": "Iulia cum un~ rosa discedit.",
+        "evalsentences": [
+            "Iulia cum una rosa discedit.",
+            "Iulia cum unite rosa discedit.",
+            "Iulia cum uniunt rosa discedit.",
+            "Iulia cum unit rosa discedit."
+        ],
+        "answer": "Iulia cum una rosa discedit."
+    },
+    {
+        "question": "Iulia cum una ros~ discedit.",
+        "evalsentences": [
+            "Iulia cum una rosa discedit.",
+            "Iulia cum una rosite discedit.",
+            "Iulia cum una rosiunt discedit.",
+            "Iulia cum una rosit discedit."
+        ],
+        "answer": "Iulia cum una rosa discedit."
+    },
+    {
+        "question": "Iulia cum una rosa disced~.",
+        "evalsentences": [
+            "Iulia cum una rosa discedit.",
+            "Iulia cum una rosa discedite.",
+            "Iulia cum una rosa discediunt.",
+            "Iulia cum una rosa discedent."
+        ],
+        "answer": "Iulia cum una rosa discedit."
+    },
+    {
+        "question": "Pueri rid~.",
+        "evalsentences": [
+            "Pueri rident.",
+            "Pueri rido.",
+            "Pueri ridet.",
+            "Pueri ridite."
+        ],
+        "answer": "Pueri rident."
+    },
+    {
+        "question": "Aemilia: \"Tac~, pueri! Sumite rosas et discedite!\"",
+        "evalsentences": [
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Taci, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Taca, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Tacite, pueri! Sumite rosas et discedite!\""
+        ],
+        "answer": "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacete, pueri! Sum~ rosas et discedite!\"",
+        "evalsentences": [
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumi rosas et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Suma rosas et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+        ],
+        "answer": "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacete, pueri! Sumite ros~ et discedite!\"",
+        "evalsentences": [
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosi et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosa et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosite et discedite!\""
+        ],
+        "answer": "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacete, pueri! Sumite rosas et disced~!\"",
+        "evalsentences": [
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedi!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosas et disceda!\"",
+            "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+        ],
+        "answer": "Aemilia: \"Tacete, pueri! Sumite rosas et discedite!\""
+    },
+    {
+        "question": "Pueri ros~ sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosi sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosa sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosite sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sum~ et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumi et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas suma et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumite et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et disced~ ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedi ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et disceda ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedite ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atri~ aquam sumunt ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrii aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atria aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atriite aquam sumunt ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aqu~ sumunt ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aqui sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aqua sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquite sumunt ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aquam sum~ ex impluvio et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumi ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam suma ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumite ex impluvio et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvi~ et rosas in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvii et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvia et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluviite et rosas in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et ros~ in aqua ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosi in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosa in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosite in aqua ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqu~ ponunt.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqui ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aquite ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aquite ponunt."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    },
+    {
+        "question": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua pon~.",
+        "evalsentences": [
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua poniunt.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponit.",
+            "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponite."
+        ],
+        "answer": "Pueri rosas sumunt et discedunt ; in atrio aquam sumunt ex impluvio et rosas in aqua ponunt."
+    }
+]

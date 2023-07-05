@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Marcus ~ Romanus est.",
+        "evalsentences": [
+            "Marcus puer Romanus est.",
+            "Marcus familia Romanus est.",
+            "Marcus filia Romanus est.",
+            "Marcus domina Romanus est."
+        ],
+        "answer": "Marcus puer Romanus est."
+    },
+    {
+        "question": "Iulius ~ Romanus est.",
+        "evalsentences": [
+            "Iulius vir Romanus est.",
+            "Iulius liberi Romanus est.",
+            "Iulius familia Romanus est.",
+            "Iulius filia Romanus est."
+        ],
+        "answer": "Iulius vir Romanus est."
+    },
+    {
+        "question": "Aemilia est ~ Romana.",
+        "evalsentences": [
+            "Aemilia est femina Romana.",
+            "Aemilia est domina Romana.",
+            "Aemilia est liberi Romana.",
+            "Aemilia est familia Romana."
+        ],
+        "answer": "Aemilia est femina Romana."
+    },
+    {
+        "question": "Iulius est ~ Marci et Quinti et Iuliae.",
+        "evalsentences": [
+            "Iulius est pater Marci et Quinti et Iuliae.",
+            "Iulius est filia Marci et Quinti et Iuliae.",
+            "Iulius est domina Marci et Quinti et Iuliae.",
+            "Iulius est liberi Marci et Quinti et Iuliae."
+        ],
+        "answer": "Iulius est pater Marci et Quinti et Iuliae."
+    },
+    {
+        "question": "In ~ Iulii sunt tres liberi : duo filii et una filia.",
+        "evalsentences": [
+            "In familia Iulii sunt tres liberi : duo filii et una filia.",
+            "In filia Iulii sunt tres liberi : duo filii et una filia.",
+            "In domina Iulii sunt tres liberi : duo filii et una filia.",
+            "In liberi Iulii sunt tres liberi : duo filii et una filia."
+        ],
+        "answer": "In familia Iulii sunt tres liberi : duo filii et una filia."
+    },
+    {
+        "question": "In familia Iulii sunt tres ~ : duo filii et una filia.",
+        "evalsentences": [
+            "In familia Iulii sunt tres liberi : duo filii et una filia.",
+            "In familia Iulii sunt tres familia : duo filii et una filia.",
+            "In familia Iulii sunt tres filia : duo filii et una filia.",
+            "In familia Iulii sunt tres domina : duo filii et una filia."
+        ],
+        "answer": "In familia Iulii sunt tres liberi : duo filii et una filia."
+    },
+    {
+        "question": "In familia Iulii sunt tres liberi : duo ~ et una filia.",
+        "evalsentences": [
+            "In familia Iulii sunt tres liberi : duo filii et una filia.",
+            "In familia Iulii sunt tres liberi : duo liberi et una filia.",
+            "In familia Iulii sunt tres liberi : duo familia et una filia.",
+            "In familia Iulii sunt tres liberi : duo filia et una filia."
+        ],
+        "answer": "In familia Iulii sunt tres liberi : duo filii et una filia."
+    },
+    {
+        "question": "In familia Iulii sunt tres liberi : duo filii et una ~.",
+        "evalsentences": [
+            "In familia Iulii sunt tres liberi : duo filii et una filia.",
+            "In familia Iulii sunt tres liberi : duo filii et una domina.",
+            "In familia Iulii sunt tres liberi : duo filii et una liberi.",
+            "In familia Iulii sunt tres liberi : duo filii et una familia."
+        ],
+        "answer": "In familia Iulii sunt tres liberi : duo filii et una filia."
+    },
+    {
+        "question": "~ liberorum est Aemilia.",
+        "evalsentences": [
+            "Mater liberorum est Aemilia.",
+            "filia liberorum est Aemilia.",
+            "domina liberorum est Aemilia.",
+            "liberi liberorum est Aemilia."
+        ],
+        "answer": "Mater liberorum est Aemilia."
+    },
+    {
+        "question": "~ est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+        "evalsentences": [
+            "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+            "familia est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+            "filia est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+            "domina est Davus? Davus est servus Iulii. Iulius dominus Davi est."
+        ],
+        "answer": "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est."
+    },
+    {
+        "question": "Quis est Davus? Davus est ~ Iulii. Iulius dominus Davi est.",
+        "evalsentences": [
+            "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+            "Quis est Davus? Davus est liberi Iulii. Iulius dominus Davi est.",
+            "Quis est Davus? Davus est familia Iulii. Iulius dominus Davi est.",
+            "Quis est Davus? Davus est filia Iulii. Iulius dominus Davi est."
+        ],
+        "answer": "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est."
+    },
+    {
+        "question": "Quis est Davus? Davus est servus Iulii. Iulius ~ Davi est.",
+        "evalsentences": [
+            "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est.",
+            "Quis est Davus? Davus est servus Iulii. Iulius domina Davi est.",
+            "Quis est Davus? Davus est servus Iulii. Iulius liberi Davi est.",
+            "Quis est Davus? Davus est servus Iulii. Iulius familia Davi est."
+        ],
+        "answer": "Quis est Davus? Davus est servus Iulii. Iulius dominus Davi est."
+    },
+    {
+        "question": "~ est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+        "evalsentences": [
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+            "filia est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+            "domina est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+            "liberi est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae."
+        ],
+        "answer": "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae."
+    },
+    {
+        "question": "Quae est Syra? Syra ~ Aemiliae est. Aemilia est domina Syrae.",
+        "evalsentences": [
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+            "Quae est Syra? Syra familia Aemiliae est. Aemilia est domina Syrae.",
+            "Quae est Syra? Syra filia Aemiliae est. Aemilia est domina Syrae.",
+            "Quae est Syra? Syra domina Aemiliae est. Aemilia est domina Syrae."
+        ],
+        "answer": "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae."
+    },
+    {
+        "question": "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est ~ Syrae.",
+        "evalsentences": [
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae.",
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est liberi Syrae.",
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est familia Syrae.",
+            "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est filia Syrae."
+        ],
+        "answer": "Quae est Syra? Syra ancilla Aemiliae est. Aemilia est domina Syrae."
+    },
+    {
+        "question": "Cornelius: \"~ servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+        "evalsentences": [
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+            "Cornelius: \"domina servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+            "Cornelius: \"liberi servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+            "Cornelius: \"familia servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\""
+        ],
+        "answer": "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\""
+    },
+    {
+        "question": "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia ~ sunt centum [C] servi.\"",
+        "evalsentences": [
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia filia sunt centum [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia domina sunt centum [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia liberi sunt centum [C] servi.\""
+        ],
+        "answer": "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\""
+    },
+    {
+        "question": "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt ~ [C] servi.\"",
+        "evalsentences": [
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt familia [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt filia [C] servi.\"",
+            "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt domina [C] servi.\""
+        ],
+        "answer": "Cornelius: \"Quot servi sunt in familia tua?\" Iulius: \"In familia mea sunt centum [C] servi.\""
+    },
+    {
+        "question": "Cornelius: \"Familia ~ magna est!\"",
+        "evalsentences": [
+            "Cornelius: \"Familia tua magna est!\"",
+            "Cornelius: \"Familia liberi magna est!\"",
+            "Cornelius: \"Familia familia magna est!\"",
+            "Cornelius: \"Familia filia magna est!\""
+        ],
+        "answer": "Cornelius: \"Familia tua magna est!\""
+    },
+    {
+        "question": "'LINGVA LATINA' est titulus ~ tui Latini.",
+        "evalsentences": [
+            "'LINGVA LATINA' est titulus libri tui Latini.",
+            "'LINGVA LATINA' est titulus domina tui Latini.",
+            "'LINGVA LATINA' est titulus liberi tui Latini.",
+            "'LINGVA LATINA' est titulus familia tui Latini."
+        ],
+        "answer": "'LINGVA LATINA' est titulus libri tui Latini."
+    }
+]
