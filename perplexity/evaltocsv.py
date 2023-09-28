@@ -47,7 +47,7 @@ def create_pivot_table(df, index, columns, values):
 # ...
 
 # iterate through all the files in results folder
-directory = 'results'
+directory = 'results_allanswers'
 data = []
 for filename in os.listdir(directory):
     if filename.endswith(".raw.json"):
@@ -73,28 +73,26 @@ print(df)
 
 
 # pivoting to make specific tables
-output_directory = "resultgraphs/"
-# model chapter table
+output_directory = "all_answers_graphs/"# model chapter table
 # No 'shot' column, so we remove that filter
-filtered_df = df[df['model'].isin(['hugging', 'hugging13B', '13Bjuly2nd1'])] # Filter for specific models
+# model chapter table
+# rename the model names
+# model chapter table
+# rename the model names
+df['model'] = df['model'].replace({'hugging13B': 'basemodel', 
+                                   'allanshugging13B': 'allansbasemodel', 
+                                   'alltextbook': 'finetuned', 
+                                   'allansalltextbook': 'allansfinetuned'})
 
-pivot_df_model_chapter = create_pivot_table(filtered_df, 'model', 'chapter', 'accuracy')
+pivot_df_model_chapter = create_pivot_table(df, 'model', 'chapter', 'accuracy')
 pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
 
 # model chapter plot
 pivot_df_model_chapter.T.plot(kind='line').set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
-plt.legend(title='Model', loc='upper right')
+plt.legend(title='Model', loc='upper right', fontsize='small')
 plt.savefig(output_directory + 'model_chap.png')
-
 
 # model chapter plot
-pivot_df_model_chapter.T.plot(kind='line').set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
-plt.legend(title='Model', loc='upper right')
-plt.savefig(output_directory + 'model_chap.png')
-
-# prompt quiz type table fixing ada
-ada_df = df[df['model'] == 'hugging13B']
-
 #pivot_df_style_quiztype = create_pivot_table(ada_df, 'style', 'quiz_type', 'accuracy')
 #pivot_df_style_quiztype.to_csv(output_directory + 'results-style-quiz_type-ada.csv')
 
